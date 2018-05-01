@@ -1,0 +1,510 @@
+\begin{thebibliography}{60}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Lee et~al.}(2015)\citenamefont{Lee, Lisanti, and
+  Safdi}}]{Lee:2014mza}
+\bibinfo{author}{\bibfnamefont{S.~K.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Lisanti}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.~R.} \bibnamefont{Safdi}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1505}}, \bibinfo{pages}{056}
+  (\bibinfo{year}{2015}), \eprint{1412.6099}.
+
+\bibitem[{\citenamefont{Lee et~al.}(2016)\citenamefont{Lee, Lisanti, Safdi,
+  Slatyer, and Xue}}]{Lee:2015fea}
+\bibinfo{author}{\bibfnamefont{S.~K.} \bibnamefont{Lee}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Lisanti}},
+  \bibinfo{author}{\bibfnamefont{B.~R.} \bibnamefont{Safdi}},
+  \bibinfo{author}{\bibfnamefont{T.~R.} \bibnamefont{Slatyer}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Xue}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{116}},
+  \bibinfo{pages}{051103} (\bibinfo{year}{2016}), \eprint{1506.05124}.
+
+\bibitem[{\citenamefont{Miyaji and Griffiths}(2002)}]{Miyaji:2001dp}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Miyaji}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.~E.} \bibnamefont{Griffiths}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{564}},
+  \bibinfo{pages}{L5} (\bibinfo{year}{2002}), \eprint{astro-ph/0111393}.
+
+\bibitem[{\citenamefont{Malyshev and Hogg}(2011)}]{Malyshev:2011zi}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Malyshev}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.~W.} \bibnamefont{Hogg}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{738}},
+  \bibinfo{pages}{181} (\bibinfo{year}{2011}), \eprint{1104.0010}.
+
+\bibitem[{\citenamefont{Goodenough and Hooper}(2009)}]{Goodenough:2009gk}
+\bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Goodenough}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}}
+  (\bibinfo{year}{2009}), \eprint{0910.2998}.
+
+\bibitem[{\citenamefont{Hooper and Goodenough}(2011)}]{Hooper:2010mq}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Goodenough}},
+  \bibinfo{journal}{Phys.Lett.} \textbf{\bibinfo{volume}{B697}},
+  \bibinfo{pages}{412} (\bibinfo{year}{2011}), \eprint{1010.2752}.
+
+\bibitem[{\citenamefont{Boyarsky et~al.}(2011)\citenamefont{Boyarsky, Malyshev,
+  and Ruchayskiy}}]{Boyarsky:2010dr}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Boyarsky}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Malyshev}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Ruchayskiy}},
+  \bibinfo{journal}{Phys.Lett.} \textbf{\bibinfo{volume}{B705}},
+  \bibinfo{pages}{165} (\bibinfo{year}{2011}), \eprint{1012.5839}.
+
+\bibitem[{\citenamefont{Hooper and Linden}(2011)}]{Hooper:2011ti}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}},
+  \bibinfo{journal}{Phys.Rev.} \textbf{\bibinfo{volume}{D84}},
+  \bibinfo{pages}{123005} (\bibinfo{year}{2011}), \eprint{1110.0006}.
+
+\bibitem[{\citenamefont{Abazajian and Kaplinghat}(2012)}]{Abazajian:2012pn}
+\bibinfo{author}{\bibfnamefont{K.~N.} \bibnamefont{Abazajian}}
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaplinghat}},
+  \bibinfo{journal}{Phys.Rev.} \textbf{\bibinfo{volume}{D86}},
+  \bibinfo{pages}{083511} (\bibinfo{year}{2012}), \eprint{1207.6047}.
+
+\bibitem[{\citenamefont{Hooper and Slatyer}(2013)}]{Hooper:2013rwa}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.~R.} \bibnamefont{Slatyer}},
+  \bibinfo{journal}{Phys.Dark Univ.} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{118} (\bibinfo{year}{2013}), \eprint{1302.6589}.
+
+\bibitem[{\citenamefont{Gordon and Macias}(2013)}]{Gordon:2013vta}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Gordon}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Macias}},
+  \bibinfo{journal}{Phys.Rev.} \textbf{\bibinfo{volume}{D88}},
+  \bibinfo{pages}{083521} (\bibinfo{year}{2013}), \eprint{1306.5725}.
+
+\bibitem[{\citenamefont{Abazajian et~al.}(2014)\citenamefont{Abazajian, Canac,
+  Horiuchi, and Kaplinghat}}]{Abazajian:2014fta}
+\bibinfo{author}{\bibfnamefont{K.~N.} \bibnamefont{Abazajian}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Canac}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Horiuchi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaplinghat}},
+  \bibinfo{journal}{Phys.Rev.} \textbf{\bibinfo{volume}{D90}},
+  \bibinfo{pages}{023526} (\bibinfo{year}{2014}), \eprint{1402.4090}.
+
+\bibitem[{\citenamefont{Daylan et~al.}(2016{\natexlab{a}})\citenamefont{Daylan,
+  Finkbeiner, Hooper, Linden, Portillo, Rodd, and Slatyer}}]{Daylan:2014rsa}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Daylan}},
+  \bibinfo{author}{\bibfnamefont{D.~P.} \bibnamefont{Finkbeiner}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}},
+  \bibinfo{author}{\bibfnamefont{S.~K.~N.} \bibnamefont{Portillo}},
+  \bibinfo{author}{\bibfnamefont{N.~L.} \bibnamefont{Rodd}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.~R.} \bibnamefont{Slatyer}},
+  \bibinfo{journal}{Phys. Dark Univ.} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{1} (\bibinfo{year}{2016}{\natexlab{a}}), \eprint{1402.6703}.
+
+\bibitem[{\citenamefont{Calore et~al.}(2015)\citenamefont{Calore, Cholis, and
+  Weniger}}]{Calore:2014xka}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Calore}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Cholis}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Weniger}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1503}}, \bibinfo{pages}{038}
+  (\bibinfo{year}{2015}), \eprint{1409.0042}.
+
+\bibitem[{\citenamefont{Abazajian et~al.}(2015)\citenamefont{Abazajian, Canac,
+  Horiuchi, Kaplinghat, and Kwa}}]{Abazajian:2014hsa}
+\bibinfo{author}{\bibfnamefont{K.~N.} \bibnamefont{Abazajian}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Canac}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Horiuchi}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaplinghat}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Kwa}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1507}}, \bibinfo{pages}{013}
+  (\bibinfo{year}{2015}), \eprint{1410.6168}.
+
+\bibitem[{\citenamefont{Ajello et~al.}(2016)}]{TheFermi-LAT:2015kwa}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ajello}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{Fermi-LAT}), \bibinfo{journal}{Astrophys. J.}
+  \textbf{\bibinfo{volume}{819}}, \bibinfo{pages}{44} (\bibinfo{year}{2016}),
+  \eprint{1511.02938}.
+
+\bibitem[{\citenamefont{Macias et~al.}(2016)\citenamefont{Macias, Gordon,
+  Crocker, Coleman, Paterson, Horiuchi, and Pohl}}]{Macias:2016nev}
+\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Macias}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Gordon}},
+  \bibinfo{author}{\bibfnamefont{R.~M.} \bibnamefont{Crocker}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Coleman}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Paterson}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Horiuchi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Pohl}}
+  (\bibinfo{year}{2016}), \eprint{1611.06644}.
+
+\bibitem[{\citenamefont{Clark et~al.}(2016)\citenamefont{Clark, Scott, Trotta,
+  and Lewis}}]{Clark:2016mbb}
+\bibinfo{author}{\bibfnamefont{H.~A.} \bibnamefont{Clark}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Scott}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Trotta}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.~F.} \bibnamefont{Lewis}}
+  (\bibinfo{year}{2016}), \eprint{1612.01539}.
+
+\bibitem[{\citenamefont{Abazajian}(2011)}]{Abazajian:2010zy}
+\bibinfo{author}{\bibfnamefont{K.~N.} \bibnamefont{Abazajian}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1103}}, \bibinfo{pages}{010}
+  (\bibinfo{year}{2011}), \eprint{1011.4275}.
+
+\bibitem[{\citenamefont{Hooper et~al.}(2013)\citenamefont{Hooper, Cholis,
+  Linden, Siegal-Gaskins, and Slatyer}}]{Hooper:2013nhl}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Cholis}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Siegal-Gaskins}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.~R.}
+  \bibnamefont{Slatyer}}, \bibinfo{journal}{Phys.Rev.}
+  \textbf{\bibinfo{volume}{D88}}, \bibinfo{pages}{083009}
+  (\bibinfo{year}{2013}), \eprint{1305.0830}.
+
+\bibitem[{\citenamefont{Calore et~al.}(2014)\citenamefont{Calore, Di~Mauro,
+  Donato, and Donato}}]{Calore:2014oga}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Calore}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Di~Mauro}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Donato}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Donato}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{796}},
+  \bibinfo{pages}{1} (\bibinfo{year}{2014}), \eprint{1406.2706}.
+
+\bibitem[{\citenamefont{Cholis et~al.}(2015)\citenamefont{Cholis, Hooper, and
+  Linden}}]{Cholis:2014lta}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Cholis}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1506}}, \bibinfo{pages}{043}
+  (\bibinfo{year}{2015}), \eprint{1407.5625}.
+
+\bibitem[{\citenamefont{Petrovi{\'c} et~al.}(2015)\citenamefont{Petrovi{\'c},
+  Serpico, and Zaharijas}}]{Petrovic:2014xra}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Petrovi{\'c}}},
+  \bibinfo{author}{\bibfnamefont{P.~D.} \bibnamefont{Serpico}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Zaharijas}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1502}}, \bibinfo{pages}{023}
+  (\bibinfo{year}{2015}), \eprint{1411.2980}.
+
+\bibitem[{\citenamefont{Yuan and Ioka}(2015)}]{Yuan:2014yda}
+\bibinfo{author}{\bibfnamefont{Q.}~\bibnamefont{Yuan}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ioka}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{802}},
+  \bibinfo{pages}{124} (\bibinfo{year}{2015}), \eprint{1411.4363}.
+
+\bibitem[{\citenamefont{O'Leary et~al.}(2015)\citenamefont{O'Leary, Kistler,
+  Kerr, and Dexter}}]{OLeary:2015gfa}
+\bibinfo{author}{\bibfnamefont{R.~M.} \bibnamefont{O'Leary}},
+  \bibinfo{author}{\bibfnamefont{M.~D.} \bibnamefont{Kistler}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kerr}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Dexter}},
+  \bibinfo{journal}{1504.02477}  (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Brandt and Kocsis}(2015)}]{Brandt:2015ula}
+\bibinfo{author}{\bibfnamefont{T.~D.} \bibnamefont{Brandt}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Kocsis}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{812}},
+  \bibinfo{pages}{15} (\bibinfo{year}{2015}), \eprint{1507.05616}.
+
+\bibitem[{\citenamefont{Linden et~al.}(2016)\citenamefont{Linden, Rodd, Safdi,
+  and Slatyer}}]{Linden:2016rcf}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}},
+  \bibinfo{author}{\bibfnamefont{N.~L.} \bibnamefont{Rodd}},
+  \bibinfo{author}{\bibfnamefont{B.~R.} \bibnamefont{Safdi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.~R.} \bibnamefont{Slatyer}}
+  (\bibinfo{year}{2016}), \eprint{1604.01026}.
+
+\bibitem[{\citenamefont{Bartels et~al.}(2016)\citenamefont{Bartels,
+  Krishnamurthy, and Weniger}}]{Bartels:2015aea}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Bartels}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Krishnamurthy}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Weniger}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{116}},
+  \bibinfo{pages}{051102} (\bibinfo{year}{2016}), \eprint{1506.05104}.
+
+\bibitem[{\citenamefont{Zechlin
+  et~al.}(2016{\natexlab{a}})\citenamefont{Zechlin, Cuoco, Donato, Fornengo,
+  and Vittino}}]{Zechlin:2015wdz}
+\bibinfo{author}{\bibfnamefont{H.-S.} \bibnamefont{Zechlin}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Cuoco}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Donato}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Fornengo}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Vittino}},
+  \bibinfo{journal}{Astrophys. J. Suppl.} \textbf{\bibinfo{volume}{225}},
+  \bibinfo{pages}{18} (\bibinfo{year}{2016}{\natexlab{a}}),
+  \eprint{1512.07190}.
+
+\bibitem[{\citenamefont{Ackermann et~al.}(2016)}]{TheFermi-LAT:2015ykq}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ackermann}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{Fermi-LAT}),
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{116}},
+  \bibinfo{pages}{151105} (\bibinfo{year}{2016}), \eprint{1511.00693}.
+
+\bibitem[{\citenamefont{Zechlin
+  et~al.}(2016{\natexlab{b}})\citenamefont{Zechlin, Cuoco, Donato, Fornengo,
+  and Regis}}]{Zechlin:2016pme}
+\bibinfo{author}{\bibfnamefont{H.-S.} \bibnamefont{Zechlin}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Cuoco}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Donato}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Fornengo}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Regis}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{826}},
+  \bibinfo{pages}{L31} (\bibinfo{year}{2016}{\natexlab{b}}),
+  \eprint{1605.04256}.
+
+\bibitem[{\citenamefont{Lisanti et~al.}(2016)\citenamefont{Lisanti,
+  Mishra-Sharma, Necib, and Safdi}}]{Lisanti:2016jub}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Lisanti}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Mishra-Sharma}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Necib}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.~R.} \bibnamefont{Safdi}}
+  (\bibinfo{year}{2016}), \eprint{1606.04101}.
+
+\bibitem[{\citenamefont{Daylan et~al.}(2016{\natexlab{b}})\citenamefont{Daylan,
+  Portillo, and Finkbeiner}}]{Daylan:2016tia}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Daylan}},
+  \bibinfo{author}{\bibfnamefont{S.~K.~N.} \bibnamefont{Portillo}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~P.}
+  \bibnamefont{Finkbeiner}} (\bibinfo{year}{2016}{\natexlab{b}}),
+  \eprint{1607.04637}.
+
+\bibitem[{\citenamefont{Aartsen et~al.}(2013{\natexlab{a}})}]{Aartsen:2013bka}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Aartsen}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{IceCube}),
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{111}},
+  \bibinfo{pages}{021103} (\bibinfo{year}{2013}{\natexlab{a}}),
+  \eprint{1304.5356}.
+
+\bibitem[{\citenamefont{Aartsen et~al.}(2013{\natexlab{b}})}]{Aartsen:2013jdh}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Aartsen}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{IceCube}),
+  \bibinfo{journal}{Science} \textbf{\bibinfo{volume}{342}},
+  \bibinfo{pages}{1242856} (\bibinfo{year}{2013}{\natexlab{b}}),
+  \eprint{1311.5238}.
+
+\bibitem[{\citenamefont{Aartsen et~al.}(2015{\natexlab{a}})}]{Aartsen:2015knd}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Aartsen}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{IceCube}),
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{809}},
+  \bibinfo{pages}{98} (\bibinfo{year}{2015}{\natexlab{a}}),
+  \eprint{1507.03991}.
+
+\bibitem[{\citenamefont{Aartsen et~al.}(2015{\natexlab{b}})}]{Aartsen:2015rwa}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Aartsen}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{IceCube}),
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{115}},
+  \bibinfo{pages}{081102} (\bibinfo{year}{2015}{\natexlab{b}}),
+  \eprint{1507.04005}.
+
+\bibitem[{\citenamefont{Bechtol et~al.}(2015)\citenamefont{Bechtol, Ahlers,
+  Di~Mauro, Ajello, and Vandenbroucke}}]{Bechtol:2015uqb}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Bechtol}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ahlers}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Di~Mauro}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ajello}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Vandenbroucke}}
+  (\bibinfo{year}{2015}), \eprint{1511.00688}.
+
+\bibitem[{\citenamefont{Murase and Waxman}(2016)}]{Murase:2016gly}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Murase}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Waxman}},
+  \bibinfo{journal}{MNRAS}  (\bibinfo{year}{2016}), \eprint{1607.01601}.
+
+\bibitem[{\citenamefont{Hasinger et~al.}(1993)\citenamefont{Hasinger, Burg,
+  Giacconi, Hartner, Schmidt, Trumper, and Zamorani}}]{hasinger1993}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Hasinger}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Burg}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Giacconi}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Hartner}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Schmidt}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Trumper}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Zamorani}},
+  \bibinfo{journal}{A\&A} \textbf{\bibinfo{volume}{275}}, \bibinfo{pages}{1}
+  (\bibinfo{year}{1993}).
+
+\bibitem[{\citenamefont{{Georgantopoulos}
+  et~al.}(1993)\citenamefont{{Georgantopoulos}, {Stewart}, {Shanks},
+  {Griffiths}, and {Boyle}}}]{1993MNRAS.262..619G}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{{Georgantopoulos}}},
+  \bibinfo{author}{\bibfnamefont{G.~C.} \bibnamefont{{Stewart}}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{{Shanks}}},
+  \bibinfo{author}{\bibfnamefont{R.~E.} \bibnamefont{{Griffiths}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{B.~J.}
+  \bibnamefont{{Boyle}}}, \bibinfo{journal}{MNRAS}
+  \textbf{\bibinfo{volume}{262}}, \bibinfo{pages}{619} (\bibinfo{year}{1993}).
+
+\bibitem[{\citenamefont{Gendreau et~al.}(1998)\citenamefont{Gendreau, Barcons,
+  and Fabian}}]{Gendreau:1997di}
+\bibinfo{author}{\bibfnamefont{K.~C.} \bibnamefont{Gendreau}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Barcons}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~C.} \bibnamefont{Fabian}},
+  \bibinfo{journal}{Mon. Not. Roy. Astron. Soc.}
+  \textbf{\bibinfo{volume}{297}}, \bibinfo{pages}{41} (\bibinfo{year}{1998}),
+  \eprint{astro-ph/9711083}.
+
+\bibitem[{\citenamefont{Perri and Giommi}(2000)}]{Perri:2000fv}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Perri}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Giommi}},
+  \bibinfo{journal}{Astron. Astrophys.} \textbf{\bibinfo{volume}{362}},
+  \bibinfo{pages}{L57} (\bibinfo{year}{2000}), \eprint{astro-ph/0006298}.
+
+\bibitem[{\citenamefont{Feyereisen et~al.}(2015)\citenamefont{Feyereisen, Ando,
+  and Lee}}]{Feyereisen:2015cea}
+\bibinfo{author}{\bibfnamefont{M.~R.} \bibnamefont{Feyereisen}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Ando}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~K.} \bibnamefont{Lee}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1509}}, \bibinfo{pages}{027}
+  (\bibinfo{year}{2015}), \eprint{1506.05118}.
+
+\bibitem[{\citenamefont{Feyereisen et~al.}(2016)\citenamefont{Feyereisen,
+  Tamborra, and Ando}}]{Feyereisen:2016fzb}
+\bibinfo{author}{\bibfnamefont{M.~R.} \bibnamefont{Feyereisen}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Tamborra}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Ando}}
+  (\bibinfo{year}{2016}), \eprint{1610.01607}.
+
+\bibitem[{\citenamefont{Behnel et~al.}(2011)\citenamefont{Behnel, Bradshaw,
+  Citro, Dalcin, Seljebotn, and Smith}}]{behnel2010cython}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Behnel}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Bradshaw}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Citro}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Dalcin}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Seljebotn}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Smith}},
+  \bibinfo{journal}{Computing in Science Engineering}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{31 } (\bibinfo{year}{2011}),
+  ISSN \bibinfo{issn}{1521-9615}.
+
+\bibitem[{\citenamefont{Feroz et~al.}(2009)\citenamefont{Feroz, Hobson, and
+  Bridges}}]{Feroz:2008xx}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Feroz}},
+  \bibinfo{author}{\bibfnamefont{M.~P.} \bibnamefont{Hobson}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Bridges}},
+  \bibinfo{journal}{Mon. Not. Roy. Astron. Soc.}
+  \textbf{\bibinfo{volume}{398}}, \bibinfo{pages}{1601} (\bibinfo{year}{2009}),
+  \eprint{0809.3437}.
+
+\bibitem[{\citenamefont{Buchner et~al.}(2014)\citenamefont{Buchner,
+  Georgakakis, Nandra, Hsu, Rangel, Brightman, Merloni, Salvato, Donley, and
+  Kocevski}}]{Buchner:2014nha}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Buchner}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Georgakakis}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Nandra}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Hsu}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Rangel}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Brightman}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Merloni}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Salvato}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Donley}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Kocevski}},
+  \bibinfo{journal}{Astron. Astrophys.} \textbf{\bibinfo{volume}{564}},
+  \bibinfo{pages}{A125} (\bibinfo{year}{2014}), \eprint{1402.0004}.
+
+\bibitem[{\citenamefont{Feroz et~al.}(2013)\citenamefont{Feroz, Hobson,
+  Cameron, and Pettitt}}]{Feroz:2013hea}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Feroz}},
+  \bibinfo{author}{\bibfnamefont{M.~P.} \bibnamefont{Hobson}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Cameron}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~N.} \bibnamefont{Pettitt}}
+  (\bibinfo{year}{2013}), \eprint{1306.2144}.
+
+\bibitem[{\citenamefont{Feroz and Hobson}(2008)}]{Feroz:2007kg}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Feroz}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~P.} \bibnamefont{Hobson}},
+  \bibinfo{journal}{Mon. Not. Roy. Astron. Soc.}
+  \textbf{\bibinfo{volume}{384}}, \bibinfo{pages}{449} (\bibinfo{year}{2008}),
+  \eprint{0704.3704}.
+
+\bibitem[{\citenamefont{Skilling}(2006)}]{skilling2006}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Skilling}},
+  \bibinfo{journal}{Bayesian Anal.} \textbf{\bibinfo{volume}{1}},
+  \bibinfo{pages}{833} (\bibinfo{year}{2006}),
+  \urlprefix\url{http://dx.doi.org/10.1214/06-BA127}.
+
+\bibitem[{\citenamefont{Gorski et~al.}(2005)\citenamefont{Gorski, Hivon,
+  Banday, Wandelt, Hansen, Reinecke, and Bartelman}}]{Gorski:2004by}
+\bibinfo{author}{\bibfnamefont{K.~M.} \bibnamefont{Gorski}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Hivon}},
+  \bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{Banday}},
+  \bibinfo{author}{\bibfnamefont{B.~D.} \bibnamefont{Wandelt}},
+  \bibinfo{author}{\bibfnamefont{F.~K.} \bibnamefont{Hansen}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Reinecke}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Bartelman}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{622}},
+  \bibinfo{pages}{759} (\bibinfo{year}{2005}), \eprint{astro-ph/0409513}.
+
+\bibitem[{\citenamefont{P\'erez and Granger}(2007)}]{PER-GRA:2007}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{P\'erez}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.~E.} \bibnamefont{Granger}},
+  \bibinfo{journal}{Computing in Science and Engineering}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{21} (\bibinfo{year}{2007}),
+  ISSN \bibinfo{issn}{1521-9615}, \urlprefix\url{http://ipython.org}.
+
+\bibitem[{\citenamefont{Foreman-Mackey
+  et~al.}(2016)\citenamefont{Foreman-Mackey, Vousden, Price-Whelan, Pitkin,
+  Zabalza, Ryan, Emily, Smith, Ashton, Cruz
+  et~al.}}]{dan_foreman_mackey_2016_53155}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Foreman-Mackey}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Vousden}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Price-Whelan}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Pitkin}},
+  \bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{Zabalza}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Ryan}},
+  \bibinfo{author}{\bibnamefont{Emily}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Smith}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Ashton}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Cruz}}, \bibnamefont{et~al.},
+  \emph{\bibinfo{title}{corner.py: corner.py v2.0.0}} (\bibinfo{year}{2016}),
+  \urlprefix\url{https://doi.org/10.5281/zenodo.53155}.
+
+\bibitem[{\citenamefont{Hunter}(2007)}]{Hunter:2007}
+\bibinfo{author}{\bibfnamefont{J.~D.} \bibnamefont{Hunter}},
+  \bibinfo{journal}{Computing In Science \& Engineering}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{90} (\bibinfo{year}{2007}).
+
+\bibitem[{\citenamefont{Johansson et~al.}(2013)}]{mpmath}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Johansson}}
+  \bibnamefont{et~al.}, \emph{\bibinfo{title}{mpmath: a {P}ython library for
+  arbitrary-precision floating-point arithmetic (version 0.18)}}
+  (\bibinfo{year}{2013}), \bibinfo{note}{{\tt http://mpmath.org/}}.
+
+\bibitem[{\citenamefont{Galassi et~al.}(2015)\citenamefont{Galassi, Davies,
+  Theiler, Gough, Jungman, Alken, Booth, Rossi, and Ulerich}}]{galassi2015gnu}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Galassi}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Davies}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Theiler}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Gough}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Jungman}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Alken}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Booth}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Rossi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Ulerich}},
+  \bibinfo{journal}{Library available online at http://www. gnu.
+  org/software/gsl}  (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Oliphant}(2006)}]{oliphant2006guide}
+\bibinfo{author}{\bibfnamefont{T.~E.} \bibnamefont{Oliphant}},
+  \emph{\bibinfo{title}{A guide to NumPy}}, vol.~\bibinfo{volume}{1}
+  (\bibinfo{publisher}{Trelgol Publishing USA}, \bibinfo{year}{2006}).
+
+\bibitem[{\citenamefont{Acero et~al.}(2015)}]{Acero:2015hja}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Acero}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{Fermi-LAT}) (\bibinfo{year}{2015}),
+  \eprint{1501.02003}.
+
+\bibitem[{\citenamefont{Su et~al.}(2010)\citenamefont{Su, Slatyer, and
+  Finkbeiner}}]{Su:2010qj}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Su}},
+  \bibinfo{author}{\bibfnamefont{T.~R.} \bibnamefont{Slatyer}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~P.}
+  \bibnamefont{Finkbeiner}}, \bibinfo{journal}{Astrophys.J.}
+  \textbf{\bibinfo{volume}{724}}, \bibinfo{pages}{1044} (\bibinfo{year}{2010}),
+  \eprint{1005.5480}.
+
+\end{thebibliography}

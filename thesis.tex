@@ -1,0 +1,574 @@
+% ****************************************************************************************** %
+% Princeton University PhD Thesis template with CMake build system.
+% The details are as follows:
+%   Dissertation template and document class for Princeton University
+%   Author  : Jeffrey Scott Dwoskin <jdwoskin@princeton.edu>
+%   Adapted from:
+%   http://www.math.princeton.edu/graduate/tex/puthesis.html
+%   Minor edits and CMake based build system by:
+%   Izaak Beekman
+% Compilation of the LaTeX files is handled by CMake (CMake.org) and
+% UseLATEX (https://github.com/kmorel/UseLATEX)
+% ****************************************************************************************** %
+
+
+%%% For print copies
+%% set 'singlespace' option to set entire thesis to single space, and
+%% define "\printmode" to remove all hyperlinks for printed copies of
+%% the thesis. Delete all output files before changing this mode -- it
+%% will turn hyperref package on and off
+
+% CMake will turn this on if needed. This will override the digital
+% and proquest options if they are set.
+
+% @PRINTMODE_CTRL@\providecommand{\chooselayout}{\documentclass[@PUTHESIS_FONT_SIZE@@DRAFT@@LOT@@LOF@,singlespace]{puthesis}}
+% @PRINTMODE_CTRL@\providecommand{\modifyoutput}{\newcommand{\printmode}{}}
+% @PRINTMODE_CTRL@\providecommand{\fixupmargins}{\usepackage[hmarginratio=2:1]{geometry}}
+
+% @DIGITALMODE_CTRL@\providecommand{\chooselayout}{\documentclass[@PUTHESIS_FONT_SIZE@@DRAFT@@LOT@@LOF@,twoside]{puthesis}}
+% @DIGITALMODE_CTRL@\providecommand{\modifyoutput}{}
+% @DIGITALMODE_CTRL@\providecommand{\fixupmargins}{\usepackage[hmarginratio=1:1]{geometry}}
+
+%%% For the electronic copy, use double spacing
+%%%%%%%%%%%%%%%%%%%%%
+%%%%%  DEFAULT  %%%%%
+%%%%%%%%%%%%%%%%%%%%%
+\providecommand{\chooselayout}{\documentclass[12pt,twoside]{puthesis}}
+\providecommand{\modifyoutput}{}
+\providecommand{\fixupmargins}{\usepackage[hmarginratio=2:1]{geometry}}
+
+\chooselayout % Whatever is provided first as the definition will be
+              % used
+\modifyoutput
+
+
+% define "\proquestmode"  to use outlined links, instead of colored
+% links.
+
+% Cmake will control this
+
+% @PROQUESTMODE_CTRL@ \newcommand{\proquestmode}{}
+
+% @DRAFTMODE_CTRL@ \providecommand{\maybefrontmatter}{}
+\providecommand{\maybefrontmatter}{\makefrontmatter}
+
+\fixupmargins
+
+\setlength{\topmargin}{-.5in}
+\setlength{\footskip}{.25in}
+\setlength{\textheight}{9in}
+\setlength{\textwidth}{6in}
+
+% I prefer proquestmode to be off for electronic copies for normal use, since the colored links are less distracting. However when printed in black and white, the colored links are difficult to read.
+
+%%% For early drafts without some of the frontmatter
+% Also see the "ifodd" command below to disable more frontmatter
+%\documentclass[12pt]{puthesis}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Author & title page info
+
+\title{The Search for Extragalactic Dark Matter}
+
+\submitted{August 2018}  % degree conferral date (January, April, June, September, or November)
+\copyrightyear{2018}  % year in which the copyright is secured by publication of the dissertation.
+\author{Siddharth Mishra-Sharma}
+\adviser{Mariangela Lisanti}  %replace with the full name of your adviser
+%\departmentprefix{Program in}  % defaults to "Department of", but programs need to change this.
+\department{Physics}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Tweak float placements
+% From: http://mintaka.sdsu.edu/GF/bibliog/latex/floats.html "Controlling LaTeX Floats"
+% and based on: http://www.tex.ac.uk/cgi-bin/texfaq2html?label=floats
+% LaTeX defaults listed at: http://people.cs.uu.nl/piet/floats/node1.html
+
+% Alter some LaTeX defaults for better treatment of figures:
+    % See p.105 of "TeX Unbound" for suggested values.
+    % See pp. 199-200 of Lamport's "LaTeX" book for details.
+    %   General parameters, for ALL pages:
+    \renewcommand{\topfraction}{0.85}	% max fraction of floats at top
+    \renewcommand{\bottomfraction}{0.6}	% max fraction of floats at bottom
+    %   Parameters for TEXT pages (not float pages):
+    \setcounter{topnumber}{2}
+    \setcounter{bottomnumber}{2}
+    \setcounter{totalnumber}{4}     % 2 may work better
+    \setcounter{dbltopnumber}{2}    % for 2-column pages
+    \renewcommand{\dbltopfraction}{0.66}	% fit big float above 2-col. text
+    \renewcommand{\textfraction}{0.15}	% allow minimal text w. figs
+    %   Parameters for FLOAT pages (not text pages):
+    \renewcommand{\floatpagefraction}{0.66}	% require fuller float pages
+	% N.B.: floatpagefraction MUST be less than topfraction !!
+    \renewcommand{\dblfloatpagefraction}{0.66}	% require fuller float pages
+
+% The documentclass already sets parameters to make a high penalty for widows and orphans.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Use packages
+
+%\usepackage{amsfonts}
+
+%%% For figures
+\usepackage{graphicx}
+%\usepackage{subfig,rotate}
+
+
+
+%%% for comments
+\usepackage{verbatim}
+
+%%% For tables
+\usepackage{multirow}
+% Longtable lets you have tables that span multiple pages.
+\usepackage{longtable}
+
+% Booktabs produces far nicer tables than the standard LaTeX tables.
+%   see: http://en.wikibooks.org/wiki/LaTeX/Tables
+\usepackage{booktabs}
+
+%set parameters for longtable:
+% default caption width is 4in for longtable, but wider for normal tables
+\setlength{\LTcapwidth}{\textwidth}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Printed vs. online formatting
+\ifdefined\printmode
+
+% Printed copy
+% url package understands urls (with proper line-breaks) without hyperlinking them
+\usepackage{url}
+
+
+\else
+
+\ifdefined\proquestmode
+%ProQuest copy -- http://www.princeton.edu/~mudd/thesis/Submissionguide.pdf
+
+% ProQuest requires a double spaced version (set previously). They will take an electronic copy, so we want links in the pdf, but also copies may be printed or made into microfilm in black and white, so we want outlined links instead of colored links.
+\usepackage{hyperref}
+\hypersetup{bookmarksnumbered}
+
+% copy the already-set title and author to use in the pdf properties
+\makeatletter
+\hypersetup{pdftitle=\@title,
+        pdfauthor=\@author}
+\makeatother
+
+\else
+% Online copy
+
+% adds internal linked references, pdf bookmarks, etc
+
+% turn all references and citations into hyperlinks:
+%  -- not for printed copies
+% -- automatically includes url package
+% options:
+%   colorlinks makes links by coloring the text instead of putting a rectangle around the text.
+\usepackage{hyperref}
+\hypersetup{colorlinks,bookmarksnumbered}
+
+%% Custom imports
+
+\usepackage{ae,aecompl}
+\usepackage{graphicx}   
+\usepackage{amsmath}    
+\usepackage{graphicx}
+\usepackage{dcolumn}
+\usepackage{bm}
+\usepackage{graphics}
+\usepackage{afterpage}
+\usepackage{float}
+\usepackage{subfigure}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{fancyheadings}
+\usepackage{theorem}
+\usepackage{moreverb}
+\usepackage{euscript}
+\usepackage{psfrag}
+\usepackage{slashed}
+\usepackage{mathtools}
+\usepackage{listings}
+\usepackage{color,xcolor}
+
+\definecolor{deepblue}{rgb}{0,0,0.9}
+\definecolor{deepred}{rgb}{0.85,0,0}
+\definecolor{deepgreen}{rgb}{0,0.95,0}
+
+\lstdefinestyle{python}{
+  belowcaptionskip=1\baselineskip,
+  breaklines=true,
+  frame=L,
+  xleftmargin=\parindent,
+  language=Python,
+  showstringspaces=false,
+  basicstyle=\small\ttfamily,
+  morekeywords={models, lambda, forms,True,False,None},
+  keywordstyle=\bfseries\color{deepgreen!40!black},
+  commentstyle=\itshape\color{gray},
+  identifierstyle=\color{black},
+  stringstyle=\color{deepred},
+  rulecolor=\color{gray},
+}
+
+\lstset{escapechar=@,style=python}
+
+\newcommand{\es}[2] {\begin{equation} \label{#1} \begin{split} #2 \end{split} \end{equation}}
+
+%% IGRB
+
+
+%\documentclass[twocolumn,twocolappendix]{aastex6}
+%\documentclass[aps,prd,nofootinbib,twocolumn,superscriptaddress,preprintnumbers,groupedaddress]{revtex4} %showpacs
+\bibliographystyle{unsrt}
+
+
+\usepackage{amssymb,amsmath,latexsym,graphics, graphicx,epsfig,multirow,comment,hyperref,appendix,slashed,xcolor,afterpage, makecell} 
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+\newcommand{\grp}[1]{\mathrm{#1}}
+
+\newcommand{\grO}{\grp{O}}
+\newcommand{\grU}{\grp{U}}
+\newcommand{\grSU}{\grp{SU}}
+\newcommand{\grSO}{\grp{SO}}
+\newcommand{\grUSp}{\grp{USp}}
+\newcommand{\grE}{\grp{E}}
+\newcommand{\grSL}{\grp{SL}}
+\newcommand{\HH}{\mathbb{H}}
+
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\overbar}[1]{\mkern 2mu\overline{\mkern-2mu#1\mkern-2mu}\mkern 2mu}
+
+\newcommand {\be} {\begin {equation}}
+\newcommand {\ee} {\end {equation}} 
+\newcommand {\nn} {\nonumber}
+\newcommand {\bes} {\begin {equation*}}
+\newcommand {\ees} {\end {equation*}}
+\newcommand {\trit} {^3\text{H}}
+
+\usepackage{csvsimple}
+\newcommand{\CP}{\mathbb{CP}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+%\newcommand{\C}{\mathbb{C}}
+
+\newcommand{\Gr}{\mathrm{Gr}}
+
+% define "struts", as suggested by Claudio Beccari in
+%    a piece in TeX and TUG News, Vol. 2, 1993.
+\newcommand\Tstrut{\rule{0pt}{2.6ex}}         % = `top' strut
+\newcommand\Bstrut{\rule[-0.9ex]{0pt}{0pt}}   % = `bottom' strut
+
+
+\def\CA{{\cal A}}
+\def\CB{{\cal B}}
+\def\CC{{\cal C}}
+\def\CD{{\cal D}}
+\def\CE{{\cal E}}
+\def\CG{{\cal G}}
+\def\CH{{\cal H}}
+\def\CI{{\cal I}}
+\def\CK{{\cal K}}
+\def\CL{{\cal L}}
+\def\CR{{\cal R}}
+\def\CM{{\cal M}}
+\def\CN{{\cal N}}
+\def\CO{{\cal O}}
+\def\CP{{\cal P}}
+\def\CQ{{\cal Q}}
+\def\CW{{\cal W}}
+
+\newcommand{\upstate}{\left|\uparrow \right\rangle}
+\newcommand{\downstate}{\left|\downarrow \right\rangle}
+
+\def\arccosh{\mop{arccosh}}
+
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+
+\newcommand {\kms} {\,\,\text{km}/\text{s}}
+%\newcommand {\fm} {\,\,\text{fm}}
+\newcommand{\V}[1]{{ \bf #1}}
+\newcommand{\obs}{\text{obs}}
+%\newcommand{\sun}{\odot}
+%\newcommand{\earth}{\oplus}
+\newcommand{\Min}{\text{min}}
+\newcommand{\erf}{\text{erf}}
+\newcommand{\esc}{\text{esc}}
+\newcommand{\kevee}{\text{keV}_{\text{ee}}}
+\newcommand{\cpdkg}{\, \, \text{cpd} \,\text{kg}^{-1}}
+\newcommand{\flow}{\text{flow}}
+\newcommand{\kevnr}{\, \, \text{keV}_\text{nr}}
+\newcommand{\CNB}{\text{C}\nu\text{B}}
+
+\def\ML#1{\textcolor{red}{[ML: #1]}}
+\def\lmn#1{\textcolor{blue}{[LN: #1]}}
+\def\BS#1{\textcolor{purple}{[BS: #1]}}
+\def\SM#1{\textcolor{olive}{[SM: #1]}}
+
+% Getting error for overflow of counter for footnotes
+\usepackage[perpage]{footmisc}
+
+% Using symbols for footnotes
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+% Clusters
+
+\usepackage{booktabs}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%% End custom imports
+
+% copy the already-set title and author to use in the pdf properties
+\makeatletter
+\hypersetup{pdftitle=\@title,
+        pdfauthor=\@author}
+\makeatother
+
+% make the page number rather than the text be the link for ToC entries
+%\hypersetup{linktocpage}
+\fi % proquest or online formatting
+\fi % printed or online formatting
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Define commands
+
+% Define any custom commands that you want to use.
+% For example, highlight notes for future edits to the thesis
+%\newcommand{\todo}[1]{\textbf{\emph{TODO:}#1}}
+
+
+% create an environment that will indent text
+% see: http://latex.computersci.org/Reference/ListEnvironments
+% 	\raggedright makes them left aligned instead of justified
+\newenvironment{indenttext}{
+    \begin{list}{}{ \itemsep 0in \itemindent 0in
+    \labelsep 0in \labelwidth 0in
+    \listparindent 0in
+    \topsep 0in \partopsep 0in \parskip 0in \parsep 0in
+    \leftmargin 1em \rightmargin 0in
+    \raggedright
+    }
+    \item
+  }
+  {\end{list}}
+
+% another environment that's an indented list, with no spaces between items -- if we want multiple items/lines. Useful in tables. Use \item inside the environment.
+% 	\raggedright makes them left aligned instead of justified
+\newenvironment{indentlist}{
+    \begin{list}{}{ \itemsep 0in \itemindent 0in
+    \labelsep 0in \labelwidth 0in
+    \listparindent 0in
+    \topsep 0in \partopsep 0in \parskip 0in \parsep 0in
+    \leftmargin 1em \rightmargin 0in
+    \raggedright
+    }
+
+  }
+  {\end{list}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Front-matter
+
+% For early drafts, you may want to disable some of the frontmatter. Simply change this to "\ifodd 1" to do so.
+\ifodd 0
+% front-matter disabled while writing chapters
+\renewcommand{\maketitlepage}{}
+\renewcommand*{\makecopyrightpage}{}
+\renewcommand*{\makeabstract}{}
+
+% you can just skip the \acknowledgements and \dedication commands to leave out these sections.
+
+\else
+
+
+\abstract{
+% Abstract can be any length, but should be max 350 words for a Dissertation for ProQuest's print indicies (150 words for a Master's Thesis) or it will be truncated for those uses.
+\input{abstract}
+}
+
+\acknowledgements{
+%I would like to thank...
+\input{acknowledgements}
+}
+
+\dedication{To me.}
+
+\fi  % disable frontmatter
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Hide some chapters
+
+%%% If you want to produce a pdf that includes only certain chapters, specify them with includeonly, in addition to including all chapters below.
+%\includeonly{ch-intro/chapter-intro}
+%%% You can also specify multiple chapters.
+%\includeonly{ch-intro/chapter-intro,ch-usage/chapter-usage}
+%\includeonly{chap1,chap2,chap3}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Notes:
+
+% Footnotes should be placed after punctuation.\footnote{place here.}
+% Generally, place citations before the period~\cite{anotherauthor}.
+% The proper usage for i.e., and e.g., include commas ``(e.g., option
+% A, option B)''
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Import chapters
+
+\begin{document}
+
+% AAS macros
+
+%
+%  These Macros are taken from the AAS TeX macro package version 5.2
+%  and are compatible with the macros in the A&A document class
+%  version 7.0
+%  Include this file in your LaTeX source only if you are not using
+%  the AAS TeX macro package or the A&A document class and need to
+%  resolve the macro definitions in the TeX/BibTeX entries returned by
+%  the ADS abstract service.
+%
+%  If you plan not to use this file to resolve the journal macros
+%  rather than the whole AAS TeX macro package, you should save the
+%  file as ``aas_macros.sty'' and then include it in your LaTeX paper
+%  by using a construct such as:
+%	\documentstyle[11pt,aas_macros]{article}
+%
+%  For more information on the AASTeX and A&A packages, please see:
+%       http://journals.aas.org/authors/aastex.html	
+%       ftp://ftp.edpsciences.org/pub/aa/readme.html
+%  For more information about ADS abstract server, please see:
+%       http://adsabs.harvard.edu/ads_abstracts.html
+%
+
+% Abbreviations for journals.  The object here is to provide authors
+% with convenient shorthands for the most "popular" (often-cited)
+% journals; the author can use these markup tags without being concerned
+% about the exact form of the journal abbreviation, or its formatting.
+% It is up to the keeper of the macros to make sure the macros expand
+% to the proper text.  If macro package writers agree to all use the
+% same TeX command name, authors only have to remember one thing, and
+% the style file will take care of editorial preferences.  This also
+% applies when a single journal decides to revamp its abbreviating
+% scheme, as happened with the ApJ (Abt 1991).
+
+\def\aj{\ref@jnl{AJ}}                   % Astronomical Journal
+\def\actaa{\ref@jnl{Acta Astron.}}      % Acta Astronomica
+\def\araa{\ref@jnl{ARA\&A}}             % Annual Review of Astron and Astrophys
+\def\apj{\ref@jnl{ApJ}}                 % Astrophysical Journal
+\def\apjl{\ref@jnl{ApJ}}                % Astrophysical Journal, Letters
+\def\apjs{\ref@jnl{ApJS}}               % Astrophysical Journal, Supplement
+\def\ao{\ref@jnl{Appl.~Opt.}}           % Applied Optics
+\def\apss{\ref@jnl{Ap\&SS}}             % Astrophysics and Space Science
+\def\aap{\ref@jnl{A\&A}}                % Astronomy and Astrophysics
+\def\aapr{\ref@jnl{A\&A~Rev.}}          % Astronomy and Astrophysics Reviews
+\def\aaps{\ref@jnl{A\&AS}}              % Astronomy and Astrophysics, Supplement
+\def\azh{\ref@jnl{AZh}}                 % Astronomicheskii Zhurnal
+\def\baas{\ref@jnl{BAAS}}               % Bulletin of the AAS
+\def\bac{\ref@jnl{Bull. astr. Inst. Czechosl.}}
+                % Bulletin of the Astronomical Institutes of Czechoslovakia 
+\def\caa{\ref@jnl{Chinese Astron. Astrophys.}}
+                % Chinese Astronomy and Astrophysics
+\def\cjaa{\ref@jnl{Chinese J. Astron. Astrophys.}}
+                % Chinese Journal of Astronomy and Astrophysics
+\def\icarus{\ref@jnl{Icarus}}           % Icarus
+\def\jcap{\ref@jnl{J. Cosmology Astropart. Phys.}}
+                % Journal of Cosmology and Astroparticle Physics
+\def\jrasc{\ref@jnl{JRASC}}             % Journal of the RAS of Canada
+\def\memras{\ref@jnl{MmRAS}}            % Memoirs of the RAS
+\def\mnras{\ref@jnl{MNRAS}}             % Monthly Notices of the RAS
+\def\na{\ref@jnl{New A}}                % New Astronomy
+\def\nar{\ref@jnl{New A Rev.}}          % New Astronomy Review
+\def\pra{\ref@jnl{Phys.~Rev.~A}}        % Physical Review A: General Physics
+\def\prb{\ref@jnl{Phys.~Rev.~B}}        % Physical Review B: Solid State
+\def\prc{\ref@jnl{Phys.~Rev.~C}}        % Physical Review C
+\def\prd{\ref@jnl{Phys.~Rev.~D}}        % Physical Review D
+\def\pre{\ref@jnl{Phys.~Rev.~E}}        % Physical Review E
+\def\prl{\ref@jnl{Phys.~Rev.~Lett.}}    % Physical Review Letters
+\def\pasa{\ref@jnl{PASA}}               % Publications of the Astron. Soc. of Australia
+\def\pasp{\ref@jnl{PASP}}               % Publications of the ASP
+\def\pasj{\ref@jnl{PASJ}}               % Publications of the ASJ
+\def\rmxaa{\ref@jnl{Rev. Mexicana Astron. Astrofis.}}%
+                % Revista Mexicana de Astronomia y Astrofisica
+\def\qjras{\ref@jnl{QJRAS}}             % Quarterly Journal of the RAS
+\def\skytel{\ref@jnl{S\&T}}             % Sky and Telescope
+\def\solphys{\ref@jnl{Sol.~Phys.}}      % Solar Physics
+\def\sovast{\ref@jnl{Soviet~Ast.}}      % Soviet Astronomy
+\def\ssr{\ref@jnl{Space~Sci.~Rev.}}     % Space Science Reviews
+\def\zap{\ref@jnl{ZAp}}                 % Zeitschrift fuer Astrophysik
+\def\nat{\ref@jnl{Nature}}              % Nature
+\def\iaucirc{\ref@jnl{IAU~Circ.}}       % IAU Cirulars
+\def\aplett{\ref@jnl{Astrophys.~Lett.}} % Astrophysics Letters
+\def\apspr{\ref@jnl{Astrophys.~Space~Phys.~Res.}}
+                % Astrophysics Space Physics Research
+\def\bain{\ref@jnl{Bull.~Astron.~Inst.~Netherlands}} 
+                % Bulletin Astronomical Institute of the Netherlands
+\def\fcp{\ref@jnl{Fund.~Cosmic~Phys.}}  % Fundamental Cosmic Physics
+\def\gca{\ref@jnl{Geochim.~Cosmochim.~Acta}}   % Geochimica Cosmochimica Acta
+\def\grl{\ref@jnl{Geophys.~Res.~Lett.}} % Geophysics Research Letters
+\def\jcp{\ref@jnl{J.~Chem.~Phys.}}      % Journal of Chemical Physics
+\def\jgr{\ref@jnl{J.~Geophys.~Res.}}    % Journal of Geophysics Research
+\def\jqsrt{\ref@jnl{J.~Quant.~Spec.~Radiat.~Transf.}}
+                % Journal of Quantitiative Spectroscopy and Radiative Transfer
+\def\memsai{\ref@jnl{Mem.~Soc.~Astron.~Italiana}}
+                % Mem. Societa Astronomica Italiana
+\def\nphysa{\ref@jnl{Nucl.~Phys.~A}}   % Nuclear Physics A
+\def\physrep{\ref@jnl{Phys.~Rep.}}   % Physics Reports
+\def\physscr{\ref@jnl{Phys.~Scr}}   % Physica Scripta
+\def\planss{\ref@jnl{Planet.~Space~Sci.}}   % Planetary Space Science
+\def\procspie{\ref@jnl{Proc.~SPIE}}   % Proceedings of the SPIE
+
+\let\astap=\aap
+\let\apjlett=\apjl
+\let\apjsupp=\apjs
+\let\applopt=\ao
+
+
+
+\maybefrontmatter
+
+
+% If you've disabled frontmatter, you can insert the toc manually
+%\tableofcontents\clearpage
+
+% \include lets us split up the document (and each include starts a new page):
+\include{ch-nptfit/NPTFit}
+\include{ch-igrb/LMNS_arxiv_v2}
+\include{ch-darksky/fermi_darksky}
+\include{ch-clusters/fermi_data_clusters_arxiv_v2}
+\appendix % all chapters following will be labeled as appendices
+\include{ch-appendicies/NPTFit}
+\include{ch-appendicies/LMNS_arxiv_v2}
+\include{ch-appendicies/fermi_darksky}
+\include{ch-appendicies/fermi_data_clusters_arxiv_v2}
+
+
+% Make the bibliography single spaced
+\singlespacing
+\bibliographystyle{plain}
+
+% add the Bibliography to the Table of Contents
+\cleardoublepage
+\ifdefined\phantomsection
+  \phantomsection  % makes hyperref recognize this section properly for pdf link
+\else
+\fi
+\addcontentsline{toc}{chapter}{Bibliography}
+
+% include your .bib file
+\bibliography{ch-nptfit/NPTF,ch-igrb/fermi_igrb,ch-darksky/fermi_darksky,ch-clusters/fermi_clusters}
+
+\end{document}
+

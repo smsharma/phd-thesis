@@ -1,0 +1,1096 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: ch-nptfit/NPTFit.aux
+A level-1 auxiliary file: ch-igrb/LMNS_arxiv_v2.aux
+A level-1 auxiliary file: ch-darksky/fermi_darksky.aux
+A level-1 auxiliary file: ch-clusters/fermi_data_clusters_arxiv_v2.aux
+A level-1 auxiliary file: ch-appendicies/NPTFit.aux
+A level-1 auxiliary file: ch-appendicies/LMNS_arxiv_v2.aux
+A level-1 auxiliary file: ch-appendicies/fermi_darksky.aux
+A level-1 auxiliary file: ch-appendicies/fermi_data_clusters_arxiv_v2.aux
+Illegal, another \bibstyle command---line 50 of file thesis.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Reallocated field_info (elt_size=4) to 10727 items from 5000.
+Database file #1: ch-nptfit/NPTF.bib
+Database file #2: ch-igrb/fermi_igrb.bib
+Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
+ : @article{Murase:2016gly
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 79 of file ch-igrb/fermi_igrb.bib
+ : @article{Acero:2015hja
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 97 of file ch-igrb/fermi_igrb.bib
+ : @article{Zechlin:2015wdz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 115 of file ch-igrb/fermi_igrb.bib
+ : @article{Zechlin:2016pme
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 132 of file ch-igrb/fermi_igrb.bib
+ : @article{Boettcher:2013wxa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 148 of file ch-igrb/fermi_igrb.bib
+ : @article{Zdziarski:2015rsa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 165 of file ch-igrb/fermi_igrb.bib
+ : @article{Cerruti:2014iwa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 181 of file ch-igrb/fermi_igrb.bib
+ : @article{Tavecchio:2013fwa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 198 of file ch-igrb/fermi_igrb.bib
+ : @article{Ghisellini:2009fj
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 214 of file ch-igrb/fermi_igrb.bib
+ : @article{Ghisellini:1998it
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 230 of file ch-igrb/fermi_igrb.bib
+ : @article{Fossati:1998zn
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 246 of file ch-igrb/fermi_igrb.bib
+ : @article{Aartsen:2015knd
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 262 of file ch-igrb/fermi_igrb.bib
+ : @article{Aartsen:2015rwa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 278 of file ch-igrb/fermi_igrb.bib
+ : @article{Aartsen:2013bka
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 293 of file ch-igrb/fermi_igrb.bib
+ : @article{Aartsen:2013jdh
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 308 of file ch-igrb/fermi_igrb.bib
+ : @article{Abazajian:2010pc
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 323 of file ch-igrb/fermi_igrb.bib
+ : @article{Abdo:2010ge
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 370 of file ch-igrb/fermi_igrb.bib
+ : @article{Abramowski:2012ry
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 385 of file ch-igrb/fermi_igrb.bib
+ : @article{Acero-2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 394 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2015uya
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 412 of file ch-igrb/fermi_igrb.bib
+ : @article{TheFermi-LAT:2015ykq
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2014usa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 445 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2015tah
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 462 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2015zua
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 497 of file ch-igrb/fermi_igrb.bib
+ : @article{2012Sci...338.1190A
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 511 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2012pya
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 526 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2012vca
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 541 of file ch-igrb/fermi_igrb.bib
+ : @article{Ahlers:2011sd
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 558 of file ch-igrb/fermi_igrb.bib
+ : @article{TheFermi-LAT:2015kwa
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 574 of file ch-igrb/fermi_igrb.bib
+ : @article{Ajello:2015mfa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 591 of file ch-igrb/fermi_igrb.bib
+ : @article{Ajello:2013lka
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 605 of file ch-igrb/fermi_igrb.bib
+ : @article{Ajello:2011zi
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 620 of file ch-igrb/fermi_igrb.bib
+ : @article{Ajello:2009ip
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 635 of file ch-igrb/fermi_igrb.bib
+ : @article{Ando:2009nk
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 649 of file ch-igrb/fermi_igrb.bib
+ : @article{Ando:2015bva
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 664 of file ch-igrb/fermi_igrb.bib
+ : @article{Angel:1980
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 673 of file ch-igrb/fermi_igrb.bib
+ : @article{Bechtol:2015uqb
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 682 of file ch-igrb/fermi_igrb.bib
+ : @article{Bengtsson:1990xf
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 694 of file ch-igrb/fermi_igrb.bib
+ : @article{Bergstrom:2001jj
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 708 of file ch-igrb/fermi_igrb.bib
+ : @article{Bertone:2004pz
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 723 of file ch-igrb/fermi_igrb.bib
+ : @article{Bhattacharya:2009yv
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 737 of file ch-igrb/fermi_igrb.bib
+ : @article{Bottino:2004qi
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 752 of file ch-igrb/fermi_igrb.bib
+ : @article{Bringmann:2012ez
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 782 of file ch-igrb/fermi_igrb.bib
+ : @article{Buchner:2014nha
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 798 of file ch-igrb/fermi_igrb.bib
+ : @article{Calore:2014oga
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 812 of file ch-igrb/fermi_igrb.bib
+ : @article{Chakraborty:2012sh
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 826 of file ch-igrb/fermi_igrb.bib
+ : @article{1968ApJ...153L.203C
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 839 of file ch-igrb/fermi_igrb.bib
+ : @article{2011arXiv1111.2183C
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 852 of file ch-igrb/fermi_igrb.bib
+ : @article{Dermer:2007fg
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 867 of file ch-igrb/fermi_igrb.bib
+ : @article{DiMauro:2013xta
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 883 of file ch-igrb/fermi_igrb.bib
+ : @article{DiMauro:2014wha
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 898 of file ch-igrb/fermi_igrb.bib
+ : @article{DiMauro:2015tfa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 913 of file ch-igrb/fermi_igrb.bib
+ : @article{DiMauro:2013zfa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 928 of file ch-igrb/fermi_igrb.bib
+ : @article{Dominguez:2013lfa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 944 of file ch-igrb/fermi_igrb.bib
+ : @article{Dubus:2012hm
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 958 of file ch-igrb/fermi_igrb.bib
+ : @article{Eddington
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 980 of file ch-igrb/fermi_igrb.bib
+ : @article{Fazio:1970pr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 991 of file ch-igrb/fermi_igrb.bib
+ : @article{Feroz:2008xx
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1005 of file ch-igrb/fermi_igrb.bib
+ : @article{1975ApJ...198..163F
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1019 of file ch-igrb/fermi_igrb.bib
+ : @article{1978ApJ...222..833F
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1033 of file ch-igrb/fermi_igrb.bib
+ : @article{Fields:2010bw
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1047 of file ch-igrb/fermi_igrb.bib
+ : @article{2010ApJ...712..238F
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1064 of file ch-igrb/fermi_igrb.bib
+ : @article{Fornasa:2015qua
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1078 of file ch-igrb/fermi_igrb.bib
+ : @article{Franceschini:2008tp
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1092 of file ch-igrb/fermi_igrb.bib
+ : @article{Gorski:2004by
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1106 of file ch-igrb/fermi_igrb.bib
+ : @article{Gould:1966pza
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1148 of file ch-igrb/fermi_igrb.bib
+ : @article{Hooper:2016jls
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1158 of file ch-igrb/fermi_igrb.bib
+ : @article{Hooper:2016gjy
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1168 of file ch-igrb/fermi_igrb.bib
+ : @article{Inoue:2011bm
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1197 of file ch-igrb/fermi_igrb.bib
+ : @article{Kalashev:2007sn
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1213 of file ch-igrb/fermi_igrb.bib
+ : @article{1972ApJ...177..341K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1226 of file ch-igrb/fermi_igrb.bib
+ : @article{Lacki:2012si
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1240 of file ch-igrb/fermi_igrb.bib
+ : @article{Lee:2014mza
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1256 of file ch-igrb/fermi_igrb.bib
+ : @article{Lee:2015fea
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1272 of file ch-igrb/fermi_igrb.bib
+ : @article{Linden:2016rcf
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1283 of file ch-igrb/fermi_igrb.bib
+ : @article{Loeb:2000aa
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1304 of file ch-igrb/fermi_igrb.bib
+ : @article{Makiya:2010zt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1318 of file ch-igrb/fermi_igrb.bib
+ : @article{Malyshev:2011zi
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1332 of file ch-igrb/fermi_igrb.bib
+ : @article{Massaro:2011ww
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1346 of file ch-igrb/fermi_igrb.bib
+ : @article{Muecke:1998cs
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1358 of file ch-igrb/fermi_igrb.bib
+ : @article{Murase:2013rfa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1373 of file ch-igrb/fermi_igrb.bib
+ : @article{Murase:2012df
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1389 of file ch-igrb/fermi_igrb.bib
+ : @article{Murase:2015xka
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1406 of file ch-igrb/fermi_igrb.bib
+ : @article{Murase:2008yt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1422 of file ch-igrb/fermi_igrb.bib
+ : @article{Narumoto:2006qg
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1436 of file ch-igrb/fermi_igrb.bib
+ : @article{Pavlidou:2002va
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1450 of file ch-igrb/fermi_igrb.bib
+ : @article{Pavlidou:2007dv
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1494 of file ch-igrb/fermi_igrb.bib
+ : @book{Sandage
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1530 of file ch-igrb/fermi_igrb.bib
+ : @article{Singal:2011yi
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1545 of file ch-igrb/fermi_igrb.bib
+ : @article{Soltan:1998jg
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1559 of file ch-igrb/fermi_igrb.bib
+ : @article{1998ApJ...494..523S
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1574 of file ch-igrb/fermi_igrb.bib
+ : @article{Stawarz:2005tq
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1588 of file ch-igrb/fermi_igrb.bib
+ : @article{1992ApJ...390L..49S
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1602 of file ch-igrb/fermi_igrb.bib
+ : @article{Stecker:1996ma
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1616 of file ch-igrb/fermi_igrb.bib
+ : @article{Stecker:1993ni
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1628 of file ch-igrb/fermi_igrb.bib
+ : @article{Stecker:2010di
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1642 of file ch-igrb/fermi_igrb.bib
+ : @article{Strong:2007nh
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1657 of file ch-igrb/fermi_igrb.bib
+ : @article{2004ApJ...613..956S
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1672 of file ch-igrb/fermi_igrb.bib
+ : @article{Su:2010qj
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1686 of file ch-igrb/fermi_igrb.bib
+ : @article{Tamborra:2014xia
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1700 of file ch-igrb/fermi_igrb.bib
+ : @article{Taylor:2015rla
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1718 of file ch-igrb/fermi_igrb.bib
+ : @article{Ullio:2002pj
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1732 of file ch-igrb/fermi_igrb.bib
+ : @article{Urry:1995mg
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1746 of file ch-igrb/fermi_igrb.bib
+ : @article{Zandanel:2014pva
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1776 of file ch-igrb/fermi_igrb.bib
+ : @article{Collaboration:2010gqa
+ :                               ,
+I'm skipping whatever remains of this entry
+Database file #3: ch-darksky/fermi_darksky.bib
+Repeated entry---line 250 of file ch-darksky/fermi_darksky.bib
+ : @article{PER-GRA:2007
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 288 of file ch-darksky/fermi_darksky.bib
+ : @article{Ade:2015xua
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 305 of file ch-darksky/fermi_darksky.bib
+ : @article{Navarro:1995iw
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 335 of file ch-darksky/fermi_darksky.bib
+ : @article{James:1975dr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 422 of file ch-darksky/fermi_darksky.bib
+ : @article{Ajello:2015mfa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file ch-darksky/fermi_darksky.bib
+ : @article{Bengtsson:1990xf
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 453 of file ch-darksky/fermi_darksky.bib
+ : @article{Bergstrom:2001jj
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 469 of file ch-darksky/fermi_darksky.bib
+ : @article{Bertone:2004pz
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 486 of file ch-darksky/fermi_darksky.bib
+ : @article{Bottino:2004qi
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 503 of file ch-darksky/fermi_darksky.bib
+ : @article{Bringmann:2012ez
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 519 of file ch-darksky/fermi_darksky.bib
+ : @article{DiMauro:2015tfa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 536 of file ch-darksky/fermi_darksky.bib
+ : @article{Ullio:2002pj
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 552 of file ch-darksky/fermi_darksky.bib
+ : @article{TheFermi-LAT:2015ykq
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 570 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2014usa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 587 of file ch-darksky/fermi_darksky.bib
+ : @article{1972ApJ...177..341K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 754 of file ch-darksky/fermi_darksky.bib
+ : @article{Steigman:2012nb
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1107 of file ch-darksky/fermi_darksky.bib
+ : @article{Feroz:2008xx
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1121 of file ch-darksky/fermi_darksky.bib
+ : @article{Buchner:2014nha
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1162 of file ch-darksky/fermi_darksky.bib
+ : @article{Gorski:2004by
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1208 of file ch-darksky/fermi_darksky.bib
+ : @article{Acero:2015hja
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1224 of file ch-darksky/fermi_darksky.bib
+ : @article{Elor:2015tva
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1239 of file ch-darksky/fermi_darksky.bib
+ : @article{Elor:2015bho
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1428 of file ch-darksky/fermi_darksky.bib
+ : @article{Cirelli:2010xx
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1472 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2012uf
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1727 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2015tah
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1780 of file ch-darksky/fermi_darksky.bib
+ : @article{Su:2010qj
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1815 of file ch-darksky/fermi_darksky.bib
+ : @article{Narayanan:2016nzy
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1822 of file ch-darksky/fermi_darksky.bib
+ : @article{Goodenough:2009gk
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1830 of file ch-darksky/fermi_darksky.bib
+ : @article{Hooper:2010mq
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1843 of file ch-darksky/fermi_darksky.bib
+ : @article{Hooper:2011ti
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1856 of file ch-darksky/fermi_darksky.bib
+ : @article{Abazajian:2012pn
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1869 of file ch-darksky/fermi_darksky.bib
+ : @article{Hooper:2013rwa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1882 of file ch-darksky/fermi_darksky.bib
+ : @article{Gordon:2013vta
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1909 of file ch-darksky/fermi_darksky.bib
+ : @article{Abazajian:2014fta
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1922 of file ch-darksky/fermi_darksky.bib
+ : @article{Daylan:2014rsa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1948 of file ch-darksky/fermi_darksky.bib
+ : @article{Calore:2014xka
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1974 of file ch-darksky/fermi_darksky.bib
+ : @article{Abazajian:2014hsa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2011 of file ch-darksky/fermi_darksky.bib
+ : @article{TheFermi-LAT:2015kwa
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2051 of file ch-darksky/fermi_darksky.bib
+ : @article{Linden:2016rcf
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2065 of file ch-darksky/fermi_darksky.bib
+ : @article{Lee:2015fea
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2079 of file ch-darksky/fermi_darksky.bib
+ : @article{Zechlin:2015wdz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2093 of file ch-darksky/fermi_darksky.bib
+ : @article{Zechlin:2016pme
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2106 of file ch-darksky/fermi_darksky.bib
+ : @article{Lisanti:2016jub
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2114 of file ch-darksky/fermi_darksky.bib
+ : @article{Rolke:2004mj
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2128 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2011wa
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2144 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2013yva
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2160 of file ch-darksky/fermi_darksky.bib
+ : @article{Ackermann:2015zua
+ :                           ,
+I'm skipping whatever remains of this entry
+Database file #4: ch-clusters/fermi_clusters.bib
+Repeated entry---line 28 of file ch-clusters/fermi_clusters.bib
+ : @article{Hutten:2016jko
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 46 of file ch-clusters/fermi_clusters.bib
+ : @article{Huang:2011xr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 63 of file ch-clusters/fermi_clusters.bib
+ : @article{companion
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 75 of file ch-clusters/fermi_clusters.bib
+ : @article{Shirasaki:2016kol
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 93 of file ch-clusters/fermi_clusters.bib
+ : @article{Shirasaki:2015nqp
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 110 of file ch-clusters/fermi_clusters.bib
+ : @article{Shirasaki:2014noa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 145 of file ch-clusters/fermi_clusters.bib
+ : @article{1993AJ....105.2035D
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 161 of file ch-clusters/fermi_clusters.bib
+ : @article{Bullock:1999he
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 177 of file ch-clusters/fermi_clusters.bib
+ : @article{James:1975dr
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 191 of file ch-clusters/fermi_clusters.bib
+ : @article{2013A&A...558A..33A
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 211 of file ch-clusters/fermi_clusters.bib
+ : @article{PER-GRA:2007
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 229 of file ch-clusters/fermi_clusters.bib
+ : @article{Cirelli:2009dv
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 244 of file ch-clusters/fermi_clusters.bib
+ : @article{Murase:2012xs
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 258 of file ch-clusters/fermi_clusters.bib
+ : @article{Steigman:2012nb
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 393 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2017nya
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 411 of file ch-clusters/fermi_clusters.bib
+ : @article{Tully:2016ppz
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 427 of file ch-clusters/fermi_clusters.bib
+ : @article{2017ApJ...843...16K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 446 of file ch-clusters/fermi_clusters.bib
+ : @article{Burkert:1995yz
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 464 of file ch-clusters/fermi_clusters.bib
+ : @article{Schaller:2014uwa
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 481 of file ch-clusters/fermi_clusters.bib
+ : @article{Springel:2008cc
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 497 of file ch-clusters/fermi_clusters.bib
+ : @article{Ade:2015xua
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 525 of file ch-clusters/fermi_clusters.bib
+ : @article{Ludlow:2013vxa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 542 of file ch-clusters/fermi_clusters.bib
+ : @article{Anderhalden:2013wd
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 559 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2010rg
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 576 of file ch-clusters/fermi_clusters.bib
+ : @article{Lu:2016vmu
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 593 of file ch-clusters/fermi_clusters.bib
+ : @article{Navarro:1996gj
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 626 of file ch-clusters/fermi_clusters.bib
+ : @article{Nezri:2012tu
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 658 of file ch-clusters/fermi_clusters.bib
+ : @article{Strong:2007nh
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 673 of file ch-clusters/fermi_clusters.bib
+ : @article{Bartels:2015aea
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 723 of file ch-clusters/fermi_clusters.bib
+ : @article{Fermi-LAT:2016uux
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 742 of file ch-clusters/fermi_clusters.bib
+ : @article{Lee:2014mza
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 760 of file ch-clusters/fermi_clusters.bib
+ : @article{Cohen:2016uyg
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 774 of file ch-clusters/fermi_clusters.bib
+ : @article{Lehmann:2015ioa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 791 of file ch-clusters/fermi_clusters.bib
+ : @article{Feroz:2008xx
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 805 of file ch-clusters/fermi_clusters.bib
+ : @article{Buchner:2014nha
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 819 of file ch-clusters/fermi_clusters.bib
+ : @article{Gorski:2004by
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 835 of file ch-clusters/fermi_clusters.bib
+ : @article{Mishra-Sharma:2016gis
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 863 of file ch-clusters/fermi_clusters.bib
+ : @article{Acero:2015hja
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 877 of file ch-clusters/fermi_clusters.bib
+ : @article{Elor:2015tva
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 890 of file ch-clusters/fermi_clusters.bib
+ : @article{Elor:2015bho
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 904 of file ch-clusters/fermi_clusters.bib
+ : @article{Bilicki:2013sza
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 916 of file ch-clusters/fermi_clusters.bib
+ : @article{Tully:2015opa
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 943 of file ch-clusters/fermi_clusters.bib
+ : @article{Huchra:2011ii
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 985 of file ch-clusters/fermi_clusters.bib
+ : @article{Bartels:2015uba
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1000 of file ch-clusters/fermi_clusters.bib
+ : @article{Dutton:2014xda
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1015 of file ch-clusters/fermi_clusters.bib
+ : @article{Klypin:2014kpa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1030 of file ch-clusters/fermi_clusters.bib
+ : @article{Diemer:2014gba
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1045 of file ch-clusters/fermi_clusters.bib
+ : @article{Prada:2011jf
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1059 of file ch-clusters/fermi_clusters.bib
+ : @article{Correa:2015dva
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1074 of file ch-clusters/fermi_clusters.bib
+ : @article{Sanchez-Conde:2013yxa
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1089 of file ch-clusters/fermi_clusters.bib
+ : @article{Moline:2016pbm
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1107 of file ch-clusters/fermi_clusters.bib
+ : @article{Navarro:1995iw
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1121 of file ch-clusters/fermi_clusters.bib
+ : @article{Cirelli:2010xx
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1137 of file ch-clusters/fermi_clusters.bib
+ : @article{Bryan:1997dn
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1165 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2012uf
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1181 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2006cr
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1195 of file ch-clusters/fermi_clusters.bib
+ : @article{Xia:2011ax
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1224 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2016ang
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1240 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2014aoa
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1255 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2013xwa
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1270 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2013ff
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1285 of file ch-clusters/fermi_clusters.bib
+ : @article{Fornasa:2016ohl
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1294 of file ch-clusters/fermi_clusters.bib
+ : @article{Cuoco:2015rfa
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1309 of file ch-clusters/fermi_clusters.bib
+ : @article{Regis:2015zka
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1324 of file ch-clusters/fermi_clusters.bib
+ : @article{Xia:2015wka
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1339 of file ch-clusters/fermi_clusters.bib
+ : @article{Ajello:2015mfa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1354 of file ch-clusters/fermi_clusters.bib
+ : @article{DiMauro:2015tfa
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1369 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2015tah
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1422 of file ch-clusters/fermi_clusters.bib
+ : @article{Su:2010qj
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1455 of file ch-clusters/fermi_clusters.bib
+ : @article{Narayanan:2016nzy
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1469 of file ch-clusters/fermi_clusters.bib
+ : @article{Hooper:2011ti
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1482 of file ch-clusters/fermi_clusters.bib
+ : @article{Abazajian:2012pn
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1495 of file ch-clusters/fermi_clusters.bib
+ : @article{Hooper:2013rwa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1508 of file ch-clusters/fermi_clusters.bib
+ : @article{Gordon:2013vta
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1535 of file ch-clusters/fermi_clusters.bib
+ : @article{Abazajian:2014fta
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1548 of file ch-clusters/fermi_clusters.bib
+ : @article{Daylan:2014rsa
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1574 of file ch-clusters/fermi_clusters.bib
+ : @article{Calore:2014xka
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1600 of file ch-clusters/fermi_clusters.bib
+ : @article{Abazajian:2014hsa
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1663 of file ch-clusters/fermi_clusters.bib
+ : @article{Linden:2016rcf
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1683 of file ch-clusters/fermi_clusters.bib
+ : @article{Lee:2015fea
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1697 of file ch-clusters/fermi_clusters.bib
+ : @article{Zechlin:2015wdz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1711 of file ch-clusters/fermi_clusters.bib
+ : @article{Zechlin:2016pme
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1724 of file ch-clusters/fermi_clusters.bib
+ : @article{Lisanti:2016jub
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1732 of file ch-clusters/fermi_clusters.bib
+ : @article{Rolke:2004mj
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1744 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2013yva
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1758 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2015zua
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1773 of file ch-clusters/fermi_clusters.bib
+ : @article{Vale:2005mw
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1785 of file ch-clusters/fermi_clusters.bib
+ : @article{Goodenough:2009gk
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1795 of file ch-clusters/fermi_clusters.bib
+ : @article{Hooper:2010mq
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1810 of file ch-clusters/fermi_clusters.bib
+ : @article{TheFermi-LAT:2015kwa
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1826 of file ch-clusters/fermi_clusters.bib
+ : @article{Skillman:2014qca
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1833 of file ch-clusters/fermi_clusters.bib
+ : @article{Gao:2011rf
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1845 of file ch-clusters/fermi_clusters.bib
+ : @article{Duffy:2008pz
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1858 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2015fdi
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1874 of file ch-clusters/fermi_clusters.bib
+ : @article{Ackermann:2013iaq
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1889 of file ch-clusters/fermi_clusters.bib
+ : @article{Anderson:2015dpc
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1921 of file ch-clusters/fermi_clusters.bib
+ : @article{2016A&A...589A..33A
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1939 of file ch-clusters/fermi_clusters.bib
+ : @article{Rephaeli:2015nca
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1955 of file ch-clusters/fermi_clusters.bib
+ : @article{Ando:2012vu
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1969 of file ch-clusters/fermi_clusters.bib
+ : @article{Liang:2016pvm
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1984 of file ch-clusters/fermi_clusters.bib
+ : @article{Adams:2016alz
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Goodenough:2009gk
+Warning--empty journal in Macias:2016nev
+Warning--empty journal in Clark:2016mbb
+Warning--empty journal in Linden:2016rcf
+Warning--empty journal in Lisanti:2016jub
+Warning--empty journal in Daylan:2016tia
+Warning--empty journal in Bechtol:2015uqb
+Warning--empty journal in Feyereisen:2016fzb
+Warning--empty journal in Feroz:2013hea
+Warning--empty journal in Acero:2015hja
+Warning--empty author in Collaboration:2010gqa
+Warning--empty journal in Hooper:2016gjy
+Warning--empty journal in Hooper:2016jls
+Warning--empty journal in Troster:2016sgf
+Warning--empty journal in Adams:2016alz
+Warning--empty journal in companion
+Warning--empty journal in Skillman:2014qca
+Warning--empty booktitle in Warren:2013vma
+Warning--empty journal in Elor:2015bho
+Warning--empty journal in Edwards:2017mnf
+Warning--empty journal in Narayanan:2016nzy
+You've used 249 entries,
+            1791 wiz_defined-function locations,
+            1891 strings with 48926 characters,
+and the built_in function-call counts, 53957 in all, are:
+= -- 4320
+> -- 3029
+< -- 1
++ -- 1098
+- -- 849
+* -- 4035
+:= -- 9262
+add.period$ -- 752
+call.type$ -- 249
+change.case$ -- 246
+chr.to.int$ -- 0
+cite$ -- 270
+duplicate$ -- 2214
+empty$ -- 5081
+format.name$ -- 849
+if$ -- 11641
+int.to.chr$ -- 0
+int.to.str$ -- 249
+missing$ -- 249
+newline$ -- 1253
+num.names$ -- 248
+pop$ -- 356
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 844
+stack$ -- 0
+substring$ -- 3181
+swap$ -- 232
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 21
+while$ -- 471
+width$ -- 252
+write$ -- 2703
+(There were 254 error messages)
