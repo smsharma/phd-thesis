@@ -1,4 +1,4 @@
-\chapter{NPTFit: A Code Package for Non-Poissonian Template Fitting}
+\chapter{Non-Poissonian Template Fitting: Fundamentals and Code}
 
 \section{Introduction}
 
@@ -190,7 +190,8 @@ nptf.add_non_poiss_model(template_name, model_tag, prior_range=[], log_prior=Fal
 The \lstinline{template_name} keyword is the same as for the Poissonian models.  The rest of the keywords are
 
 \begin{center}
-\begin{tabular}{ cccc}
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{ccC{4cm}C{4cm}}
 \toprule
 Argument &  Default & Purpose &\lstinline!type! \\ 
 \midrule
@@ -239,17 +240,19 @@ pc_inst = PSFCorrection.PSFCorrection(psf_dir=None, num_f_bins=10, n_psf=50000, 
 with keywords
 
 \begin{center}
-\begin{tabular}{ |c|c|c|c |}
-\hline
-Argument &  Default & Purpose & \lstinline!type! \\ \hline \hline
-\lstinline!psf_dir! & \lstinline!None!  & Where PSF arrays are stored  & \lstinline!str!  \\ \hline 
-\lstinline!num_f_bins! & \lstinline!10! & Number of linear-spaced points in\lstinline!f_ary!  & \lstinline!int!  \\ \hline 
-\lstinline!n_psf! & \lstinline!50000! & Number of MC simulations for determining \lstinline!df_rho_div_f_ary!  & \lstinline!int!  \\ \hline 
-\lstinline!n_pts_per_psf! & \lstinline!1000! & Number of points drawn for each MC simulation & \lstinline!int! \\ \hline 
-\lstinline!f_trunc! & \lstinline!0.01! & Minimum $f$ value & \lstinline!float!  \\ \hline 
-\lstinline!nside! & \lstinline!128! & \lstinline!HEALPix! parameter for size of map  & \lstinline!int!  \\ \hline
-\lstinline!psf_sigma_deg! & \lstinline!None! & Standard deviation $\sigma$ of 2-D Gaussian PSF  & \lstinline!float!  \\ \hline
-\lstinline!delay_compute! & \lstinline!False! & If \lstinline!True!, PSF not Gaussian and will be specified later  & \lstinline!bool!  \\ \hline
+\begin{tabular}{ ccC{8.5cm}c }
+\toprule
+Argument &  Default & Purpose & \lstinline!type! \\ 
+\midrule
+\lstinline!psf_dir! & \lstinline!None!  & Where PSF arrays are stored  & \lstinline!str!  \\  
+\lstinline!num_f_bins! & \lstinline!10! & Number of linear-spaced points in\lstinline!f_ary!  & \lstinline!int!  \\  
+\lstinline!n_psf! & \lstinline!50000! & Number of MC simulations for determining \lstinline!df_rho_div_f_ary!  & \lstinline!int!  \\  
+\lstinline!n_pts_per_psf! & \lstinline!1000! & Number of points drawn for each MC simulation & \lstinline!int! \\  
+\lstinline!f_trunc! & \lstinline!0.01! & Minimum $f$ value & \lstinline!float!  \\  
+\lstinline!nside! & \lstinline!128! & \lstinline!HEALPix! parameter for size of map  & \lstinline!int!  \\ 
+\lstinline!psf_sigma_deg! & \lstinline!None! & Standard deviation $\sigma$ of 2-D Gaussian PSF  & \lstinline!float!  \\ 
+\lstinline!delay_compute! & \lstinline!False! & If \lstinline!True!, PSF not Gaussian and will be specified later  & \lstinline!bool!  \\ 
+\bottomrule
 \end{tabular}
 \end{center}
 

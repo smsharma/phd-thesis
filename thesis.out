@@ -1,7 +1,7 @@
 \BOOKMARK [1][-]{Doc-Start}{Abstract}{}% 1
 \BOOKMARK [1][-]{section*.1}{Acknowledgements}{}% 2
 \BOOKMARK [1][-]{Contents.1}{Contents}{}% 3
-\BOOKMARK [0][-]{chapter.1}{1 NPTFit: A Code Package for Non-Poissonian Template Fitting}{}% 4
+\BOOKMARK [0][-]{chapter.1}{1 Non-Poissonian Template Fitting: Fundamentals and Code}{}% 4
 \BOOKMARK [1][-]{section.1.1}{1.1 Introduction}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.2}{1.2 The Non-Poissonian Template Fit}{chapter.1}% 6
 \BOOKMARK [1][-]{section.1.3}{1.3 NPTFit: orientation}{chapter.1}% 7
@@ -12,7 +12,7 @@
 \BOOKMARK [2][-]{subsection.1.4.4}{1.4.4 Performing the scan with MultiNest}{section.1.4}% 12
 \BOOKMARK [2][-]{subsection.1.4.5}{1.4.5 Analyzing the results}{section.1.4}% 13
 \BOOKMARK [1][-]{section.1.5}{1.5 Conclusion}{chapter.1}% 14
-\BOOKMARK [0][-]{chapter.2}{2 Deciphering Contributions to the Extragalactic Gamma-Ray Background}{}% 15
+\BOOKMARK [0][-]{chapter.2}{2 Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{}% 15
 \BOOKMARK [1][-]{section.2.1}{2.1 Introduction}{chapter.2}% 16
 \BOOKMARK [1][-]{section.2.2}{2.2 Methodology}{chapter.2}% 17
 \BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 The Templates}{section.2.2}% 18
@@ -28,7 +28,7 @@
 \BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Systematic Tests}{section.2.4}% 28
 \BOOKMARK [1][-]{section.2.5}{2.5 High-Energy Analysis: 50\2052000 GeV}{chapter.2}% 29
 \BOOKMARK [1][-]{section.2.6}{2.6 Discussion and Conclusions}{chapter.2}% 30
-\BOOKMARK [0][-]{chapter.3}{3 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys: A Systematic Study of Stacked Group Searches }{}% 31
+\BOOKMARK [0][-]{chapter.3}{3 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{}% 31
 \BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 32
 \BOOKMARK [1][-]{section.3.2}{3.2 Tracing Dark Matter Flux with Galaxy Surveys}{chapter.3}% 33
 \BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Galaxy and Halo Catalogs}{section.3.2}% 34
@@ -39,7 +39,7 @@
 \BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Halo Selection and Limits}{section.3.4}% 39
 \BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Signal Recovery Tests}{section.3.4}% 40
 \BOOKMARK [1][-]{section.3.5}{3.5 Conclusions}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{4 Search for Dark Matter Annihilation in Galaxy Groups}{}% 42
+\BOOKMARK [0][-]{chapter.4}{4 A Search for Dark Matter Annihilation in Galaxy Groups}{}% 42
 \BOOKMARK [0][-]{appendix.A}{A Appendix A: Mathematical Foundations of NPTF}{}% 43
 \BOOKMARK [1][-]{section.A.1}{A.1 Mathematical foundations of NPTFit}{appendix.A}% 44
 \BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 The \(non-\)Poissonian generating function}{section.A.1}% 45
