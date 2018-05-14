@@ -1,0 +1,1621 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r_",
+				"r_vir"
+			],
+			[
+				"deca",
+				"decay_mfactor\tstatement"
+			],
+			[
+				"py",
+				"pymultinest_options\tparam"
+			],
+			[
+				"inf",
+				"\\infty                                            \tlatex-mathsymbols"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"likelihood_4d_",
+				"likelihood_4d_FlatLorimer"
+			],
+			[
+				"dif",
+				"dif8bub2"
+			],
+			[
+				"mask_",
+				"mask_eights"
+			],
+			[
+				"mask",
+				"mask_eights"
+			],
+			[
+				"para",
+				"params_fshr\tstatement"
+			],
+			[
+				"data",
+				"data_type\tstatement"
+			],
+			[
+				"anal",
+				"analysis_mask"
+			],
+			[
+				"fermi_da",
+				"fermi_data_dir"
+			],
+			[
+				"var",
+				"vary_baryons\tstatement"
+			],
+			[
+				"not",
+				"not_empty\tstatement"
+			],
+			[
+				"band",
+				"band_mask_range"
+			],
+			[
+				"psc",
+				"psc_mask\tstatement"
+			],
+			[
+				"per",
+				"perform_scan\tfunction"
+			],
+			[
+				"tr",
+				"truth_color\tparam"
+			],
+			[
+				"tick",
+				"ticklabels_powerlimits\tparam"
+			],
+			[
+				"lable",
+				"label_powerlimits"
+			],
+			[
+				"fmt",
+				"fmtr\tstatement"
+			],
+			[
+				"set_",
+				"set_powerlimits\tfunction"
+			],
+			[
+				"effi",
+				"efficiency_file"
+			],
+			[
+				"conce",
+				"concentration_model\tparam"
+			],
+			[
+				"assi",
+				"assign_concentration\tfunction"
+			],
+			[
+				"n",
+				"n_sh\tstatement"
+			],
+			[
+				"chains",
+				"chains_dir"
+			],
+			[
+				"halo_re",
+				"halos_removed_overlap\tstatement"
+			],
+			[
+				"mll",
+				"mllu1\tstatement"
+			],
+			[
+				"eff",
+				"efficiency_custom"
+			],
+			[
+				"effici",
+				"efficiency_long"
+			],
+			[
+				"Nang",
+				"Nang_prior"
+			],
+			[
+				"floated",
+				"floated_params"
+			],
+			[
+				"float",
+				"floated_param_priors"
+			],
+			[
+				"floate",
+				"floated_params\tstatement"
+			],
+			[
+				"chain",
+				"chains_dir\tparam"
+			],
+			[
+				"thet",
+				"theta_mask"
+			],
+			[
+				"param",
+				"param_all_pos\tstatement"
+			],
+			[
+				"max",
+				"max_TS\tstatement"
+			],
+			[
+				"file",
+				"files_exist\tfunction"
+			],
+			[
+				"b",
+				"b_array\tstatement"
+			],
+			[
+				"halo",
+				"halos_to_plot\tstatement"
+			],
+			[
+				"xsc",
+				"xsec_at_maxTS_ary\tstatement"
+			],
+			[
+				"eve",
+				"eventtype\tstatement"
+			],
+			[
+				"additional",
+				"additional_data_dir"
+			],
+			[
+				"save",
+				"save_dir"
+			],
+			[
+				"LL_in",
+				"LL_inten_ary"
+			],
+			[
+				"catalog",
+				"catalog_file\tparam"
+			],
+			[
+				"imc",
+				"imc_missing"
+			],
+			[
+				"template",
+				"template_dict"
+			],
+			[
+				"float_ps",
+				"float_ps_temp"
+			],
+			[
+				"inclu",
+				"include_DM"
+			],
+			[
+				"cus",
+				"custom_template_dict"
+			],
+			[
+				"custom",
+				"custom_template_dict\tstatement"
+			],
+			[
+				"la",
+				"lambdo\tforstmt"
+			],
+			[
+				"HEP",
+				"HEPMC_LIB"
+			],
+			[
+				"lhe",
+				"lhe_file\tstatement"
+			],
+			[
+				"reclut",
+				"recluster_str"
+			],
+			[
+				"bas",
+				"base_dir\tstatement"
+			],
+			[
+				"CTB",
+				"CTB_exposure_maps"
+			],
+			[
+				"llim",
+				"llim_etc"
+			],
+			[
+				"virgo",
+				"virgo_lim\tstatement"
+			],
+			[
+				"skyloc",
+				"skyloc_dir\tstatement"
+			],
+			[
+				"virgo_",
+				"virgo_lim_at_bestfit_mass_ary\tstatement"
+			],
+			[
+				"start",
+				"start_idx\tstatement"
+			],
+			[
+				"boo",
+				"use_boost"
+			],
+			[
+				"cvir",
+				"cvirmodel\tstatement"
+			],
+			[
+				"bin",
+				"binidx"
+			],
+			[
+				"cv",
+				"cvir_val\tstatement"
+			],
+			[
+				"c2",
+				"c200_val\tstatement"
+			],
+			[
+				"z_",
+				"z_arr_mean\tstatement"
+			],
+			[
+				"z_arr",
+				"z_arr_mean"
+			],
+			[
+				"rad_",
+				"rad_norm_fixed"
+			],
+			[
+				"get",
+				"get_residual_map\tfunction"
+			],
+			[
+				"bkg",
+				"background_template_sum"
+			],
+			[
+				"show",
+				"show_title\tparam"
+			],
+			[
+				"rad",
+				"rad_norm_fixed"
+			],
+			[
+				"ls",
+				"ls_mask\tstatement"
+			],
+			[
+				"extra",
+				"rad_extra_float"
+			],
+			[
+				"fak",
+				"fake_data_path\tstatement"
+			],
+			[
+				"fix",
+				"fix_backgrounds"
+			],
+			[
+				"cvir_Err",
+				"cvir_err_arys\tstatement"
+			],
+			[
+				"run",
+				"run_gen\tfunction"
+			],
+			[
+				"load",
+				"load_fermi_plugin\tfunction"
+			],
+			[
+				"ang_ex",
+				"ang_ext_ary\tstatement"
+			],
+			[
+				"cosmo",
+				"cosmo_darksky\tstatement"
+			],
+			[
+				"Mvir",
+				"Mvir_true_ary"
+			],
+			[
+				"cvir_tr",
+				"cvir_true_ary"
+			],
+			[
+				"rvir_in",
+				"rvir_inf_ary"
+			],
+			[
+				"rvir_",
+				"rvir_inf_ary"
+			],
+			[
+				"rs_",
+				"rs_ary"
+			],
+			[
+				"ell",
+				"ell_ary"
+			],
+			[
+				"Jfactor_inf_ary",
+				"Jfactor_inf_L68_ary\tstatement"
+			],
+			[
+				"Jfact",
+				"Jfactor_truth_ary\tstatement"
+			],
+			[
+				"ang",
+				"ang_ext\tstatement"
+			],
+			[
+				"jf_cut",
+				"Jf_cut_up\tstatement"
+			],
+			[
+				"include",
+				"include_satellites\tstatement"
+			],
+			[
+				"mvir_cu",
+				"mvir_cutoff_cen\tstatement"
+			],
+			[
+				"mvir_cut",
+				"mvir_cutoff_sat\tstatement"
+			],
+			[
+				"mminh",
+				"M_min_halo\tstatement"
+			],
+			[
+				"include_m",
+				"include_m_bias"
+			],
+			[
+				"mb",
+				"m_bins"
+			],
+			[
+				"omega_",
+				"omega_m\tstatement"
+			],
+			[
+				"m_",
+				"m_bins"
+			],
+			[
+				"ip",
+				"cvir_corea_ip"
+			],
+			[
+				"concen",
+				"concentration_model\tstatement"
+			],
+			[
+				"ClD",
+				"ClDMDM\tstatement"
+			],
+			[
+				"maskfile",
+				"maskfilep2"
+			],
+			[
+				"sigm",
+				"sigma_rsdv_ary\tstatement"
+			],
+			[
+				"ne",
+				"nevt_each\tstatement"
+			],
+			[
+				"fsh",
+				"fshr_bao"
+			],
+			[
+				"fs",
+				"fshr"
+			],
+			[
+				"get_fisher",
+				"get_fisher_rsdv\tfunction"
+			],
+			[
+				"ang_",
+				"ang_ext_min\tstatement"
+			],
+			[
+				"f",
+				"f_min\tstatement"
+			],
+			[
+				"dndf",
+				"dndf_interp"
+			],
+			[
+				"tes",
+				"test_scan"
+			],
+			[
+				"test",
+				"test_masks"
+			],
+			[
+				"m",
+				"m_chi"
+			],
+			[
+				"rho",
+				"rho_s"
+			],
+			[
+				"pymul",
+				"pymultinest_options"
+			],
+			[
+				"make",
+				"make_dirs"
+			],
+			[
+				"mkas",
+				"mask_compress_exposure"
+			],
+			[
+				"ret",
+				"return_intensity_arrays_poiss"
+			],
+			[
+				"n_",
+				"n_ary"
+			],
+			[
+				"psf",
+				"psf_dir"
+			],
+			[
+				"is",
+				"is_log_prior"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "thesis.tex",
+			"settings":
+			{
+				"buffer_size": 20680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch-nptfit/NPTFit.tex",
+			"settings":
+			{
+				"buffer_size": 62760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch-igrb/LMNS_arxiv_v2.tex",
+			"settings":
+			{
+				"buffer_size": 96311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch-darksky/fermi_darksky.tex",
+			"settings":
+			{
+				"buffer_size": 70711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch-clusters/fermi_data_clusters_arxiv_v2.tex",
+			"settings":
+			{
+				"buffer_size": 28354,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Package Control: remove",
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: spaceg",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/smsharma/Dropbox/Thesis/thesis.sublime-project",
+		"/Users/smsharma/Dropbox/Thesis/thesis.tex",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vxyuhc/.bashrc",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7ilh32/run_nd_nb_z0_2betas_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-xmdcv2/run_nd_nb_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-jnkj_v/run_nd_nb_z0_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-_n6zzr/run_nd_nb_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-a4vjq5/run_nd_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-bcce3_/run_nd_nb_z0_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-37pzna/run_nd_nb_z0_2betas_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-bfo2zi/run_nd_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-s3gts5/run_nd_z0_prior_l0_lp_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-dsy2dm/run_nd_nb_z0_prior_l0_lp_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7n9309/run_nd_nb_z0_prior_l0_lp_2lf_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-5v66ie/run_nd_z0_lp_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vfqxif/run_nd_nb_z0_lp_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-lmucny/run_nd_nb_z0_lp_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-t7gi77/likelihood_4d_11bin_lp.pyx",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-awst8z/run_lp_11bin.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-lshbs6/run_nd_nb_z0_lp_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-pg8gts/run_nd_nb_z0_prior_l0_lp_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-tqpc_k/run_11bin.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-c47t0b/likelihood_4d_11bin.pyx",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-71kxsk/rsub",
+		"/Users/smsharma/Dropbox/ADA2018/summary.txt",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-eiqbb_/NFW.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-wlx84y/mkDMMaps.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-61pudq/gen_maps.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-u2gfej/run_nd_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-q7ii9x/run_nd_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-s63a6i/run_nd_nb_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-wbwlce/run_nd_nb_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-r4t4fh/run_nd_z0_prior_4d_Lmin1e30.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-97ho04/run_nd_nb_z0_prior_4d_Lmin1e30.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-y6ycf6/run_nd_z0_prior_4d.py",
+		"/Users/smsharma/Downloads/NXSA-Results-1525727438368.csv",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vs605_/run_nd_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-1hwggh/run_nd_nb_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-6zc6x1/run_nd_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-m5yt1x/run_nd_nb_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-rsx7kd/run_nd_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-msmajd/run_nd_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-q7nfzt/run_nd_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-aol2ov/run_11bin.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-hu068s/run_nd_nb_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-1qez_o/run_nd_nb_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-5wb1wt/run_nd_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-tmlfcw/run_nd_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-p5ts7b/run_nd_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-bzhfaw/slurm-411895.out",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-_mjkmk/run_nd_nb_z0_val2_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-4pfk_n/run_nd_nb_z0_val3_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-jp4fj7/run_nd_nb_z0_val2_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-uefkrr/run_nd_z0_val3_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-b8gsj5/run_nd_z0_val2_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-p7tatl/run_nd_nb_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-1432il/run_nd_z0_prior_val3_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-ny0c9y/run_nd_nb_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-19rmk2/run_nd_z0_prior_val2_3d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-v3r6z1/likelihood_4d_11bin.pyx",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-mye0v4/likelihood_3d_11bin.pyx",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-mw2flc/run_nd_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-5swm7c/run_nd_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-g35u3b/run_nd_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vpvgwt/run_nd_nb_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-1tp8ze/plot_skylocs.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-zhwzmp/run_11bin.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-fu4xtn/likelihood_4d_11bin.pyx",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-fnszhz/run_nd_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-3kpp2a/run_nd_nb_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-cjsvc6/run_nd_nb_z0_2betas_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-dsei3t/run_nd_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-a2bmx6/run_nd_nb_z0_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-35n0_2/run_nd_z0_prior_4d_Lmin1e30.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-dcpjmh/run_nd_nb_z0_prior_4d_Lmin1e30.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-4i8yn4/run_nd_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-rxqiys/run_nd_nb_z0_prior_4d_Lmin1e29.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-b2xg9h/run_nd_nb_z0_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-j3orgy/run_nd_nb_z0_lp_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-_an17b/run_nd_z0_prior_mix_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-ofb6fw/run_nd_z0_prior_lp_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7vxnrz/run_nd_nb_z0_prior_4d_2.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-cef_e3/run_nd_nb_z0_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-yrqlne/run_nd_z0_val3_3d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-s2oyuu/make_sig_gridpack.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-_vkptp/run_11bin.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7a1jdy/run_nd_nb_z0_prior_mix_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7lzenk/subgen.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-abjixx/nfw.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-miot5f/einasto.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-caysxo/subgen.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-rv72n8/einasto.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-r_pgnq/subgen.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-2bj5nm/subgen.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-f_2apc/subgen.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-eicv3e/subgen.py",
+		"/Users/smsharma/Dropbox/Thesis/ch-appendicies/NPTFit.tex",
+		"/Users/smsharma/Dropbox/Thesis/ch-nptfit/NPTFit.tex",
+		"/Users/smsharma/Dropbox/Thesis/ch-nptfit/aas_macros.sty",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7w6auk/submit.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-dzf9hx/make_map.pyx",
+		"/Users/smsharma/Dropbox/Projects/Fermi-LSS/Fermi-LSS/Draft-Data/arxiv_v2/fermi_data_clusters_arxiv_v2.tex",
+		"/Users/smsharma/Desktop/PS6 Solutions/ps6_soln.tex",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-w9sds5/README.md",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-6sj8tb/README.md",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-xiiwiu/README.md",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-j6qa04/plot_skylocs_bands.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-uoe1vq/halo.py",
+		"/Users/smsharma/Dropbox/Projects/Fermi-LSS/Fermi-LSS/Draft-Data/arxiv_v2/fermi_data_clusters_arxiv_v2.bbl",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-m4m62d/scan.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-k11n0z/submit_scan_decay.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-6ihla7/scan.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-l27k2p/submit_scan_F.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-m72l4m/submit_scan_decay.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-83t9wi/submit_scan.py",
+		"/Users/smsharma/Desktop/interpolate_masses.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-xjs13s/scan.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-5affhp/submit_scan_F.py",
+		"/Users/smsharma/Desktop/AtProduction_gammas.dat",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-zifp67/scan.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-zgxdnr/submit_scan.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-60wg8i/submit_scan_F.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-1o8jtw/SubmitSmooth.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-ylofcr/SubmitSmooth.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-33zbzt/SmoothInterface.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-4s39kj/SubmitIntegrateEnergies.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-548fyv/SubmitSmooth.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-hibdri/IntegrateEnergiesInterfaceModelF.py"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "thesis.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 13,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9822.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ch-nptfit/NPTFit.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ch-igrb/LMNS_arxiv_v2.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ch-darksky/fermi_darksky.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ch-clusters/fermi_data_clusters_arxiv_v2.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 100.0
+	},
+	"output.markdown":
+	{
+		"height": 46.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 46.0
+	},
+	"pinned_build_system": "",
+	"project": "thesis.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

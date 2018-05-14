@@ -13,7 +13,7 @@ and the latest documentation at
 \begin{center}
 \url{http://nptfit.readthedocs.io}.
 \end{center}
-In addition, the version used in this paper has been archived at
+In addition, the version described in this chapter has been archived at
 \begin{center}
 \url{https://zenodo.org/record/380469#.WN_pSFPyvMV}.
 \end{center}
@@ -40,7 +40,7 @@ A large set of example \texttt{Jupyter}~\cite{PER-GRA:2007} notebooks and \textt
 
 In addition to the above, the base \texttt{NPTFit} code makes use of the \texttt{python} packages \texttt{corner}~\cite{dan_foreman_mackey_2016_53155}, \texttt{matplotlib}~\cite{Hunter:2007}, \texttt{mpmath}~\cite{mpmath}, \texttt{GSL}~\cite{galassi2015gnu} and  \texttt{numpy}~\cite{oliphant2006guide}.
 
-The rest of this paper is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF.  Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. Appendices~\ref{details},~\ref{algorithms}, and~\ref{xmcalc} describe further details behind the mathematical framework of the NPTF.      
+The rest of this chapter is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF.  Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. Appendices~\ref{details},~\ref{algorithms}, and~\ref{xmcalc} describe further details behind the mathematical framework of the NPTF.      
 
 \section{The Non-Poissonian Template Fit}
 \label{NPTF}
@@ -127,13 +127,17 @@ nptf = NPTF(tag='Untagged',work_dir=None)
 \end{lstlisting}
 with keywords 
 \begin{center}
-\begin{tabular}{ |c|c|c|c |}
-\hline
-Argument &  Default & Purpose & \lstinline!type! \\ \hline \hline
-\lstinline!tag! & \lstinline!'Untagged'! & Label of scan & \lstinline!str! \\ \hline 
-\lstinline!work_dir! & \lstinline!None! & Output directory & \lstinline!str!  \\ \hline 
+\begin{tabular}{ cccc}
+\toprule
+Argument &  Default & Purpose & \lstinline!type! \\ 
+\midrule
+\lstinline!tag! & \lstinline!'Untagged'! & Label of scan & \lstinline!str! \\  
+\lstinline!work_dir! & \lstinline!None! & Output directory & \lstinline!str!  \\  
+\bottomrule
 \end{tabular} \,.
 \end{center}
+
+
 If no \lstinline{work_dir} is specified, the code will default to the current directory.  This is the directory where all output is stored.  Specifying a \lstinline{tag} will create an additional folder, with that name, within the \lstinline{work_dir} for the output.
 
 The data, exposure map, and templates are loaded into the \lstinline{nptfit.NPTF} instance after initialization (see the example in Sec.~\ref{NPTFit-example}).  The data and exposure map are loaded by 
@@ -162,15 +166,17 @@ nptf.add_poiss_model(template_name, model_tag, prior_range=[], log_prior=False, 
 where the keywords are
 \vspace{+0.02in}
 \begin{center}
-\begin{tabular}{ |c|c|c|c |}
-\hline
-Argument &  Default & Purpose & \lstinline!type! \\ \hline \hline
-\lstinline!template_name! & - & \lstinline!key! of template & \lstinline!str! \\ \hline 
-\lstinline!model_tag! & - & \LaTeX-ready label & \lstinline!str!  \\ \hline 
-\lstinline!prior_range! & \lstinline![]! & Prior [min, max ] & [\lstinline!float!, \lstinline!float!]  \\ \hline 
-\lstinline!log_prior! & \lstinline!False! & Log/linear-flat prior & \lstinline!bool!  \\ \hline 
-\lstinline!fixed! & \lstinline!False! & Is template fixed & \lstinline!bool!  \\ \hline 
-\lstinline!fixed_norm! & \lstinline!1.0! & Norm if  \lstinline!fixed! & \lstinline!float!  \\ \hline
+\begin{tabular}{ cccc}
+\toprule
+Argument &  Default & Purpose & \lstinline!type! \\ 
+\midrule
+\lstinline!template_name! & - & \lstinline!key! of template & \lstinline!str! \\ 
+\lstinline!model_tag! & - & \LaTeX-ready label & \lstinline!str!  \\ 
+\lstinline!prior_range! & \lstinline![]! & Prior [min, max ] & [\lstinline!float!, \lstinline!float!]  \\ 
+\lstinline!log_prior! & \lstinline!False! & Log/linear-flat prior & \lstinline!bool!  \\ 
+\lstinline!fixed! & \lstinline!False! & Is template fixed & \lstinline!bool!  \\ 
+\lstinline!fixed_norm! & \lstinline!1.0! & Norm if  \lstinline!fixed! & \lstinline!float!  \\ 
+\bottomrule
 \end{tabular} 
 \end{center}
 Any of the model parameters may be fixed to a user specified value instead of floated in the scan.  For those parameters that are floated in the scan, a prior range needs to be specified along with whether or not the prior is flat or log-flat.
@@ -184,15 +190,17 @@ nptf.add_non_poiss_model(template_name, model_tag, prior_range=[], log_prior=Fal
 The \lstinline{template_name} keyword is the same as for the Poissonian models.  The rest of the keywords are
 
 \begin{center}
-\begin{tabular}{ |c|c|c|c |}
-\hline
-Argument &  Default & Purpose &\lstinline!type! \\ \hline \hline
-\lstinline!model_tag! & - & \LaTeX-ready label & \lstinline![str, str, ...]! \\ \hline 
-\lstinline!prior_range! & \lstinline![]! & Prior [[min, max], ...] & \lstinline![[float, float], ...]!  \\ \hline 
-\lstinline!log_prior! & \lstinline![False]! & Log/linear-flat prior & \lstinline![bool,bool, ...]!  \\ \hline 
-\lstinline!dnds_model! & \lstinline!'specify_breaks'! & How to specify multiple breaks & \lstinline!str!  \\ \hline 
-\lstinline!fixed_params! & \lstinline!None! & Fix certain parameters & \lstinline![[int,float], ...]!  \\ \hline 
-\lstinline!units! & \lstinline!'counts'! & \lstinline!'flux'! or \lstinline!'counts'! units for breaks  & \lstinline!str!  \\ \hline
+\begin{tabular}{ cccc}
+\toprule
+Argument &  Default & Purpose &\lstinline!type! \\ 
+\midrule
+\lstinline!model_tag! & - & \LaTeX-ready label & \lstinline![str, str, ...]! \\  
+\lstinline!prior_range! & \lstinline![]! & Prior [[min, max], ...] & \lstinline![[float, float], ...]!  \\  
+\lstinline!log_prior! & \lstinline![False]! & Log/linear-flat prior & \lstinline![bool,bool, ...]!  \\  
+\lstinline!dnds_model! & \lstinline!'specify_breaks'! & How to specify multiple breaks & \lstinline!str!  \\  
+\lstinline!fixed_params! & \lstinline!None! & Fix certain parameters & \lstinline![[int,float], ...]!  \\  
+\lstinline!units! & \lstinline!'counts'! & \lstinline!'flux'! or \lstinline!'counts'! units for breaks  & \lstinline!str!  \\ 
+\bottomrule
 \end{tabular} 
 \end{center}
 
@@ -513,7 +521,7 @@ Another straightforward generalization of the example described above is simply 
 \section{Conclusion}
 \label{Conclusion}
 
-We have presented an open-source code package for performing non-Poissonian template fits.   We strongly recommend referring to the \href{http://nptfit.readthedocs.io}{online documentation} -- which will be kept up-to-date -- in addition to this paper accompanying the initial release.  There are many way in which \texttt{NPTFit} can be improved in the future.  For one, the  \texttt{NPTFit} package only handles a single energy bin at a time.  In a later version of the code we plan to incorporate the ability to scan over multiple energy bins simultaneously.  Additionally, there are a few areas -- such as the evaluation of the incomplete gamma functions -- where the \texttt{cython} code may still be sped up.  Such improvements to the computational cost are relevant for analyses of large data sets with many model parameters.  Of course, we welcome additional suggestions for how we may improve the code and better adapt it to applications beyond the gamma-ray applications it has been used for so far. 
+We have presented an open-source code package for performing non-Poissonian template fits.   We strongly recommend referring to the \href{http://nptfit.readthedocs.io}{online documentation} -- which will be kept up-to-date -- in addition to this chapter accompanying the initial release.  There are many way in which \texttt{NPTFit} can be improved in the future.  For one, the  \texttt{NPTFit} package only handles a single energy bin at a time.  In a later version of the code we plan to incorporate the ability to scan over multiple energy bins simultaneously.  Additionally, there are a few areas -- such as the evaluation of the incomplete gamma functions -- where the \texttt{cython} code may still be sped up.  Such improvements to the computational cost are relevant for analyses of large data sets with many model parameters.  Of course, we welcome additional suggestions for how we may improve the code and better adapt it to applications beyond the gamma-ray applications it has been used for so far. 
 
 \section*{Acknowledgements}
 \vspace{-10pt}

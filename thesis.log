@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 MAY 2018 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 MAY 2018 12:14
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
@@ -839,23 +838,23 @@ LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
 (Font)              using `T1/aett/m/n' instead on input line 117.
 
 [12] [13] [14]
-Overfull \hbox (80.32701pt too wide) in paragraph at lines 187--197
+Overfull \hbox (78.32704pt too wide) in paragraph at lines 193--205
  [] 
  []
 
 [15]
-Overfull \hbox (43.84915pt too wide) in paragraph at lines 203--204
+Overfull \hbox (43.84915pt too wide) in paragraph at lines 211--212
 []\T1/aer/m/n/12 The [][][][][][] key-word has the op-tions [] and [][][][][][]
 
  []
 
 [16] [17]
-Overfull \hbox (76.08603pt too wide) in paragraph at lines 234--246
+Overfull \hbox (76.08603pt too wide) in paragraph at lines 242--254
  [] 
  []
 
 
-Overfull \hbox (5.25352pt too wide) in paragraph at lines 250--251
+Overfull \hbox (5.25352pt too wide) in paragraph at lines 258--259
 []\T1/aer/m/n/12 The key-word [][][][][][] points to the di-rec-tory where the 
 [][][][][][] and [][]
  []
@@ -869,7 +868,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ch-nptfit/gce_triangle.pdf Graphic file (type pdf)
 
 <use ch-nptfit/gce_triangle.pdf>
-Package pdftex.def Info: ch-nptfit/gce_triangle.pdf used on input line 434.
+Package pdftex.def Info: ch-nptfit/gce_triangle.pdf used on input line 442.
 (pdftex.def)             Requested size: 424.94574pt x 424.94383pt.
  [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -879,7 +878,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.446 an.
+l.454 an.
          plot_source_count_band('dsk',smin=0.01,smax=1000,nsteps=1000,qs=[0....
  <./ch-nptfit/gce_triangle.pdf>]
 Underfull \vbox (badness 2698) has occurred while \output is active []
@@ -889,51 +888,48 @@ Underfull \vbox (badness 2698) has occurred while \output is active []
 File: ch-nptfit/dnds_masked.pdf Graphic file (type pdf)
 
 <use ch-nptfit/dnds_masked.pdf>
-Package pdftex.def Info: ch-nptfit/dnds_masked.pdf used on input line 469.
+Package pdftex.def Info: ch-nptfit/dnds_masked.pdf used on input line 477.
 (pdftex.def)             Requested size: 212.47617pt x 177.06305pt.
  [30pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.486 \end{lstlisting}
+l.494 \end{lstlisting}
                        <./ch-nptfit/dnds_masked.pdf>]
 <ch-nptfit/gce_intensity_fraction.pdf, id=947, 433.62pt x 289.08pt>
 File: ch-nptfit/gce_intensity_fraction.pdf Graphic file (type pdf)
 
 <use ch-nptfit/gce_intensity_fraction.pdf>
 Package pdftex.def Info: ch-nptfit/gce_intensity_fraction.pdf used on input lin
-e 492.
+e 500.
 (pdftex.def)             Requested size: 195.12767pt x 130.0848pt.
 
 <ch-nptfit/dnds_unmasked.pdf, id=950, 433.62pt x 361.35pt>
 File: ch-nptfit/dnds_unmasked.pdf Graphic file (type pdf)
 
 <use ch-nptfit/dnds_unmasked.pdf>
-Package pdftex.def Info: ch-nptfit/dnds_unmasked.pdf used on input line 504.
+Package pdftex.def Info: ch-nptfit/dnds_unmasked.pdf used on input line 512.
 (pdftex.def)             Requested size: 212.47617pt x 177.06305pt.
  [31pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.512 
+l.520 
        <./ch-nptfit/gce_intensity_fraction.pdf>] [32pdfTeX warning (ext4): dest
 ination with the same identifier (name{figure.1.4}) has been already used, dupl
 icate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.517 
+l.525 
        <./ch-nptfit/dnds_unmasked.pdf>]) [33]
 \openout2 = `ch-igrb/LMNS_arxiv_v2.aux'.
 
  (./ch-igrb/LMNS_arxiv_v2.tex
 Chapter 2.
-
-Underfull \vbox (badness 1092) has occurred while \output is active []
-
- [34
+[34
 
 
 
@@ -953,7 +949,7 @@ Overfull \hbox (17.51823pt too wide) in paragraph at lines 74--82
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2903) has occurred while \output is active []
 
  [41pdfTeX warning (ext4): destination with the same identifier (name{table.2.1
 }) has been already used, duplicate ignored
@@ -1227,11 +1223,14 @@ File: ch-igrb/plots/spectra_new_simp.pdf Graphic file (type pdf)
 Package pdftex.def Info: ch-igrb/plots/spectra_new_simp.pdf used on input line 
 435.
 (pdftex.def)             Requested size: 208.13574pt x 204.05457pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
-<ch-igrb/plots/temp_map_low_E.pdf, id=1596, 614.295pt x 390.25798pt>
+<ch-igrb/plots/temp_map_low_E.pdf, id=1595, 614.295pt x 390.25798pt>
 File: ch-igrb/plots/temp_map_low_E.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/temp_map_low_E.pdf>
@@ -1239,7 +1238,7 @@ Package pdftex.def Info: ch-igrb/plots/temp_map_low_E.pdf used on input line 46
 0.
 (pdftex.def)             Requested size: 491.43666pt x 312.2068pt.
 
-<ch-igrb/plots/temp_map_high_E.pdf, id=1597, 614.295pt x 390.25798pt>
+<ch-igrb/plots/temp_map_high_E.pdf, id=1596, 614.295pt x 390.25798pt>
 File: ch-igrb/plots/temp_map_high_E.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/temp_map_high_E.pdf>
@@ -1254,15 +1253,15 @@ Overfull \hbox (67.81667pt too wide) in paragraph at lines 459--463
 
 LaTeX Warning: Float too large for page by 105.89752pt on input line 466.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68]
+[68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-[70]) [71] [72pdfTeX warning (ext4): destination with the same identifier (name
-{figure.2.2}) has been already used, duplicate ignored
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70])
+[71] [72pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1270,16 +1269,16 @@ l.548 \include{ch-igrb/LMNS_arxiv_v2}
                                       <./ch-igrb/plots/bl1-Espec.pdf> <./ch-igr
 b/plots/bl2-Espec.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl2-Espec.pd
-f): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl2-Espec.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
 > <./ch-igrb/plots/bl1sf-Espec.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl1sf-Espec.
-pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl1sf-Espec.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
 > <./ch-igrb/plots/bl2sf-Espec.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl2sf-Espec.
-pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl2sf-Espec.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
 >] [73pdfTeX warning (ext4): destination with the same identifier (name{figure.
 2.3}) has been already used, duplicate ignored
 
@@ -1297,9 +1296,9 @@ l.548 \include{ch-igrb/LMNS_arxiv_v2}
 -700-E15-p8-3br.pdf> <./ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br
 .pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/U3RRBlw1p8-1
--data-ESpec-fp-700-E15-p8-3br.pdf): PDF inclusion: multiple pdfs with page grou
-p included in a single page
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E
+15-p8-3br.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 >] [75pdfTeX warning (ext4): destination with the same identifier (name{figure.
 2.5}) has been already used, duplicate ignored
 
@@ -1344,9 +1343,8 @@ l.548 \include{ch-igrb/LMNS_arxiv_v2}
                                       <./ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf>
  <./ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/N_cumul_UCV_
-0_10_10_K.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 >] [81pdfTeX warning (ext4): destination with the same identifier (name{figure.
 2.11}) has been already used, duplicate ignored
 
@@ -1363,9 +1361,8 @@ l.548 \include{ch-igrb/LMNS_arxiv_v2}
                                       <./ch-igrb/plots/temp_map_low_E.pdf> <./c
 h-igrb/plots/temp_map_high_E.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/temp_map_hig
-h_E.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
-e
+pdfTeX warning: pdflatex (file ./ch-igrb/plots/temp_map_high_E.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
 >]
 \openout2 = `ch-darksky/fermi_darksky.aux'.
 
@@ -1443,8 +1440,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 l.102 
        <./ch-darksky/plots//LofM.pdf> <./ch-darksky/plots//LofMinf.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//LofMinf.
-pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//LofMinf.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
 >] [93] <ch-darksky/plots//cvir_models.pdf, id=2381, 602.25pt x 481.8pt>
 File: ch-darksky/plots//cvir_models.pdf Graphic file (type pdf)
 
@@ -1475,9 +1472,8 @@ l.128
        <./ch-darksky/plots//cvir_models.pdf> <./ch-darksky/plots//boost_models.
 pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//boost_mo
-dels.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
-ge
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//boost_models.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
 >] [96] [97]
 Underfull \vbox (badness 1852) has occurred while \output is active []
 
@@ -1519,9 +1515,8 @@ l.231 W
  <./ch-darksky/plots//darksky_limits.pdf> <./ch-darksky/plots//darksky_reduced_
 err.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//darksky_
-reduced_err.pdf): PDF inclusion: multiple pdfs with page group included in a si
-ngle page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//darksky_reduced_err.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
 >]
 <ch-darksky/plots//darksky_elephants.pdf, id=2594, 792.63707pt x 523.77316pt>
 File: ch-darksky/plots//darksky_elephants.pdf Graphic file (type pdf)
@@ -1566,32 +1561,28 @@ Package pdftex.def Info: ch-darksky/plots//cat_redshifts.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107pdfTeX warning (ext4): destination with the same identifier (name{figure.3
-.7}) has been already used, duplicate ignored
+ [107]
+[108pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.267 
+l.274 
        <./ch-darksky/plots//cat_jfactors.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+ [109pdfTeX warning (ext4): destination with the same identifier (name{figure.3
 .8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.270 
+l.279 
        <./ch-darksky/plots//cat_masses.pdf> <./ch-darksky/plots//cat_redshifts.
 pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//cat_reds
-hifts.pdf): PDF inclusion: multiple pdfs with page group included in a single p
-age
->]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [109]
-[110]
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//cat_redshifts.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>] [110]
 <ch-darksky/plots//signal_recovery_10GeV.pdf, id=2760, 603.5706pt x 410.82172pt
 >
 File: ch-darksky/plots//signal_recovery_10GeV.pdf Graphic file (type pdf)
@@ -1651,20 +1642,17 @@ l.306
        <./ch-darksky/plots//signal_recovery_10GeV.pdf> <./ch-darksky/plots//sig
 nal_recovery_100GeV.pdf> <./ch-darksky/plots//signal_recovery_10TeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
-ecovery_10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a 
-single page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_10TeV.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-darksky/plots//signal_recovery_10GeV_loc2.pdf> <./ch-darksky/plots//sig
 nal_recovery_100GeV_loc2.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
-ecovery_100GeV_loc2.pdf): PDF inclusion: multiple pdfs with page group included
- in a single page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_100GeV_loc2.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-darksky/plots//signal_recovery_10TeV_loc2.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
-ecovery_10TeV_loc2.pdf): PDF inclusion: multiple pdfs with page group included 
-in a single page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_10TeV_loc2.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1756,8 +1744,8 @@ l.79 T
       he final step of the analysis involves stacking the likelihoods from e...
  <./ch-clusters/plots/bounds.pdf> <./ch-clusters/plots/elephant.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/elephant
-.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/elephant.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
 >] [124]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2471,9 +2459,8 @@ l.182 \end{align}
                   <./ch-darksky/plots//jfactor_wrongLL.pdf> <./ch-darksky/plots
 //jfactor_correctLL.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//jfactor_
-correctLL.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//jfactor_correctLL.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 >]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2536,9 +2523,8 @@ l.243
        <./ch-darksky/plots//global_e251.pdf> <./ch-darksky/plots//global_e796.p
 df
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//global_e
-796.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
-e
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//global_e796.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
 >] <ch-darksky/plots//TFAllLimitstruth.pdf, id=6173, 602.25pt x 481.8pt>
 File: ch-darksky/plots//TFAllLimitstruth.pdf Graphic file (type pdf)
 
@@ -2569,9 +2555,8 @@ l.260
        <./ch-darksky/plots//TFAllLimitstruth.pdf> <./ch-darksky/plots//TFLimits
 Jcut.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//TFLimits
-Jcut.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
-ge
+pdfTeX warning: pdflatex (file ./ch-darksky/plots//TFLimitsJcut.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
 >]) [194] [195]
 \openout2 = `ch-appendicies/fermi_data_clusters_arxiv_v2.aux'.
 
@@ -2609,9 +2594,8 @@ l.27
       <./ch-clusters/plots/elephant10.pdf> <./ch-clusters/plots/elephant10000.p
 df
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/elephant
-10000.pdf): PDF inclusion: multiple pdfs with page group included in a single p
-age
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/elephant10000.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
 >] <ch-clusters/plots/global_maxts.pdf, id=6288, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/global_maxts.pdf Graphic file (type pdf)
 
@@ -2639,9 +2623,8 @@ l.40
       <./ch-clusters/plots/global_maxts.pdf> <./ch-clusters/plots/other_annh.pd
 f
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/other_an
-nh.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/other_annh.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
 >] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=6333, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10GeV.pdf Graphic file (type pdf)
 
@@ -2698,29 +2681,24 @@ l.60 }
        <./ch-clusters/plots/signal_recovery_10GeV.pdf> <./ch-clusters/plots/sig
 nal_recovery_100GeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/signal_r
-ecovery_100GeV.pdf): PDF inclusion: multiple pdfs with page group included in a
- single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/signal_recovery_100GeV.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-clusters/plots/signal_recovery_10TeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/signal_r
-ecovery_10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a 
-single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/signal_recovery_10TeV.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-clusters/plots/injsig_maxTS10GeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
-axTS10GeV.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS10GeV.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 > <./ch-clusters/plots/injsig_maxTS100GeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
-axTS100GeV.pdf): PDF inclusion: multiple pdfs with page group included in a sin
-gle page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS100GeV.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
 > <./ch-clusters/plots/injsig_maxTS10TeV.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
-axTS10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS10TeV.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3122,8 +3100,8 @@ l.180 \newpage
                <./ch-clusters/plots/object5_maxts_lim.pdf> <./ch-clusters/plots
 /jfactors.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/jfactors
-.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/jfactors.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
 >] <ch-clusters/plots/skymaps.pdf, id=6622, 691.88953pt x 857.52022pt>
 File: ch-clusters/plots/skymaps.pdf Graphic file (type pdf)
 
@@ -3171,9 +3149,8 @@ l.206
        <./ch-clusters/plots/systematics_nh.pdf> <./ch-clusters/plots/systematic
 s_cuts.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
-ics_cuts.pdf): PDF inclusion: multiple pdfs with page group included in a singl
-e page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_cuts.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 3895) has occurred while \output is active []
 
@@ -3221,9 +3198,8 @@ l.228
        <./ch-clusters/plots/systematics_dataset.pdf> <./ch-clusters/plots/syste
 matics_profile_conc.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
-ics_profile_conc.pdf): PDF inclusion: multiple pdfs with page group included in
- a single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_profile_conc.pdf
+): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3258,9 +3234,8 @@ l.256
        <./ch-clusters/plots/boost_models_data.pdf> <./ch-clusters/plots/systema
 tics_boost.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
-ics_boost.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_boost.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3297,9 +3272,8 @@ l.555 ...appendicies/fermi_data_clusters_arxiv_v2}
                                                    <./ch-clusters/plots/systema
 tics_lu.pdf> <./ch-clusters/plots/systematics_lu_elephant.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
-ics_lu_elephant.pdf): PDF inclusion: multiple pdfs with page group included in 
-a single page
+pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_lu_elephant.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
 >] [220
 
 
@@ -3370,7 +3344,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 573.
 Here is how much of TeX's memory you used:
  13838 strings out of 493014
  220202 string characters out of 6133351
- 445906 words of memory out of 5000000
+ 445995 words of memory out of 5000000
  15951 multiletter control sequences out of 15000+600000
  73112 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3521,7 +3495,7 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (249 pages, 12618442 bytes).
+Output written on thesis.pdf (249 pages, 12617830 bytes).
 PDF statistics:
  7374 PDF objects out of 7423 (max. 8388607)
  6639 compressed objects within 67 object streams
