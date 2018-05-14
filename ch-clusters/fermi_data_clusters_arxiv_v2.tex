@@ -1,28 +1,52 @@
 \chapter{A Search for Dark Matter Annihilation in Galaxy Groups}
+\label{ch:groups_data}
 
-\noindent {\bf Introduction.}  Weakly-interacting massive particles, which acquire their cosmological abundance through thermal freeze-out in the early Universe, are leading candidates for dark matter (DM).  Such particles can annihilate into Standard Model states in the late Universe, leading to striking gamma-ray signatures that can be detected with observatories such as the {\it Fermi} Large Area Telescope.  
+\section{Introduction}
+
+Weakly-interacting massive particles, which acquire their cosmological abundance through thermal freeze-out in the early Universe, are leading candidates for dark matter (DM).  Such particles can annihilate into Standard Model states in the late Universe, leading to striking gamma-ray signatures that can be detected with observatories such as the {\it Fermi} Large Area Telescope.  
 Some of the strongest limits on the annihilation cross section have been set by searching for excess gamma-rays in the Milky Way's dwarf spheroidal satellite galaxies (dSphs)~\cite{Ackermann:2015zua,Fermi-LAT:2016uux}.  In this Letter, we present competitive constraints that are obtained using hundreds of galaxy groups within $z\lesssim0.03$. 
 
 This work is complemented by a companion publication in which we describe the procedure for utilizing  galaxy group catalogs in searches for extragalactic DM~\cite{companion}.  Previous attempts to search for DM outside the Local Group were broad in scope, but yielded weaker constraints than the dSph studies.  For example, limits on the annihilation rate were set by requiring that the DM-induced flux not overproduce the isotropic gamma-ray background~\cite{Ackermann:2015tah}.  These bounds could be improved by further resolving the contribution of sub-threshold point sources to the isotropic background~\cite{Zechlin:2016pme,Lisanti:2016jub}, or by  
 looking at the auto-correlation spectrum~\cite{Ackermann:2012uf, Ackermann:2012uf,Ando:2006cr,Ando:2013ff}.  A separate approach involves cross-correlating~\cite{Xia:2011ax,Ando:2014aoa,Ando:2013xwa,Xia:2015wka,Regis:2015zka,Cuoco:2015rfa,Ando:2016ang} the {\it Fermi} data with galaxy-count maps constructed from, \emph{e.g.}, the Two Micron All-Sky Survey (2MASS)~\cite{Jarrett:2000me,Bilicki:2013sza}.  A positive cross-correlation was detected with 2MASS galaxy counts~\cite{Xia:2015wka}, which could arise from annihilating DM with mass $\sim$$10$--$100$~GeV and a near-thermal annihilation rate~\cite{Regis:2015zka}.  However, other source classes, such as misaligned Active Galactic Nuclei, could also explain the signal~\cite{Cuoco:2015rfa}.
   
+% \begin{table*}[htb]
+% \footnotesize
+% \begin{tabular}{C{3.0cm}C{2.1cm}C{1.8cm}C{1.8cm}C{1.8cm}C{1.5cm}C{1.6cm}C{1.6cm}C{1.6cm}C{1.6m}}
+% \toprule
+% \Xhline{3\arrayrulewidth}
+% Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$&        $\ell$ &        $b$ &  $\log_{10} c_\text{vir}$ &  $\theta_\text{s}$  &  $b_\text{sh}$   \\
+%  & {[GeV$^2$\,cm$^{-5}$\,sr]}& [$M_\odot$] &  & [deg] & [deg] & & [deg] &\\
+% \midrule
+% \hline
+%             NGC4472/Virgo &  19.11$\pm$0.35 &  14.6$\pm$0.14 &   3.58 &  283.94 &  74.52 &  0.80$\pm$0.18 &     1.15 &  4.53 \\
+%                   NGC0253 &  18.76$\pm$0.37 &  12.7$\pm$0.12 &   0.79 &   98.24 & -87.89 &  1.00$\pm$0.17 &     0.77 &  2.90 \\
+%                   NGC3031 &  18.58$\pm$0.36 &  12.6$\pm$0.12 &   0.83 &  141.88 &  40.87 &  1.02$\pm$0.17 &     0.64 &  2.76 \\
+%         NGC4696/Centaurus &  18.33$\pm$0.35 &  14.6$\pm$0.14 &   8.44 &  302.22 &  21.65 &  0.80$\pm$0.18 &     0.47 &  4.50 \\
+%                   NGC1399 &  18.30$\pm$0.37 &  13.8$\pm$0.13 &   4.11 &  236.62 & -53.88 &  0.89$\pm$0.17 &     0.45 &  3.87 \\
+% \bottomrule
+% \Xhline{3\arrayrulewidth}
+% \end{tabular}
+% \caption{The top five halos included in the analysis, as ranked by inferred $J$-factor, including the boost factor.  For each group, we show the brightest central galaxy and the common name, if one exists, as well as the virial mass, cosmological redshift, Galactic longitude $\ell$, Galactic latitude $b$, inferred virial concentration~\cite{Correa:2015dva}, angular extent, and boost factor~\cite{Bartels:2015uba}.  The angular extent is defined as $\theta_\text{s} \equiv \tan^{-1} (r_\text{s} / d_c[z])$, where $d_c[z]$ is the comoving distance and $r_\text{s}$ is the NFW scale radius.  A complete table of the galaxy groups used in this analysis, as well as their associated properties, are provided at \url{https://github.com/bsafdi/DMCat}.
+% }
+% \label{Jtab}
+% \end{table*}
+
 \begin{table*}[htb]
-\footnotesize
+% \footnotesize
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{C{3.0cm}C{2.1cm}C{1.8cm}C{1.8cm}C{1.8cm}C{1.5cm}C{1.6cm}C{1.6cm}C{1.6cm}C{1.6m}}
 \toprule
-\Xhline{3\arrayrulewidth}
 Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$&        $\ell$ &        $b$ &  $\log_{10} c_\text{vir}$ &  $\theta_\text{s}$  &  $b_\text{sh}$   \\
  & {[GeV$^2$\,cm$^{-5}$\,sr]}& [$M_\odot$] &  & [deg] & [deg] & & [deg] &\\
 \midrule
-\hline
+
             NGC4472/Virgo &  19.11$\pm$0.35 &  14.6$\pm$0.14 &   3.58 &  283.94 &  74.52 &  0.80$\pm$0.18 &     1.15 &  4.53 \\
                   NGC0253 &  18.76$\pm$0.37 &  12.7$\pm$0.12 &   0.79 &   98.24 & -87.89 &  1.00$\pm$0.17 &     0.77 &  2.90 \\
                   NGC3031 &  18.58$\pm$0.36 &  12.6$\pm$0.12 &   0.83 &  141.88 &  40.87 &  1.02$\pm$0.17 &     0.64 &  2.76 \\
-        NGC4696/Centaurus &  18.33$\pm$0.35 &  14.6$\pm$0.14 &   8.44 &  302.22 &  21.65 &  0.80$\pm$0.18 &     0.47 &  4.50 \\
+        NGC4696/Cen. &  18.33$\pm$0.35 &  14.6$\pm$0.14 &   8.44 &  302.22 &  21.65 &  0.80$\pm$0.18 &     0.47 &  4.50 \\
                   NGC1399 &  18.30$\pm$0.37 &  13.8$\pm$0.13 &   4.11 &  236.62 & -53.88 &  0.89$\pm$0.17 &     0.45 &  3.87 \\
 \bottomrule
-\Xhline{3\arrayrulewidth}
-\end{tabular}
+\end{tabular}}
 \caption{The top five halos included in the analysis, as ranked by inferred $J$-factor, including the boost factor.  For each group, we show the brightest central galaxy and the common name, if one exists, as well as the virial mass, cosmological redshift, Galactic longitude $\ell$, Galactic latitude $b$, inferred virial concentration~\cite{Correa:2015dva}, angular extent, and boost factor~\cite{Bartels:2015uba}.  The angular extent is defined as $\theta_\text{s} \equiv \tan^{-1} (r_\text{s} / d_c[z])$, where $d_c[z]$ is the comoving distance and $r_\text{s}$ is the NFW scale radius.  A complete table of the galaxy groups used in this analysis, as well as their associated properties, are provided at \url{https://github.com/bsafdi/DMCat}.
 }
 \label{Jtab}
@@ -34,7 +58,9 @@ An alternative to studying the full-sky imprint of extragalactic DM annihilation
 
  Our work aims to combine the best attributes of the cross-correlation and cluster studies to improve the search for extragalactic DM annihilation.  We use the galaxy group catalogs in Refs.~\cite{Tully:2015opa} and~\cite{2017ApJ...843...16K} (hereby T15 and T17, respectively), which contain accurate mass estimates for halos with mass greater than $\sim$$10^{12}$~M$_\odot$ and $z \lesssim 0.03$, to systematically determine the galaxy groups that are expected to yield the best limits on the annihilation rate.  The T15 catalog provides reliable redshift estimates in the range $0.01 \lesssim z \lesssim 0.03$, while the T17 catalog provides measured distances for nearby galaxies, $z \lesssim 0.01$, based on Ref.~\cite{Tully:2016ppz}. The T15 catalog was previously used for a gamma-ray line search~\cite{Adams:2016alz}, but our focus here is on the broader, and more challenging, class of continuum signatures.  We search for gamma-ray flux from these galaxy groups and interpret the null results as bounds on the annihilation cross section.   
  
- \noindent {\bf Galaxy Group Selection.}  The observed gamma-ray flux from DM annihilation in an extragalactic halo is proportional to both the particle physics properties of the DM, as well as its astrophysical distribution:
+ \section{Galaxy Group Selection}
+
+The observed gamma-ray flux from DM annihilation in an extragalactic halo is proportional to both the particle physics properties of the DM, as well as its astrophysical distribution:
 \es{particle}{
 \frac{d\Phi}{dE_{\gamma}} &= \left.  J \, \times \frac{\langle\sigma v\rangle}{8 \pi m_{\chi}^{2}} \, \, \sum_i \text{Br}_{i}\, \frac{dN_{i}}{dE'_{\gamma}} \right|_{E_{\gamma}' = (1 +z) E_{\gamma}}   \,,
 }
@@ -56,7 +82,9 @@ As discussed later in this Letter, halos are also excluded if they show large re
 Table~\ref{Jtab} lists the top five galaxy groups included in the analysis, labeled by their central galaxy or common name, if one exists.  We provide the inferred $J$-factor including the boost factor, the halo mass, redshift, position in Galactic coordinates, inferred concentration, and boost factor.  Additionally, we show $\theta_\text{s} \equiv \tan^{-1} (r_\text{s} / d_c[z])$ to indicate the spatial extension of the halo.  We find that $\theta_\text{s}$ is typically between the 68\% and 95\% containment radius for emission associated with annihilation in the halos, without accounting for spread from the point-spread function (PSF).  For reference, Andromeda has $\theta_\text{s} \sim 2.57^\circ$.  
 %A complete list of the analyzed galaxy groups is provided as Supplementary Data.
 
-\noindent {\bf Data Analysis.}  We analyze 413 weeks of Pass 8 {\it Fermi} data in the UltracleanVeto event class, from August 4, 2008 through July 7, 2016.  The data is binned in 26 logarithmically-spaced energy bins between 502~MeV and 251~GeV and spatially with a HEALPix pixelation~\cite{Gorski:2004by} with \texttt{nside}=128.\footnote{Our energy binning is constructed by taking 40 log-spaced bins between 200~MeV and 2~TeV and then removing the lowest four and highest ten bins, for reasons discussed in the companion paper~\cite{companion}. }  The recommended set of quality cuts are applied to the data corresponding to zenith angle less than $90^\circ$, $\texttt{LAT\_CONFIG}=1$, and $\texttt{DATA\_QUAL}>0$.\footnote{\url{https://fermi.gsfc.nasa.gov/ssc/data/analysis/documentation/Cicerone/Cicerone_Data_Exploration/Data_preparation.html}.}  We also mask known large-scale structures~\cite{companion}.
+\section{Data Analysis}
+
+We analyze 413 weeks of Pass 8 {\it Fermi} data in the UltracleanVeto event class, from August 4, 2008 through July 7, 2016.  The data is binned in 26 logarithmically-spaced energy bins between 502~MeV and 251~GeV and spatially with a HEALPix pixelation~\cite{Gorski:2004by} with \texttt{nside}=128.\footnote{Our energy binning is constructed by taking 40 log-spaced bins between 200~MeV and 2~TeV and then removing the lowest four and highest ten bins, for reasons discussed in the companion paper~\cite{companion}. }  The recommended set of quality cuts are applied to the data corresponding to zenith angle less than $90^\circ$, $\texttt{LAT\_CONFIG}=1$, and $\texttt{DATA\_QUAL}>0$.\footnote{\url{https://fermi.gsfc.nasa.gov/ssc/data/analysis/documentation/Cicerone/Cicerone_Data_Exploration/Data_preparation.html}.}  We also mask known large-scale structures~\cite{companion}.
 
 The template analysis that we perform using \texttt{NPTFit}~\cite{Mishra-Sharma:2016gis} is similar to that of previous dSph studies~\cite{Ackermann:2015zua,Fermi-LAT:2016uux}  and is detailed in our companion paper~\cite{companion}.  We summarize the relevant points here.  Each region-of-interest (ROI), defined as the $10^\circ$ area surrounding each halo center, has its own likelihood.  In each energy bin, this  likelihood is the product, over all pixels, of the Poisson probability for the observed photon counts per pixel.  This probability depends on the mean expected counts per pixel, which depends on contributions from known astrophysical emission as well as a potential DM signal. Note that the likelihood is also multiplied by the appropriate log-normal distribution for $J$, which we treat as a single nuisance parameter for each halo and account for through the profile likelihood method.  
 
@@ -88,7 +116,9 @@ Galaxy groups are expected to emit gamma-rays from standard cosmic-ray processes
 
 We adopt the following algorithm to remove halos with large residuals that are inconsistent with DM annihilation in the other groups in the sample. A group is excluded if it meets two conditions. First, to ensure it is a statistically significant excess, we require twice the difference between the maximum log likelihood and the log likelihood with $\langle \sigma v \rangle = 0$ to be greater than 9 at any DM mass. This selects sources with large residuals at a given DM mass.  Second, the residuals must be strongly inconsistent with limits set by other galaxy groups. Specifically, the halo  must satisfy $\langle\sigma v\rangle_\text{best} > 10 \times \langle\sigma v\rangle^*_\text{lim}$, where $\langle\sigma v\rangle_\text{best}$ is the halo's best-fit cross section at \emph{any} mass and $\langle\sigma v\rangle^*_\text{lim}$ is the strongest limit out of all halos at the specified $m_\chi$. These conditions are designed to exclude galaxy groups where the gamma-ray emission is inconsistent with a DM origin.  This prescription has been extensively tested on mock data and, crucially, does not exclude injected signals~\cite{companion}.
 
-\noindent  {\bf Results.}  The left panel of Fig.~\ref{fig:bounds} illustrates the main results of the stacked analysis.  The solid black line represents the limit obtained for DM annihilating to a $b \bar b$ final state using the fiducial boost factor model~\cite{Bartels:2015uba}, while the dashed line  shows the limit without the boost factor enhancement.  To estimate the expected limit under the null hypothesis, we repeat the analysis by randomizing the locations of the halos on the sky 200 times, though still requiring they pass the selection cuts described above.  
+\section{Results}
+
+The left panel of Fig.~\ref{fig:bounds} illustrates the main results of the stacked analysis.  The solid black line represents the limit obtained for DM annihilating to a $b \bar b$ final state using the fiducial boost factor model~\cite{Bartels:2015uba}, while the dashed line  shows the limit without the boost factor enhancement.  To estimate the expected limit under the null hypothesis, we repeat the analysis by randomizing the locations of the halos on the sky 200 times, though still requiring they pass the selection cuts described above.  
 The colored bands indicate the 68 and 95\% containment regions for the expected limit.  
 The limit is consistent with the expectation under the null hypothesis.
 
@@ -96,7 +126,9 @@ The right panel of Fig.~\ref{fig:bounds} illustrates how the limits evolve for t
 
 The limit derived in this work is complementary to the published dSph bound~\cite{Ackermann:2015zua,Fermi-LAT:2016uux}, shown as the solid gray line in the left panel of Fig.~\ref{fig:bounds}. Given the large systematic uncertainties associated with the dwarf analyses (see~\emph{e.g.}, Ref.~\cite{Geringer-Sameth:2014qqa}), we stress the importance of using complementary targets and detection strategies to probe the same region of parameter space. Our limit also probes the parameter space that may explain the Galactic Center excess (GCE); the best-fit models are marked by the orange cross~\cite{Abazajian:2014fta}, blue~\cite{Calore:2014xka}, red~\cite{Gordon:2013vta}, and orange~\cite{Daylan:2014rsa} $2$$\sigma$ regions.  The GCE is a spherically symmetric excess of $\sim$GeV gamma-rays observed to arise from the center of the Milky Way~\cite{Goodenough:2009gk,Hooper:2010mq,TheFermi-LAT:2015kwa,Karwin:2016tsw}.  The GCE has received a considerable amount of attention because it can be explained by annihilating DM.  However, it can also be explained by more standard astrophysical sources; indeed, recent analyses have shown that the distribution of photons in this region of sky is more consistent with a population of unresolved point sources, such as millisecond pulsars, compared to smooth emission from DM~\cite{Lee:2015fea, Bartels:2015aea,Linden:2016rcf, FermiLAT:2017yoi}.  Because systematic uncertainties can be significant and hard to quantify in indirect searches for DM, it is crucial to have independent probes of the parameter space where DM can explain the GCE.  While our null findings do not exclude the DM interpretation of the GCE, their consistency with the dwarf bounds put it further in tension.  This does not, however, account for the fact that the systematics on the modeling of the Milky Way's density distribution can potentially alleviate the tension by changing the best-fit cross section for the GCE.   
 
-\noindent  {\bf Conclusions.} This Letter presents the results of the first systematic search for annihilating DM in nearby galaxy groups.  We introduced and validated  a prescription to infer properties of DM halos associated with  these groups, thereby allowing us to build a map of DM annihilation in the local Universe.  Using this map, we performed a stacked analysis of several hundred galaxy groups and obtained bounds that exclude thermal cross sections for DM  annihilating to $b \bar b$ with mass below $\sim$$30$~GeV, assuming a conservative boost factor model.  These limits are competitive with those obtained from the \emph{Fermi} dSph analyses and are in tension with the range of parameter space that can explain the GCE.  Moving forward, we plan to investigate the objects with gamma-ray excesses to see if they can be interpreted in the context of astrophysical emission.  In so doing, we can also develop more refined metrics for selecting the optimal galaxy groups for DM studies.    
+\section{Conclusions}
+
+This Letter presents the results of the first systematic search for annihilating DM in nearby galaxy groups.  We introduced and validated  a prescription to infer properties of DM halos associated with  these groups, thereby allowing us to build a map of DM annihilation in the local Universe.  Using this map, we performed a stacked analysis of several hundred galaxy groups and obtained bounds that exclude thermal cross sections for DM  annihilating to $b \bar b$ with mass below $\sim$$30$~GeV, assuming a conservative boost factor model.  These limits are competitive with those obtained from the \emph{Fermi} dSph analyses and are in tension with the range of parameter space that can explain the GCE.  Moving forward, we plan to investigate the objects with gamma-ray excesses to see if they can be interpreted in the context of astrophysical emission.  In so doing, we can also develop more refined metrics for selecting the optimal galaxy groups for DM studies.    
 
 %We include Supplementary Material that further extends the results presented here.  There, we show limits for additional annihilation final states and the brightest individual halos.  We also show how the limits are affected by several analysis choices, such as the inclusion of Andromeda and Virgo, as well as a variety of systematic uncertainties.  A complete table of the galaxy groups used in this analysis, as well as their associated properties, are provided in Supplementary Data, which can be accessed at \url{https://github.com/bsafdi/DMCat}.  The catalog includes decay factors for all of the groups in addition to the annihilation $J$-factors.  We emphasize that the supplementary catalog is separate from the {\it Fermi} analysis presented here and may be used to search for extragalactic DM annihilation and decay into neutral cosmic rays, regardless of wavelength, messenger, and instrument.
 

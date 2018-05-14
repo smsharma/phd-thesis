@@ -144,60 +144,60 @@ Finiteness of the total flux, and also the probabilities, requires $n_1 > 2$ and
 both the integral and $x_{p,0}$, appearing in the last line above, may be divergent individually if $1 < n_{k+1} < 2$.  In this case, we analytically continue in $n_{k+1}$, evaluate the contributions individually, and then sum the two expressions to get a result that is finite across the whole range of allowable parameter space.  The expressions for the $x_{p,m}$ and the sums over these quantities are given in App.~\ref{xmcalc} in terms of incomplete gamma-functions.
 
 
-\section{Analytic expressions for $x_{p,m}$ and $\sum_{m=1}^{\infty} x_{p,m}$}
-\label{xmcalc}
+% \section{Analytic expressions for $x_{p,m}$ and $\sum_{m=1}^{\infty} x_{p,m}$}
+% \label{xmcalc}
 
-In this appendix we derive analytic expressions for $x_{p,m}$ and $\sum_{m=1}^{\infty} x_{p,m}$, which  go into~\eqref{fk} and are needed to evaluate the non-Poissonian likelihood.  This is done by a straightforward application of~\eqref{eq:xpm} and~\eqref{eq:xmsum}. Recall that $x_{p,m} $ represents the average number of $m$-count source in pixel $p$. We begin by working explicitly through the 1- and 2-break source-count distributions before discussing the general case.
+% In this appendix we derive analytic expressions for $x_{p,m}$ and $\sum_{m=1}^{\infty} x_{p,m}$, which  go into~\eqref{fk} and are needed to evaluate the non-Poissonian likelihood.  This is done by a straightforward application of~\eqref{eq:xpm} and~\eqref{eq:xmsum}. Recall that $x_{p,m} $ represents the average number of $m$-count source in pixel $p$. We begin by working explicitly through the 1- and 2-break source-count distributions before discussing the general case.
 
-\subsection{1 break}
-For a single break, the pixel-dependent source count distribution is given in terms of counts by
-\begin{equation}
-\frac{dN_p}{dS} = A \frac{T_p^{({\rm PS})}}{E_p} \left\{ \begin{array}{l} \left(S/S_b\right)^{-n_1},\;\;\;\; S \geq S_b \\ \left(S/S_b\right)^{-n_2},\;\;\;\; S < S_b \end{array} \right.\,.
-\end{equation}
-In the following, we will suppress the overall factor of $T_p^{({\rm PS})}/E_p$, since it does not play an important role in this discussion and may always be restored by simply rescaling $A$.  In the same spirit, we also suppress the pixel index $p$ in $x_{p,m}$.   
+% \subsection{1 break}
+% For a single break, the pixel-dependent source count distribution is given in terms of counts by
+% \begin{equation}
+% \frac{dN_p}{dS} = A \frac{T_p^{({\rm PS})}}{E_p} \left\{ \begin{array}{l} \left(S/S_b\right)^{-n_1},\;\;\;\; S \geq S_b \\ \left(S/S_b\right)^{-n_2},\;\;\;\; S < S_b \end{array} \right.\,.
+% \end{equation}
+% In the following, we will suppress the overall factor of $T_p^{({\rm PS})}/E_p$, since it does not play an important role in this discussion and may always be restored by simply rescaling $A$.  In the same spirit, we also suppress the pixel index $p$ in $x_{p,m}$.   
 
-With this in mind, we may explicitly evaluate the expression for $x_{p,m}$ using~\eqref{eq:xpm}:
-\begin{equation}\begin{aligned}
-x_{m} =& \frac{A}{m!} \left[ S_b^{n_1} \int_{S_b}^{\infty} dS~S^{m-n_1} e^{-S} \right. \left. + S_b^{n_2} \int_0^{S_b} dS~S^{m-n_2} e^{-S} \right] \\
-=& \frac{A}{m!} \left[ S_b^{n_1} \Gamma(1-n_1+m,S_b)+ S_b^{n_2} \Gamma(1-n_2+m) \right. \\
-&\left.~~~~- S_b^{n_2} \Gamma(1-n_2+m,S_b) \right]\,.
-\end{aligned}\end{equation}
-Now using our general result~\eqref{eq:xmsum} above, we have
-\begin{equation}\begin{aligned}
-\sum_{m=1}^{\infty} x_{m} =& A \left[ S_b^{n_1} \int_{S_b}^{\infty} dS~S^{-n_1} + S_b^{n_2} \int_0^{S_b} dS~S^{-n_2} \right] - x_{p,0} \\
-=&  A S_b \left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \right] - x_{0}\,.
-\end{aligned}\end{equation}
-This is useful because we already know $x_{0}$ from the general form of $x_{m}$ above.
+% With this in mind, we may explicitly evaluate the expression for $x_{p,m}$ using~\eqref{eq:xpm}:
+% \begin{equation}\begin{aligned}
+% x_{m} =& \frac{A}{m!} \left[ S_b^{n_1} \int_{S_b}^{\infty} dS~S^{m-n_1} e^{-S} \right. \left. + S_b^{n_2} \int_0^{S_b} dS~S^{m-n_2} e^{-S} \right] \\
+% =& \frac{A}{m!} \left[ S_b^{n_1} \Gamma(1-n_1+m,S_b)+ S_b^{n_2} \Gamma(1-n_2+m) \right. \\
+% &\left.~~~~- S_b^{n_2} \Gamma(1-n_2+m,S_b) \right]\,.
+% \end{aligned}\end{equation}
+% Now using our general result~\eqref{eq:xmsum} above, we have
+% \begin{equation}\begin{aligned}
+% \sum_{m=1}^{\infty} x_{m} =& A \left[ S_b^{n_1} \int_{S_b}^{\infty} dS~S^{-n_1} + S_b^{n_2} \int_0^{S_b} dS~S^{-n_2} \right] - x_{p,0} \\
+% =&  A S_b \left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \right] - x_{0}\,.
+% \end{aligned}\end{equation}
+% This is useful because we already know $x_{0}$ from the general form of $x_{m}$ above.
 
-\subsection{2 breaks}
-For 2 breaks, the source-count distribution is given in terms of counts by
-\begin{equation}
-\frac{dN_p}{dS} = A \frac{T_p^{({\rm PS})}}{E_p} \left\{ \begin{array}{lc} \left( \frac{S}{S_{b,1}} \right)^{-n_1}, & S \geq S_{b,1} \\ \left(\frac{S}{S_{b,1}}\right)^{-n_2}, & S_{b,1} > S \geq S_{b,2} \\ \left( \frac{S_{b,2}}{S_{b,1}} \right)^{-n_2} \left(\frac{S}{S_{b,2}}\right)^{-n_3}, & S_{b,2} > S \end{array} \right.\,.
-\end{equation}
-Again suppressing the pixel-dependent pre-factors, an explicit evaluation gives
+% \subsection{2 breaks}
+% For 2 breaks, the source-count distribution is given in terms of counts by
+% \begin{equation}
+% \frac{dN_p}{dS} = A \frac{T_p^{({\rm PS})}}{E_p} \left\{ \begin{array}{lc} \left( \frac{S}{S_{b,1}} \right)^{-n_1}, & S \geq S_{b,1} \\ \left(\frac{S}{S_{b,1}}\right)^{-n_2}, & S_{b,1} > S \geq S_{b,2} \\ \left( \frac{S_{b,2}}{S_{b,1}} \right)^{-n_2} \left(\frac{S}{S_{b,2}}\right)^{-n_3}, & S_{b,2} > S \end{array} \right.\,.
+% \end{equation}
+% Again suppressing the pixel-dependent pre-factors, an explicit evaluation gives
 
-\es{}{
-\begin{aligned}
-x_m &= \frac{A S_{b,1}^{n_1}}{ m!} \left[ \Gamma(1-n_1+m,S_{b,1}) + S_{b,1}^{n_2-n_1} \Gamma(1-n_2+m,S_{b,2}) - S_{b,1}^{n_2-n_1} \Gamma(1-n_2+m,S_{b,1}) \right. \\
-&\left.~~~~~~~~~~~+ S_{b,1}^{n_2-n_1} S_{b,2}^{n_3-n_2} \Gamma(1-n_3+m) - S_{b,1}^{n_2-n_1} S_{b,2}^{n_3-n_2} \Gamma(1-n_3+m,S_{b,2}) \right] \,,
-\end{aligned}
-}
-\begin{equation}\begin{aligned}
-\sum_{m=1}^{\infty} x_m = AS_{b,1} &\left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \left( 1 - \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right)+\frac{1}{1-n_3} \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right] - x_0 \,.
-\end{aligned}\end{equation}
+% \es{}{
+% \begin{aligned}
+% x_m &= \frac{A S_{b,1}^{n_1}}{ m!} \left[ \Gamma(1-n_1+m,S_{b,1}) + S_{b,1}^{n_2-n_1} \Gamma(1-n_2+m,S_{b,2}) - S_{b,1}^{n_2-n_1} \Gamma(1-n_2+m,S_{b,1}) \right. \\
+% &\left.~~~~~~~~~~~+ S_{b,1}^{n_2-n_1} S_{b,2}^{n_3-n_2} \Gamma(1-n_3+m) - S_{b,1}^{n_2-n_1} S_{b,2}^{n_3-n_2} \Gamma(1-n_3+m,S_{b,2}) \right] \,,
+% \end{aligned}
+% }
+% \begin{equation}\begin{aligned}
+% \sum_{m=1}^{\infty} x_m = AS_{b,1} &\left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \left( 1 - \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right)+\frac{1}{1-n_3} \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right] - x_0 \,.
+% \end{aligned}\end{equation}
 
 
-\subsection{$k$ breaks}
+% \subsection{$k$ breaks}
 
-The source-count distribution in the general $k$-break case is given in~\eqref{mbpl} in terms of flux.  In terms of counts and again suppressing pixel-dependent prefactors the result for $x_m$ and $\sum_{m=1}^{\infty} x_m$ is a simple generalization from the expressions for the $1$- and $2$-break cases:
+% The source-count distribution in the general $k$-break case is given in~\eqref{mbpl} in terms of flux.  In terms of counts and again suppressing pixel-dependent prefactors the result for $x_m$ and $\sum_{m=1}^{\infty} x_m$ is a simple generalization from the expressions for the $1$- and $2$-break cases:
 
-\es{}{
-x_m = \frac{AS_{b,1}^{n_1}}{ m!} & \left[ \Gamma(1-n_1+m,S_{b,1}) 
-+ \sum_{i=1}^{k-1} \left[ \prod_{j=1}^{i} S_{b,j}^{n_{j+1}-n_j} \right] \left\{\Gamma(1-n_{i+1}+m,S_{b,i+1}) - \Gamma(1-n_{i+1}+m,S_{b,i}) \right\}\right. \\
-&\left.~+ \left[ \prod_{j=1}^{k} S_{b,j}^{n_{j+1}-n_j} \right] \left\{ \Gamma(1-n_{k+1}+m) - \Gamma(1-n_{k+1}+m,S_{b,k}) \right\}\right] \,,
-}
-\es{}{
-\sum_{m=1}^{\infty} x_m = A S_{b,1} &\left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \left( 1 - \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right) \right. + \sum_{i=3}^{k} \frac{1}{1-n_i} \left[ \prod_{j=1}^{i-2} \left( \frac{S_{b,j+1}}{S_{b,j}} \right)^{1-n_{j+1}} \right] \left( 1 - \left( \frac{S_{b,i}}{S_{b,i-1}} \right)^{1-n_i} \right) \\
-&\left.~+ \frac{1}{1-n_{k+1}} \left[ \prod_{j=1}^{k-1} \left( \frac{S_{b,j+1}}{S_{b,j}} \right)^{1-n_{j+1}} \right] \right] - x_0 \,.
-}
+% \es{}{
+% x_m = \frac{AS_{b,1}^{n_1}}{ m!} & \left[ \Gamma(1-n_1+m,S_{b,1}) 
+% + \sum_{i=1}^{k-1} \left[ \prod_{j=1}^{i} S_{b,j}^{n_{j+1}-n_j} \right] \left\{\Gamma(1-n_{i+1}+m,S_{b,i+1}) - \Gamma(1-n_{i+1}+m,S_{b,i}) \right\}\right. \\
+% &\left.~+ \left[ \prod_{j=1}^{k} S_{b,j}^{n_{j+1}-n_j} \right] \left\{ \Gamma(1-n_{k+1}+m) - \Gamma(1-n_{k+1}+m,S_{b,k}) \right\}\right] \,,
+% }
+% \es{}{
+% \sum_{m=1}^{\infty} x_m = A S_{b,1} &\left[ \frac{1}{n_1-1} + \frac{1}{1-n_2} \left( 1 - \left( \frac{S_{b,2}}{S_{b,1}} \right)^{1-n_2} \right) \right. + \sum_{i=3}^{k} \frac{1}{1-n_i} \left[ \prod_{j=1}^{i-2} \left( \frac{S_{b,j+1}}{S_{b,j}} \right)^{1-n_{j+1}} \right] \left( 1 - \left( \frac{S_{b,i}}{S_{b,i-1}} \right)^{1-n_i} \right) \\
+% &\left.~+ \frac{1}{1-n_{k+1}} \left[ \prod_{j=1}^{k-1} \left( \frac{S_{b,j+1}}{S_{b,j}} \right)^{1-n_{j+1}} \right] \right] - x_0 \,.
+% }
 

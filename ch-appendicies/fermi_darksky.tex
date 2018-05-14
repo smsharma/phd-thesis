@@ -1,14 +1,14 @@
-\chapter{Appendix C: Supplemantary Material on Cluster Searches (Simulations)}
+% \chapter{Supplementary Material on Extragalactic Cluster Searches}
 
-\section{$J$- and $D$-factors for Extragalactic Sources}
+\chapter{$J$- and $D$-factors for Extragalactic Sources}
 \label{app:JDrelations}
 
 In this Appendix, we derive the $J$-factor relations used in the main text. We also derive the corresponding $D$-factor relations, which apply to the case of decaying DM.  Although we do not make use of the decay results in the main text, we include these results for completeness because much of our main analysis can be extended to the decaying case.
 This Appendix is broken into three subsections. In the first of these, we detail the units and conventions used in our definition of the $J$- and $D$-factors.  After this, we derive an approximate form of the astrophysics factors for different DM density profiles and discuss the accuracy of the approximations made.  We conclude with a discussion of error propagation in the $J$-factors.  Note that several of the details presented in these appendices have been discussed elsewhere, see \emph{e.g.}, Ref.~\cite{Abdo:2010ex,Charbonnier:2011ft,Charbonnier:2012gf,Evans:2016xwx}. 
 
-\subsection{Units and Conventions}
+\section{Units and Conventions}
 
-\subsubsection{Dark Matter Flux}
+\subsection{Dark Matter Flux}
 
 We begin by carefully outlining the units associated with the $J$- and $D$-factors. 
 The flux, $\Phi$, associated with either DM annihilation or decay factorizes into two parts:
@@ -48,7 +48,7 @@ Combining these with Eq.~\ref{eq:ppunits}, we find that
 for both the annihilation and decay case.  This means that $\Phi$ is given in units of counts per experimental effective area [${\rm cm}^2$] per experimental run time [${\rm s}$].  
 In this work, we study extragalactic objects with small angular extent.  So long as each object is centered on the region-of-interest (ROI), we expect that all of its flux will be contained within the ROI as well.  This means that the photon counts obtained by integrating Eq.~\ref{eq:JDdef} over the entire sky corresponds to the total counts expected from that object in the ROI.  The situation is different when treating objects with a large angular extent that exceeds the size of the ROI---\emph{e.g.}, when looking for emission from the halo of the Milky Way.  In such cases, it is more common to divide the $J$- and $D$-factors by the solid angle of the ROI ($\Delta \Omega$) such that both they, and consequently $\Phi$, are averages rather than totals.  
 
-\subsubsection{Halo Mass and Concentration}
+\subsection{Halo Mass and Concentration}
 
 We briefly comment here on different mass and concentration definitions (virial and 200) as relevant to our analysis.   Boost-factor models, concentration-mass relations, and masses are often specified in terms of 200 quantities, which must be converted to virial ones. In order to do this, we use the fact that
 \begin{equation}\begin{aligned}
@@ -64,7 +64,7 @@ For different mass definitions, we have
 \end{aligned}\end{equation}
 where the concentration definitions on the right-hand side depend on $M_{200}$ and $M_\text{vir}$ and may have to be converted between each other and we have suppressed the redshift dependence for clarity.  Solving this numerically, we can convert between the two mass definitions.
 
-\subsection{Approximate $J$- and $D$-factors}
+\section{Approximate $J$- and $D$-factors}
 
 For an extragalactic DM halo, the astrophysical factors in Eq.~\ref{eq:JDdef} can be approximated as:
 \begin{equation}\begin{aligned}
@@ -116,7 +116,7 @@ We can calculate the size of the neglected terms in Eq.~\ref{eq:logexpand} to qu
 
 
 
-\subsection{Analytic Relations}
+\section{Analytic Relations}
 
 Starting from the approximate forms given in Eq.~\ref{eq:JDdapprox} and specifying a DM density profile $\rho_{\rm DM}$, the $J$- and $D$-factors can often be determined exactly.   We will now demonstrate that the final results only depend on the distance, mass, and concentration of the halo---for a given substructure boost model and cosmology.
 
@@ -195,75 +195,75 @@ D &\approx \frac{M_{\rm vir}}{d_c^2(z)} \\
 \end{align}
 for the NFW profile, where we have made explicit the fact that $r_{\rm vir}$ is a function of $M_{\rm vir}$.  When $R=r_{\rm vir}$, this reduces to the simple result in Eq.~\ref{eq:Dfactor}.
 
-\subsection{Propagating $J$-factor Uncertainties}
-\label{app:Juncertainties}
+% \subsection{Propagating $J$-factor Uncertainties}
+% \label{app:Juncertainties}
 
-We now discuss the propagation of uncertainties from inferred halo parameters into an overall uncertainty on the $J$-factor.  Specifically, we will justify the form of the log-normal distribution for the $J$-factor that was used in Eq.~\ref{eq:Jlognormal} of the main text.  While we focus our attention on the case of the $J$-factor for the NFW profile, the logic carries over straightforwardly to the Burkert profile, or even to the $D$-factor.
+% We now discuss the propagation of uncertainties from inferred halo parameters into an overall uncertainty on the $J$-factor.  Specifically, we will justify the form of the log-normal distribution for the $J$-factor that was used in Eq.~\ref{eq:Jlognormal} of the main text.  While we focus our attention on the case of the $J$-factor for the NFW profile, the logic carries over straightforwardly to the Burkert profile, or even to the $D$-factor.
 
-Our starting point is the approximate form of the NFW $J$-factor given in Eq.~\ref{eq:JNFWfull}, which shows that the $J$-factor is determined by the redshift  $z$, mass $M_{\rm vir}$, and concentration $c_{\rm vir}$, for a given substructure boost model and cosmology.  Therefore, the errors on these three parameters need to be propagated to determine the total error on the $J$-factor.  When the redshift $z$ is determined spectroscopically, the uncertainty on $d_c$ is  subdominant to the uncertainties on the $J$-factor that are induced by the mass and concentration. As such, we neglect the uncertainty in the redshift. If one were using photometric redshifts, however, these uncertainties would also need to be accounted for.  Additionally, for nearby halos in particular, the relation between redshift and distance can have further uncertainties, since this relation is affected by local peculiar velocities.  
+% Our starting point is the approximate form of the NFW $J$-factor given in Eq.~\ref{eq:JNFWfull}, which shows that the $J$-factor is determined by the redshift  $z$, mass $M_{\rm vir}$, and concentration $c_{\rm vir}$, for a given substructure boost model and cosmology.  Therefore, the errors on these three parameters need to be propagated to determine the total error on the $J$-factor.  When the redshift $z$ is determined spectroscopically, the uncertainty on $d_c$ is  subdominant to the uncertainties on the $J$-factor that are induced by the mass and concentration. As such, we neglect the uncertainty in the redshift. If one were using photometric redshifts, however, these uncertainties would also need to be accounted for.  Additionally, for nearby halos in particular, the relation between redshift and distance can have further uncertainties, since this relation is affected by local peculiar velocities.  
 
-From our studies of \texttt{DarkSky}, we see that the $M_{\rm vir}$ and $c_{\rm vir}$ distributions are well-approximated as log-normal. If the $J$-factor simply scaled as the product of several log-normal distributions ($J \sim M_{\rm vir} c_{\rm vir}^3$), then $J$ would also be log-normally distributed.  However, the dependence of the concentration parameter and boost factor on the virial mass mean that $J$ will not be exactly distributed in this way. Nevertheless, by explicitly calculating the full $J[M_{\rm vir}, c_{\rm vir}]$ distribution, we confirm that it is very accurately log-normally distributed. The reason for this is that the mass dependence of the boost factor in the Bartels substructure model~\cite{Bartels:2015uba} is very mild and additionally the $c_{\rm vir}$ dependence is subdominant in dictating the form of $J$, beyond the $c_{\rm vir}^3$ dependence.  Because the log-normal is  considerably simpler than the full distribution, we adopt it for the $J$-factor.
+% From our studies of \texttt{DarkSky}, we see that the $M_{\rm vir}$ and $c_{\rm vir}$ distributions are well-approximated as log-normal. If the $J$-factor simply scaled as the product of several log-normal distributions ($J \sim M_{\rm vir} c_{\rm vir}^3$), then $J$ would also be log-normally distributed.  However, the dependence of the concentration parameter and boost factor on the virial mass mean that $J$ will not be exactly distributed in this way. Nevertheless, by explicitly calculating the full $J[M_{\rm vir}, c_{\rm vir}]$ distribution, we confirm that it is very accurately log-normally distributed. The reason for this is that the mass dependence of the boost factor in the Bartels substructure model~\cite{Bartels:2015uba} is very mild and additionally the $c_{\rm vir}$ dependence is subdominant in dictating the form of $J$, beyond the $c_{\rm vir}^3$ dependence.  Because the log-normal is  considerably simpler than the full distribution, we adopt it for the $J$-factor.
 
-The form of the likelihood that we use for the $J$-factor in Eq.~\ref{eq:Jlognormal} is the same as that used in Ref.~\cite{Ackermann:2015zua}, but stands in contrast to Ref.~\cite{Ackermann:2011wa,Ackermann:2013yva} with the substitution of the nominal central $J$-factor in the denominator instead of the marginalized value. The interpretation of the $J$-factor as a log-normal likelihood~\cite{Ackermann:2015zua}  rather than a log-normal prior~\cite{Ackermann:2011wa,Ackermann:2013yva} ensures proper normalization for all values of $J$ and, when interpreted as a maximum likelihood estimator for signal recovery, coincides with the true underlying signal strength. This is illustrated in Fig.~\ref{fig:LLJfacForms}, where we show the test statistic as a function of DM cross section obtained for an injected signal of $\langle\sigma v \rangle= 10^{-23}\,{\rm cm}^3\,{\rm s}^{-1}$ at $m_\chi =100$ GeV after $J$-factor marginalization in the two different cases for a single halo. The left panel shows the traditional log-normal prior form of the likelihood.  The maximum of this, indicated by the vertical dotted line, is offset from the true value of the underlying cross section. This discrepancy can be substantially amplified when stacking a large number of objects. Using the log-normal likelihood form (right panel), we see that the maximum test statistic associated with the recovered signal coincides with the injected signal at the true value, $\langle\sigma v \rangle= 10^{-23}\,{\rm cm}^3\,{\rm s}^{-1}$.
-
-
-\section{Validity of Likelihood Approximation}
-\label{app:energyrange}
-
-In this Appendix, we address issues pointed out in the main text where our analysis procedure appears to induce small systematic discrepancies.  First, we discuss the incorporation of the $J$-factor uncertainties, and then we discuss issues related to the profile likelihood procedure itself. 
-
-\subsection{J-factor Likelihood}
-
-In Fig.~\ref{fig:DSinjsiglocs} of the main text,  the best-fit cross sections are systematically $\sim1$$\sigma$ higher than their injected values at high $\langle \sigma v \rangle_\text{inj}$ where DM detection is significant.  While this could be consistent with statistical fluctuations in the $J$-factor distributions, it  likely results from the fact that the assumed $J$-factor distributions, and the methods we have for calculating the central values and uncertainties, are not an exact representation of the actual $N$-body data.  To demonstrate this, Fig.~\ref{fig:noJuncertainty} shows the $m_\chi = 10$~TeV injected signal plot for an observer at Location~1, where all $J$-factors are fixed to their true values.  In this case, the best-fit cross section exactly matches the injected cross section at high values of $\langle \sigma v \rangle_\text{inj}$, confirming that it is indeed the assumed $J$-factor distributions that induce the bias seen in Fig.~\ref{fig:DSinjsiglocs}.
-
-\begin{figure}[t]
-   \centering
-   \includegraphics[width=0.48\textwidth]{ch-darksky/plots//signal_recovery_10TeV_noJuncert.pdf} \hspace{0.01cm}
-   \caption{ The same as Fig.~\ref{fig:DSinjsiglocs} for $m_\chi = 10$ TeV and for an observer at Location~1, except that the $J$-factors are fixed to their true values. Contrasting with the analogous plot in Fig.~\ref{fig:DSinjsiglocs}, we see that the $J$-factor uncertainties induce a small bias, at the $1$$\sigma$ level, towards higher recovered cross sections. }
-   \label{fig:noJuncertainty}
-\end{figure}
-
-\subsection{Profile Likelihood Approximation}
-\begin{figure*}[t]
-   \centering
-   \includegraphics[width=0.45\textwidth]{ch-darksky/plots//global_e251.pdf}
-   \includegraphics[width=0.45\textwidth]{ch-darksky/plots//global_e796.pdf}   
-   \caption{ Maximum test statistic, TS$_\text{max}$, for the stacked analysis comparing the model with and without DM annihilating to $b \bar b$.  The green~(yellow) bands show the 68\%~(95\%) containment over multiple random sky locations.  The results are shown restricting the analysis to energies below 251 (left) and 796 (right)~GeV.  In both cases, the minimum energy is 500 MeV.}
-   \label{fig:LikelihoodApprox}
-\end{figure*}
-
-As described in Sec.~\ref{sec:stats}, we use an approximation  to the full profile likelihood procedure to make the analysis computationally tractable.  This approximation comes into play when removing the nuisance parameters associated with the astrophysical templates:
-\begin{equation}
-\mathcal{L}_i^r(d_i^r | \psi_i, J^r) = \max_{\{\lambda_i^r\}}\,\mathcal{L}_i^r \left( d_i^r | \boldsymbol{\theta}_i^r, J^r \right)\,,
-\label{eq:firstprofileSM}
-\end{equation}
-following the notation of Sec.~\ref{sec:stats}.  To briefly review, the full implementation of the profile likelihood requires maximizing the $\lambda_i^r$ for all $\psi_i$ and $J^r$.  Instead, we set the $\lambda_i^r$ to their maximum values, as obtained in an initial scan where all the template normalizations are floated. In general, we find that this approximation works very well, except at high photon energies ($\gtrsim 250$~GeV) and at low photon energy ($\lesssim 500$~MeV).  We now describe the challenges incurred in more detail.
-
-At the highest energies, the number of photons becomes statistics-limited, and it is likely that there are very few photons in a given ROI. If one of these photons happens to fall  near the expected halo center, then the DM template will pick up flux in the initial scan, but all the other (astrophysical) templates will not.  In this case, the best-fit values for the astrophysical templates can be near zero, even though much larger normalizations for these templates would still be consistent with the data.  The problem arises when we set the $\lambda_i^r$ to their values from the initial scan and determine the DM intensities, because there will be evidence for a signal where there should be none, since the astrophysical templates are not allowed to adjust from their near-zero values.  This problem is not present in the full profile likelihood method, because in that case, one maximizes the likelihood over the $\lambda_i^r$ when constructing the likelihood profiles as functions of the DM intensities.  In particular, in the full profile likelihood method one obtains a better fit at low DM intensities, compared to that obtained in our approximation, because the astrophysical template normalizations are allowed to be higher.  We stress that this is not a concern at moderate energies, where the photon counts in each ROI are large enough such that the normalizations of the astrophysical templates are always well-determined. 
-
-The behavior described above can be observed directly  in the mock data (with no injected signal).  For examples, the inset plot with $m_\chi = 10$ TeV  in Fig.~\ref{fig:DSinjsiglocs} shows the maximum test statistic as a function of the injected cross section.  At low injected cross sections, the data is described by the null hypothesis and so the TS$_\text{max}$ should follow a chi-square distribution.  In particular, this means that the 84$^\text{th}$ percentile, which is given by the upper  boundary of the red bands in Fig.~\ref{fig:DSinjsiglocs}, should asymptote to a value $\sim$$0.99$, while the lower part of the band should be consistent with zero.  
-The discrepancy between the MC results and the chi-square expectation are most pronounced at high masses where the high energy bins are relatively more important.  
-
-\begin{figure*}[t]
-   \centering
-   \includegraphics[width=0.45\textwidth]{ch-darksky/plots//TFAllLimitstruth.pdf}
-     \includegraphics[width=0.45\textwidth]{ch-darksky/plots//TFLimitsJcut.pdf}
-   \caption{ (Left)  The predicted 68\% containment region over 100 MCs for the limit on the annihilation cross section for the full-sky template fitting method.  In this method, all of the $J$-factors from the individual halos are summed together.  Then, the likelihood profile is constructed for the single template.  Note that here we have assumed knowledge of the true $J$-factors, unlike in the previous figures, and have not marginalized over the corresponding uncertainties.
-   (Right)  Projected limits at $m_\chi = 100$~GeV, using the single template-fitting method, as a function of the $J$-factor cut.  Only halos with $J$-factors higher than $> J_\text{cut}$, indicated on the $x$ axis, are included in the analysis.  These results show that the limit is dominated by a small subset of halos with high $J$-factors.
-   }
-   \label{fig:DarkSkyallhalossensitivity}
-\end{figure*}
-
-One method to alleviate this tension is to impose a maximum energy cut-off.   The right panel of Fig.~\ref{fig:LikelihoodApprox} shows the maximum test statistic, TS$_\text{max}$, of the stacked analysis (for the $b\bar{b}$ channel) for energies below 796~GeV, as a function of DM mass, for data that is a Poisson draw of the background models only.  The green~(yellow) bands show the 68\%~(95\%) spread over 20~MC realizations of the mock data.  We see that TS$_\text{max}$ increases with mass and is inconsistent with 0 at the 95\% level for $m_\chi \gtrsim 500$~GeV.  Note that the 97.5 percentile for TS$_\text{max}$ should be approximately 3.84 assuming a chi-square distribution, though it is over an order of magnitude larger in the MC results at high masses.  To avoid these issues when applying the analysis to real data, we plan to restrict to energies below $\sim$$250$~GeV. The left panel of Fig.~\ref{fig:LikelihoodApprox} shows the TS$_\text{max}$ distribution for energies below 251~GeV, as obtained from 20 MCs of the mock data.  In this case, the simulated TS$_\text{max}$ distribution does a much better, though not perfect, job of approximating the expectation from the chi-square distribution across the $m_\chi$ range.
-
-A related issue is seen at low DM masses because the approximation we take to the profile likelihood method also breaks down in the lowest energy bins.  In this case, we find that the TS$_\text{max}$ distribution under the null hypothesis does not extend to values as high as would be expected from the chi-square distribution.  In particular, with our default minimum energy of 200 MeV, we find that the 84 and 97.5 percentiles of the TS$_\text{max}$ distribution under the null hypothesis for 10 GeV DM are $\sim$0.14 and $\sim$0.25, respectively.  On the other hand, increasing the minimum energy to 500 MeV brings these values to $\sim$0.70 and $\sim$2.33, respectively, which are in much closer agreement with the expectations from the chi-square distribution.  In Fig.~\ref{fig:LikelihoodApprox}, we implemented the 500 MeV minimum energy and we also plan on using this minimum energy when analyzing the real data.  We suspect that the issues with the lowest energy bins are related to the large PSF at low energies, which can extend the emission from the extragalactic DM halos on the size of the ROI.  This induces degeneracies between the DM template and the astrophysical templates.
+% The form of the likelihood that we use for the $J$-factor in Eq.~\ref{eq:Jlognormal} is the same as that used in Ref.~\cite{Ackermann:2015zua}, but stands in contrast to Ref.~\cite{Ackermann:2011wa,Ackermann:2013yva} with the substitution of the nominal central $J$-factor in the denominator instead of the marginalized value. The interpretation of the $J$-factor as a log-normal likelihood~\cite{Ackermann:2015zua}  rather than a log-normal prior~\cite{Ackermann:2011wa,Ackermann:2013yva} ensures proper normalization for all values of $J$ and, when interpreted as a maximum likelihood estimator for signal recovery, coincides with the true underlying signal strength. This is illustrated in Fig.~\ref{fig:LLJfacForms}, where we show the test statistic as a function of DM cross section obtained for an injected signal of $\langle\sigma v \rangle= 10^{-23}\,{\rm cm}^3\,{\rm s}^{-1}$ at $m_\chi =100$ GeV after $J$-factor marginalization in the two different cases for a single halo. The left panel shows the traditional log-normal prior form of the likelihood.  The maximum of this, indicated by the vertical dotted line, is offset from the true value of the underlying cross section. This discrepancy can be substantially amplified when stacking a large number of objects. Using the log-normal likelihood form (right panel), we see that the maximum test statistic associated with the recovered signal coincides with the injected signal at the true value, $\langle\sigma v \rangle= 10^{-23}\,{\rm cm}^3\,{\rm s}^{-1}$.
 
 
-One takeaway from these exercises is that the approximation to the full profile likelihood method discussed here has its limitations.  As a result, it would always be best to perform the full likelihood analysis on the data, if the necessary  computational resources are available.   
-In lieu of that, one can adjust the energy binning to give results that well-approximate the expectations from the exact procedure.
+% \section{Validity of Likelihood Approximation}
+% \label{app:energyrange}
+
+% In this Appendix, we address issues pointed out in the main text where our analysis procedure appears to induce small systematic discrepancies.  First, we discuss the incorporation of the $J$-factor uncertainties, and then we discuss issues related to the profile likelihood procedure itself. 
+
+% \subsection{J-factor Likelihood}
+
+% In Fig.~\ref{fig:DSinjsiglocs} of the main text,  the best-fit cross sections are systematically $\sim1$$\sigma$ higher than their injected values at high $\langle \sigma v \rangle_\text{inj}$ where DM detection is significant.  While this could be consistent with statistical fluctuations in the $J$-factor distributions, it  likely results from the fact that the assumed $J$-factor distributions, and the methods we have for calculating the central values and uncertainties, are not an exact representation of the actual $N$-body data.  To demonstrate this, Fig.~\ref{fig:noJuncertainty} shows the $m_\chi = 10$~TeV injected signal plot for an observer at Location~1, where all $J$-factors are fixed to their true values.  In this case, the best-fit cross section exactly matches the injected cross section at high values of $\langle \sigma v \rangle_\text{inj}$, confirming that it is indeed the assumed $J$-factor distributions that induce the bias seen in Fig.~\ref{fig:DSinjsiglocs}.
+
+% \begin{figure}[t]
+%    \centering
+%    \includegraphics[width=0.48\textwidth]{ch-darksky/plots//signal_recovery_10TeV_noJuncert.pdf} \hspace{0.01cm}
+%    \caption{ The same as Fig.~\ref{fig:DSinjsiglocs} for $m_\chi = 10$ TeV and for an observer at Location~1, except that the $J$-factors are fixed to their true values. Contrasting with the analogous plot in Fig.~\ref{fig:DSinjsiglocs}, we see that the $J$-factor uncertainties induce a small bias, at the $1$$\sigma$ level, towards higher recovered cross sections. }
+%    \label{fig:noJuncertainty}
+% \end{figure}
+
+% \subsection{Profile Likelihood Approximation}
+% \begin{figure*}[t]
+%    \centering
+%    \includegraphics[width=0.45\textwidth]{ch-darksky/plots//global_e251.pdf}
+%    \includegraphics[width=0.45\textwidth]{ch-darksky/plots//global_e796.pdf}   
+%    \caption{ Maximum test statistic, TS$_\text{max}$, for the stacked analysis comparing the model with and without DM annihilating to $b \bar b$.  The green~(yellow) bands show the 68\%~(95\%) containment over multiple random sky locations.  The results are shown restricting the analysis to energies below 251 (left) and 796 (right)~GeV.  In both cases, the minimum energy is 500 MeV.}
+%    \label{fig:LikelihoodApprox}
+% \end{figure*}
+
+% As described in Sec.~\ref{sec:stats}, we use an approximation  to the full profile likelihood procedure to make the analysis computationally tractable.  This approximation comes into play when removing the nuisance parameters associated with the astrophysical templates:
+% \begin{equation}
+% \mathcal{L}_i^r(d_i^r | \psi_i, J^r) = \max_{\{\lambda_i^r\}}\,\mathcal{L}_i^r \left( d_i^r | \boldsymbol{\theta}_i^r, J^r \right)\,,
+% \label{eq:firstprofileSM}
+% \end{equation}
+% following the notation of Sec.~\ref{sec:stats}.  To briefly review, the full implementation of the profile likelihood requires maximizing the $\lambda_i^r$ for all $\psi_i$ and $J^r$.  Instead, we set the $\lambda_i^r$ to their maximum values, as obtained in an initial scan where all the template normalizations are floated. In general, we find that this approximation works very well, except at high photon energies ($\gtrsim 250$~GeV) and at low photon energy ($\lesssim 500$~MeV).  We now describe the challenges incurred in more detail.
+
+% At the highest energies, the number of photons becomes statistics-limited, and it is likely that there are very few photons in a given ROI. If one of these photons happens to fall  near the expected halo center, then the DM template will pick up flux in the initial scan, but all the other (astrophysical) templates will not.  In this case, the best-fit values for the astrophysical templates can be near zero, even though much larger normalizations for these templates would still be consistent with the data.  The problem arises when we set the $\lambda_i^r$ to their values from the initial scan and determine the DM intensities, because there will be evidence for a signal where there should be none, since the astrophysical templates are not allowed to adjust from their near-zero values.  This problem is not present in the full profile likelihood method, because in that case, one maximizes the likelihood over the $\lambda_i^r$ when constructing the likelihood profiles as functions of the DM intensities.  In particular, in the full profile likelihood method one obtains a better fit at low DM intensities, compared to that obtained in our approximation, because the astrophysical template normalizations are allowed to be higher.  We stress that this is not a concern at moderate energies, where the photon counts in each ROI are large enough such that the normalizations of the astrophysical templates are always well-determined. 
+
+% The behavior described above can be observed directly  in the mock data (with no injected signal).  For examples, the inset plot with $m_\chi = 10$ TeV  in Fig.~\ref{fig:DSinjsiglocs} shows the maximum test statistic as a function of the injected cross section.  At low injected cross sections, the data is described by the null hypothesis and so the TS$_\text{max}$ should follow a chi-square distribution.  In particular, this means that the 84$^\text{th}$ percentile, which is given by the upper  boundary of the red bands in Fig.~\ref{fig:DSinjsiglocs}, should asymptote to a value $\sim$$0.99$, while the lower part of the band should be consistent with zero.  
+% The discrepancy between the MC results and the chi-square expectation are most pronounced at high masses where the high energy bins are relatively more important.  
+
+% \begin{figure*}[t]
+%    \centering
+%    \includegraphics[width=0.45\textwidth]{ch-darksky/plots//TFAllLimitstruth.pdf}
+%      \includegraphics[width=0.45\textwidth]{ch-darksky/plots//TFLimitsJcut.pdf}
+%    \caption{ (Left)  The predicted 68\% containment region over 100 MCs for the limit on the annihilation cross section for the full-sky template fitting method.  In this method, all of the $J$-factors from the individual halos are summed together.  Then, the likelihood profile is constructed for the single template.  Note that here we have assumed knowledge of the true $J$-factors, unlike in the previous figures, and have not marginalized over the corresponding uncertainties.
+%    (Right)  Projected limits at $m_\chi = 100$~GeV, using the single template-fitting method, as a function of the $J$-factor cut.  Only halos with $J$-factors higher than $> J_\text{cut}$, indicated on the $x$ axis, are included in the analysis.  These results show that the limit is dominated by a small subset of halos with high $J$-factors.
+%    }
+%    \label{fig:DarkSkyallhalossensitivity}
+% \end{figure*}
+
+% One method to alleviate this tension is to impose a maximum energy cut-off.   The right panel of Fig.~\ref{fig:LikelihoodApprox} shows the maximum test statistic, TS$_\text{max}$, of the stacked analysis (for the $b\bar{b}$ channel) for energies below 796~GeV, as a function of DM mass, for data that is a Poisson draw of the background models only.  The green~(yellow) bands show the 68\%~(95\%) spread over 20~MC realizations of the mock data.  We see that TS$_\text{max}$ increases with mass and is inconsistent with 0 at the 95\% level for $m_\chi \gtrsim 500$~GeV.  Note that the 97.5 percentile for TS$_\text{max}$ should be approximately 3.84 assuming a chi-square distribution, though it is over an order of magnitude larger in the MC results at high masses.  To avoid these issues when applying the analysis to real data, we plan to restrict to energies below $\sim$$250$~GeV. The left panel of Fig.~\ref{fig:LikelihoodApprox} shows the TS$_\text{max}$ distribution for energies below 251~GeV, as obtained from 20 MCs of the mock data.  In this case, the simulated TS$_\text{max}$ distribution does a much better, though not perfect, job of approximating the expectation from the chi-square distribution across the $m_\chi$ range.
+
+% A related issue is seen at low DM masses because the approximation we take to the profile likelihood method also breaks down in the lowest energy bins.  In this case, we find that the TS$_\text{max}$ distribution under the null hypothesis does not extend to values as high as would be expected from the chi-square distribution.  In particular, with our default minimum energy of 200 MeV, we find that the 84 and 97.5 percentiles of the TS$_\text{max}$ distribution under the null hypothesis for 10 GeV DM are $\sim$0.14 and $\sim$0.25, respectively.  On the other hand, increasing the minimum energy to 500 MeV brings these values to $\sim$0.70 and $\sim$2.33, respectively, which are in much closer agreement with the expectations from the chi-square distribution.  In Fig.~\ref{fig:LikelihoodApprox}, we implemented the 500 MeV minimum energy and we also plan on using this minimum energy when analyzing the real data.  We suspect that the issues with the lowest energy bins are related to the large PSF at low energies, which can extend the emission from the extragalactic DM halos on the size of the ROI.  This induces degeneracies between the DM template and the astrophysical templates.
+
+
+% One takeaway from these exercises is that the approximation to the full profile likelihood method discussed here has its limitations.  As a result, it would always be best to perform the full likelihood analysis on the data, if the necessary  computational resources are available.   
+% In lieu of that, one can adjust the energy binning to give results that well-approximate the expectations from the exact procedure.
  
  
-\section{Limits Using a Full-Sky Dark Matter Template}
-\label{app:inflimitimpact}
+% \section{Limits Using a Full-Sky Dark Matter Template}
+% \label{app:inflimitimpact}
 
-The main body of this paper presents the results of a stacked analysis in which we analyze individual targets and combine their likelihoods.  Here, we show the results of an analysis where we float the expected emission from all the halos together as a single template.  All resolved point sources are also floated together in this case. The left panel of~Fig.~\ref{fig:DarkSkyallhalossensitivity} shows the projected sensitivity in this case for $b\bar b$ annihilation, \emph{assuming the truth values for the $J$-factors}.  The green band shows the statistical variation of 100 MC iterations of the mock data.  The right panel shows how the limit for $m_\chi = 100$~GeV changes as only halos above a certain $J$-factor threshold are included in the template. Clearly, the sensitivity is dominated by a relatively small number of halos.  This suggests that the normalization of the DM annihilation flux template is being set primarily by the fluctuations of the brightest halos.  We conclude therefore that there is no benefit to doing a full-sky template analysis where the normalizations of all the halos are floated together.  Instead, these results suggest that it is far more advantageous to perform a stacked analysis of the individual galaxy groups, as  explored in this paper. 
+% The main body of this paper presents the results of a stacked analysis in which we analyze individual targets and combine their likelihoods.  Here, we show the results of an analysis where we float the expected emission from all the halos together as a single template.  All resolved point sources are also floated together in this case. The left panel of~Fig.~\ref{fig:DarkSkyallhalossensitivity} shows the projected sensitivity in this case for $b\bar b$ annihilation, \emph{assuming the truth values for the $J$-factors}.  The green band shows the statistical variation of 100 MC iterations of the mock data.  The right panel shows how the limit for $m_\chi = 100$~GeV changes as only halos above a certain $J$-factor threshold are included in the template. Clearly, the sensitivity is dominated by a relatively small number of halos.  This suggests that the normalization of the DM annihilation flux template is being set primarily by the fluctuations of the brightest halos.  We conclude therefore that there is no benefit to doing a full-sky template analysis where the normalizations of all the halos are floated together.  Instead, these results suggest that it is far more advantageous to perform a stacked analysis of the individual galaxy groups, as  explored in this paper. 

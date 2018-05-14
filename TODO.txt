@@ -1,0 +1,3 @@
+- Correct table format with proper midrules (especially in IGRB section)
+- Acknowledgements and Notes Added per-chapter
+- 

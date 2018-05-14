@@ -1,4 +1,5 @@
 \chapter{Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}
+\label{ch:igrb}
 
 \setcounter{footnote}{0}
 
@@ -126,10 +127,64 @@ The high-energy analysis uses the Pass 8 \emph{Fermi} data from $\sim$August 4, 
 
 To study the behavior of the NPTF, we apply it to simulated data sets of the gamma-ray sky.  These results are crucial both for understanding systematics associated with the NPTF as well as for interpreting the results of the NPTF in terms of evidence for or against the existence of these source populations. 
 
-A simulated data map can be created starting from a particular source population that contributes to the EGB.  Using a theory model for the energy spectrum and luminosity function, the source-count distribution for that population can be derived in a specified energy range---see Appendix~\ref{app:sims} for further details on this procedure.  The appropriate number of sources is then drawn from this function and randomly distributed across the sky, with counts chosen to follow the intensity spectrum. Sources are then smeared with the appropriate Gaussian PSF to mimic the desired {\it Fermi} data set
+A simulated data map can be created starting from a particular source population that contributes to the EGB.  Using a theory model for the energy spectrum and luminosity function, the source-count distribution for that population can be derived in a specified energy range---see Sec.~\ref{sims} for further details on this procedure.  The appropriate number of sources is then drawn from this function and randomly distributed across the sky, with counts chosen to follow the intensity spectrum. Sources are then smeared with the appropriate Gaussian PSF to mimic the desired {\it Fermi} data set
 bin-wise in energy, and Poisson counts are drawn to obtain the simulated map for the population.  This is then combined with the simulated contribution of the \texttt{p8r2} foreground model and the \emph{Fermi} bubbles, whose normalizations are determined from the Poissonian template fits to the real data, as described in Sec.~\ref{sec:methodology}.  
 
-For most of this section, we simulate data corresponding to the PSF3 event type (best PSF quartile) of the \emph{ultracleanveto} event class and focus on the following four energy bins: [1.89, 4.75], [4.75, 11.9], [11.9, 30], and [30, 94.9]~GeV.\footnote{Potential systematic issues arising from going to lower energies are discussed in Appendix~\ref{app:verylowenergies}.}  However, we also simulate data corresponding to the PSF1--3 (top 3 PSF quartiles) instrument response function to illustrate potential advantages in going to the more inclusive data set, albeit with a slightly worse PSF.   Once the simulated data maps are created, we run them through the NPTF analysis pipeline.  First, we analyze the case where either blazars or SFGs fully account for the EGB, and then we analyze a perhaps more realistic scenario where both populations contribute significantly to the flux.  The particular blazar and SFG models used here are merely meant for illustration.  They are chosen as examples that span the range of possibilities between smooth and PS isotropic contributions.  As mAGN are fainter and more numerous then blazars, they likely act similarly to SFGs in the context of the NPTF and so we do not consider them separately here.  A detailed analysis of how the NPTF responds to the broader class of theoretical models for these source classes is beyond the scope of this study.   
+For most of this section, we simulate data corresponding to the PSF3 event type (best PSF quartile) of the \emph{ultracleanveto} event class and focus on the following four energy bins: [1.89, 4.75], [4.75, 11.9], [11.9, 30], and [30, 94.9]~GeV.
+%\footnote{Potential systematic issues arising from going to lower energies are discussed in Appendix~\ref{app:verylowenergies}.}  
+However, we also simulate data corresponding to the PSF1--3 (top 3 PSF quartiles) instrument response function to illustrate potential advantages in going to the more inclusive data set, albeit with a slightly worse PSF.   Once the simulated data maps are created, we run them through the NPTF analysis pipeline.  First, we analyze the case where either blazars or SFGs fully account for the EGB, and then we analyze a perhaps more realistic scenario where both populations contribute significantly to the flux.  The particular blazar and SFG models used here are merely meant for illustration.  They are chosen as examples that span the range of possibilities between smooth and PS isotropic contributions.  As mAGN are fainter and more numerous then blazars, they likely act similarly to SFGs in the context of the NPTF and so we do not consider them separately here.  A detailed analysis of how the NPTF responds to the broader class of theoretical models for these source classes is beyond the scope of this study.
+
+\subsection{Simulating Energy-Binned Source-Count Distributions}
+\label{sims}
+
+We generate simulated maps directly from the source-count distribution $dN/dF_{\gamma}$. To obtain this, we need two inputs: the gamma-ray luminosity function, $\Phi(L_{\gamma},z,\Gamma)$, and the source energy spectrum, $dF/dE$~\cite{DiMauro:2014wha}.  Typically, the luminosity function (LF) is given by
+\begin{equation}
+\Phi(L_{\gamma},z,\Gamma)=\frac{d^3N}{dL_\gamma\,dV\,d\Gamma} \,  ,
+\end{equation}
+where $V$ is the comoving volume, $\Gamma$ is the photon spectral index, $z$ is the redshift, $N$ is the number of sources, and $L_\gamma$ is the rest-frame luminosity for energies from 0.1--100~GeV in units of GeV\,s$^{-1}$.     
+
+The photon flux in this energy range, $F_\gamma$, 
+is defined in terms of the source energy spectrum,
+\begin{equation}
+F_\gamma(\Gamma) = \int_{E_\text{min}}^{E_\text{max}}\frac{dF}{dE} \, dE \, ,
+\label{eq: Fgamma}
+\end{equation}
+where the units are cm$^{-2}$\,s$^{-1}$, and $E_\text{min(max)} = 0.1(100)$~GeV.
+
+The source-count distribution is then given by
+\begin{equation}
+\frac{dN}{dF_\gamma} = \frac{1}{4\pi} \int_{\Gamma_\text{min}}^{\Gamma_\text{max}} d\Gamma \int_{z_\text{min}}^{z_\text{max}} dz \, \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz} \, \frac{dL_\gamma}{dF_{\gamma}} \, ,
+\label{eq: dNdFexact}
+\end{equation}
+which can be accurately estimated as
+\begin{equation}
+\frac{dN}{dF_\gamma} \approx \frac{1}{\Delta F_\gamma} \, \frac{1}{4\pi} \int_{\Gamma_\text{min}}^{\Gamma_\text{max}} d\Gamma \int_{z_\text{min}}^{z_\text{max}} dz \, \int_{L_\gamma(F_\gamma, \Gamma,z)}^{L_\gamma(F_\gamma+\Delta F_\gamma, \Gamma,z)} dL_\gamma \, \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz} \, ,
+\label{eq: dNdF}
+\end{equation}
+where $4\pi$ is the full-sky solid angle, $dV/dz$ is the comoving volume slice for a given redshift and $\Delta F_\gamma$ is sufficiently small.  To calculate $dN/dF_\gamma$, we need the following expression, which relates the luminosity to the energy flux:
+\begin{equation} 
+L_\gamma(F_\gamma, \Gamma,z) = \frac{4\pi d_L^2}{(1+z)^{2-\Gamma}}  \, \int_{E_\text{min}}^{E_\text{max}} \, E\,\frac{dF}{dE}\, dE \, ,
+\label{eq:lumi}
+\end{equation}
+where $d_L$ is the luminosity distance. For a given $F_\gamma$ and $\Gamma$, one can use~\eqref{eq: Fgamma} to solve for the normalization of $dF/dE$, which can be substituted into~\eqref{eq:lumi}, along with $z$ and $\Gamma$, to obtain the associated value of the luminosity. The photon flux, $F_\gamma$, is related to the photon count, $S_\gamma$, via the mean exposure $\langle \bar{\mathcal{E}} \rangle$, which is averaged over 0.1--100~GeV and the ROI.  This allows us to finally obtain $dN/dS_\gamma$ from \eqref{eq: dNdF}.
+
+The procedure outlined above allows one to obtain the source-count distributions based on models of luminosity functions and spectral energy distributions provided in the literature. For the AGN and SFG examples we consider in detail in this work, the luminosity functions correspond to photon energies from 0.1--100~GeV.  However, we also need the source-count distributions in subset energy ranges corresponding to our energy bins of interest, with $E'_\text{min, max}\in [0.1, 100]$~GeV.  We rescale the fluxes for these individual energy bins of interest to those in the provided 0.1--100~GeV range using a procedure similar to~\cite{DiMauro:2014wha}. Denoting quantities associated with this energy bin with a prime, we can write the new source-count distribution as
+\begin{equation}
+\frac{dN}{dF'_\gamma}\approx \frac{1}{\Delta F'_\gamma} \, \frac{1}{4\pi} \int_{\Gamma_\text{min}}^{\Gamma_\text{max}} d\Gamma \int_{z_\text{min}}^{z_\text{max}} dz \int_{L_\gamma(F_\gamma(F'_\gamma,\Gamma),\Gamma,z)}^{L_\gamma(F_\gamma(F'_\gamma+\Delta F'_\gamma,\Gamma),\Gamma,z)} dL_\gamma \, \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz} \, ,
+\label{eq: dNdFprime}
+\end{equation}
+where $\Delta F'_\gamma$ is again sufficiently small---we set $\Delta F'_\gamma \equiv 10^{-3} F'_\gamma$, and verify that the answer is robust to this choice. Note that the integral must still be done over $L_\gamma$ (unprimed) because the luminosity function is explicitly defined in terms of it.  So, we must solve for the photon flux over the full energy, $F_\gamma$, in terms of the value in the sub-bin, $F_\gamma'$.  The two are related via a proportionality relation
+\begin{equation}
+F_\gamma(F'_\gamma,\Gamma) = F'_\gamma \, \frac{\int_{E_\text{min}}^{E_\text{max}}  dE \int_{L_{\gamma,\text{min}}}^{L_{\gamma,\text{max}}} dL_{\gamma}\int_{z_\text{min}}^{z_\text{max}} dz \,  \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz} \, \frac{dF}{dE}\,e^{-\tau_\text{\tiny{EBL}}(E,z)}}{\int_{E'_\text{min}}^{E'_\text{max}}  dE \int_{L_{\gamma,\text{min}}}^{L_{\gamma,\text{max}}} dL_{\gamma}\int_{z_\text{min}}^{z_\text{max}} dz \, \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz} \, \frac{dF}{dE}\,e^{-\tau_\text{\tiny{EBL}}(E,z)}} \, ,
+\end{equation}
+where the exponential factor accounts for the attenuation due to extragalactic background light (EBL)~\cite{Gould:1966pza, Fazio:1970pr, 1992ApJ...390L..49S, Franceschini:2008tp, 2012Sci...338.1190A,Abramowski:2012ry,Dominguez:2013lfa}.  It arises from pair annihilation of high-energy gamma-ray photons with other background photons in infrared, optical, and/or ultraviolet, and is described by the optical depth, $\tau_\text{\tiny{EBL}}$.  We use the EBL attenuation model from~\cite{2010ApJ...712..238F}.  
+
+Additionally, the expected gamma-ray spectrum can be calculated from the luminosity function as
+\begin{equation}
+\frac{dN}{dE} = \frac{1}{4\pi} \int_{\Gamma_\text{min}}^{\Gamma_\text{max}} d\Gamma \int_{z_\text{min}}^{z_\text{max}} dz \, \int_{L_{\gamma,\text{min}}}^{L_{\gamma,\text{max}}} dL_\gamma \, \Phi(L_\gamma,z,\Gamma) \, \frac{dV}{dz}\,\frac{dF}{dE} \, e^{-\tau_\text{\tiny{EBL}}(E,z)} \, .
+\label{eq: dIdE}
+\end{equation}
+We use this equation to appropriately weight the number of photons per energy sub-bin for the individual sources when creating simulated maps. This ensures that the variations in PSF and exposure within the larger energy bins used in the NPTF analyses are properly accounted for in the simulation procedure.   
   
 
 \subsection{Blazars}
@@ -184,7 +239,9 @@ in each of the four respective energy bins, while for the Blazar--2 model, we fi
  for the particular Monte Carlo realizations shown.\footnote{Different Monte Carlo realizations are found to induce variations consistent with the quoted statistical uncertainties, generally on the order of 5\%.}
 For the Blazar--2 scenario, more flux goes into smooth isotropic emission, which is why the PS fractions are correspondingly smaller in each energy bin.  Note that, in both scenarios, the fraction of the blazar flux absorbed by the PS template decreases at higher energies, where the photon counts become less numerous and a higher fraction of the blazar flux is generated by sub-threshold sources.  As a result, the intensities $I_\text{iso}^\text{PS}$ should be interpreted as lower bounds on the blazar flux; this intuition is validated by the fact that the ratios  $I_\text{iso}^\text{PS} / I_\text{blazar-sim}$ tend to be less than unity.  
 
-Next, we explore whether including more quartiles of the {\it ultracleanveto} data, as ranked by PSF, increases our ability to reconstruct the blazar flux as PSs under the NPTF.  When including more quartiles of data, there are two competing effects that determine our ability to constrain the PS flux: on the one hand,  we increase the effective area, but on the other hand, we worsen the angular resolution of the data set.  We investigate these effects by repeating the Monte Carlo tests described above using the PSF1--3 instrument response function.  The results of the PSF1--3 tests are described in Appendix~\ref{app:ucvsims}, and here we simply quote the fractions 
+Next, we explore whether including more quartiles of the {\it ultracleanveto} data, as ranked by PSF, increases our ability to reconstruct the blazar flux as PSs under the NPTF.  When including more quartiles of data, there are two competing effects that determine our ability to constrain the PS flux: on the one hand,  we increase the effective area, but on the other hand, we worsen the angular resolution of the data set.  We investigate these effects by repeating the Monte Carlo tests described above using the PSF1--3 instrument response function
+%.  The results of the PSF1--3 tests are described in Appendix~\ref{app:ucvsims}
+, and here we simply quote the fractions 
 \begin{equation}
 \frac{ I_\text{iso}^\text{PS}}{ I_\text{blazar-sim}} = [0.78_{-0.05}^{+0.06}, 0.81_{-0.06}^{+0.07}, 0.72_{-0.06}^{+0.06}, 0.57_{-0.05}^{+0.06}]\,  \nonumber
  \end{equation}
@@ -197,7 +254,8 @@ Star-forming galaxies (SFGs) like our own Milky Way are individually fainter, th
 To illustrate this point, we simulate SFGs using the luminosity function and energy spectrum from~\cite{Tamborra:2014xia}.  In that work, input from infrared wavelengths was used to construct a model for the infrared flux from SFGs.
 Then, a scaling relation was used to convert from infrared to gamma-ray luminosities.  The contributions from quiescent and starburst SFGs were considered separately, along with SFGs that host an AGN.  Note, however, that other models predict less emission from SFGs than this particular case---see \emph{e.g.},~\cite{Makiya:2010zt,Inoue:2011bm,Ackermann:2012vca}.
 
-The results of the SFG-only simulations are described in Appendix~\ref{app:sfgsims}.  We find that while the NPTF does detect a small PS component in the first few energy bins, as the result of a few SFGs above the sensitivity threshold of the NPTF in those energy bins, by far most of the SFG emission is detected as smooth isotropic emission, with the ratio $I_\text{iso}^\text{PS} / I_\text{iso}\lesssim 1/100$ in all energy bins, where $I_\text{iso}$ is the intensity of smooth isotropic emission.  Moreover, the intensity $I_\text{iso}$ is consistent with the simulated EGB (SFG flux) in all energy bins, at 68\% confidence.
+% The results of the SFG-only simulations are described in Appendix~\ref{app:sfgsims}.  
+We also performed tests using simulated SFGs. We find that while the NPTF does detect a small PS component in the first few energy bins, as the result of a few SFGs above the sensitivity threshold of the NPTF in those energy bins, by far most of the SFG emission is detected as smooth isotropic emission, with the ratio $I_\text{iso}^\text{PS} / I_\text{iso}\lesssim 1/100$ in all energy bins, where $I_\text{iso}$ is the intensity of smooth isotropic emission.  Moreover, the intensity $I_\text{iso}$ is consistent with the simulated EGB (SFG flux) in all energy bins, at 68\% confidence.
 
 \subsection{Blazar and SFG combination}
 \begin{figure*}[t] %  figure placement: here, top, bottom, or page
@@ -350,7 +408,7 @@ Other than the location of the lowest break, which is lower due to the increased
 \subsection{Systematic Tests}
 \label{sec:systematictests}
 
-The previous subsection illustrated how the results of the NPTF change when additional {\it ultracleanveto} PSF quartiles are included in the analysis. We also tested the stability of our analysis to variations in the region of interest, \emph{Fermi} event class,  foreground modeling, \emph{Fermi} bubbles, PSF modeling, and choice of priors.  These systematic tests are described in detail in Appendix~\ref{app:systematics}.  
+The previous subsection illustrated how the results of the NPTF change when additional {\it ultracleanveto} PSF quartiles are included in the analysis. We also tested the stability of our analysis to variations in the region of interest, \emph{Fermi} event class,  foreground modeling, \emph{Fermi} bubbles, PSF modeling, and choice of priors.  %These systematic tests are described in detail in Appendix~\ref{app:systematics}.  
 
 Figure~\ref{fig:systematicsplot} briefly summarizes the results.  The EGB intensity as measured by \emph{Fermi} is shown by the gray band.  To obtain this band, we use the best-fit power-law spectrum with exponential cut-off provided in~\cite{Ackermann:2014usa}; the width of the gray band is found by varying between best-fit values for the three foreground models considered in that paper (Models A/B/C) and does not include statistical uncertainties, which become increasingly important at high energies.  The smooth isotropic intensity, and thus the intensity of the EGB, is subject to large systematic uncertainties.   As expected, the variation in smooth isotropic intensity is most pronounced when using the {\it source} event class, which contains more cosmic-ray contamination.    However, the spectrum of emission from PSs as captured by the NPTF appears robust to all the systematic effects considered here.  This is the primary conclusion of this subsection. 
 
@@ -358,7 +416,9 @@ Figure~\ref{fig:systematicsplot} briefly summarizes the results.  The EGB intens
 \begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/combined_intensities_v3.pdf} 
-   \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests described in Sec.~\ref{sec:systematictests} and Appendix~\ref{app:systematics}.  Note that `UCV' is shorthand for {\it ultracleanveto}.  The gray band is meant to indicate the systematic uncertainty associated with the measured \emph{Fermi} EGB~\cite{Ackermann:2014usa} (see text for more details).}
+   \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests described in Sec.~\ref{sec:systematictests}
+   %and Appendix~\ref{app:systematics}
+   .  Note that `UCV' is shorthand for {\it ultracleanveto}.  The gray band is meant to indicate the systematic uncertainty associated with the measured \emph{Fermi} EGB~\cite{Ackermann:2014usa} (see text for more details).}
    \label{fig:systematicsplot}
 \end{figure*}
 }
@@ -369,7 +429,9 @@ Figure~\ref{fig:systematicsplot} briefly summarizes the results.  The EGB intens
 
 We now consider the NPTF results at high energies from 50--2000~GeV.  The number of photons available decreases when moving to higher energies, so we loosen the restrictions on the PSF quartiles to maximize the sensitivity potential of the NPTF.  In this section, the majority of the analyses are done using all quartiles of the {\it ultracleanveto} data, though we also show results using all quartiles of {\it source} data.  For the same reason, we widen the ROI to $|b| > 10^\circ$ rather than $30^\circ$, although the results are not sensitive to this cut, as we will show.
 
-The best-fit energy spectra recovered by the NPTF analysis for the high-energy study of  {\it ultracleanveto} data is shown in the bottom right panel of Fig.~\ref{fig:dndsdata_HE}.\footnote{The intensities and best-fit values for the individual model parameters are given in Appendix~\ref{app:suppanalysis_high}.}  The fit results are compared with the best-fit  energy spectrum for sources in \emph{Fermi}'s 2FHL catalog~\cite{Ackermann:2015uya} (dashed black line).  This recently-published catalog is based on 80 months of data and focuses on hard sources in the range from 50--2000~GeV.  Statistical and systematic uncertainties are not accounted for in the determination of the 2FHL spectrum in Fig.~\ref{fig:dndsdata_HE}; these are likely non-negligible, especially at the highest energies.
+The best-fit energy spectra recovered by the NPTF analysis for the high-energy study of  {\it ultracleanveto} data is shown in the bottom right panel of Fig.~\ref{fig:dndsdata_HE}.
+%\footnote{The intensities and best-fit values for the individual model parameters are given in Appendix~\ref{app:suppanalysis_high}.}  
+The fit results are compared with the best-fit  energy spectrum for sources in \emph{Fermi}'s 2FHL catalog~\cite{Ackermann:2015uya} (dashed black line).  This recently-published catalog is based on 80 months of data and focuses on hard sources in the range from 50--2000~GeV.  Statistical and systematic uncertainties are not accounted for in the determination of the 2FHL spectrum in Fig.~\ref{fig:dndsdata_HE}; these are likely non-negligible, especially at the highest energies.
 \begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf} 
@@ -382,11 +444,14 @@ The best-fit source-count distributions for the three energy bins are also shown
 \begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/combined_intensities_HE_v2.pdf} 
-   \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests specific to high energies.  The gray band indicates the systematic uncertainty associated with the measured \emph{Fermi} EGB~\cite{Ackermann:2014usa}.  The associated source-count distributions for these analyses are provided in Appendix~\ref{app:suppanalysis_high}. }
+   \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests specific to high energies.  The gray band indicates the systematic uncertainty associated with the measured \emph{Fermi} EGB~\cite{Ackermann:2014usa}.  %The associated source-count distributions for these analyses are provided in Appendix~\ref{app:suppanalysis_high}. 
+   }
    \label{fig:systematics_HE}
 \end{figure*}
 
-We have completed a number of systematic tests of the high-energy analyses that include looking at all quartiles of the {\it source} data, requiring $|b| > 30^\circ$ for both event classes, and using the third alternate prior choice, with $n_4 > 1$.   The results are summarized in Fig.~\ref{fig:systematics_HE}, and the source-count distributions for each of the systematic tests are given in Appendix~\ref{app:suppanalysis_high}.  Importantly, the isotropic-PS intensity is consistent across all the tests.  However, the EGB intensities recovered by the NPTF are, in general, higher than those measured by \emph{Fermi}.  This discrepancy is likely due to increased cosmic-ray contamination above $\sim$100~GeV, as suggested by the high IGRB intensities recovered by the NPTF at these energies.  Indeed, the \emph{Fermi} EGB study on Pass~7 data~\cite{Ackermann:2014usa} used dedicated event classes with specific data cuts to minimize such contributions.  Such an analysis is beyond the scope of this study, as our primary focus is on the PS populations.  We simply caution the reader that the derived intensity for the smooth isotropic component in the high-energy analyses is subject to potentially large contamination.
+We have completed a number of systematic tests of the high-energy analyses that include looking at all quartiles of the {\it source} data, requiring $|b| > 30^\circ$ for both event classes, and using the third alternate prior choice, with $n_4 > 1$.   The results are summarized in Fig.~\ref{fig:systematics_HE}.
+% and the source-count distributions for each of the systematic tests are given in Appendix~\ref{app:suppanalysis_high}.  
+Importantly, the isotropic-PS intensity is consistent across all the tests.  However, the EGB intensities recovered by the NPTF are, in general, higher than those measured by \emph{Fermi}.  This discrepancy is likely due to increased cosmic-ray contamination above $\sim$100~GeV, as suggested by the high IGRB intensities recovered by the NPTF at these energies.  Indeed, the \emph{Fermi} EGB study on Pass~7 data~\cite{Ackermann:2014usa} used dedicated event classes with specific data cuts to minimize such contributions.  Such an analysis is beyond the scope of this study, as our primary focus is on the PS populations.  We simply caution the reader that the derived intensity for the smooth isotropic component in the high-energy analyses is subject to potentially large contamination.
 \begin{figure*}[tb] %  figure placement: here, top, bottom, or page
    	\begin{center}$
 	\begin{array}{cc}
@@ -490,7 +555,8 @@ Deciphering the constituents of the EGB remains an important goal in the study o
 
 \section*{Note Added}
 
-As this work was being completed, we became aware of a complementary analysis that also takes advantage of photon-count statistics to obtain the source-count distributions in the energy range from 1--171~GeV~\cite{Zechlin:2016pme}.  That study used the {\it clean} event class of the Pass 7 Reprocessed data to study the source-count distributions in five energy bins from 1--171~GeV.  A direct comparison between the two results is challenging given the different data sets, foreground models, priors, energy sub-bins, pixelation, and regions of interest that were used between the two studies.  In the energy range where the two studies overlap, we tend to find smaller PS fractions.   (For a discussion of why we do not consider energies below 1.89~GeV, see Appendix~\ref{app:verylowenergies}.)  Specifically,~\cite{Zechlin:2016pme} finds PS fractions of  $0.79_{-0.16}^{+0.04}$, $0.66_{-0.07}^{+0.20}$, $0.66_{-0.05}^{+0.28}$, and $0.81_{-0.19}^{+0.52}$ in the energy ranges [1.99, 5.0], [5.0, 10.4], [10.4, 50.0], and [50.0, 171]~GeV.  (PS fractions are quoted relative to the \emph{Fermi} EGB intensity for foreground Model A~\cite{Ackermann:2014usa}.)  These numbers can be compared to our results, summarized in Tab.~\ref{tab:fractions}.  The best-fit source-count distributions recovered by~\cite{Zechlin:2016pme} closely resemble the Blazar--2 scenario that we studied in simulations (see Sec.~\ref{sec:simulations}).  Our studies on simulated data show that the NPTF can successfully recover the energy spectrum and source-count distributions for this blazar population, both for the case where it singularly contributes to the EGB, as well as the case where it contributes along with SFGs, modeled according to~\cite{Tamborra:2014xia}.  However, we observe different features in the best-fit source-count distributions when running the NPTF on the actual data.  
+As this work was being completed, we became aware of a complementary analysis that also takes advantage of photon-count statistics to obtain the source-count distributions in the energy range from 1--171~GeV~\cite{Zechlin:2016pme}.  That study used the {\it clean} event class of the Pass 7 Reprocessed data to study the source-count distributions in five energy bins from 1--171~GeV.  A direct comparison between the two results is challenging given the different data sets, foreground models, priors, energy sub-bins, pixelation, and regions of interest that were used between the two studies.  In the energy range where the two studies overlap, we tend to find smaller PS fractions.   %(For a discussion of why we do not consider energies below 1.89~GeV, see Appendix~\ref{app:verylowenergies}.)  
+Specifically,~\cite{Zechlin:2016pme} finds PS fractions of  $0.79_{-0.16}^{+0.04}$, $0.66_{-0.07}^{+0.20}$, $0.66_{-0.05}^{+0.28}$, and $0.81_{-0.19}^{+0.52}$ in the energy ranges [1.99, 5.0], [5.0, 10.4], [10.4, 50.0], and [50.0, 171]~GeV.  (PS fractions are quoted relative to the \emph{Fermi} EGB intensity for foreground Model A~\cite{Ackermann:2014usa}.)  These numbers can be compared to our results, summarized in Tab.~\ref{tab:fractions}.  The best-fit source-count distributions recovered by~\cite{Zechlin:2016pme} closely resemble the Blazar--2 scenario that we studied in simulations (see Sec.~\ref{sec:simulations}).  Our studies on simulated data show that the NPTF can successfully recover the energy spectrum and source-count distributions for this blazar population, both for the case where it singularly contributes to the EGB, as well as the case where it contributes along with SFGs, modeled according to~\cite{Tamborra:2014xia}.  However, we observe different features in the best-fit source-count distributions when running the NPTF on the actual data.  
 
 \section*{Acknowledgements}
 

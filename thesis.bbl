@@ -695,6 +695,59 @@ G.~Dubus et~al.
 \newblock {Surveys with the Cherenkov Telescope Array}.
 \newblock {\em Astropart. Phys.}, 43:317--330, 2013.
 
+\bibitem{DiMauro:2014wha}
+Mattia Di~Mauro, Alessandro Cuoco, Fiorenza Donato, and Jennifer~M.
+  Siegal-Gaskins.
+\newblock {Fermi-LAT $/gamma$-ray anisotropy and intensity explained by
+  unresolved Radio-Loud Active Galactic Nuclei}.
+\newblock {\em JCAP}, 1411(11):021, 2014.
+
+\bibitem{Gould:1966pza}
+Robert Gould and Gerald Schr{\'e}der.
+\newblock {Opacity of the Universe to High-Energy Photons}.
+\newblock {\em Phys. Rev. Lett.}, 16(6):252--254, 1966.
+
+\bibitem{Fazio:1970pr}
+G.~G. Fazio and F.~W. Stecker.
+\newblock {Predicted high energy break in the isotropic gamma-ray spectrum: A
+  Test of cosmological origin}.
+\newblock {\em Nature}, 226:135--136, 1970.
+
+\bibitem{1992ApJ...390L..49S}
+F.~W. Stecker, O.~C. de~Jager, and M.~H. Salamon.
+\newblock {TeV gamma rays from 3C 279 - A possible probe of origin and
+  intergalactic infrared radiation fields}.
+\newblock {\em Astrophys. J. Lett.}, 390:L49--L52, May 1992.
+
+\bibitem{Franceschini:2008tp}
+Alberto Franceschini, Giulia Rodighiero, and Mattia Vaccari.
+\newblock {The extragalactic optical-infrared background radiations, their time
+  evolution and the cosmic photon-photon opacity}.
+\newblock {\em Astron. Astrophys.}, 487:837, 2008.
+
+\bibitem{2012Sci...338.1190A}
+M.~Ackermann et~al.
+\newblock {The Imprint of the Extragalactic Background Light in the Gamma-Ray
+  Spectra of Blazars}.
+\newblock {\em Science}, 338:1190, 2012.
+
+\bibitem{Abramowski:2012ry}
+A.~Abramowski et~al.
+\newblock {Measurement of the extragalactic background light imprint on the
+  spectra of the brightest blazars observed with H.E.S.S}.
+\newblock {\em Astron. Astrophys.}, 550:A4, 2013.
+
+\bibitem{Dominguez:2013lfa}
+A.~Dom{\'\i}nguez et~al.
+\newblock {Detection of the cosmic gamma-ray horizon from multiwavelength
+  observations of blazars}.
+\newblock {\em Astrophys. J.}, 770:77, 2013.
+
+\bibitem{2010ApJ...712..238F}
+J.~D. {Finke}, S.~{Razzaque}, and C.~D. {Dermer}.
+\newblock {Modeling the Extragalactic Background Light from Stars and Dust}.
+\newblock {\em \apj}, 712:238--249, March 2010.
+
 \bibitem{Urry:1995mg}
 C.~Megan Urry and Paolo Padovani.
 \newblock {Unified schemes for radio-loud active galactic nuclei}.
@@ -1005,12 +1058,6 @@ Douglas~Quincy Adams, Lars Bergstrom, and Douglas Spolyar.
   Fermi-LAT observations of Galaxy Clusters}.
 \newblock 2016.
 
-\bibitem{companion}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
-  Safdi.
-\newblock {A Search for Dark Matter Annihilation in Galaxy Groups}.
-\newblock 2017.
-
 \bibitem{Skillman:2014qca}
 Samuel~W. Skillman, Michael~S. Warren, Matthew~J. Turk, Risa~H. Wechsler,
   Daniel~E. Holz, and P.~M. Sutter.
@@ -1219,6 +1266,12 @@ P.~A.~R. Ade et~al.
 \newblock {Astropy: A community Python package for astronomy}.
 \newblock {\em AAP}, 558:A33, October 2013.
 
+\bibitem{companion}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
+  Safdi.
+\newblock {A Search for Dark Matter Annihilation in Galaxy Groups}.
+\newblock 2017.
+
 \bibitem{Jarrett:2000me}
 T.~H. Jarrett, T.~Chester, R.~Cutri, S.~Schneider, M.~Skrutskie, and J.~P.
   Huchra.
@@ -1288,76 +1341,6 @@ M.~Ajello et~al.
   the $Fermi$ Large Area Telescope}.
 \newblock {\em Submitted to: Astrophys. J.}, 2017.
 
-\bibitem{DiMauro:2014wha}
-Mattia Di~Mauro, Alessandro Cuoco, Fiorenza Donato, and Jennifer~M.
-  Siegal-Gaskins.
-\newblock {Fermi-LAT $/gamma$-ray anisotropy and intensity explained by
-  unresolved Radio-Loud Active Galactic Nuclei}.
-\newblock {\em JCAP}, 1411(11):021, 2014.
-
-\bibitem{Gould:1966pza}
-Robert Gould and Gerald Schr{\'e}der.
-\newblock {Opacity of the Universe to High-Energy Photons}.
-\newblock {\em Phys. Rev. Lett.}, 16(6):252--254, 1966.
-
-\bibitem{Fazio:1970pr}
-G.~G. Fazio and F.~W. Stecker.
-\newblock {Predicted high energy break in the isotropic gamma-ray spectrum: A
-  Test of cosmological origin}.
-\newblock {\em Nature}, 226:135--136, 1970.
-
-\bibitem{1992ApJ...390L..49S}
-F.~W. Stecker, O.~C. de~Jager, and M.~H. Salamon.
-\newblock {TeV gamma rays from 3C 279 - A possible probe of origin and
-  intergalactic infrared radiation fields}.
-\newblock {\em Astrophys. J. Lett.}, 390:L49--L52, May 1992.
-
-\bibitem{Franceschini:2008tp}
-Alberto Franceschini, Giulia Rodighiero, and Mattia Vaccari.
-\newblock {The extragalactic optical-infrared background radiations, their time
-  evolution and the cosmic photon-photon opacity}.
-\newblock {\em Astron. Astrophys.}, 487:837, 2008.
-
-\bibitem{2012Sci...338.1190A}
-M.~Ackermann et~al.
-\newblock {The Imprint of the Extragalactic Background Light in the Gamma-Ray
-  Spectra of Blazars}.
-\newblock {\em Science}, 338:1190, 2012.
-
-\bibitem{Abramowski:2012ry}
-A.~Abramowski et~al.
-\newblock {Measurement of the extragalactic background light imprint on the
-  spectra of the brightest blazars observed with H.E.S.S}.
-\newblock {\em Astron. Astrophys.}, 550:A4, 2013.
-
-\bibitem{Dominguez:2013lfa}
-A.~Dom{\'\i}nguez et~al.
-\newblock {Detection of the cosmic gamma-ray horizon from multiwavelength
-  observations of blazars}.
-\newblock {\em Astrophys. J.}, 770:77, 2013.
-
-\bibitem{2010ApJ...712..238F}
-J.~D. {Finke}, S.~{Razzaque}, and C.~D. {Dermer}.
-\newblock {Modeling the Extragalactic Background Light from Stars and Dust}.
-\newblock {\em \apj}, 712:238--249, March 2010.
-
-\bibitem{Ackermann:2012pya}
-M.~Ackermann et~al.
-\newblock {Fermi-LAT Observations of the Diffuse Gamma-Ray Emission:
-  Implications for Cosmic Rays and the Interstellar Medium}.
-\newblock {\em Astrophys. J.}, 750:3, 2012.
-
-\bibitem{Strong:2007nh}
-Andrew~W. Strong, Igor~V. Moskalenko, and Vladimir~S. Ptuskin.
-\newblock {Cosmic-ray propagation and interactions in the Galaxy}.
-\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 57:285--327, 2007.
-
-\bibitem{Acero-2016}
-F.~Acero et~al.
-\newblock Development of the model of galactic interstellar emission for
-  standard point-source analysis of fermi large area telescope data.
-\newblock {\em Astrophys. J. Supp.}, 223(2):26, 2016.
-
 \bibitem{Abdo:2010ex}
 A.~A. Abdo et~al.
 \newblock {Observations of Milky Way Dwarf Spheroidal galaxies with the
@@ -1387,18 +1370,6 @@ A.~Burkert.
 \newblock {\em IAU Symp.}, 171:175, 1996.
 \newblock [Astrophys. J.447,L25(1995)].
 
-\bibitem{Ackermann:2011wa}
-M.~Ackermann et~al.
-\newblock {Constraining Dark Matter Models from a Combined Analysis of Milky
-  Way Satellites with the Fermi Large Area Telescope}.
-\newblock {\em Phys.Rev.Lett.}, 107:241302, 2011.
-
-\bibitem{Ackermann:2013yva}
-M.~Ackermann et~al.
-\newblock {Dark Matter Constraints from Observations of 25 Milky Way Satellite
-  Galaxies with the Fermi Large Area Telescope}.
-\newblock {\em Phys.Rev.}, D89:042001, 2014.
-
 \bibitem{Cirelli:2009dv}
 Marco Cirelli, Paolo Panci, and Pasquale~D. Serpico.
 \newblock {Diffuse gamma ray constraints on annihilating or decaying Dark
@@ -1422,6 +1393,11 @@ Thomas D.~P. Edwards and Christoph Weniger.
 \newblock {A Fresh Approach to Forecasting in Astroparticle Physics and Dark
   Matter Searches}.
 \newblock 2017.
+
+\bibitem{Strong:2007nh}
+Andrew~W. Strong, Igor~V. Moskalenko, and Vladimir~S. Ptuskin.
+\newblock {Cosmic-ray propagation and interactions in the Galaxy}.
+\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 57:285--327, 2007.
 
 \bibitem{Acero:2016qlg}
 F.~Acero et~al.

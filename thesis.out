@@ -4,72 +4,59 @@
 \BOOKMARK [0][-]{chapter.1}{1 Non-Poissonian Template Fitting: Fundamentals and Code}{}% 4
 \BOOKMARK [1][-]{section.1.1}{1.1 Introduction}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.2}{1.2 The Non-Poissonian Template Fit}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.3}{1.3 NPTFit: orientation}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.4}{1.4 \040NPTFit: an example}{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Setting up the scan}{section.1.4}% 9
-\BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 Adding models}{section.1.4}% 10
-\BOOKMARK [2][-]{subsection.1.4.3}{1.4.3 Configure scan with PSF correction}{section.1.4}% 11
-\BOOKMARK [2][-]{subsection.1.4.4}{1.4.4 Performing the scan with MultiNest}{section.1.4}% 12
-\BOOKMARK [2][-]{subsection.1.4.5}{1.4.5 Analyzing the results}{section.1.4}% 13
-\BOOKMARK [1][-]{section.1.5}{1.5 Conclusion}{chapter.1}% 14
-\BOOKMARK [0][-]{chapter.2}{2 Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{}% 15
-\BOOKMARK [1][-]{section.2.1}{2.1 Introduction}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.2}{2.2 Methodology}{chapter.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 The Templates}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Bayesian Fitting Procedure}{section.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Exposure Correction}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Data Samples}{section.2.2}% 21
-\BOOKMARK [1][-]{section.2.3}{2.3 Simulated Data Studies}{chapter.2}% 22
-\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Blazars}{section.2.3}% 23
-\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Star-Forming Galaxies}{section.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Blazar and SFG combination}{section.2.3}% 25
-\BOOKMARK [1][-]{section.2.4}{2.4 Low-Energy Analysis: 1.89\20594.9 GeV}{chapter.2}% 26
-\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 \040Pass 8 ultracleanveto Data}{section.2.4}% 27
-\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Systematic Tests}{section.2.4}% 28
-\BOOKMARK [1][-]{section.2.5}{2.5 High-Energy Analysis: 50\2052000 GeV}{chapter.2}% 29
-\BOOKMARK [1][-]{section.2.6}{2.6 Discussion and Conclusions}{chapter.2}% 30
-\BOOKMARK [0][-]{chapter.3}{3 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{}% 31
-\BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.2}{3.2 Tracing Dark Matter Flux with Galaxy Surveys}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Galaxy and Halo Catalogs}{section.3.2}% 34
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Dark Matter Annihilation Flux Map}{section.3.2}% 35
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Uncertainties in Halo Modeling}{section.3.2}% 36
-\BOOKMARK [1][-]{section.3.3}{3.3 Statistical Methods}{chapter.3}% 37
-\BOOKMARK [1][-]{section.3.4}{3.4 Analysis Results}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Halo Selection and Limits}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Signal Recovery Tests}{section.3.4}% 40
-\BOOKMARK [1][-]{section.3.5}{3.5 Conclusions}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{4 A Search for Dark Matter Annihilation in Galaxy Groups}{}% 42
-\BOOKMARK [0][-]{appendix.A}{A Appendix A: Mathematical Foundations of NPTF}{}% 43
-\BOOKMARK [1][-]{section.A.1}{A.1 Mathematical foundations of NPTFit}{appendix.A}% 44
-\BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 The \(non-\)Poissonian generating function}{section.A.1}% 45
-\BOOKMARK [2][-]{subsection.A.1.2}{A.1.2 Correcting for a finite point spread function}{section.A.1}% 46
-\BOOKMARK [1][-]{section.A.2}{A.2 NPTFit: algorithms}{appendix.A}% 47
-\BOOKMARK [1][-]{section.A.3}{A.3 Analytic expressions for xp,m and m=1 xp,m}{appendix.A}% 48
-\BOOKMARK [2][-]{subsection.A.3.1}{A.3.1 1 break}{section.A.3}% 49
-\BOOKMARK [2][-]{subsection.A.3.2}{A.3.2 2 breaks}{section.A.3}% 50
-\BOOKMARK [2][-]{subsection.A.3.3}{A.3.3 k breaks}{section.A.3}% 51
-\BOOKMARK [0][-]{appendix.B}{B Appendix B: Supplemantary Material on Extragalactic Point Source Studies}{}% 52
-\BOOKMARK [1][-]{section.B.1}{B.1 Simulations of Extragalactic Gamma-ray Point Sources}{appendix.B}% 53
-\BOOKMARK [2][-]{subsection.B.1.1}{B.1.1 Energy-Binned Source-Count Distributions}{section.B.1}% 54
-\BOOKMARK [2][-]{subsection.B.1.2}{B.1.2 Simulations at Energies \0401.89 GeV}{section.B.1}% 55
-\BOOKMARK [2][-]{subsection.B.1.3}{B.1.3 Ultracleanveto PSF1-3 Simulation Analysis}{section.B.1}% 56
-\BOOKMARK [2][-]{subsection.B.1.4}{B.1.4 Simulations of SFGs}{section.B.1}% 57
-\BOOKMARK [1][-]{section.B.2}{B.2 Supplementary Results: Low-Energy Analysis}{appendix.B}% 58
-\BOOKMARK [2][-]{subsection.B.2.1}{B.2.1 Best-Fit Intensities and Posterior Distributions}{section.B.2}% 59
-\BOOKMARK [2][-]{subsection.B.2.2}{B.2.2 Systematic Tests}{section.B.2}% 60
-\BOOKMARK [1][-]{section.B.3}{B.3 Supplementary Results: High-Energy Analysis}{appendix.B}% 61
-\BOOKMARK [0][-]{appendix.C}{C Appendix C: Supplemantary Material on Cluster Searches \(Simulations\)}{}% 62
-\BOOKMARK [1][-]{section.C.1}{C.1 J- and D-factors for Extragalactic Sources}{appendix.C}% 63
-\BOOKMARK [2][-]{subsection.C.1.1}{C.1.1 Units and Conventions}{section.C.1}% 64
-\BOOKMARK [2][-]{subsection.C.1.2}{C.1.2 Approximate J- and D-factors}{section.C.1}% 65
-\BOOKMARK [2][-]{subsection.C.1.3}{C.1.3 Analytic Relations}{section.C.1}% 66
-\BOOKMARK [2][-]{subsection.C.1.4}{C.1.4 Propagating J-factor Uncertainties}{section.C.1}% 67
-\BOOKMARK [1][-]{section.C.2}{C.2 Validity of Likelihood Approximation}{appendix.C}% 68
-\BOOKMARK [2][-]{subsection.C.2.1}{C.2.1 J-factor Likelihood}{section.C.2}% 69
-\BOOKMARK [2][-]{subsection.C.2.2}{C.2.2 Profile Likelihood Approximation}{section.C.2}% 70
-\BOOKMARK [1][-]{section.C.3}{C.3 Limits Using a Full-Sky Dark Matter Template}{appendix.C}% 71
-\BOOKMARK [0][-]{appendix.D}{D Appendix D: Supplemantary Material on Cluster Searches \(Data\)}{}% 72
-\BOOKMARK [1][-]{section.D.1}{D.1 Extended results}{appendix.D}% 73
-\BOOKMARK [1][-]{section.D.2}{D.2 Variations on the Analysis}{appendix.D}% 74
-\BOOKMARK [0][-]{section*.26}{Bibliography}{}% 75
+\BOOKMARK [1][-]{section.1.3}{1.3 Mathematical foundations of NPTFit}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 The \(non-\)Poissonian generating function}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Correcting for a finite point spread function}{section.1.3}% 9
+\BOOKMARK [1][-]{section.1.4}{1.4 NPTFit: algorithms}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.5}{1.5 NPTFit: orientation}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.6}{1.6 NPTFit: an example}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.6.1}{1.6.1 Setting up the scan}{section.1.6}% 13
+\BOOKMARK [2][-]{subsection.1.6.2}{1.6.2 Adding models}{section.1.6}% 14
+\BOOKMARK [2][-]{subsection.1.6.3}{1.6.3 Configure scan with PSF correction}{section.1.6}% 15
+\BOOKMARK [2][-]{subsection.1.6.4}{1.6.4 Performing the scan with MultiNest}{section.1.6}% 16
+\BOOKMARK [2][-]{subsection.1.6.5}{1.6.5 Analyzing the results}{section.1.6}% 17
+\BOOKMARK [1][-]{section.1.7}{1.7 Conclusion}{chapter.1}% 18
+\BOOKMARK [0][-]{chapter.2}{2 Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{}% 19
+\BOOKMARK [1][-]{section.2.1}{2.1 Introduction}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.2}{2.2 Methodology}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 The Templates}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Bayesian Fitting Procedure}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Exposure Correction}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Data Samples}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{2.3 Simulated Data Studies}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Simulating Energy-Binned Source-Count Distributions}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Blazars}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Star-Forming Galaxies}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Blazar and SFG combination}{section.2.3}% 30
+\BOOKMARK [1][-]{section.2.4}{2.4 Low-Energy Analysis: 1.89\20594.9 GeV}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 \040Pass 8 ultracleanveto Data}{section.2.4}% 32
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Systematic Tests}{section.2.4}% 33
+\BOOKMARK [1][-]{section.2.5}{2.5 High-Energy Analysis: 50\2052000 GeV}{chapter.2}% 34
+\BOOKMARK [1][-]{section.2.6}{2.6 Discussion and Conclusions}{chapter.2}% 35
+\BOOKMARK [0][-]{chapter.3}{3 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{}% 36
+\BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.2}{3.2 Tracing Dark Matter Flux with Galaxy Surveys}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Galaxy and Halo Catalogs}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Dark Matter Annihilation Flux Map}{section.3.2}% 40
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Uncertainties in Halo Modeling}{section.3.2}% 41
+\BOOKMARK [1][-]{section.3.3}{3.3 Statistical Methods}{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.4}{3.4 Analysis Results}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Halo Selection and Limits}{section.3.4}% 44
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Signal Recovery Tests}{section.3.4}% 45
+\BOOKMARK [1][-]{section.3.5}{3.5 Conclusions}{chapter.3}% 46
+\BOOKMARK [0][-]{chapter.4}{4 A Search for Dark Matter Annihilation in Galaxy Groups}{}% 47
+\BOOKMARK [1][-]{section.4.1}{4.1 Introduction}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.2}{4.2 Galaxy Group Selection}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.3}{4.3 Data Analysis}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.4}{4.4 Results}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.5}{4.5 Conclusions}{chapter.4}% 52
+\BOOKMARK [0][-]{appendix.A}{A J- and D-factors for Extragalactic Sources}{}% 53
+\BOOKMARK [1][-]{section.A.1}{A.1 Units and Conventions}{appendix.A}% 54
+\BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 Dark Matter Flux}{section.A.1}% 55
+\BOOKMARK [2][-]{subsection.A.1.2}{A.1.2 Halo Mass and Concentration}{section.A.1}% 56
+\BOOKMARK [1][-]{section.A.2}{A.2 Approximate J- and D-factors}{appendix.A}% 57
+\BOOKMARK [1][-]{section.A.3}{A.3 Analytic Relations}{appendix.A}% 58
+\BOOKMARK [0][-]{appendix.B}{B Appendix D: Supplemantary Material on Cluster Searches \(Data\)}{}% 59
+\BOOKMARK [1][-]{section.B.1}{B.1 Extended results}{appendix.B}% 60
+\BOOKMARK [1][-]{section.B.2}{B.2 Variations on the Analysis}{appendix.B}% 61
+\BOOKMARK [0][-]{section*.18}{Bibliography}{}% 62

@@ -1,4 +1,5 @@
 \chapter{Non-Poissonian Template Fitting: Fundamentals and Code}
+\label{ch:nptfit}
 
 \section{Introduction}
 
@@ -40,7 +41,7 @@ A large set of example \texttt{Jupyter}~\cite{PER-GRA:2007} notebooks and \textt
 
 In addition to the above, the base \texttt{NPTFit} code makes use of the \texttt{python} packages \texttt{corner}~\cite{dan_foreman_mackey_2016_53155}, \texttt{matplotlib}~\cite{Hunter:2007}, \texttt{mpmath}~\cite{mpmath}, \texttt{GSL}~\cite{galassi2015gnu} and  \texttt{numpy}~\cite{oliphant2006guide}.
 
-The rest of this chapter is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF.  Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. Appendices~\ref{details},~\ref{algorithms}, and~\ref{xmcalc} describe further details behind the mathematical framework of the NPTF.      
+The rest of this chapter is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF. Sections~\ref{details},~\ref{algorithms}, and~\ref{xmcalc} describe further details behind the mathematical framework of the NPTF. Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. 
 
 \section{The Non-Poissonian Template Fit}
 \label{NPTF}
@@ -110,9 +111,152 @@ where
 \es{xm-def}{
 x_{p,m}( {\bm \theta}) =\int_0^{\infty} dS \frac{dN_p}{dS}(S;{\bm \theta}) \int_0^1 df \rho(f) \frac{(fS)^m}{m!} e^{-fS} \,.
 }
-Above, $\rho(f)$ is a function that takes into account the PSF, which we describe in more detail in App.~\ref{details}.  In the presence of a non-trivial PSF, the flux from a single source is smeared among pixels.  The distribution of flux fractions among pixels is described by the function $\rho(f)$, where $f$ is the flux fraction.  By definition $\rho(f) df$ equals the number of pixels which, on average, contain between $f$ and $f+ df$ of the flux from a PS; the distribution is normalized such that $ \int_0^1 df f \rho(f) = 1$.  If the PSF is a $\delta$-function, then $\rho(f) = \delta(f-1)$.
+Above, $\rho(f)$ is a function that takes into account the PSF, which we describe in more detail in Sec.~\ref{details}.  In the presence of a non-trivial PSF, the flux from a single source is smeared among pixels.  The distribution of flux fractions among pixels is described by the function $\rho(f)$, where $f$ is the flux fraction.  By definition $\rho(f) df$ equals the number of pixels which, on average, contain between $f$ and $f+ df$ of the flux from a PS; the distribution is normalized such that $ \int_0^1 df f \rho(f) = 1$.  If the PSF is a $\delta$-function, then $\rho(f) = \delta(f-1)$.
 
-Putting aside the PSF correction for the moment, the $x_{p,m}$ have the interpretation of being the average number of $m$-count PSs within the pixel $p$, given the distribution $ dN_p(S;{\bm \theta})/dS $.  The generating function for $x_m$ $m$-count sources is simply $e^{x_m(t^m - 1)}$ (see~\cite{Malyshev:2011zi} or App.~\ref{details}), which then leads directly to~\eqref{NP-PGF}.  The PSF correction, through the distribution $\rho(f)$, incorporates the fact that PSs only contribute some fraction of their flux within a given pixel.
+Putting aside the PSF correction for the moment, the $x_{p,m}$ have the interpretation of being the average number of $m$-count PSs within the pixel $p$, given the distribution $ dN_p(S;{\bm \theta})/dS $.  The generating function for $x_m$ $m$-count sources is simply $e^{x_m(t^m - 1)}$ (see~\cite{Malyshev:2011zi} or Sec.~\ref{details}), which then leads directly to~\eqref{NP-PGF}.  The PSF correction, through the distribution $\rho(f)$, incorporates the fact that PSs only contribute some fraction of their flux within a given pixel.
+
+\section{Mathematical foundations of \texttt{NPTFit}}
+\label{details}
+
+In this section we present the mathematical foundation of the NPTF and the evaluation of the non-Poissonian likelihood in more detail that what was shown in Sec.~\ref{NPTF}. Note that many of the details presented in this section have appeared in the earlier works of \cite{Malyshev:2011zi,Lee:2014mza,Lee:2015fea}, however we have reproduced these here in order to have a single clear picture of the method.
+
+The remainder of this section is divided as follows. Firstly we outline how to determine the generating functions for the Poissonian and non-Poissonian case. We then describe how we account for finite PSF corrections.
+
+\subsection{The (non-)Poissonian generating function}
+
+There are two reasons why the evaluation of the Poissonian likelihood for traditional template fitting can be evaluated rapidly. The first of these is that the functional form of the Poissonian likelihood is simple. Secondly, and more importantly, is the fact that if we have two discrete random variables $X$ and $Y$ that follow Poisson distributions with means $\mu_1$ and $\mu_2$, then the random variable $Z = X + Y$ again follows a Poisson distribution with mean $\mu_1 + \mu_2$. This generalizes to combining an arbitrary number of random Poisson distributed variables and is why we were able to write $\mu_{p,\ell}(\bm{\theta}) = A_{\ell}(\bm{\theta})T_{p,\ell}^{(S)}$ in Sec.~\ref{NPTF}. This fact is not true when combining arbitrary random variables, and in particular if we add in a template following non-Poissonian statistics. 
+
+An elegant solution to this problem was introduced in~\cite{Malyshev:2011zi}, using the method of generating functions. As we are always dealing with pixelized maps containing discrete counts (of photons or otherwise), for any model of interest there will always be a discrete probability distribution $p_k$, the probability of observing $k=0, 1, 2, \ldots$ counts. In terms of these, we then define the probability generating function as in~\eqref{prob-gen}. The property of probability generating functions that make them so useful in the present context is as follows. Consider two random processes $X$ and $Y$, with generating functions $P_X(t)$ and $P_Y(t)$, that follow arbitrary and potentially different statistical distributions. Then the generating function of $Z = X + Y$ is simply given by the product $P_X(t) \cdot P_Y(t)$. In this subsection we will derive the appropriate form of $P(t)$ for Poissonian and non-Poissonian statistics.
+
+To begin with, consider the purely Poissonian case. Here and throughout this section we consider only the likelihood in a single pixel; the likelihood over a full map is obtained from the product of the pixel-based likelihoods. Then for a Poisson distribution with an expected number of counts $\mu_p$ in a pixel $p$:
+\begin{equation}
+p_k = \frac{\mu_p^k e^{-\mu_p}}{k!}\,.
+\end{equation}
+Note that the variation of the $\mu_p$ across the full map will be a function of the model parameters, such that $\mu_p = \mu_p(\bm{\theta})$. In order to simplify the notation in this section however, we leave the $\bm{\theta}$ dependence implicit. Given the $p_k$ values, we then have:
+\begin{equation}\begin{aligned}
+P_{\rm P}(t) &= \sum_{k=0}^{\infty} \frac{\mu_p^k e^{-\mu_p}}{k!} t^k \\
+&= e^{-\mu} \sum_{k=0}^{\infty} \frac{\left( \mu_p t \right)^k}{k!} \\
+&= \exp \left[ \mu_p(t-1) \right]\,.
+\label{eq:Pgen}
+\end{aligned}\end{equation}
+From this form, it is clear that if we have two Poisson distributions with means $\mu_p^{(1)}$ and $\mu_p^{(2)}$, the product of their generating functions will again describe a Poisson distribution, but with mean $\mu_p^{(1)} + \mu_p^{(2)}$.
+
+Next we work towards the generating function in the non-Poissonian case. At the outset, we let $x_{p,m}$ denote the average number of sources in a pixel $p$ that emit exactly $m$ counts. In terms of this, the probability of finding $n_m$ $m$-count sources in this pixel is just a draw from a Poisson distribution with mean $x_{p,m}$, i.e.
+\begin{equation}
+p_{n_m} = \frac{x_{p,m}^{n_m} e^{-x_{p,m}}}{n_m!}\,.
+\end{equation}
+Given this, the probability to find $k$ counts from a population of $m$-count sources is
+\begin{equation}
+p_k^{(m)} = \left\{ \begin{array}{lc} p_{n_m}, & {\rm if}~k=m \cdot n_m~{\rm for~some~}n_m, \\ 0, & {\rm otherwise} \end{array} \right.\,.
+\end{equation}
+We can then use this to derive the non-Poissonian $m$-count generating function as follows:
+\begin{equation}\begin{aligned}
+P_{\rm NP}^{(m)}(t) &= \sum_k p_k t^k \\
+&= \sum_{n_m} t^{m \cdot n_m} \frac{x_{p,m}^{n_m}e^{-x_{p,m}}}{n_m!} \\
+&= \exp \left[ x_{p,m} (t^m - 1) \right]\,.
+\end{aligned}\end{equation}
+However this is just the generating function for $m$-count sources, to get the full non-Poissonian generating function we need to multiply this over all values of $m$. Doing so we arrive at
+\begin{equation}\begin{aligned}
+P_{\rm NP}(t) &= \prod_{m=1}^{\infty} \exp \left[ x_{p,m} (t^m - 1) \right] \\
+&= \exp \left[ \sum_{m=1}^{\infty} x_{p,m} (t^m - 1) \right]\,,
+\end{aligned}\end{equation}
+justifying the form given in Sec.~\ref{NPTF}. Again recall for the full likelihood we can just multiply the pixel based likelihoods and that  $x_{p,m} = x_{p,m}(\bm{\theta})$.
+
+So far we have said nothing of how to determine $x_{p,m}$, the average number of $m$-count source in pixel $p$. This value depends on the source-count distribution $dN_p/dS$, which specifies the distribution of sources as a function of their expected number of counts, $S$. Of course the physical object is $dN/dF$, where $F$ is the flux. This distinction was discussed in Sec.~\ref{NPTF}, and can be implemented in \texttt{NPTFit} to arbitrary precision. Nevertheless $dN_p/dS$ does not fully determine $x_{p,m}$ -- we need to account for the fact that a source that is expected to give $S$ photons could Poisson fluctuate to give $m$. As such any source can in principle contribute to $x_{p,m}$, and so integrating over the full distribution we arrive at:
+\begin{equation}
+x_{p,m} = \int_0^{\infty} dS \frac{dN_p}{dS}(S) \frac{S^m e^{-S}}{m!}\,.
+\label{eq:xpm}
+\end{equation}
+
+An important part of implementing the NPTF in a rapid manner, which is a central feature of \texttt{NPTFit}, is the analytic evaluation of the integral in this equation. In order to do this, we need to have a specific form of the source-count distribution. For this purpose, we allow the source count distribution to be a multiply broken power-law and evaluate the integral for any number of breaks. The details of this calculation are presented in Sec.~\ref{xmcalc}. 
+
+Putting the evaluation of the integral aside for the moment then, we have arrived at the full non-Poissonian generating function:
+\begin{equation}\begin{aligned}
+P_{\rm NP}(t) &= \exp \left[ \sum_{m=1}^{\infty} x_{p,m} (t^m - 1) \right]\,, \\
+x_{p,m} &= \int_0^{\infty} dS \frac{dN_p}{dS}(S) \frac{S^m e^{-S}}{m!}\,.
+\label{eq:NPgen}
+\end{aligned}\end{equation}
+Contrasting this with Eq.~\eqref{eq:Pgen}, we see that whilst the Poissonian likelihood is specified by a single number $\mu_p$, the non-Poissonian likelihood is instead specified by a distribution $dN_p/dS$.
+
+In the case of multiple PS templates, we should multiply the independent probability generating functions.  However, this is equivalent to summing the $x_{p,m}$ parameters.  This is how multiple PS templates are incorporated into the \texttt{NPTFit} code:
+\begin{equation}
+x_{p,m} \to x_{p,m}^{\rm total} = \sum_{\ell=1}^{N_{\rm NPT}} x_{p,m}^{\ell}\,,
+\end{equation}
+where the sum over $\ell$ is over the contributions from individual PS templates. 
+
+\subsection{Correcting for a finite point spread function}
+
+The next factor to account for is the fact that in any realistic dataset there will be a non-zero PSF.  Here, we closely follow the discussion in~\cite{Malyshev:2011zi}. The PSF arises due to the inability of an instrument to perfectly reconstruct the original direction of the photon, neutrino, or quantity making up the counts. In practice, a finite PSF means that a source in one pixel can contribute counts to nearby pixels as well. To implement this correction, we modify the calculation of $x_{p,m}$ given in Eq.~\eqref{eq:NPgen}, which accounts for the distribution of sources as a function of $S$ and the fact that each one could Poisson fluctuate to give us $m$ counts. The finite PSF means that in addition to this, we also need to draw from the distribution $\rho(f)$, that determines the probability that a given source contributes a fraction of its flux $f$ in a given pixel. Once we know $\rho(f)$, this modifies our calculation of $x_{p,m}$ in Eq.~\eqref{eq:NPgen} -- now a source that is expected to contribute $S$ counts, will instead contribute $f S$, where $f$ is drawn from $\rho(f)$. As such we arrive at the result in~\eqref{xm-def}.
+
+In \texttt{NPTFit} we determine $\rho(f)$ using Monte Carlo. To do this we place a number of PSs appropriately smeared by the PSF at random positions on a pixelized sphere. Then integrating over all pixels we can determine the fraction of the flux in each pixel $f_p$, $p=1,\ldots, N_{\rm pix}$, defined such that $f_1+f_2+\ldots = 1$. Note in practice one can truncate this sum at some minimal value of $f$ without impacting the argument below. From the set $\left\{f_p \right\}$, we then denote by $\Delta n(f)$ the number of fractions for $n$ point sources that fall within some range $\Delta f$. From these quantities, we may determine $\rho(f)$ as
+\begin{equation}
+\rho(f) = \lim_{\substack{\Delta f \to 0 \\ n \to \infty}} \frac{\Delta n(f)}{n \Delta f}\,,
+\end{equation}
+which is normalized such that $\int df~f \rho(f) = 1$. From this definition we see that the case of a vanishing PSF is just $\rho(f) = \delta(f-1)$ - i.e. the flux is always completely in the pixel with the PS.
+
+\section{\texttt{NPTFit}: algorithms}
+\label{algorithms}
+
+The generating-function formalism for calculating the probabilities $p_{n_p}^{(p)}({\bm \theta})$ is described at the end of Sec.~\ref{NPTF} and in more detail in Sec.~\ref{details}.  In particular -- given the generating function $P(t)$ -- we are instructed to calculate the probabilities by taking $n_p$ derivatives as in~\eqref{deriv}.  However, taking derivatives is numerically costly, and so instead we have developed recursive algorithms for computing these probabilities.  In the same spirit, we analytically evaluate the $x_{p,m}$ parameters defined in~\eqref{xm-def} for the multiply-broken source-count distribution in order to facilitate a fast evaluation of the NPTF likelihood function.  In this section, we overview these methods that are essential to making \texttt{NPTFit} a practical software package.   
+
+In general we may write the full single pixel generating function for a model containing an arbitrary number of Poissonian and non-Poissonian templates as:
+\begin{equation}
+P(t) = e^{f(t)}\,,
+\end{equation}
+where we have defined
+\begin{equation}
+f(t) \equiv \mu_p(t-1) + \sum_{m=1}^{\infty} x_{p,m} (t^m - 1)\,.
+\end{equation}
+Above, $x_{p,m} $ represents the average number of $m$-count source in pixel $p$. The remaining task is to efficiently calculate the probabilities $p_k$, which are formally defined in terms of derivatives through~\eqref{deriv}. Nevertheless, derivatives are slow to implement numerically, so we instead use a recursion relation to determine $p_k$ in terms of $p_{< k}$.
+
+To begin with, note that
+\begin{equation}
+f^{(k)} \equiv \left. \frac{d^k}{dt^k} f(t) \right|_{t=0} = \left\{ \begin{array}{lc} -(\mu_p + \sum_{m=1}^{\infty} x_{p,m}), & k=0\,, \\ \mu_p + x_{p,1}, & k=1\,, \\ k! x_{p,k}, & k > 1\,. \end{array} \right.
+\label{fk}
+\end{equation}
+For the rest of this discussion, we suppress the pixel index $p$, though one should keep in mind that this process must be performed independently in every pixel.
+From~\eqref{fk}, we can immediately write down
+\begin{equation}\begin{aligned}
+p_0 &= e^{f^{(0)}}\,, \\
+p_1 &= f^{(1)} e^{f^{(0)}}\,.
+\end{aligned}\end{equation}
+Given $p_0$ and $p_1$, we may write our recursion relation for $k > 1$ as
+\es{recursion}{
+p_k = \sum_{n=0}^{k-1} \frac{1}{k(k-n-1)!} f^{(k-n)} p_n\,,
+}
+which as mentioned requires the knowledge of all $p_{< k}$. 
+
+To derive~\eqref{recursion}, we first define
+\begin{equation}
+F^{(k)}(t) \equiv \frac{d^k}{dt^k} e^{f(t)}\,.
+\end{equation}
+Then, for example,
+\begin{equation}
+F^{(1)}(t) = f^{(1)}(t) e^{f^{(0)}(t)}\,.
+\end{equation}
+From here to determine $F^{(k)}(t)$ we simply need $k-1$ more derivatives. Using the generalized Leibniz rule, we have
+\begin{equation}\begin{aligned}
+F^{(k)}(t) &= \frac{d^{k-1}}{dt^{k-1}} \left( f^{(1)}(t) e^{f^{(0)}(t)} \right) \\
+&= \sum_{n=0}^{k-1} \begin{pmatrix} k-1 \\ n \end{pmatrix} \frac{d^{k-1-n}}{dt^{k-1-n}} f^{(1)}(t) \frac{d^n}{dt^n} e^{f^{(0)}(t)} \\
+&= \sum_{n=0}^{k-1} \begin{pmatrix} k-1 \\ n \end{pmatrix} f^{(k-n)}(t) F^{(n)}(t)\,.
+\end{aligned}\end{equation}
+Then setting $t=0$ and recalling the definition of $p_k$, this yields
+\begin{equation}\begin{aligned}
+p_k &= \sum_{n=0}^{k-1} \frac{n!}{k!} \begin{pmatrix} k-1 \\ n \end{pmatrix} f^{(k-n)} p_n \\
+&= \sum_{n=0}^{k-1} \frac{1}{k(k-n-1)!} f^{(k-n)} p_n\,,
+\end{aligned}\end{equation}
+as claimed.
+
+To calculate the $f^{(k)}$ in a pixel $p$, we need to calculate the $x_{p,k}$ and the sum $\sum_{m=1}^\infty x_{p,m}$.  We may calculate these expressions analytically using the general source-count distribution in~\eqref{mbpl}.  To calculate the sums, we make use of the relation 
+\begin{equation}\begin{aligned}
+\sum_{m=1}^{\infty} x_{p,m} = &\int_0^{\infty} dS \frac{dN_p}{dS} e^{-S} \sum_{m=1}^{\infty} \frac{S^m}{m!} \\
+= &\int_0^{\infty} dS \frac{dN_p}{dS} - \int_0^{\infty} dS \frac{dN_p}{dS} e^{-S} \\
+= &\int_0^{\infty} dS \frac{dN_p}{dS} - x_{p,0}\,.
+\end{aligned}
+\label{eq:xmsum}
+\end{equation}
+Finiteness of the total flux, and also the probabilities, requires $n_1 > 2$ and $n_{k+1} < 2$.  However,  
+both the integral and $x_{p,0}$, appearing in the last line above, may be divergent individually if $1 < n_{k+1} < 2$.  In this case, we analytically continue in $n_{k+1}$, evaluate the contributions individually, and then sum the two expressions to get a result that is finite across the whole range of allowable parameter space. % The expressions for the $x_{p,m}$ and the sums over these quantities are given in App.~\ref{xmcalc} in terms of incomplete gamma-functions.
 
 \section{\texttt{NPTFit}: orientation}
 \label{NPTFit-orientation}
@@ -316,7 +460,7 @@ returns the log of the Bayesian evidence along with the uncertainty on this esti
 
 For information on the plotting capabilities in the analysis class, see the \href{http://nptfit.readthedocs.io}{online documentation} or the example in the following section.
 
-\section{ \texttt{NPTFit}: an example}
+\section{\texttt{NPTFit}: an example}
 \label{NPTFit-example}
 
 In this section we give an example for how to perform an NPTF using \texttt{NPTFit}.  Many more examples are available in the \href{http://nptfit.readthedocs.io}{online documentation}.  This particular example reproduces aspects of the main results of~\cite{Lee:2015fea}, which found evidence for a spherical population of unresolved gamma-ray PSs around the Galactic Center.  The example uses the processed, public {\it Fermi} data made available with the release of the \texttt{NPTFit} package.  The data set consists of 413 weeks of \emph{Fermi} Pass 8 data in the UltracleanVeto event class (top quartile of events as ranked by PSF) from 2 to 20 GeV.  The map is binned in \texttt{HEALPix} with $\mathtt{nside} = 128$.  The data, along with the exposure map and background templates, may be downloaded from 
