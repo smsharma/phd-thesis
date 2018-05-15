@@ -1252,20 +1252,6 @@ P.~A.~R. Ade et~al.
 \newblock {Planck 2015 results. XIII. Cosmological parameters}.
 \newblock {\em Astron. Astrophys.}, 594:A13, 2016.
 
-\bibitem{2013A&A...558A..33A}
-{Astropy Collaboration}, T.~P. {Robitaille}, E.~J. {Tollerud}, P.~{Greenfield},
-  M.~{Droettboom}, E.~{Bray}, T.~{Aldcroft}, M.~{Davis}, A.~{Ginsburg}, A.~M.
-  {Price-Whelan}, W.~E. {Kerzendorf}, A.~{Conley}, N.~{Crighton}, K.~{Barbary},
-  D.~{Muna}, H.~{Ferguson}, F.~{Grollier}, M.~M. {Parikh}, P.~H. {Nair}, H.~M.
-  {Unther}, C.~{Deil}, J.~{Woillez}, S.~{Conseil}, R.~{Kramer}, J.~E.~H.
-  {Turner}, L.~{Singer}, R.~{Fox}, B.~A. {Weaver}, V.~{Zabalza}, Z.~I.
-  {Edwards}, K.~{Azalee Bostroem}, D.~J. {Burke}, A.~R. {Casey}, S.~M.
-  {Crawford}, N.~{Dencheva}, J.~{Ely}, T.~{Jenness}, K.~{Labrie}, P.~L. {Lim},
-  F.~{Pierfederici}, A.~{Pontzen}, A.~{Ptak}, B.~{Refsdal}, M.~{Servillat}, and
-  O.~{Streicher}.
-\newblock {Astropy: A community Python package for astronomy}.
-\newblock {\em AAP}, 558:A33, October 2013.
-
 \bibitem{companion}
 Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
   Safdi.

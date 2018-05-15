@@ -13,7 +13,7 @@ Illegal, another \bibstyle command---line 48 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 10635 items from 5000.
+Reallocated field_info (elt_size=4) to 10612 items from 5000.
 Database file #1: ch-nptfit/NPTF.bib
 Database file #2: ch-igrb/fermi_igrb.bib
 Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
@@ -646,10 +646,6 @@ Repeated entry---line 177 of file ch-clusters/fermi_clusters.bib
  : @article{James:1975dr
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 191 of file ch-clusters/fermi_clusters.bib
- : @article{2013A&A...558A..33A
- :                             ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 211 of file ch-clusters/fermi_clusters.bib
  : @article{PER-GRA:2007
  :                      ,
@@ -1031,45 +1027,45 @@ Warning--empty journal in Elor:2015bho
 Warning--empty journal in companion
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 245 entries,
+You've used 244 entries,
             1791 wiz_defined-function locations,
-            1871 strings with 48228 characters,
-and the built_in function-call counts, 53185 in all, are:
-= -- 4253
-> -- 2997
+            1865 strings with 47272 characters,
+and the built_in function-call counts, 52438 in all, are:
+= -- 4237
+> -- 2860
 < -- 1
-+ -- 1086
-- -- 841
-* -- 3989
-:= -- 9131
-add.period$ -- 740
-call.type$ -- 245
-change.case$ -- 242
++ -- 1040
+- -- 796
+* -- 3889
+:= -- 8970
+add.period$ -- 737
+call.type$ -- 244
+change.case$ -- 241
 chr.to.int$ -- 0
-cite$ -- 266
-duplicate$ -- 2178
-empty$ -- 5001
-format.name$ -- 841
-if$ -- 11470
+cite$ -- 265
+duplicate$ -- 2169
+empty$ -- 4982
+format.name$ -- 796
+if$ -- 11343
 int.to.chr$ -- 0
-int.to.str$ -- 245
-missing$ -- 245
-newline$ -- 1233
-num.names$ -- 244
-pop$ -- 352
+int.to.str$ -- 244
+missing$ -- 244
+newline$ -- 1228
+num.names$ -- 243
+pop$ -- 351
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 828
+skip$ -- 825
 stack$ -- 0
-substring$ -- 3136
-swap$ -- 228
+substring$ -- 3127
+swap$ -- 227
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 21
-while$ -- 463
-width$ -- 248
-write$ -- 2659
-(There were 249 error messages)
+while$ -- 461
+width$ -- 247
+write$ -- 2648
+(There were 248 error messages)
