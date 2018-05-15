@@ -18,7 +18,7 @@
 \contentsline {subsubsection}{Make triangle plots}{37}{section*.8}
 \contentsline {subsubsection}{Plot source-count distributions}{37}{section*.9}
 \contentsline {subsubsection}{Plot intensity fractions}{39}{section*.10}
-\contentsline {subsubsection}{Further analyses}{40}{section*.11}
+\contentsline {subsubsection}{Further analyses}{41}{section*.11}
 \contentsline {section}{\numberline {2.7}Conclusion}{42}{section.2.7}
 \contentsline {chapter}{\numberline {3}Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{44}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{44}{section.3.1}
@@ -30,39 +30,39 @@
 \contentsline {section}{\numberline {3.3}Simulated Data Studies}{56}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Simulating Energy-Binned Source-Count Distributions}{57}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Blazars}{59}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Star-Forming Galaxies}{65}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Blazar and SFG combination}{66}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Low-Energy Analysis: 1.89--94.9 GeV}{67}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1} Pass\nobreakspace {}8\nobreakspace {}{\it ultracleanveto} Data}{67}{subsection.3.4.1}
-\contentsline {subsubsection}{Top PSF Quartile}{67}{section*.13}
-\contentsline {subsubsection}{Top Three PSF Quartiles}{70}{section*.14}
-\contentsline {subsection}{\numberline {3.4.2}Systematic Tests}{72}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}High-Energy Analysis: 50--2000 GeV}{72}{section.3.5}
-\contentsline {section}{\numberline {3.6}Discussion and Conclusions}{76}{section.3.6}
-\contentsline {chapter}{\numberline {4}Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{95}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{95}{section.4.1}
-\contentsline {section}{\numberline {4.2}Tracing Dark Matter Flux with Galaxy Surveys}{98}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Galaxy and Halo Catalogs}{98}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Dark Matter Annihilation Flux Map}{101}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Uncertainties in Halo Modeling}{104}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Statistical Methods}{108}{section.4.3}
-\contentsline {section}{\numberline {4.4}Analysis Results}{113}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Halo Selection and Limits}{114}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Signal Recovery Tests}{121}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Conclusions}{122}{section.4.5}
-\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{127}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{127}{section.5.1}
-\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{129}{section.5.2}
-\contentsline {section}{\numberline {5.3}Data Analysis}{133}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results}{136}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclusions}{137}{section.5.5}
-\contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{139}{appendix.A}
-\contentsline {section}{\numberline {A.1}Units and Conventions}{140}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{140}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Halo Mass and Concentration}{142}{subsection.A.1.2}
-\contentsline {section}{\numberline {A.2}Approximate $J$- and $D$-factors}{143}{section.A.2}
-\contentsline {section}{\numberline {A.3}Analytic Relations}{145}{section.A.3}
-\contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{149}{appendix.B}
-\contentsline {section}{\numberline {B.1}Extended results}{149}{section.B.1}
-\contentsline {section}{\numberline {B.2}Variations on the Analysis}{162}{section.B.2}
+\contentsline {subsection}{\numberline {3.3.3}Star-Forming Galaxies}{66}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Blazar and SFG combination}{67}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Low-Energy Analysis: 1.89--94.9 GeV}{69}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1} Pass\nobreakspace {}8\nobreakspace {}{\it ultracleanveto} Data}{70}{subsection.3.4.1}
+\contentsline {subsubsection}{Top PSF Quartile}{70}{section*.13}
+\contentsline {subsubsection}{Top Three PSF Quartiles}{73}{section*.14}
+\contentsline {subsection}{\numberline {3.4.2}Systematic Tests}{76}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}High-Energy Analysis: 50--2000 GeV}{78}{section.3.5}
+\contentsline {section}{\numberline {3.6}Discussion and Conclusions}{83}{section.3.6}
+\contentsline {chapter}{\numberline {4}Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{94}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{94}{section.4.1}
+\contentsline {section}{\numberline {4.2}Tracing Dark Matter Flux with Galaxy Surveys}{97}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Galaxy and Halo Catalogs}{97}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Dark Matter Annihilation Flux Map}{100}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Uncertainties in Halo Modeling}{103}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Statistical Methods}{107}{section.4.3}
+\contentsline {section}{\numberline {4.4}Analysis Results}{112}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Halo Selection and Limits}{113}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Signal Recovery Tests}{120}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Conclusions}{121}{section.4.5}
+\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{126}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{126}{section.5.1}
+\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{128}{section.5.2}
+\contentsline {section}{\numberline {5.3}Data Analysis}{132}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results}{135}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusions}{136}{section.5.5}
+\contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{138}{appendix.A}
+\contentsline {section}{\numberline {A.1}Units and Conventions}{139}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{139}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Halo Mass and Concentration}{141}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Approximate $J$- and $D$-factors}{142}{section.A.2}
+\contentsline {section}{\numberline {A.3}Analytic Relations}{144}{section.A.3}
+\contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{148}{appendix.B}
+\contentsline {section}{\numberline {B.1}Extended results}{148}{section.B.1}
+\contentsline {section}{\numberline {B.2}Variations on the Analysis}{161}{section.B.2}
 \contentsline {chapter}{Bibliography}{173}{section*.18}

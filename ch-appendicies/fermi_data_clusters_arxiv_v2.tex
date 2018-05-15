@@ -50,7 +50,7 @@ We see that across all masses, the cross section limit  (green line) is always w
   \label{fig:injsig}
 \end{figure*}
 
-\noindent  {\bf Results for Individual Halos.}  Here, we explore the properties of the individual galaxy groups that are included in the stacked analysis.  These galaxy groups are taken from the catalogs in Ref.~\cite{Tully:2015opa} and~\cite{2017ApJ...843...16K}, which we refer to as T15 and T17, respectively.  Table~\ref{tab:tully_extended} lists the top thirty galaxy groups, ordered by the relative brightness of their inferred $J$-factor.  If a group in the table is not labeled with a checkmark, then it is not included in the stacking because one of the following conditions is met:
+\noindent  {\bf Results for Individual Halos.}  Here, we explore the properties of the individual galaxy groups that are included in the stacked analysis.  These galaxy groups are taken from the catalogs in Ref.~\cite{Tully:2015opa} and~\cite{2017ApJ...843...16K}, which we refer to as T15 and T17, respectively.  Table~\ref{tab:tully_extended} lists the top 25 galaxy groups, ordered by the relative brightness of their inferred $J$-factor.  If a group in the table is not labeled with a checkmark, then it is not included in the stacking because one of the following conditions is met:
 \es{eq:selection}{
 \begin{cases} 
    |b| \leq 20^\circ \, , \\
@@ -80,11 +80,9 @@ In Fig.~\ref{fig:individual_skyrois}, we show the counts map in $20^\circ \times
 \resizebox{\textwidth}{!}{%
 \begin{tabular}{C{3cm}C{2.1cm}C{1.5cm}C{1.5cm}C{1.2cm}C{1.2cm}C{1.3cm}C{1.2cm}C{1.2cm}C{1.2cm}C{0.8cm}}
 \toprule
-\Xhline{3\arrayrulewidth}
 Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$&        $\ell$ &        $b$ &  $\log_{10} c_\text{vir}$  & $\theta_\text{s}$ &   $b_\text{sh}$ & TS$_\text{max}$ &  Incl. \\
 & {[GeV$^2$ cm$^{-5}$ sr]} & [$M_\odot$] &  & [deg] & [deg] & & [deg] & &\\
 \midrule
-\hline
              Andromeda &  19.79$\pm$0.36 &  12.4$\pm$0.12 &   0.17 &  121.51 & -21.79 &  1.04$\pm$0.17 &     2.57 &  2.64 &   2.92 &             \\
          NGC4472/Virgo &  19.11$\pm$0.35 &  14.6$\pm$0.14 &   3.58 &  283.94 &  74.52 &  0.80$\pm$0.18 &     1.15 &  4.53 &   1.04 &  \checkmark \\
                NGC5128 &  18.89$\pm$0.37 &  12.9$\pm$0.12 &   0.82 &  307.88 &  17.08 &  0.99$\pm$0.17 &     0.88 &  3.14 &   0.00 &             \\
@@ -110,17 +108,9 @@ Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$
          NGC3311/Hydra &  17.94$\pm$0.34 &  14.4$\pm$0.14 &  10.87 &  269.55 &  26.41 &  0.82$\pm$0.17 &     0.30 &  4.32 &   0.04 &  \checkmark \\
                NGC3379 &  17.93$\pm$0.37 &  12.9$\pm$0.12 &   2.42 &  233.64 &  57.77 &  0.99$\pm$0.17 &     0.29 &  3.11 &   0.00 &  \checkmark \\
                NGC5194 &  17.93$\pm$0.37 &  12.6$\pm$0.12 &   1.84 &  104.86 &  68.53 &  1.01$\pm$0.17 &     0.30 &  2.81 &   4.94 &  \checkmark \\
-            ESO097-013 &  17.92$\pm$0.37 &  11.6$\pm$0.11 &   0.60 &  311.33 &  -3.81 &  1.11$\pm$0.17 &     0.32 &  2.12 &  13.45 &             \\
-               NGC4258 &  17.92$\pm$0.36 &  12.5$\pm$0.12 &   1.64 &  139.02 &  68.89 &  1.03$\pm$0.17 &     0.30 &  2.71 &   0.50 &  \checkmark \\
-               NGC1068 &  17.91$\pm$0.35 &  13.3$\pm$0.13 &   3.60 &  171.99 & -51.86 &  0.95$\pm$0.17 &     0.29 &  3.33 &   6.95 &  \checkmark \\
-               NGC4261 &  17.90$\pm$0.37 &  13.9$\pm$0.13 &   7.16 &  281.87 &  67.45 &  0.88$\pm$0.17 &     0.28 &  4.03 &  12.56 &             \\
-               NGC4826 &  17.87$\pm$0.36 &  12.1$\pm$0.12 &   1.16 &  315.69 &  84.42 &  1.06$\pm$0.17 &     0.29 &  2.53 &   3.31 &  \checkmark \\
-
-
         \bottomrule
-\Xhline{3\arrayrulewidth}
 \end{tabular}}
-\caption{The top thirty halos included from the T15~\cite{Tully:2015opa} and T17~\cite{2017ApJ...843...16K} catalogs, as ranked by inferred $J$-factor, which includes the boost factor.  For each group, we show the brightest central galaxy and the common name, if one exists, as well as the virial mass, cosmological redshift, Galactic coordinates, inferred concentration using Ref.~\cite{Correa:2015dva}, angular extension, boost factor using the fiducial model from Ref.~\cite{Bartels:2015uba}, and the maximum test statistic (TS$_\text{max}$) over all $m_\chi$ between the model with and without DM annihilating to $b \bar b$. A checkmark indicates that the halo satisfies the selection criteria and is included in the stacking analysis.  A complete listing of all the halos used in this study is provided as Supplementary Data.
+\caption{The top 25 halos included from the T15~\cite{Tully:2015opa} and T17~\cite{2017ApJ...843...16K} catalogs, as ranked by inferred $J$-factor, which includes the boost factor.  For each group, we show the brightest central galaxy and the common name, if one exists, as well as the virial mass, cosmological redshift, Galactic coordinates, inferred concentration using Ref.~\cite{Correa:2015dva}, angular extension, boost factor using the fiducial model from Ref.~\cite{Bartels:2015uba}, and the maximum test statistic (TS$_\text{max}$) over all $m_\chi$ between the model with and without DM annihilating to $b \bar b$. A checkmark indicates that the halo satisfies the selection criteria and is included in the stacking analysis.  A complete listing of all the halos used in this study is provided as Supplementary Data.
 }
 \label{tab:tully_extended}
 \end{table*}
@@ -156,7 +146,7 @@ Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$
 \afterpage{
 \begin{figure*}[htbp]
   \centering
-  \includegraphics[width=0.95\textwidth]{ch-clusters/plots/object5_maxts_lim.pdf}
+  \includegraphics[width=0.98\textwidth]{ch-clusters/plots/object5_maxts_lim.pdf}
   \caption{NGC6822 has one of the largest $J$-factors of the objects in the catalog, but it fails the selection requirements because of its proximity to the Galactic plane.  We show the analog of Fig.~\ref{fig:individual_maxts} (left) and Fig.~\ref{fig:individual_lims} (right). We see that this object  has a broad TS$_\text{max}$ excess over many masses and a weaker limit than expected from random sky locations.}
   \label{fig:maxTSoneobject}
 \end{figure*}
@@ -172,7 +162,7 @@ Name &   $\log_{10} J$  &  $\log_{10} M_\text{vir}$ &          $z \times 10^{3}$
 \afterpage{
 \begin{figure*}[htbp]
   \centering
-  \includegraphics[width=0.8\textwidth]{ch-clusters/plots/skymaps.pdf}
+  \includegraphics[width=0.9\textwidth]{ch-clusters/plots/skymaps.pdf}
   \caption{The \textit{Fermi}-LAT data centered on the top nine  halos that are included in the stacked sample. We show the photon counts (for the energies analyzed) within a $20^\circ$$\times$$20^\circ$ square centered on the region of interest. The dotted circle shows the scale radius $\theta_\mathrm{s}$, which is a proxy for the scale of DM annihilation, and the orange stars indicate the \emph{Fermi} 3FGL point sources.}
   \label{fig:individual_skyrois}
 \end{figure*}
@@ -209,7 +199,7 @@ The dotted line in the right panel of Fig.~\ref{fig:cutsandhalos} shows  what ha
 
 \begin{figure*}[tb]
   \centering
-  \includegraphics[width=.5\textwidth]{ch-clusters/plots/systematics_nots_cuts.pdf}
+  \includegraphics[width=.7\textwidth]{ch-clusters/plots/systematics_nots_cuts.pdf}
   \caption{The results of the baseline analysis with the default cuts, as shown in the left of Fig.~\ref{fig:bounds}, compared to the corresponding result when no cuts are placed on the TS$_\text{max}$ or cross section of the halos in the catalog.  The significant offset between the limit obtained with no cuts (dotted line) and the corresponding expectation from random sky locations (red/blue band)  demonstrates that many of the objects that are removed by the TS$_\text{max}$ and cross section cuts are  legitimately associated with astrophysical emission. See text for details.}
   \label{fig:systematics_nots_cuts}
 \end{figure*}

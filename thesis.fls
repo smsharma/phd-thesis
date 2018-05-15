@@ -423,12 +423,12 @@ INPUT ./ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf
 INPUT ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf
 INPUT ./ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf
 INPUT ./ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf
-INPUT ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
-INPUT ./ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
-INPUT ./ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
 INPUT ch-igrb/plots/combined_intensities_v3.pdf
 INPUT ./ch-igrb/plots/combined_intensities_v3.pdf
 INPUT ./ch-igrb/plots/combined_intensities_v3.pdf
+INPUT ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
+INPUT ./ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
+INPUT ./ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf
 INPUT ch-igrb/plots/combined_intensities_HE_v2.pdf
 INPUT ./ch-igrb/plots/combined_intensities_HE_v2.pdf
 INPUT ./ch-igrb/plots/combined_intensities_HE_v2.pdf

@@ -193,7 +193,7 @@ Active galactic nuclei (AGN) are the highly luminous central regions of galaxies
 
 Before \emph{Fermi}, few blazars had been identified in gamma rays, and to estimate the size of this population, one had to extrapolate based on those observed at lower frequencies.  However, \emph{Fermi} brought the discovery of many more blazars in the gamma-ray band, making it possible to study their properties directly~\cite{Collaboration:2010gqa, Ajello:2011zi,Ajello:2013lka, DiMauro:2013zfa, Giommi:2015ela, Padovani:2014cha}.  Most recently, 403 blazars (with $|b| > 15^\circ$) from the First LAT AGN Catalog~\cite{Abdo:2010ge} were studied~\cite{Ajello:2015mfa}.  FSRQs and BL~Lacs were considered together in the same sample to improve statistics.  We use the best-fit luminosity and spectral energy distributions given in~\cite{Ajello:2015mfa} (specifically, the luminosity-dependent density evolution, or LDDE, scenario) to model the blazar component in our simulated data and refer to it as the ``Blazar--1'' model.  Alternatively, we also consider BL~Lacs and FSRQs separately, adding up their respective contributions using the LDDE1 model from~\cite{Ajello:2013lka} and the LDDE model from~\cite{Ajello:2011zi}, which we refer to as the ``Blazar--2'' model. This model predicts a much flatter source-count distribution below the \emph{Fermi} detection threshold, with more low-flux sources. The two source-count models approximately bracket the current theoretical uncertainty in the faint-end slope of blazars, and we use them to study the response of different blazar models to the NPTF, although this is meant to be purely illustrative and by no means exhaustive.
 
-\begin{figure*}[tbhp] 
+\begin{figure*}[!htbp] 
    \centering
    \includegraphics[width=0.9\textwidth]{ch-igrb/plots/bl1-dnds.pdf} 
    \caption{The source-count distribution of the isotropic-PS population obtained by running the NPTF on simulated data in which the EGB arises from the Blazar--1 model~\cite{Ajello:2015mfa}.  Results are presented for the four energy bins considered.  The source-count distribution of the input blazar model (dashed red) matches the posterior for the isotropic PSs (68 and 95\% credible intervals, constructed pointwise, shaded in red) well at fluxes corresponding to counts above $\sim$1 photon (vertical, dot-dashed black).  The vertical dotted green lines indicate the fluxes at which 90\%, 50\%, and 10\% of the flux is accounted for, on average, by sources with larger flux (from left to right, respectively).  The red points show the histogram of the simulated PSs, with 68\% Poisson error bars (vertical).  Note that the NPTF loses sensitivity to sources contributing less than $\sim$1 photon; as a result, the NPTF result does not match the simulated data well below the dot-dashed black line.  }
@@ -208,11 +208,11 @@ The vertical dotted green lines in Fig.~\ref{fig:bl1dnds} correspond to the flux
 
 The corresponding energy spectra for the various templates are shown on the top left panel of Fig.~\ref{fig:blESpec}.  As is evident, these blazars show up as PSs under the NPTF; indeed, the smooth isotropic flux (blue) is sub-dominant in each energy bin.  
 Overlaid in dashed red is the spectrum for the simulated Blazar--1 sources.  The sum of the smooth and PS isotropic components---which is simply the EGB intensity---is consistent with the simulated spectrum for the blazar model.  The green curve shows the median of the posterior for the galactic diffuse model spectrum.  The energy spectrum of the diffuse model is softer than that for blazars, so that the diffuse model dominates more at low energies than at high.  The sum of the components (yellow band) is consistent with the total flux in the simulated data (black lines) at 68\% confidence.
-\begin{figure*}[tb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    \centering
   $ \begin{array}{cc}
-   \scalebox{0.43}{\includegraphics{ch-igrb/plots/bl1-Espec.pdf}} &	\scalebox{0.43}{\includegraphics{ch-igrb/plots/bl2-Espec.pdf}} \\
-   \scalebox{0.43}{\includegraphics{ch-igrb/plots/bl1sf-Espec.pdf}} &	\scalebox{0.43}{\includegraphics{ch-igrb/plots/bl2sf-Espec.pdf}}
+   \scalebox{0.37}{\includegraphics{ch-igrb/plots/bl1-Espec.pdf}} &	\scalebox{0.37}{\includegraphics{ch-igrb/plots/bl2-Espec.pdf}} \\
+   \scalebox{0.37}{\includegraphics{ch-igrb/plots/bl1sf-Espec.pdf}} &	\scalebox{0.37}{\includegraphics{ch-igrb/plots/bl2sf-Espec.pdf}}
    \end{array}$
    \caption{The energy spectra for the isotropic and isotropic-PS templates in each energy bin considered; the 68 and 95\% credible intervals, constructed from the posterior distributions, are shown in blue and red, respectively.  The top row represents the results for simulated data, with {\it ultracleanveto} PSF3 instrument response function, in which the EGB consists of only Blazar--1 sources~\cite{Ajello:2015mfa} \emph{(top left)} or Blazar--2 sources~\cite{Ajello:2011zi, Ajello:2013lka} \emph{(top right)}.  The bottom row  shows the same results, except when SFGs~\cite{Tamborra:2014xia} are also included in the simulation.  The simulated spectrum for blazars (SFGs) is shown in dashed red (blue).  For the Blazar--1 model, the isotropic-PS template absorbs almost the entirety of the flux.   For the Blazar--2 model, both smooth and PS isotropic components absorb flux, but their sum (EGB, purple band) is consistent with the input.  When SFGs are also included, more emission is absorbed by the smooth isotropic template; however, the total emission absorbed by the smooth and PS isotropic templates is consistent with the expected total of SFG and blazar intensities.  The spectrum for Galactic diffuse emission is shown by the green line in each panel (median only).  The sum of all template emission (yellow band) agrees with the total spectrum of the simulated data.  Note that the energy spectrum of the bubbles template is not shown.}
    \label{fig:blESpec}
@@ -220,7 +220,7 @@ Overlaid in dashed red is the spectrum for the simulated Blazar--1 sources.  The
 
 As a contrasting example, we also simulate the Blazar--2 model, which predicts more low-flux sources than the previous example we considered.  The best-fit source-count distributions for the Blazar--2 simulated maps are shown in Fig.~\ref{fig:bl2dnds}. Once again, we see good agreement between the input data and the recovered source-count distribution above the single-photon sensitivity threshold. In this case, however, the reference model predicts a larger fraction of flux coming from sources below this threshold.  For example, about 50\% of the flux comes from sub-single photon sources in the second energy bin, and this fraction only increases further at higher energies.  The corresponding energy spectrum is shown in the top right panel of Fig.~\ref{fig:blESpec}.  As expected, an increasing amount of flux is absorbed by the Poissonian isotropic template.  However, the EGB spectrum, shown by the purple band, is still consistent with the input spectrum for the Blazar--2 model.
 \afterpage{
-\begin{figure*}[htbp] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=0.9\textwidth]{ch-igrb/plots/bl2-dnds.pdf} 
    \caption{Same as Fig.~\ref{fig:bl1dnds}, except for the Blazar--2 model~\cite{Ajello:2011zi, Ajello:2013lka}.}
@@ -258,10 +258,10 @@ Then, a scaling relation was used to convert from infrared to gamma-ray luminosi
 We also performed tests using simulated SFGs. We find that while the NPTF does detect a small PS component in the first few energy bins, as the result of a few SFGs above the sensitivity threshold of the NPTF in those energy bins, by far most of the SFG emission is detected as smooth isotropic emission, with the ratio $I_\text{iso}^\text{PS} / I_\text{iso}\lesssim 1/100$ in all energy bins, where $I_\text{iso}$ is the intensity of smooth isotropic emission.  Moreover, the intensity $I_\text{iso}$ is consistent with the simulated EGB (SFG flux) in all energy bins, at 68\% confidence.
 
 \subsection{Blazar and SFG combination}
-\begin{figure*}[t] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    	\begin{center}$
 	\begin{array}{cc}
-	\scalebox{0.43}{\includegraphics{ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf}} &\scalebox{0.43}{\includegraphics{ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf}} 
+	\scalebox{0.43}{\includegraphics[width=1\textwidth]{ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf}} &\scalebox{0.43}{\includegraphics[width=1\textwidth]{ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf}} 
 	\end{array}$
 	\end{center}
 \caption{Best-fit energy spectra for the NPTF analysis using Pass~8 {\it ultracleanveto} data and the \texttt{p8r2} foreground model.  The left (right) panel shows the PSF3 (PSF1--3) results.  The 68 and 95\% credible intervals, constructed from the posterior distributions in each energy bin, are shown for the isotropic-PS and smooth isotropic templates in red and blue, respectively.  The median intensity for the foreground model is also shown (green).  The sum of all the components (yellow band) agrees with the total spectrum of the \emph{Fermi} data (black). The \emph{Fermi} bubbles contribution is subdominant (averaged over the full region of interest) and is thus not plotted.  For comparison, the spectrum of the 3FGL sources is shown in dashed black.  We caution the reader that, at higher energies, the 3FGL spectra are driven by extrapolations from low energies where the statistics are better.  The systematic uncertainties associated with this extrapolation are difficult to quantify and are not shown here.}
@@ -371,9 +371,9 @@ The source-count distributions reconstructed from the NPTF are shown in Fig.~\re
 A few trends are clearly visible.  First, each flux break tends to have large uncertainties.  This may be a reflection of the fact that the real source-count distribution is not a simple triply-broken power law, but rather a more complicated function, as in the blazar simulations of Sec.~\ref{sec:simulations}.  Therefore, the best-fit values for each of these parameters, when viewed independently, may be somewhat deceptive.  As is evident in Fig.~\ref{fig:dndsdata}, the posteriors for the breaks and indices are distributed in such a way as to describe a smooth concave function for $F^2 dN/dF$.  
 
 
-\begin{figure*}[tb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    \centering
-   \includegraphics[width=\textwidth]{ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf} 
+   \includegraphics[width=0.9\textwidth]{ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf} 
    \caption{The best-fit source-count distribution, as a function of energy, for the isotropic-PS population obtained by the NPTF analysis of Pass~8 {\it ultracleanveto} PSF3 data with the \texttt{p8r2} foreground model.  The median (red line) and 68 and 95\% credible intervals (shaded red bands) are shown.  The vertical dot-dashed black line denotes the $\sim$1 photon boundary, below which the NPTF begins to lose sensitivity.  The vertical dotted red lines indicate the fluxes at which 90\%, 50\%, and 10\% of the flux is accounted for, on average, by sources of larger flux (from left to right, respectively). The black points correspond to the \emph{Fermi} 3FGL sources, with 68\% statistical error bars (vertical).  The NPTF is expected to be sensitive down to the $\sim$1 photon limit, extending the reach to sources below the 3FGL detection threshold.  This is most apparent in the lowest energy bin, where the apparent 3FGL flux threshold is  $\sim$10 times higher than that for the NPTF.   
  We caution the reader that, at higher energies, the 3FGL spectra are driven by extrapolations from low energies where the statistics are better.  The systematic uncertainties associated with this extrapolation are difficult to quantify and are not included in the source counts shown here.}
    \label{fig:dndsdata}
@@ -388,9 +388,9 @@ The presence of any distinctive breaks encodes information about the number of s
 
 \subsubsection{Top Three PSF Quartiles}
 \label{sec:benchmark_top3}
-\begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    \centering
-   \includegraphics[width=\textwidth]{ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf} 
+   \includegraphics[width=0.9\textwidth]{ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf} 
    \caption{The same as Fig.~\ref{fig:dndsdata}, except using the top three quartiles (PSF1--3) of the Pass 8 {\it ultracleanveto} data.  The median source-count distribution for the PSF3 analysis is shown in blue.  %The best-fit values for the source-count distributions are provided in Tab.~\ref{tab:bestfit_dndf_lowQ3} of the Appendix. 
    }
    \label{fig:dndsdata_top3}
@@ -418,7 +418,7 @@ The previous subsection illustrated how the results of the NPTF change when addi
 Figure~\ref{fig:systematicsplot} briefly summarizes the results.  The EGB intensity as measured by \emph{Fermi} is shown by the gray band.  To obtain this band, we use the best-fit power-law spectrum with exponential cut-off provided in~\cite{Ackermann:2014usa}; the width of the gray band is found by varying between best-fit values for the three foreground models considered in that paper (Models A/B/C) and does not include statistical uncertainties, which become increasingly important at high energies.  The smooth isotropic intensity, and thus the intensity of the EGB, is subject to large systematic uncertainties.   As expected, the variation in smooth isotropic intensity is most pronounced when using the {\it source} event class, which contains more cosmic-ray contamination.    However, the spectrum of emission from PSs as captured by the NPTF appears robust to all the systematic effects considered here.  This is the primary conclusion of this subsection. 
 
 \afterpage{ 
-\begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/combined_intensities_v3.pdf} 
    \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests described in Sec.~\ref{sec:systematictests}
@@ -437,7 +437,7 @@ We now consider the NPTF results at high energies from 50--2000~GeV.  The number
 The best-fit energy spectra recovered by the NPTF analysis for the high-energy study of  {\it ultracleanveto} data is shown in the bottom right panel of Fig.~\ref{fig:dndsdata_HE}.
 %\footnote{The intensities and best-fit values for the individual model parameters are given in Appendix~\ref{app:suppanalysis_high}.}  
 The fit results are compared with the best-fit  energy spectrum for sources in \emph{Fermi}'s 2FHL catalog~\cite{Ackermann:2015uya} (dashed black line).  This recently-published catalog is based on 80 months of data and focuses on hard sources in the range from 50--2000~GeV.  Statistical and systematic uncertainties are not accounted for in the determination of the 2FHL spectrum in Fig.~\ref{fig:dndsdata_HE}; these are likely non-negligible, especially at the highest energies.
-\begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf} 
    \caption{NPTF results for the high-energy analysis of all quartiles of Pass8 {\it ultracleanveto} data. Top row and bottom left panel:  The best-fit source-count distribution for the isotropic-PS population, for each separate energy bin, is shown using the same format conventions as Fig.~\ref{fig:dndsdata}.  The black points correspond to the \emph{Fermi} 2FHL sources~\cite{Ackermann:2015uya}, with 68\% statistical error bars (vertical).  Bottom right panel: Best-fit energy spectrum.  The 68 and 95\% credible intervals are shown for the isotropic-PS and smooth isotropic templates in red and blue, respectively.  The median intensity for the foreground is also included (green).  The sum of all the components (yellow band) agrees with the total spectrum of the \emph{Fermi} data (black).  The spectrum of the 2FHL sources is provided in dashed black.  %Best-fit values for the intensities and source-count distributions in each energy bin are provided in Tab.~\ref{tab:bestfit_highE_intensity} and \ref{tab:bestfit_highE_dnds} of the Appendix.  
@@ -447,7 +447,7 @@ The fit results are compared with the best-fit  energy spectrum for sources in \
 
 The best-fit source-count distributions for the three energy bins are also shown in Fig.~\ref{fig:dndsdata_HE}, in the top row and bottom left panel.  The black points in those panels denote the 2FHL source-count distributions, with vertical error bars indicating 68\% Poisson errors.  The statistical errors on the 2FHL sources are large due to the fact that there are not many sources.  In all energy bins, the NPTF places the lowest break close to the single-photon sensitivity threshold (vertical dot-dashed line) and the highest break in the vicinity of the brightest 2FHL source, just as in the low-energy analysis.  Most notably in the 50--151~GeV bin, the NPTF probes unresolved sources with fluxes nearly an order-of-magnitude below the apparent 2FHL threshold.  We find no evidence for an additional intermediate-flux break in any of the energy bins, although it is difficult to make conclusive statements due to the large uncertainties in the individual source-count distributions. 
 
-\begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!phtb] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=\textwidth]{ch-igrb/plots/combined_intensities_HE_v2.pdf} 
    \caption{Comparison of the EGB (black circles), IGRB (blue squares), and PS (red stars) intensities recovered by the NPTF for the various systematic tests specific to high energies.  The gray band indicates the systematic uncertainty associated with the measured \emph{Fermi} EGB~\cite{Ackermann:2014usa}.  %The associated source-count distributions for these analyses are provided in Appendix~\ref{app:suppanalysis_high}. 
@@ -458,7 +458,7 @@ The best-fit source-count distributions for the three energy bins are also shown
 We have completed a number of systematic tests of the high-energy analyses that include looking at all quartiles of the {\it source} data, requiring $|b| > 30^\circ$ for both event classes, and using the third alternate prior choice, with $n_4 > 1$.   The results are summarized in Fig.~\ref{fig:systematics_HE}.
 % and the source-count distributions for each of the systematic tests are given in Appendix~\ref{app:suppanalysis_high}.  
 Importantly, the isotropic-PS intensity is consistent across all the tests.  However, the EGB intensities recovered by the NPTF are, in general, higher than those measured by \emph{Fermi}.  This discrepancy is likely due to increased cosmic-ray contamination above $\sim$100~GeV, as suggested by the high IGRB intensities recovered by the NPTF at these energies.  Indeed, the \emph{Fermi} EGB study on Pass~7 data~\cite{Ackermann:2014usa} used dedicated event classes with specific data cuts to minimize such contributions.  Such an analysis is beyond the scope of this study, as our primary focus is on the PS populations.  We simply caution the reader that the derived intensity for the smooth isotropic component in the high-energy analyses is subject to potentially large contamination.
-\begin{figure*}[tb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!htbp] %  figure placement: here, top, bottom, or page
    	\begin{center}$
 	\begin{array}{cc}
 	\scalebox{0.43}{\includegraphics{ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf}} &\scalebox{0.5}{\includegraphics{ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf}} 
@@ -516,9 +516,9 @@ Scenario B& $0.54^{+0.03}_{-0.03}$ & $0.60^{+0.04}_{-0.03}$ &  $0.61^{+0.06}_{-0
 The PS fraction, defined as $I_\text{PS}/I_\text{EGB}$, is provided in Tab.~\ref{tab:fractions} for each energy bin.  While using the EGB intensity derived in this study (`Scenario A') is the most self-consistent comparison, this may underestimate the PS contribution above $\sim$100~GeV, where the NPTF appears to recover too much smooth isotropic emission due to increased cosmic-ray contamination in the data sets used, as already discussed.  Therefore, we also show the PS fractions calculated relative to the \emph{Fermi} EGB intensity from~\cite{Ackermann:2014usa} for diffuse model A (`Scenario B').  The comparison to the EGB as measured in~\cite{Ackermann:2014usa} is not fully self consistent, since, for example, the foreground modeling and data sets in~\cite{Ackermann:2014usa} differ from those used in this study to measure $I_\text{PS}$.  However, the advantage of this comparison is that the \emph{Fermi} analysis uses special event-quality cuts to mitigate contamination, and thus their measure of $I_\text{EGB}$ is likely more faithful than that presented in this study.  These results are shown in the second row of Tab.~\ref{tab:fractions}.  For the low-energy analysis, the PS fractions are consistent, within uncertainties, when $I_\text{EGB}$ is taken from our study or \emph{Fermi}'s.\footnote{For `Scenario B', the quoted uncertainties only include those measured in this work for $I_\text{PS}$.  For $I_\text{EGB}$, we use the best-fit value given in~\cite{Ackermann:2014usa}.}  The substantial differences occur at high-energies, where our result is systematically lower than the fractions based on \emph{Fermi}'s EGB intensity.  
 
 
-\begin{figure}[b] %  figure placement: here, top, bottom, or page
+\begin{figure}[!htbp] %  figure placement: here, top, bottom, or page
    \centering
-   \includegraphics[width=0.48\textwidth]{ch-igrb/plots/spectra_new_simp.pdf} 
+   \includegraphics[width=0.8\textwidth]{ch-igrb/plots/spectra_new_simp.pdf} 
    \caption{Global fit to the PS intensity spectrum recovered by the NPTF. The results of the NPTF low-energy analysis on {\it ultracleanveto} PSF1--3 data and the high-energy analysis on {\it ultracleeanveto} PSF0--3 data are shown (filled red circles and open red boxes, respectively).  The red band indicates the best-fit (68\% credible interval) to a power law with exponential cutoff.  For comparison, the best-fit \emph{Fermi} EGB spectra from~\cite{Ackermann:2014usa} are shown for three different diffuse background models (Model A--C).  The blue band indicates the estimated IGRB spectrum, obtained by subtracting the PS spectrum from the \emph{Fermi} EGB; the spread includes the statistical uncertainty from the PS intensity as well as the systematic uncertainty on the EGB.  We also plot the best-fit smooth isotropic spectrum recovered by the NPTF (filled blue circles and open blue boxes).  The results are in good agreement with the estimated IGRB result (blue band) below $\sim$100 GeV, but overestimate the result at higher energies due to cosmic-ray contamination.  
     } 
    \label{fig:global}
@@ -540,11 +540,11 @@ The PS spectrum in Fig.~\ref{fig:global} is well-modeled (\mbox{$\chi^2 = 1.18$}
 }
 where $C=6.91_{-1.29}^{+1.44} \times 10^{-5}$ GeV$^{-1}$cm$^{-2}$s$^{-1}$sr$^{-1}$,  $\gamma= 2.26_{-0.05}^{+0.05}$, and $E_\text{cut} = 289_{-86.3}^{+127}$~GeV are the best-fit parameters.\footnote{Repeating the fit using the results from the NPTF analyses with {\it source} data returns similar results, though the PS spectrum is slightly enhanced relative to the {\it ultracleanveto} result.  In particular, with {\it source} data, we find $C=7.98_{-1.40}^{+1.58} \times 10^{-5}$ GeV$^{-1}$cm$^{-2}$s$^{-1}$sr$^{-1}$,  $\gamma= 2.29_{-0.05}^{+0.04}$, and $E_\text{cut} = 325_{-78.1}^{+117}$~GeV, with $\chi^2 = 0.93$. }  Note that the fit is done taking into account the uncertainties on the PS intensities in the energy sub-bins.  The global fit for the PS spectrum is shown in Fig.~\ref{fig:global} by the red band, which denotes the 68\% credible interval.  Interestingly, the index $\gamma$ and cut-off $E_\text{cut}$ that we extract from the fit are very similar to the values found in~\cite{Ackermann:2014usa}, which used the same functional form to fit the EGB spectrum.  Subtracting our PS spectrum from the EGB spectral fits gives the blue band in Fig.~\ref{fig:global}.  The band includes statistical uncertainties from our global fit as well as systematic uncertainties associated with varying between Models A-C.  The blue band is an estimate of the IGRB spectrum and we compare it to the smooth isotropic spectrum recovered by the NPTF (blue points).  Note that the two are consistent, within the large uncertainties, below $\sim$100~GeV; above this energy, our IGRB value is expectedly high. 
 
-\begin{figure*}[phtb] %  figure placement: here, top, bottom, or page
+\begin{figure*}[!phtb] %  figure placement: here, top, bottom, or page
    	\begin{center}
 	$\begin{array}{c}
-\includegraphics[scale=0.8]{ch-igrb/plots/temp_map_low_E} \\
-\includegraphics[scale=0.8]{ch-igrb/plots/temp_map_high_E}
+\includegraphics[scale=0.6]{ch-igrb/plots/temp_map_low_E} \\
+\includegraphics[scale=0.6]{ch-igrb/plots/temp_map_high_E}
 	\end{array}$
 	\end{center}
 \caption{Full-sky maps showing the value (clipped at 20) of $-\log \epsilon_p$ in each pixel $p$.  The larger the value of $-\log \epsilon_p$, the more likely the pixel contains a point source.  \emph{(top)}  Results using {\it ultracleanveto} data (PSF3) for energies 1.89--94.9~GeV.  \emph{Fermi} 3FGL sources are indicated by the white circles, with radii weighted by the predicted number of photon counts for a given source.  \emph{(bottom)} Results using all quartiles of {\it ultracleanveto} data for 50--2000~GeV.  Circles now represent \emph{Fermi} 2FHL sources.  The data for this figure is available upon request. }
