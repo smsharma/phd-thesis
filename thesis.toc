@@ -54,8 +54,8 @@
 \contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}
 \contentsline {section}{\numberline {5.2}Galaxy Group Selection}{126}{section.5.2}
 \contentsline {section}{\numberline {5.3}Data Analysis}{130}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results}{133}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclusions}{134}{section.5.5}
+\contentsline {section}{\numberline {5.4}Results}{134}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusions}{135}{section.5.5}
 \contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{136}{appendix.A}
 \contentsline {section}{\numberline {A.1}Units and Conventions}{137}{section.A.1}
 \contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{137}{subsection.A.1.1}
@@ -65,4 +65,4 @@
 \contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{146}{appendix.B}
 \contentsline {section}{\numberline {B.1}Extended results}{146}{section.B.1}
 \contentsline {section}{\numberline {B.2}Variations on the Analysis}{159}{section.B.2}
-\contentsline {chapter}{Bibliography}{171}{section*.15}
+\contentsline {chapter}{Bibliography}{171}{section*.14}
