@@ -171,6 +171,8 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT thesis.aux
 INPUT thesis.aux
+INPUT ch-intro/introduction.aux
+INPUT ch-intro/introduction.aux
 INPUT ch-nptfit/NPTFit.aux
 INPUT ch-nptfit/NPTFit.aux
 INPUT ch-igrb/LMNS_arxiv_v2.aux
@@ -293,6 +295,9 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/public/ae/aeti12.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 OUTPUT thesis.toc
+OUTPUT ch-intro/introduction.aux
+INPUT ch-intro/introduction.tex
+INPUT ch-intro/introduction.tex
 OUTPUT ch-nptfit/NPTFit.aux
 INPUT ch-nptfit/NPTFit.tex
 INPUT ch-nptfit/NPTFit.tex
@@ -503,9 +508,6 @@ INPUT ./ch-darksky/plots//signal_recovery_100GeV_loc2.pdf
 INPUT ch-darksky/plots//signal_recovery_10TeV_loc2.pdf
 INPUT ./ch-darksky/plots//signal_recovery_10TeV_loc2.pdf
 INPUT ./ch-darksky/plots//signal_recovery_10TeV_loc2.pdf
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aebx10.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/public/ae/aebx10.vf
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aeti8.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aeti7.tfm
 OUTPUT ch-clusters/fermi_data_clusters_arxiv_v2.aux
@@ -632,6 +634,8 @@ INPUT ./ch-clusters/plots/systematics_lu_elephant.pdf
 INPUT thesis.bbl
 INPUT thesis.bbl
 INPUT thesis.aux
+INPUT ch-intro/introduction.aux
+INPUT ch-intro/introduction.aux
 INPUT ch-nptfit/NPTFit.aux
 INPUT ch-nptfit/NPTFit.aux
 INPUT ch-igrb/LMNS_arxiv_v2.aux
@@ -646,7 +650,6 @@ INPUT ch-appendicies/fermi_data_clusters_arxiv_v2.aux
 INPUT ch-appendicies/fermi_data_clusters_arxiv_v2.aux
 INPUT ./thesis.out
 INPUT ./thesis.out
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb

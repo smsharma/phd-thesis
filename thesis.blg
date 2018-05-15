@@ -2,13 +2,14 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: unsrt.bst
+A level-1 auxiliary file: ch-intro/introduction.aux
 A level-1 auxiliary file: ch-nptfit/NPTFit.aux
 A level-1 auxiliary file: ch-igrb/LMNS_arxiv_v2.aux
 A level-1 auxiliary file: ch-darksky/fermi_darksky.aux
 A level-1 auxiliary file: ch-clusters/fermi_data_clusters_arxiv_v2.aux
 A level-1 auxiliary file: ch-appendicies/fermi_darksky.aux
 A level-1 auxiliary file: ch-appendicies/fermi_data_clusters_arxiv_v2.aux
-Illegal, another \bibstyle command---line 46 of file thesis.aux
+Illegal, another \bibstyle command---line 48 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
@@ -1032,7 +1033,7 @@ Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
 You've used 245 entries,
             1791 wiz_defined-function locations,
-            1870 strings with 48203 characters,
+            1871 strings with 48228 characters,
 and the built_in function-call counts, 53185 in all, are:
 = -- 4253
 > -- 2997

@@ -41,7 +41,7 @@ A large set of example \texttt{Jupyter}~\cite{PER-GRA:2007} notebooks and \textt
 
 In addition to the above, the base \texttt{NPTFit} code makes use of the \texttt{python} packages \texttt{corner}~\cite{dan_foreman_mackey_2016_53155}, \texttt{matplotlib}~\cite{Hunter:2007}, \texttt{mpmath}~\cite{mpmath}, \texttt{GSL}~\cite{galassi2015gnu} and  \texttt{numpy}~\cite{oliphant2006guide}.
 
-The rest of this chapter is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF. Sections~\ref{details},~\ref{algorithms}, and~\ref{xmcalc} describe further details behind the mathematical framework of the NPTF. Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. 
+The rest of this chapter is organized as follows.  Section~\ref{NPTF} outlines in more detail the framework of the NPTF. Sections~\ref{details} and ~\ref{algorithms} describe further details behind the mathematical framework of the NPTF. Section~\ref{NPTFit-orientation} highlights the key classes and features in the \texttt{NPTFit} code package and usage instructions.  In Sec.~\ref{NPTFit-example} we present an example of how to perform an NPTF scan using \texttt{NPTFit}, looking at the Galactic Center with \emph{Fermi} data to reproduce aspects of the main results of~\cite{Lee:2015fea}. We conclude in Sec.~\ref{Conclusion}. 
 
 \section{The Non-Poissonian Template Fit}
 \label{NPTF}
@@ -87,7 +87,7 @@ As an important aside, the template $T^{(S)}$ used by the Poissonian models need
 
 
 
-In the remainder of this section we briefly overview the mathematic framework behind the computation of the $p_{n_p}^{(p)}({\bm \theta})$ with \texttt{NPTFit}; however, details of the algorithms used to calculate these probabilities in practice, along with more in-depth explanations, are given in Apps.~\ref{details},~\ref{algorithms}, and~\ref{xmcalc}.  We use the probability generating function formalism, following~\cite{Malyshev:2011zi}, to calculate the probabilities.   
+In the remainder of this section we briefly overview the mathematic framework behind the computation of the $p_{n_p}^{(p)}({\bm \theta})$ with \texttt{NPTFit}; however, details of the algorithms used to calculate these probabilities in practice, along with more in-depth explanations, are given in Secs.~\ref{details} and ~\ref{algorithms}.  We use the probability generating function formalism, following~\cite{Malyshev:2011zi}, to calculate the probabilities.   
 For a discrete probability distribution $p_k$, with $k=0,1,2,\ldots$, the generating function is defined as:
 \begin{equation}
 P(t) \equiv \sum_{k=0}^{\infty} p_k t^k \,,
@@ -168,7 +168,7 @@ x_{p,m} = \int_0^{\infty} dS \frac{dN_p}{dS}(S) \frac{S^m e^{-S}}{m!}\,.
 \label{eq:xpm}
 \end{equation}
 
-An important part of implementing the NPTF in a rapid manner, which is a central feature of \texttt{NPTFit}, is the analytic evaluation of the integral in this equation. In order to do this, we need to have a specific form of the source-count distribution. For this purpose, we allow the source count distribution to be a multiply broken power-law and evaluate the integral for any number of breaks. The details of this calculation are presented in Sec.~\ref{xmcalc}. 
+An important part of implementing the NPTF in a rapid manner, which is a central feature of \texttt{NPTFit}, is the analytic evaluation of the integral in this equation. In order to do this, we need to have a specific form of the source-count distribution. For this purpose, we allow the source count distribution to be a multiply broken power-law and evaluate the integral for any number of breaks. % The details of this calculation are presented in Sec.~\ref{xmcalc}. 
 
 Putting the evaluation of the integral aside for the moment then, we have arrived at the full non-Poissonian generating function:
 \begin{equation}\begin{aligned}
