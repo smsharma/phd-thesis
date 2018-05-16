@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2.1}Introduction}{2}{section.2.1}
 \contentsline {section}{\numberline {2.2}The Non-Poissonian Template Fit}{8}{section.2.2}
 \contentsline {section}{\numberline {2.3}Mathematical foundations of \texttt {NPTFit}}{13}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}The (non-)Poissonian generating function}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}The (non-)Poissonian generating function}{14}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Correcting for a finite point spread function}{17}{subsection.2.3.2}
 \contentsline {section}{\numberline {2.4}\texttt {NPTFit}: algorithms}{18}{section.2.4}
 \contentsline {section}{\numberline {2.5}\texttt {NPTFit}: orientation}{21}{section.2.5}
@@ -13,32 +13,32 @@
 \contentsline {subsection}{\numberline {2.6.1}Setting up the scan}{33}{subsection.2.6.1}
 \contentsline {subsection}{\numberline {2.6.2}Adding models}{35}{subsection.2.6.2}
 \contentsline {subsection}{\numberline {2.6.3}Configure scan with PSF correction}{36}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Performing the scan with \texttt {MultiNest}}{36}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.4}Performing the scan with \texttt {MultiNest}}{37}{subsection.2.6.4}
 \contentsline {subsection}{\numberline {2.6.5}Analyzing the results}{37}{subsection.2.6.5}
-\contentsline {subsubsection}{Make triangle plots}{37}{section*.8}
-\contentsline {subsubsection}{Plot source-count distributions}{37}{section*.9}
-\contentsline {subsubsection}{Plot intensity fractions}{39}{section*.10}
-\contentsline {subsubsection}{Further analyses}{41}{section*.11}
-\contentsline {section}{\numberline {2.7}Conclusion}{42}{section.2.7}
+\contentsline {subsubsection}{Make triangle plots}{38}{section*.8}
+\contentsline {subsubsection}{Plot source-count distributions}{38}{section*.9}
+\contentsline {subsubsection}{Plot intensity fractions}{41}{section*.10}
+\contentsline {subsubsection}{Further analyses}{42}{section*.11}
+\contentsline {section}{\numberline {2.7}Conclusion}{43}{section.2.7}
 \contentsline {chapter}{\numberline {3}Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{44}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{44}{section.3.1}
-\contentsline {section}{\numberline {3.2}Methodology}{47}{section.3.2}
+\contentsline {section}{\numberline {3.2}Methodology}{48}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}The Templates}{49}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Bayesian Fitting Procedure}{51}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Exposure Correction}{52}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Exposure Correction}{53}{subsection.3.2.3}
 \contentsline {subsection}{\numberline {3.2.4}Data Samples}{54}{subsection.3.2.4}
 \contentsline {section}{\numberline {3.3}Simulated Data Studies}{56}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Simulating Energy-Binned Source-Count Distributions}{57}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Blazars}{59}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Star-Forming Galaxies}{66}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Blazar and SFG combination}{67}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Low-Energy Analysis: 1.89--94.9 GeV}{69}{section.3.4}
+\contentsline {subsection}{\numberline {3.3.2}Blazars}{60}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Star-Forming Galaxies}{67}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Blazar and SFG combination}{68}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Low-Energy Analysis: 1.89--94.9 GeV}{70}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1} Pass\nobreakspace {}8\nobreakspace {}{\it ultracleanveto} Data}{70}{subsection.3.4.1}
 \contentsline {subsubsection}{Top PSF Quartile}{70}{section*.12}
-\contentsline {subsubsection}{Top Three PSF Quartiles}{73}{section*.13}
+\contentsline {subsubsection}{Top Three PSF Quartiles}{74}{section*.13}
 \contentsline {subsection}{\numberline {3.4.2}Systematic Tests}{76}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}High-Energy Analysis: 50--2000 GeV}{78}{section.3.5}
-\contentsline {section}{\numberline {3.6}Discussion and Conclusions}{83}{section.3.6}
+\contentsline {section}{\numberline {3.5}High-Energy Analysis: 50--2000 GeV}{77}{section.3.5}
+\contentsline {section}{\numberline {3.6}Discussion and Conclusions}{84}{section.3.6}
 \contentsline {chapter}{\numberline {4}Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{93}{chapter.4}
 \contentsline {section}{\numberline {4.1}Introduction}{93}{section.4.1}
 \contentsline {section}{\numberline {4.2}Tracing Dark Matter Flux with Galaxy Surveys}{96}{section.4.2}
@@ -46,23 +46,23 @@
 \contentsline {subsection}{\numberline {4.2.2}Dark Matter Annihilation Flux Map}{99}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Uncertainties in Halo Modeling}{102}{subsection.4.2.3}
 \contentsline {section}{\numberline {4.3}Statistical Methods}{106}{section.4.3}
-\contentsline {section}{\numberline {4.4}Analysis Results}{111}{section.4.4}
+\contentsline {section}{\numberline {4.4}Analysis Results}{112}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Halo Selection and Limits}{112}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Signal Recovery Tests}{119}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Conclusions}{120}{section.4.5}
-\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{124}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}
-\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{126}{section.5.2}
-\contentsline {section}{\numberline {5.3}Data Analysis}{130}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results}{134}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclusions}{135}{section.5.5}
-\contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{136}{appendix.A}
-\contentsline {section}{\numberline {A.1}Units and Conventions}{137}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{137}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Halo Mass and Concentration}{139}{subsection.A.1.2}
-\contentsline {section}{\numberline {A.2}Approximate $J$- and $D$-factors}{140}{section.A.2}
-\contentsline {section}{\numberline {A.3}Analytic Relations}{142}{section.A.3}
-\contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{146}{appendix.B}
-\contentsline {section}{\numberline {B.1}Extended results}{146}{section.B.1}
-\contentsline {section}{\numberline {B.2}Variations on the Analysis}{159}{section.B.2}
-\contentsline {chapter}{Bibliography}{171}{section*.14}
+\contentsline {section}{\numberline {4.5}Conclusions}{121}{section.4.5}
+\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{125}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{125}{section.5.1}
+\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{127}{section.5.2}
+\contentsline {section}{\numberline {5.3}Data Analysis}{131}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results}{135}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusions}{136}{section.5.5}
+\contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{138}{appendix.A}
+\contentsline {section}{\numberline {A.1}Units and Conventions}{139}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{139}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Halo Mass and Concentration}{141}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Approximate $J$- and $D$-factors}{142}{section.A.2}
+\contentsline {section}{\numberline {A.3}Analytic Relations}{144}{section.A.3}
+\contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{148}{appendix.B}
+\contentsline {section}{\numberline {B.1}Extended results}{148}{section.B.1}
+\contentsline {section}{\numberline {B.2}Variations on the Analysis}{161}{section.B.2}
+\contentsline {chapter}{Bibliography}{173}{section*.14}

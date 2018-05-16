@@ -1,6 +1,8 @@
 \chapter{Non-Poissonian Template Fitting: Fundamentals and Code}
 \label{ch:nptfit}
 
+This chapter is based on an edited version of S. Mishra-Sharma, N.L. Rodd, B.R. Safdi, \emph{NPTFit: A code package for Non-Poissonian Template Fitting},  \href{http://iopscience.iop.org/article/10.3847/1538-3881/aa6d5f/meta}{Astron.J. \textbf{153} (2017) no.6, 253}  \href{https://arxiv.org/abs/1612.03173}{ [arXiv:1612.03173]}.%a paper~\cite{Mishra-Sharma:2016gis} with Nicholas Rodd and Benjamin Safdi.
+
 \section{Introduction}
 
 Astrophysical point sources (PSs), which are defined as sources with angular extent smaller than the resolution of the detector, play an important role in virtually every analysis utilizing images of the cosmos.  It is useful to distinguish between resolved and unresolved PSs; the former may be detected individually at high significance, while members of the latter population are by definition too dim to be detected individually.  However, unresolved PSs -- due to their potentially large number density -- can be a leading and sometimes pesky source of flux across wavelengths.
@@ -60,7 +62,7 @@ For most applications, the data has the interpretation of being a two-dimensiona
 }
 Above, $\ell$ is an index over templates and $\mu_{p, \ell} ({\bm \theta})$ denotes the mean contribution of the $\ell^\text{th}$ template to pixel $p$ for parameters ${\bm \theta}$.  In principle, ${\bm \theta}$ may describe both the spatial morphology as well as the normalization of the templates.  However, in the current implementation of the code, the Poissonian model parameters simply characterize the overall normalization of the templates: $\mu_{p, \ell} ({\bm \theta}) = A_{\ell}( {\bm \theta}) T^{(S)}_{p,\ell}$.  Here, $A_{\ell}$ is the normalization parameter and $T^{(S)}_{p,\ell}$ is the $\ell^\text{th}$ template, which takes values over all pixels $p$ and is independent of the model parameters.  The superscript $(S)$ implies that the template is a counts templates, which is to be contrasted with a flux template, for which we use the symbol $(F)$. The two are related by the exposure map of the instrument $E_{p}$: $T^{(S)}_p = E_p T^{(F)}_p$. In the case where we only have smooth, Poissonian templates, the probabilities are then given by the Poisson distribution:
 \es{poisson}{
-p_{n_p}^{(p)}({\bm \theta}) = {\mu_p^{n_p}( {\bm \theta}) \over n_p !} e^{- \mu_p( {\bm \theta}) } \,.
+p_{n_p}^{(p)}({\bm \theta}) = \frac{{\mu_p^{n_p}( {\bm \theta})}}{n_p !} e^{- \mu_p( {\bm \theta}) } \,.
 }
 
 In the presence of unresolved PS templates, the probabilities $p_{n_p}^{(p)}({\bm \theta})$ are no longer Poissonian functions of the model parameters ${\bm \theta}$.  Each PS template is characterized by a pixel-dependent source-count distribution $dN_p/dF$, which describes the differential number of sources per pixel per unit flux interval.  In this work, we model the source-count distribution by a multiply broken power-law:  
@@ -79,7 +81,7 @@ Notice that when we discussed the Poissonian templates we used the counts templa
 
 For the unresolved PS templates, we also need to convert the source-count distribution from flux to counts.  This is done by a simple change of variables:
 \es{dNdS}{
-{dN_p \over dS} (S; {\bm \theta}) = \frac{1}{E_p} {dN_p \over dF} (F = S / E_p; {\bm \theta}) \,,
+{\frac{dN_p}{dS}} (S; {\bm \theta}) = \frac{1}{E_p} {\frac{dN_p}{dF}} (F = S / E_p; {\bm \theta}) \,,
 }
 which implies that for a non-Poissonian template the spatial dependence of $dN_p/dS$ is given by $T^{({\rm PS})}_p/E_p$. This inverse exposure scaling may seem surprising, but it is straightforward to confirm that the mean number of counts in a given pixel, $ \int dS S dN_p / dS$, is given by $E_p T^{({\rm PS})}_p$, as expected, up to pixel independent factors.
 
@@ -293,7 +295,7 @@ Here, \lstinline{data} and \lstinline{exposure} are 1-D \texttt{numpy} arrays.  
 nptf.add_template(template, key, 
     units='counts')
 \end{lstlisting}  
-Here, \lstinline{template} is a 1-D  \texttt{numpy} array of the same length as the data and exposure map, \lstinline{key} is a string that will be used to refer to the template later on, and \lstinline{units} specifies whether the template is a counts template (keyword \lstinline{'counts'}) or a flux template (keyword \lstinline{'flux'}) in units  $\text{counts}\, \text{cm}^{-2}\text{s}^{-1}$.  The default, if unspecified, is \lstinline{units = 'counts'}.  The template should be pre-smoothed by the PSF if it is going to be used for a Poissonian model.  If the template is going to be used for a non-Poissonian model, either choice for \lstinline{units} is acceptable, though in the case of \lstinline{'counts'} the template should simply be the product of the exposure map times the flux template and not smoothed by the PSF. 
+Here, \lstinline{template} is a 1-D  \texttt{numpy} array of the same length as the data and exposure map, \lstinline{key} is a string that will be used to refer to the template later on, and \lstinline{units} specifies whether the template is a counts template (keyword \lstinline{'counts'}) or a flux template (keyword \lstinline{'flux'}) in units  $\text{counts}\,text{cm}^{-2}\,\text{s}^{-1}$.  The default, if unspecified, is \lstinline{units = 'counts'}.  The template should be pre-smoothed by the PSF if it is going to be used for a Poissonian model.  If the template is going to be used for a non-Poissonian model, either choice for \lstinline{units} is acceptable, though in the case of \lstinline{'counts'} the template should simply be the product of the exposure map times the flux template and not smoothed by the PSF. 
 
 The user also has the option of loading in a mask that reduces the region of interest (ROI) to a subset of the pixels in the data, exposure, and template arrays.  This is done through the command
 \begin{lstlisting}
@@ -406,7 +408,7 @@ The keyword \lstinline{psf_dir} points to the directory where the \lstinline{f_a
 
 By default the \lstinline{PSFCorrection} class assumes that the PSF is a 2-D Gaussian distribution:
 \es{2DGaussian}{
-\text{PSF}(r) = {1 \over 2 \pi \sigma^2} \exp\left[ - {r^2 \over 2 \sigma^2} \right] \,.
+\text{PSF}(r) = {\frac{1}{2 \pi \sigma^2}} \exp\left[ - {\frac{r^2}{2 \sigma^2}} \right] \,.
 }     
 Here, $\text{PSF}(r)$ describes the spread of arriving counts with angular distance $r$ away from the arrival direction.  The parameter \lstinline{psf_sigma_deg} denotes $\sigma$ in degrees.  Upon initializing \lstinline{PSFCorrection} with \lstinline{psf_sigma_deg} specified, the class automatically computes the array \lstinline{df_rho_div_f_ary} and stores it in the \lstinline{psf_dir} with a unique name related to the keywords.  If such a file already exists in the \lstinline{psf_dir}, then the code will simply load this file instead of recomputing it.  After initialization, the relevant arrays may be accessed by \lstinline{pc_inst.f_ary} and  \lstinline{pc_inst.df_rho_div_f_ary}. 
 
