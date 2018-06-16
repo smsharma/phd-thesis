@@ -520,7 +520,7 @@
 	"buffers":
 	[
 	],
-	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -592,9 +592,17 @@
 	"command_palette":
 	{
 		"height": 137.0,
-		"last_filter": "Package Control: remove",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
 			[
 				"Package Control: remove",
 				"Package Control: Remove Package"
@@ -614,10 +622,6 @@
 			[
 				"live",
 				"LiveReload: Enable/disable plug-ins"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"markd",
@@ -699,19 +703,29 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/smsharma/Dropbox/Thesis"
+	],
 	"file_history":
 	[
-		"/Users/smsharma/Desktop/CV/cv/get_pubs.py",
-		"/Users/smsharma/Desktop/CV/cv/pubs_list.tex",
-		"/Users/smsharma/Dropbox/Thesis/thesis.tex",
-		"/Users/smsharma/Dropbox/Thesis/ch-nptfit/NPTFit.tex",
-		"/Users/smsharma/Dropbox/Thesis/ch-igrb/LMNS_arxiv_v2.tex",
 		"/Users/smsharma/Dropbox/Thesis/ch-darksky/fermi_darksky.tex",
 		"/Users/smsharma/Dropbox/Thesis/ch-clusters/fermi_data_clusters_arxiv_v2.tex",
+		"/Users/smsharma/Dropbox/Thesis/ch-igrb/LMNS_arxiv_v2.tex",
+		"/Users/smsharma/Dropbox/Thesis/ch-nptfit/NPTFit.tex",
+		"/Users/smsharma/Dropbox/Thesis/thesis.tex",
+		"/Users/smsharma/Dropbox/Thesis/ch-intro/introduction.tex",
+		"/Users/smsharma/Dropbox/Thesis/thesis.sublime-project",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vyfq04/run_nd_nb_z0_2betas_prior_4d.py",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-w_e_45/run_nd_nb_z0_2lf_4d.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-6w6mmm/submit.batch",
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-gqf30d/slurm-4329230.out",
+		"/Users/smsharma/Dropbox/Thesis/thesis.sublime-workspace",
+		"/Users/smsharma/Desktop/CV/cv/get_pubs.py",
+		"/Users/smsharma/Desktop/CV/cv/pubs_list.tex",
 		"/Users/smsharma/Dropbox/Thesis/TODO.txt",
 		"/Users/smsharma/Desktop/CV/cv/write_tex.py",
 		"/Users/smsharma/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
-		"/Users/smsharma/Dropbox/Thesis/thesis.sublime-project",
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-vxyuhc/.bashrc",
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-7ilh32/run_nd_nb_z0_2betas_prior_4d.py",
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-xmdcv2/run_nd_nb_z0_prior_4d.py",
@@ -822,13 +836,7 @@
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-k11n0z/submit_scan_decay.py",
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-6ihla7/scan.py",
 		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-l27k2p/submit_scan_F.py",
-		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-m72l4m/submit_scan_decay.py",
-		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-83t9wi/submit_scan.py",
-		"/Users/smsharma/Desktop/interpolate_masses.py",
-		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-xjs13s/scan.py",
-		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-5affhp/submit_scan_F.py",
-		"/Users/smsharma/Desktop/AtProduction_gammas.dat",
-		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-zifp67/scan.py"
+		"/var/folders/d8/fkpry78n5tz_ztp9lvhv88fm0000gn/T/rsub-m72l4m/submit_scan_decay.py"
 	],
 	"find":
 	{
@@ -846,34 +854,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"appen",
-			"app:sim",
-			"app:",
-			"app",
-			"append",
-			"app.",
-			"app",
-			"app.",
-			"append",
-			"textwi",
-			"\\bf",
-			"upcomi",
-			"chapter",
-			"paper",
-			"work",
-			"paper",
-			"work",
-			"paper",
-			"textwi",
-			"sec:conclusions",
-			"basic",
-			"pdflate",
-			"pdfl",
-			"orientat",
-			"nptfit",
-			"descri",
-			"orientat",
-			"paper"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -941,7 +921,7 @@
 	},
 	"output.latextools":
 	{
-		"height": 282.0
+		"height": 115.0
 	},
 	"output.markdown":
 	{
@@ -973,12 +953,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Dropbox/Thesis/thesis.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{

@@ -13,7 +13,7 @@ Illegal, another \bibstyle command---line 48 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 10612 items from 5000.
+Reallocated field_info (elt_size=4) to 10658 items from 5000.
 Database file #1: ch-nptfit/NPTF.bib
 Database file #2: ch-igrb/fermi_igrb.bib
 Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
@@ -1028,45 +1028,45 @@ Warning--empty journal in Elor:2015bho
 Warning--empty journal in companion
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 244 entries,
+You've used 246 entries,
             1791 wiz_defined-function locations,
-            1866 strings with 47293 characters,
-and the built_in function-call counts, 52438 in all, are:
-= -- 4237
-> -- 2860
+            1877 strings with 47652 characters,
+and the built_in function-call counts, 52939 in all, are:
+= -- 4275
+> -- 2891
 < -- 1
-+ -- 1040
-- -- 796
-* -- 3889
-:= -- 8970
-add.period$ -- 737
-call.type$ -- 244
-change.case$ -- 241
++ -- 1051
+- -- 805
+* -- 3935
+:= -- 9055
+add.period$ -- 743
+call.type$ -- 246
+change.case$ -- 243
 chr.to.int$ -- 0
-cite$ -- 265
-duplicate$ -- 2169
-empty$ -- 4982
-format.name$ -- 796
-if$ -- 11343
+cite$ -- 267
+duplicate$ -- 2187
+empty$ -- 5028
+format.name$ -- 805
+if$ -- 11449
 int.to.chr$ -- 0
-int.to.str$ -- 244
-missing$ -- 244
-newline$ -- 1228
-num.names$ -- 243
-pop$ -- 351
+int.to.str$ -- 246
+missing$ -- 246
+newline$ -- 1238
+num.names$ -- 245
+pop$ -- 353
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 825
+skip$ -- 831
 stack$ -- 0
-substring$ -- 3127
-swap$ -- 227
+substring$ -- 3163
+swap$ -- 229
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 21
-while$ -- 461
-width$ -- 247
-write$ -- 2648
+while$ -- 465
+width$ -- 249
+write$ -- 2670
 (There were 248 error messages)

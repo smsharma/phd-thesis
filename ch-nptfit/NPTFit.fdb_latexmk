@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1526478055 "NPTFit.tex" "NPTFit.pdf" "NPTFit" 1526478057
+["pdflatex"] 1527619115 "NPTFit.tex" "NPTFit.pdf" "NPTFit" 1527619118
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
@@ -8,8 +8,8 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1477785973 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "NPTFit.aux" 1526477877 10804 d5aa5541f101e9bdc7a4d13ddd523e05 ""
-  "NPTFit.tex" 1526478054 77540 03215ed3fcbec1f59e13bae3db6764a3 ""
+  "NPTFit.aux" 1527255538 10805 16a645fef6a74b108706d3a559bd92ff ""
+  "NPTFit.tex" 1527619115 77551 58cbb06ca938d8e7c5cf14e7384d360a ""
   (generated)
-  "NPTFit.log"
   "NPTFit.pdf"
+  "NPTFit.log"

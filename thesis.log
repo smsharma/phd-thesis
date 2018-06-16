@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 MAY 2018 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  16 JUN 2018 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,24 +754,27 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 1.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for T1+aett on input line 7.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 16.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 ) [6
 
 
-] [7])
+] [7] [8])
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
- [8]
+
+[9]
 \openout2 = `ch-intro/introduction.aux'.
 
-
-(./ch-intro/introduction.tex
+ (./ch-intro/introduction.tex
 Chapter 1.
-) [1
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 
@@ -779,15 +782,41 @@ Chapter 1.
 
 
 ]
+
+LaTeX Warning: Reference `sec:particledm' on page 2 undefined on input line 18.
+
+
+
+LaTeX Warning: Reference `sec:astrodm' on page 2 undefined on input line 18.
+
+
+LaTeX Warning: Reference `sec:thesisorg' on page 2 undefined on input line 18.
+
+
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [2]
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5]
+Underfull \vbox (badness 6125) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [7])
+[8]
 \openout2 = `ch-nptfit/NPTFit.aux'.
 
  (./ch-nptfit/NPTFit.tex
 Chapter 2.
-[2
+[9
 
 
 
-] [3]
+] [10]
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <7> not available
@@ -795,48 +824,48 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <7> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-[5] [6]
+ [11]
+[12] [13]
 Underfull \vbox (badness 4752) has occurred while \output is active []
 
- [7]
-[8]
+ [14]
+[15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-[10]
+ [16]
+[17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-[12]
+ [18]
+[19]
 
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
 (Font)              using `T1/aett/m/n' instead on input line 120.
 
-[13]
+[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-[17] [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 6910) has occurred while \output is active []
 
  [21]
-[22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
+[24] [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 6910) has occurred while \output is active []
+
+ [28]
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
 Overfull \hbox (2.65982pt too wide) in paragraph at lines 340--352
  [] 
  []
@@ -844,14 +873,14 @@ Overfull \hbox (2.65982pt too wide) in paragraph at lines 340--352
 
 Underfull \vbox (badness 6658) has occurred while \output is active []
 
- [24]
-[25]
+ [31]
+[32]
 Overfull \hbox (43.84915pt too wide) in paragraph at lines 358--359
 []\T1/aer/m/n/12 The [][][][][][] key-word has the op-tions [] and [][][][][][]
 
  []
 
-[26] [27] [28]
+[33] [34] [35]
 Overfull \hbox (5.25352pt too wide) in paragraph at lines 407--408
 []\T1/aer/m/n/12 The key-word [][][][][][] points to the di-rec-tory where the 
 [][][][][][] and [][]
@@ -860,38 +889,38 @@ Overfull \hbox (5.25352pt too wide) in paragraph at lines 407--408
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-[30] [31] [32] [33] [34] [35] [36] [37]
-<ch-nptfit/gce_triangle.pdf, id=874, 1763.38805pt x 1763.38805pt>
+ [36]
+[37] [38] [39] [40] [41] [42] [43] [44]
+<ch-nptfit/gce_triangle.pdf, id=955, 1763.38805pt x 1763.38805pt>
 File: ch-nptfit/gce_triangle.pdf Graphic file (type pdf)
 
 <use ch-nptfit/gce_triangle.pdf>
 Package pdftex.def Info: ch-nptfit/gce_triangle.pdf used on input line 591.
 (pdftex.def)             Requested size: 424.94574pt x 424.94383pt.
- [38]
+ [45]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [46pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.620 \end{lstlisting}
                        <./ch-nptfit/gce_triangle.pdf>]
-<ch-nptfit/dnds_masked.pdf, id=929, 433.62pt x 361.35pt>
+<ch-nptfit/dnds_masked.pdf, id=1012, 433.62pt x 361.35pt>
 File: ch-nptfit/dnds_masked.pdf Graphic file (type pdf)
 
 <use ch-nptfit/dnds_masked.pdf>
 Package pdftex.def Info: ch-nptfit/dnds_masked.pdf used on input line 626.
 (pdftex.def)             Requested size: 346.89731pt x 289.09694pt.
- [40pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.637 \begin{lstlisting}
                          <./ch-nptfit/dnds_masked.pdf>]
-<ch-nptfit/gce_intensity_fraction.pdf, id=958, 433.62pt x 289.08pt>
+<ch-nptfit/gce_intensity_fraction.pdf, id=1041, 433.62pt x 289.08pt>
 File: ch-nptfit/gce_intensity_fraction.pdf Graphic file (type pdf)
 
 <use ch-nptfit/gce_intensity_fraction.pdf>
@@ -901,68 +930,68 @@ e 649.
 
 Underfull \vbox (badness 3919) has occurred while \output is active []
 
- [41pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [48pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.657 
        <./ch-nptfit/gce_intensity_fraction.pdf>]
-<ch-nptfit/dnds_unmasked.pdf, id=986, 433.62pt x 361.35pt>
+<ch-nptfit/dnds_unmasked.pdf, id=1067, 433.62pt x 361.35pt>
 File: ch-nptfit/dnds_unmasked.pdf Graphic file (type pdf)
 
 <use ch-nptfit/dnds_unmasked.pdf>
 Package pdftex.def Info: ch-nptfit/dnds_unmasked.pdf used on input line 661.
 (pdftex.def)             Requested size: 346.89731pt x 289.09694pt.
- [42pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [49pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.669 
-       <./ch-nptfit/dnds_unmasked.pdf>]) [43]
+       <./ch-nptfit/dnds_unmasked.pdf>]) [50]
 \openout2 = `ch-igrb/LMNS_arxiv_v2.aux'.
 
  (./ch-igrb/LMNS_arxiv_v2.tex
 Chapter 3.
-[44
+[51
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
+ [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+ [53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
-[50]
+ [56]
+[57]
 Overfull \hbox (9.11827pt too wide) in paragraph at lines 77--87
  [] 
  []
 
-[51] [52pdfTeX warning (ext4): destination with the same identifier (name{table
+[58] [59pdfTeX warning (ext4): destination with the same identifier (name{table
 .3.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.99 
-     ] [53]
+     ] [60]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 110.
 
-[54]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 120--120
 [][][][]$\T1/aett/m/n/10 http : / / fermi . gsfc . nasa . gov / ssc / data / an
 alysis / documentation / Cicerone / Cicerone _
@@ -971,18 +1000,18 @@ alysis / documentation / Cicerone / Cicerone _
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
+ [62]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [56]
+ [63]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57]
-[58]
+ [64]
+[65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59]
-[60] <ch-igrb/plots/bl1-dnds.pdf, id=1368, 939.51pt x 939.51pt>
+ [66]
+[67] <ch-igrb/plots/bl1-dnds.pdf, id=1452, 939.51pt x 939.51pt>
 File: ch-igrb/plots/bl1-dnds.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl1-dnds.pdf>
@@ -991,36 +1020,36 @@ Package pdftex.def Info: ch-igrb/plots/bl1-dnds.pdf used on input line 200.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
-[62pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+ [68]
+[69pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.208 
        <./ch-igrb/plots/bl1-dnds.pdf>]
-<ch-igrb/plots/bl1-Espec.pdf, id=1400, 529.5767pt x 538.26106pt>
+<ch-igrb/plots/bl1-Espec.pdf, id=1484, 529.5767pt x 538.26106pt>
 File: ch-igrb/plots/bl1-Espec.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl1-Espec.pdf>
 Package pdftex.def Info: ch-igrb/plots/bl1-Espec.pdf used on input line 216.
 (pdftex.def)             Requested size: 529.57541pt x 538.25975pt.
 
-<ch-igrb/plots/bl2-Espec.pdf, id=1401, 529.5767pt x 538.26106pt>
+<ch-igrb/plots/bl2-Espec.pdf, id=1485, 529.5767pt x 538.26106pt>
 File: ch-igrb/plots/bl2-Espec.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl2-Espec.pdf>
 Package pdftex.def Info: ch-igrb/plots/bl2-Espec.pdf used on input line 216.
 (pdftex.def)             Requested size: 529.57541pt x 538.25975pt.
 
-<ch-igrb/plots/bl1sf-Espec.pdf, id=1402, 529.5767pt x 538.26106pt>
+<ch-igrb/plots/bl1sf-Espec.pdf, id=1486, 529.5767pt x 538.26106pt>
 File: ch-igrb/plots/bl1sf-Espec.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl1sf-Espec.pdf>
 Package pdftex.def Info: ch-igrb/plots/bl1sf-Espec.pdf used on input line 217.
 (pdftex.def)             Requested size: 529.57541pt x 538.25975pt.
 
-<ch-igrb/plots/bl2sf-Espec.pdf, id=1403, 529.5767pt x 538.26106pt>
+<ch-igrb/plots/bl2sf-Espec.pdf, id=1487, 529.5767pt x 538.26106pt>
 File: ch-igrb/plots/bl2sf-Espec.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl2sf-Espec.pdf>
@@ -1033,8 +1062,8 @@ LaTeX Warning: Float too large for page by 10.1668pt on input line 221.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63]
-[64pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
+ [70]
+[71pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1052,7 +1081,7 @@ pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl1sf-Espec.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl2sf-Espec.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
->] <ch-igrb/plots/bl2-dnds.pdf, id=1478, 939.51pt x 939.51pt>
+>] <ch-igrb/plots/bl2-dnds.pdf, id=1563, 939.51pt x 939.51pt>
 File: ch-igrb/plots/bl2-dnds.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/bl2-dnds.pdf>
@@ -1061,7 +1090,7 @@ Package pdftex.def Info: ch-igrb/plots/bl2-dnds.pdf used on input line 232.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [72pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1070,7 +1099,7 @@ l.234 \begin{equation}
                        <./ch-igrb/plots/bl2-dnds.pdf>]
 Underfull \vbox (badness 7759) has occurred while \output is active []
 
- [66pdfTeX warning (ext4): destination with the same identifier (name{equation.
+ [73pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.3.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1079,14 +1108,14 @@ l.247 \begin{equation}
                       ]
 Underfull \vbox (badness 1264) has occurred while \output is active []
 
- [67pdfTeX warning (ext4): destination with the same identifier (name{equation.
+ [74pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.3.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.261 
       ]
-<ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf, id=1525, 534.66621p
+<ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf, id=1608, 534.66621p
 t x 513.0805pt>
 File: ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf Graphic file (t
 ype pdf)
@@ -1096,7 +1125,7 @@ Package pdftex.def Info: ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.
 pdf used on input line 266.
 (pdftex.def)             Requested size: 433.62pt x 416.11748pt.
 
-<ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf, id=1526, 534.6662
+<ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf, id=1609, 534.6662
 1pt x 513.0805pt>
 File: ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf Graphic file 
 (type pdf)
@@ -1105,7 +1134,7 @@ File: ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf Graphic file
 Package pdftex.def Info: ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3b
 r.pdf used on input line 266.
 (pdftex.def)             Requested size: 433.62pt x 416.11748pt.
- [68pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [75pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1135,15 +1164,15 @@ l.290 \begin{equation}
                       
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
-[70] [71pdfTeX warning (ext4): destination with the same identifier (name{table
+ [76]
+[77] [78pdfTeX warning (ext4): destination with the same identifier (name{table
 .3.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.374 
       ]
-<ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf, id=1588, 936.2
+<ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf, id=1672, 936.2
 9799pt x 936.29799pt>
 File: ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf Graphic fi
 le (type pdf)
@@ -1155,20 +1184,20 @@ Package pdftex.def Info: ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8
 
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [72pdfTeX warning (ext4): destination with the same identifier (name{table.3.3
+ [79pdfTeX warning (ext4): destination with the same identifier (name{table.3.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.389 
-      ] [73pdfTeX warning (ext4): destination with the same identifier (name{fi
+      ] [80pdfTeX warning (ext4): destination with the same identifier (name{fi
 gure.3.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.389 
        <./ch-igrb/plots/Rp8RBlw1-1-SourceCounts-final-700-E15-p8-3br.pdf>]
-<ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf, id=1616, 936
+<ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf, id=1700, 936
 .29799pt x 936.29799pt>
 File: ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf Graphic 
 file (type pdf)
@@ -1180,16 +1209,16 @@ p8-3br.pdf used on input line 395.
 
 Underfull \vbox (badness 7047) has occurred while \output is active []
 
- [74]
-[75pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
+ [81]
+[82pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.410 T
        he best-fit source-count distributions recovered by the NPTF with PSF...
- <./ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf>] [76]
-<ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf, id=1663, 939
+ <./ch-igrb/plots/U3RRBlw1p8-1-SourceCounts-final-700-E15-p8-3br.pdf>] [83]
+<ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf, id=1747, 939
 .51pt x 939.51pt>
 File: ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf Graphic 
 file (type pdf)
@@ -1201,22 +1230,22 @@ p8-3br.pdf used on input line 444.
 
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [77]
-[78pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
+ [84]
+[85pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.451 
        <./ch-igrb/plots/N128UHEp8-0K-SourceCounts-final-700-E15-p8-3br.pdf>]
-<ch-igrb/plots/combined_intensities_v3.pdf, id=1695, 801.16055pt x 873.25478pt>
+<ch-igrb/plots/combined_intensities_v3.pdf, id=1779, 801.16055pt x 873.25478pt>
 File: ch-igrb/plots/combined_intensities_v3.pdf Graphic file (type pdf)
 <use ch-igrb/plots/combined_intensities_v3.pdf>
 Package pdftex.def Info: ch-igrb/plots/combined_intensities_v3.pdf used on inpu
 t line 451.
 (pdftex.def)             Requested size: 433.62pt x 472.62987pt.
 
-<ch-igrb/plots/combined_intensities_HE_v2.pdf, id=1700, 801.16055pt x 878.83624
+<ch-igrb/plots/combined_intensities_HE_v2.pdf, id=1784, 801.16055pt x 878.83624
 pt>
 File: ch-igrb/plots/combined_intensities_HE_v2.pdf Graphic file (type pdf)
  <use ch-igrb/plots/combined_intensities_HE_v2.pdf>
@@ -1226,14 +1255,14 @@ nput line 454.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [86pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.458 \end{figure*}
                     <./ch-igrb/plots/combined_intensities_v3.pdf>]
-<ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf, id=1734, 505.85495pt x 478.39066pt>
+<ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf, id=1818, 505.85495pt x 478.39066pt>
 File: ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf>
@@ -1241,7 +1270,7 @@ Package pdftex.def Info: ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf used on input li
 ne 466.
 (pdftex.def)             Requested size: 505.85371pt x 478.38948pt.
 
-<ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf, id=1735, 437.38574pt x 397.39807pt>
+<ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf, id=1819, 437.38574pt x 397.39807pt>
 File: ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf>
@@ -1256,14 +1285,14 @@ Overfull \hbox (22.58572pt too wide) in paragraph at lines 464--468
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80]
-[81pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9
+ [87]
+[88pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.475 
-       <./ch-igrb/plots/combined_intensities_HE_v2.pdf>] [82pdfTeX warning (ext
+       <./ch-igrb/plots/combined_intensities_HE_v2.pdf>] [89pdfTeX warning (ext
 4): destination with the same identifier (name{figure.3.10}) has been already u
 sed, duplicate ignored
 
@@ -1278,25 +1307,25 @@ inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
-[84]
+ [90]
+[91]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
-<ch-igrb/plots/spectra_new_simp.pdf, id=1849, 481.31433pt x 471.8922pt>
+ [92]
+<ch-igrb/plots/spectra_new_simp.pdf, id=1933, 481.31433pt x 471.8922pt>
 File: ch-igrb/plots/spectra_new_simp.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/spectra_new_simp.pdf>
 Package pdftex.def Info: ch-igrb/plots/spectra_new_simp.pdf used on input line 
 523.
 (pdftex.def)             Requested size: 346.89731pt x 340.10054pt.
- [86pdfTeX warning (ext4): destination with the same identifier (name{table.3.4
+ [93pdfTeX warning (ext4): destination with the same identifier (name{table.3.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.533 
-      ] [87pdfTeX warning (ext4): destination with the same identifier (name{fi
+      ] [94pdfTeX warning (ext4): destination with the same identifier (name{fi
 gure.3.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1305,8 +1334,8 @@ l.533
        <./ch-igrb/plots/spectra_new_simp.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [88]
-<ch-igrb/plots/temp_map_low_E.pdf, id=1911, 614.295pt x 390.25798pt>
+ [95]
+<ch-igrb/plots/temp_map_low_E.pdf, id=1995, 614.295pt x 390.25798pt>
 File: ch-igrb/plots/temp_map_low_E.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/temp_map_low_E.pdf>
@@ -1314,7 +1343,7 @@ Package pdftex.def Info: ch-igrb/plots/temp_map_low_E.pdf used on input line 54
 8.
 (pdftex.def)             Requested size: 368.57983pt x 234.15659pt.
 
-<ch-igrb/plots/temp_map_high_E.pdf, id=1912, 614.295pt x 390.25798pt>
+<ch-igrb/plots/temp_map_high_E.pdf, id=1996, 614.295pt x 390.25798pt>
 File: ch-igrb/plots/temp_map_high_E.pdf Graphic file (type pdf)
 
 <use ch-igrb/plots/temp_map_high_E.pdf>
@@ -1324,8 +1353,8 @@ Package pdftex.def Info: ch-igrb/plots/temp_map_high_E.pdf used on input line 5
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89]
-[90] [91pdfTeX warning (ext4): destination with the same identifier (name{figur
+ [96]
+[97] [98pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.3.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1336,67 +1365,67 @@ l.563 D
 
 pdfTeX warning: pdflatex (file ./ch-igrb/plots/temp_map_high_E.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
->]) [92]
+>]) [99]
 \openout2 = `ch-darksky/fermi_darksky.aux'.
 
  (./ch-darksky/fermi_darksky.tex
 Chapter 4.
-[93
+[100
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94]
-<ch-darksky/plots//DarkSky-galaxies.pdf, id=2056, 1269.613pt x 584.88576pt>
+ [101]
+<ch-darksky/plots//DarkSky-galaxies.pdf, id=2142, 1269.613pt x 584.88576pt>
 File: ch-darksky/plots//DarkSky-galaxies.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//DarkSky-galaxies.pdf>
 Package pdftex.def Info: ch-darksky/plots//DarkSky-galaxies.pdf used on input l
 ine 18.
 (pdftex.def)             Requested size: 390.25534pt x 179.77766pt.
- [95pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-1}) has been already used, duplicate ignored
+ [102pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.24 
-      <./ch-darksky/plots//DarkSky-galaxies.pdf>] [96]
+      <./ch-darksky/plots//DarkSky-galaxies.pdf>] [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [97]
-[98] <ch-darksky/plots//DarkSky_heatmap.pdf, id=2245, 433.62pt x 303.534pt>
+ [104]
+[105] <ch-darksky/plots//DarkSky_heatmap.pdf, id=2331, 433.62pt x 303.534pt>
 File: ch-darksky/plots//DarkSky_heatmap.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//DarkSky_heatmap.pdf>
 Package pdftex.def Info: ch-darksky/plots//DarkSky_heatmap.pdf used on input li
 ne 70.
 (pdftex.def)             Requested size: 346.89731pt x 242.84142pt.
- [99]
+ [106]
 Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [100pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [107pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.82 \begin{equation}
                       <./ch-darksky/plots//DarkSky_heatmap.pdf>]
-<ch-darksky/plots//LofM.pdf, id=2296, 602.25pt x 481.8pt>
+<ch-darksky/plots//LofM.pdf, id=2383, 602.25pt x 481.8pt>
 File: ch-darksky/plots//LofM.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//LofM.pdf>
 Package pdftex.def Info: ch-darksky/plots//LofM.pdf used on input line 90.
 (pdftex.def)             Requested size: 195.12767pt x 156.10527pt.
 
-<ch-darksky/plots//LofMinf.pdf, id=2297, 602.25pt x 481.8pt>
+<ch-darksky/plots//LofMinf.pdf, id=2384, 602.25pt x 481.8pt>
 File: ch-darksky/plots//LofMinf.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//LofMinf.pdf>
 Package pdftex.def Info: ch-darksky/plots//LofMinf.pdf used on input line 91.
 (pdftex.def)             Requested size: 195.12767pt x 156.10527pt.
- [101pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [108pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1406,11 +1435,11 @@ l.98
 
 pdfTeX warning: pdflatex (file ./ch-darksky/plots//LofMinf.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
->] [102]
+>] [109]
 Underfull \vbox (badness 1997) has occurred while \output is active []
 
- [103]
-<ch-darksky/plots//cvir_models.pdf, id=2382, 602.25pt x 481.8pt>
+ [110]
+<ch-darksky/plots//cvir_models.pdf, id=2468, 602.25pt x 481.8pt>
 File: ch-darksky/plots//cvir_models.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//cvir_models.pdf>
@@ -1418,7 +1447,7 @@ Package pdftex.def Info: ch-darksky/plots//cvir_models.pdf used on input line 1
 20.
 (pdftex.def)             Requested size: 212.47617pt x 169.97787pt.
 
-<ch-darksky/plots//boost_models.pdf, id=2383, 602.25pt x 481.8pt>
+<ch-darksky/plots//boost_models.pdf, id=2469, 602.25pt x 481.8pt>
 File: ch-darksky/plots//boost_models.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//boost_models.pdf>
@@ -1428,10 +1457,10 @@ Package pdftex.def Info: ch-darksky/plots//boost_models.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104]
+ [111]
 Underfull \vbox (badness 7486) has occurred while \output is active []
 
- [105pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [112pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1445,21 +1474,21 @@ sion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [106]
-[107]
+ [113]
+[114]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108]
+ [115]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [109]
+ [116]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [110]
+ [117]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
-[112] <ch-darksky/plots//darksky_limits.pdf, id=2533, 595.023pt x 474.57298pt>
+ [118]
+[119] <ch-darksky/plots//darksky_limits.pdf, id=2619, 595.023pt x 474.57298pt>
 File: ch-darksky/plots//darksky_limits.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//darksky_limits.pdf>
@@ -1467,7 +1496,7 @@ Package pdftex.def Info: ch-darksky/plots//darksky_limits.pdf used on input lin
 e 225.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-darksky/plots//darksky_reduced_err.pdf, id=2534, 595.023pt x 474.57298pt>
+<ch-darksky/plots//darksky_reduced_err.pdf, id=2620, 595.023pt x 474.57298pt>
 File: ch-darksky/plots//darksky_reduced_err.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//darksky_reduced_err.pdf>
@@ -1477,8 +1506,8 @@ t line 226.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113]
-<ch-darksky/plots//darksky_elephants.pdf, id=2544, 792.63707pt x 523.77316pt>
+ [120]
+<ch-darksky/plots//darksky_elephants.pdf, id=2629, 792.63707pt x 523.77316pt>
 File: ch-darksky/plots//darksky_elephants.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//darksky_elephants.pdf>
@@ -1488,7 +1517,7 @@ line 237.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [121pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1502,14 +1531,14 @@ F inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [122pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.246 
        <./ch-darksky/plots//darksky_elephants.pdf, page is rotated 270 degrees>
-] [116] <ch-darksky/plots//cat_jfactors.pdf, id=2649, 602.25pt x 481.8pt>
+] [123] <ch-darksky/plots//cat_jfactors.pdf, id=2734, 602.25pt x 481.8pt>
 File: ch-darksky/plots//cat_jfactors.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//cat_jfactors.pdf>
@@ -1517,7 +1546,7 @@ Package pdftex.def Info: ch-darksky/plots//cat_jfactors.pdf used on input line
 253.
 (pdftex.def)             Requested size: 346.89731pt x 277.5254pt.
 
-<ch-darksky/plots//cat_masses.pdf, id=2664, 602.25pt x 481.8pt>
+<ch-darksky/plots//cat_masses.pdf, id=2749, 602.25pt x 481.8pt>
 File: ch-darksky/plots//cat_masses.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//cat_masses.pdf>
@@ -1525,14 +1554,14 @@ Package pdftex.def Info: ch-darksky/plots//cat_masses.pdf used on input line 26
 2.
 (pdftex.def)             Requested size: 195.12767pt x 156.10527pt.
 
-<ch-darksky/plots//cat_redshifts.pdf, id=2665, 602.25pt x 481.8pt>
+<ch-darksky/plots//cat_redshifts.pdf, id=2750, 602.25pt x 481.8pt>
 File: ch-darksky/plots//cat_redshifts.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//cat_redshifts.pdf>
 Package pdftex.def Info: ch-darksky/plots//cat_redshifts.pdf used on input line
  263.
 (pdftex.def)             Requested size: 195.12767pt x 156.10527pt.
- [117pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [124pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1541,7 +1570,7 @@ l.269
        <./ch-darksky/plots//cat_jfactors.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [125pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1552,11 +1581,11 @@ l.273 T
 
 pdfTeX warning: pdflatex (file ./ch-darksky/plots//cat_redshifts.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] [119]
+>] [126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [120]
-<ch-darksky/plots//signal_recovery_10GeV.pdf, id=2757, 603.5706pt x 410.82172pt
+ [127]
+<ch-darksky/plots//signal_recovery_10GeV.pdf, id=2842, 603.5706pt x 410.82172pt
 >
 File: ch-darksky/plots//signal_recovery_10GeV.pdf Graphic file (type pdf)
  <use ch-darksky/plots//signal_recovery_10GeV.pdf>
@@ -1564,7 +1593,7 @@ Package pdftex.def Info: ch-darksky/plots//signal_recovery_10GeV.pdf used on in
 put line 293.
 (pdftex.def)             Requested size: 151.76964pt x 103.30069pt.
 
-<ch-darksky/plots//signal_recovery_100GeV.pdf, id=2758, 481.8pt x 385.44pt>
+<ch-darksky/plots//signal_recovery_100GeV.pdf, id=2843, 481.8pt x 385.44pt>
 File: ch-darksky/plots//signal_recovery_100GeV.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//signal_recovery_100GeV.pdf>
@@ -1572,7 +1601,7 @@ Package pdftex.def Info: ch-darksky/plots//signal_recovery_100GeV.pdf used on i
 nput line 294.
 (pdftex.def)             Requested size: 130.08731pt x 104.07019pt.
 
-<ch-darksky/plots//signal_recovery_10TeV.pdf, id=2759, 481.8pt x 385.44pt>
+<ch-darksky/plots//signal_recovery_10TeV.pdf, id=2844, 481.8pt x 385.44pt>
 File: ch-darksky/plots//signal_recovery_10TeV.pdf Graphic file (type pdf)
 
 <use ch-darksky/plots//signal_recovery_10TeV.pdf>
@@ -1580,7 +1609,7 @@ Package pdftex.def Info: ch-darksky/plots//signal_recovery_10TeV.pdf used on in
 put line 295.
 (pdftex.def)             Requested size: 130.08731pt x 104.07019pt.
 
-<ch-darksky/plots//signal_recovery_10GeV_loc2.pdf, id=2760, 605.60635pt x 421.8
+<ch-darksky/plots//signal_recovery_10GeV_loc2.pdf, id=2845, 605.60635pt x 421.8
 3379pt>
 File: ch-darksky/plots//signal_recovery_10GeV_loc2.pdf Graphic file (type pdf)
  <use ch-darksky/plots//signal_recovery_10GeV_loc2.pdf>
@@ -1588,7 +1617,7 @@ Package pdftex.def Info: ch-darksky/plots//signal_recovery_10GeV_loc2.pdf used
 on input line 296.
 (pdftex.def)             Requested size: 147.4292pt x 102.69041pt.
 
-<ch-darksky/plots//signal_recovery_100GeV_loc2.pdf, id=2761, 481.8pt x 385.44pt
+<ch-darksky/plots//signal_recovery_100GeV_loc2.pdf, id=2846, 481.8pt x 385.44pt
 >
 File: ch-darksky/plots//signal_recovery_100GeV_loc2.pdf Graphic file (type pdf)
 
@@ -1597,13 +1626,13 @@ Package pdftex.def Info: ch-darksky/plots//signal_recovery_100GeV_loc2.pdf used
  on input line 297.
 (pdftex.def)             Requested size: 130.08731pt x 104.07019pt.
 
-<ch-darksky/plots//signal_recovery_10TeV_loc2.pdf, id=2762, 481.8pt x 385.44pt>
+<ch-darksky/plots//signal_recovery_10TeV_loc2.pdf, id=2847, 481.8pt x 385.44pt>
 File: ch-darksky/plots//signal_recovery_10TeV_loc2.pdf Graphic file (type pdf)
 <use ch-darksky/plots//signal_recovery_10TeV_loc2.pdf>
 Package pdftex.def Info: ch-darksky/plots//signal_recovery_10TeV_loc2.pdf used 
 on input line 298.
 (pdftex.def)             Requested size: 130.08731pt x 104.07019pt.
- [121pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+ [128pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1626,11 +1655,11 @@ df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
+ [129]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123])
-[124]
+ [130])
+[131]
 \openout2 = `ch-clusters/fermi_data_clusters_arxiv_v2.aux'.
 
  (./ch-clusters/fermi_data_clusters_arxiv_v2.tex
@@ -1638,7 +1667,7 @@ Chapter 5.
 
 Underfull \vbox (badness 1137) has occurred while \output is active []
 
- [125
+ [132
 
 
 
@@ -1675,7 +1704,7 @@ Overfull \hbox (5.5202pt too wide) in paragraph at lines 51--51
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126pdfTeX warning (ext4): destination with the same identifier (name{table.5.
+ [133pdfTeX warning (ext4): destination with the same identifier (name{table.5.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1684,37 +1713,37 @@ l.60
      ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
-[128]
+ [134]
+[135]
 Underfull \vbox (badness 3895) has occurred while \output is active []
 
- [129]
+ [136]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [130]
+ [137]
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 [][][][]$\T1/aett/m/n/10 https : / / fermi . gsfc . nasa . gov / ssc / data / a
 nalysis / documentation / Cicerone / Cicerone _
  []
 
-<ch-clusters/plots/bounds.pdf, id=3027, 595.023pt x 474.57298pt>
+<ch-clusters/plots/bounds.pdf, id=3115, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/bounds.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/bounds.pdf>
 Package pdftex.def Info: ch-clusters/plots/bounds.pdf used on input line 97.
 (pdftex.def)             Requested size: 346.89731pt x 276.67908pt.
 
-<ch-clusters/plots/elephant.pdf, id=3032, 595.023pt x 474.57298pt>
+<ch-clusters/plots/elephant.pdf, id=3120, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/elephant.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/elephant.pdf>
 Package pdftex.def Info: ch-clusters/plots/elephant.pdf used on input line 110.
 
 (pdftex.def)             Requested size: 346.89731pt x 276.67908pt.
- [131]
+ [138]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [132pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+ [139pdfTeX warning (ext4): destination with the same identifier (name{figure.5
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1723,18 +1752,18 @@ l.121
        <./ch-clusters/plots/bounds.pdf>]
 Underfull \vbox (badness 5161) has occurred while \output is active []
 
- [133pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+ [140pdfTeX warning (ext4): destination with the same identifier (name{figure.5
 .2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.122 T
        he final step of the analysis involves stacking the likelihoods from ...
- <./ch-clusters/plots/elephant.pdf>] [134] [135]
+ <./ch-clusters/plots/elephant.pdf>] [141] [142]
 Underfull \vbox (badness 1484) has occurred while \output is active []
 
- [136])
-[137]
+ [143])
+[144]
 \openout2 = `ch-appendicies/fermi_darksky.aux'.
 
  (./ch-appendicies/fermi_darksky.tex
@@ -1758,17 +1787,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [138
+ [145
 
 
 
 ]
 Underfull \vbox (badness 1642) has occurred while \output is active []
 
- [139]
+ [146]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [140]
+ [147]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 67.
@@ -1788,10 +1817,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [141]
+ [148]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [142]
+ [149]
 Overfull \hbox (22.10353pt too wide) in alignment at lines 97--103
  [][][] []
  []
@@ -1799,17 +1828,17 @@ Overfull \hbox (22.10353pt too wide) in alignment at lines 97--103
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [143]
+ [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144]
+ [151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [145]
+ [152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [146])
-[147]
+ [153])
+[154]
 \openout2 = `ch-appendicies/fermi_data_clusters_arxiv_v2.aux'.
 
  (./ch-appendicies/fermi_data_clusters_arxiv_v2.tex
@@ -1817,12 +1846,12 @@ Appendix B.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148
+ [155
 
 
 
 ]
-<ch-clusters/plots/elephant10.pdf, id=3250, 595.023pt x 474.57298pt>
+<ch-clusters/plots/elephant10.pdf, id=3338, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/elephant10.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/elephant10.pdf>
@@ -1830,7 +1859,7 @@ Package pdftex.def Info: ch-clusters/plots/elephant10.pdf used on input line 18
 .
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/elephant10000.pdf, id=3251, 595.023pt x 474.57298pt>
+<ch-clusters/plots/elephant10000.pdf, id=3339, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/elephant10000.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/elephant10000.pdf>
@@ -1840,7 +1869,7 @@ Package pdftex.def Info: ch-clusters/plots/elephant10000.pdf used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [149pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [156pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1851,7 +1880,7 @@ df
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/elephant10000.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <ch-clusters/plots/global_maxts.pdf, id=3296, 595.023pt x 474.57298pt>
+>] <ch-clusters/plots/global_maxts.pdf, id=3383, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/global_maxts.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/global_maxts.pdf>
@@ -1859,7 +1888,7 @@ Package pdftex.def Info: ch-clusters/plots/global_maxts.pdf used on input line
 30.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/other_annh.pdf, id=3297, 595.023pt x 474.57298pt>
+<ch-clusters/plots/other_annh.pdf, id=3384, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/other_annh.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/other_annh.pdf>
@@ -1869,7 +1898,7 @@ Package pdftex.def Info: ch-clusters/plots/other_annh.pdf used on input line 31
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [157pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1880,7 +1909,7 @@ f
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/other_annh.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
->] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=3340, 602.25pt x 481.8pt>
+>] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=3427, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_10GeV.pdf>
@@ -1888,7 +1917,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_10GeV.pdf used on in
 put line 43.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/signal_recovery_100GeV.pdf, id=3341, 602.25pt x 481.8pt>
+<ch-clusters/plots/signal_recovery_100GeV.pdf, id=3428, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_100GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_100GeV.pdf>
@@ -1896,7 +1925,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_100GeV.pdf used on i
 nput line 44.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/signal_recovery_10TeV.pdf, id=3342, 602.25pt x 481.8pt>
+<ch-clusters/plots/signal_recovery_10TeV.pdf, id=3429, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10TeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_10TeV.pdf>
@@ -1904,7 +1933,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_10TeV.pdf used on in
 put line 45.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/injsig_maxTS10GeV.pdf, id=3343, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS10GeV.pdf, id=3430, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS10GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS10GeV.pdf>
@@ -1912,7 +1941,7 @@ Package pdftex.def Info: ch-clusters/plots/injsig_maxTS10GeV.pdf used on input
 line 46.
 (pdftex.def)             Requested size: 138.76157pt x 102.02745pt.
 
-<ch-clusters/plots/injsig_maxTS100GeV.pdf, id=3344, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS100GeV.pdf, id=3431, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS100GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS100GeV.pdf>
@@ -1920,14 +1949,14 @@ Package pdftex.def Info: ch-clusters/plots/injsig_maxTS100GeV.pdf used on input
  line 47.
 (pdftex.def)             Requested size: 138.76157pt x 102.02745pt.
 
-<ch-clusters/plots/injsig_maxTS10TeV.pdf, id=3345, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS10TeV.pdf, id=3432, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS10TeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS10TeV.pdf>
 Package pdftex.def Info: ch-clusters/plots/injsig_maxTS10TeV.pdf used on input 
 line 48.
 (pdftex.def)             Requested size: 138.76157pt x 102.02745pt.
- [151pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [158pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1957,8 +1986,8 @@ inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152]
-[153]
+ [159]
+[160]
 Overfull \hbox (0.63847pt too wide) in paragraph at lines 112--112
  \T1/aer/m/n/10 12.4$\OMS/cmsy/m/n/10 ^^F$\T1/aer/m/n/10 0.12| 
  []
@@ -2213,55 +2242,55 @@ Overfull \hbox (6.32893pt too wide) in paragraph at lines 112--112
  \T1/aer/m/n/10 1.01$\OMS/cmsy/m/n/10 ^^F$\T1/aer/m/n/10 0.17| 
  []
 
-[154]
-<ch-clusters/plots/data_individual_lims.pdf, id=3489, 1084.05pt x 1445.4pt>
+[161]
+<ch-clusters/plots/data_individual_lims.pdf, id=3577, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/data_individual_lims.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/data_individual_lims.pdf>
 Package pdftex.def Info: ch-clusters/plots/data_individual_lims.pdf used on inp
 ut line 171.
 (pdftex.def)             Requested size: 390.25534pt x 520.34361pt.
- [155pdfTeX warning (ext4): destination with the same identifier (name{table.B.
+ [162pdfTeX warning (ext4): destination with the same identifier (name{table.B.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \newpage
-              ] [156pdfTeX warning (ext4): destination with the same identifier
+              ] [163pdfTeX warning (ext4): destination with the same identifier
  (name{figure.B.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/data_individual_lims.pdf>]
-<ch-clusters/plots/data_individual_maxts.pdf, id=3524, 1084.05pt x 1445.4pt>
+<ch-clusters/plots/data_individual_maxts.pdf, id=3610, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/data_individual_maxts.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/data_individual_maxts.pdf>
 Package pdftex.def Info: ch-clusters/plots/data_individual_maxts.pdf used on in
 put line 171.
 (pdftex.def)             Requested size: 390.25534pt x 520.34361pt.
- [157pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [164pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/data_individual_maxts.pdf>]
-<ch-clusters/plots/FluxUL.pdf, id=3545, 1084.05pt x 1445.4pt>
+<ch-clusters/plots/FluxUL.pdf, id=3632, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/FluxUL.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/FluxUL.pdf>
 Package pdftex.def Info: ch-clusters/plots/FluxUL.pdf used on input line 171.
 (pdftex.def)             Requested size: 390.25534pt x 520.34361pt.
- [158pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [165pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/FluxUL.pdf>]
-<ch-clusters/plots/object5_maxts_lim.pdf, id=3579, 1084.05pt x 289.08pt>
+<ch-clusters/plots/object5_maxts_lim.pdf, id=3666, 1084.05pt x 289.08pt>
 File: ch-clusters/plots/object5_maxts_lim.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/object5_maxts_lim.pdf>
@@ -2269,14 +2298,14 @@ Package pdftex.def Info: ch-clusters/plots/object5_maxts_lim.pdf used on input
 line 171.
 (pdftex.def)             Requested size: 424.94574pt x 113.31857pt.
 
-<ch-clusters/plots/jfactors.pdf, id=3584, 614.295pt x 390.25798pt>
+<ch-clusters/plots/jfactors.pdf, id=3671, 614.295pt x 390.25798pt>
 File: ch-clusters/plots/jfactors.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/jfactors.pdf>
 Package pdftex.def Info: ch-clusters/plots/jfactors.pdf used on input line 171.
 
 (pdftex.def)             Requested size: 390.25534pt x 247.93015pt.
- [159
+ [166
 
 
 
@@ -2297,20 +2326,20 @@ l.171 \newpage
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/jfactors.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
->] <ch-clusters/plots/skymaps.pdf, id=3630, 691.88953pt x 857.52022pt>
+>] <ch-clusters/plots/skymaps.pdf, id=3717, 691.88953pt x 857.52022pt>
 File: ch-clusters/plots/skymaps.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/skymaps.pdf>
 Package pdftex.def Info: ch-clusters/plots/skymaps.pdf used on input line 171.
 (pdftex.def)             Requested size: 390.25534pt x 483.67549pt.
- [160pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [167pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/skymaps.pdf>]
-<ch-clusters/plots/systematics_nh.pdf, id=3686, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_nh.pdf, id=3774, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_nh.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_nh.pdf>
@@ -2318,7 +2347,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_nh.pdf used on input lin
 e 183.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_cuts.pdf, id=3687, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_cuts.pdf, id=3775, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_cuts.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_cuts.pdf>
@@ -2328,13 +2357,13 @@ ine 184.
 
 Underfull \vbox (badness 5711) has occurred while \output is active []
 
- [161
+ [168
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [162pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [169pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2348,15 +2377,15 @@ nclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 3895) has occurred while \output is active []
 
- [163]
-<ch-clusters/plots/systematics_nots_cuts.pdf, id=3761, 595.023pt x 474.57298pt>
+ [170]
+<ch-clusters/plots/systematics_nots_cuts.pdf, id=3847, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_nots_cuts.pdf Graphic file (type pdf)
 <use ch-clusters/plots/systematics_nots_cuts.pdf>
 Package pdftex.def Info: ch-clusters/plots/systematics_nots_cuts.pdf used on in
 put line 202.
 (pdftex.def)             Requested size: 303.53267pt x 242.0942pt.
 
-<ch-clusters/plots/systematics_dataset.pdf, id=3764, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_dataset.pdf, id=3850, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_dataset.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_dataset.pdf>
@@ -2364,7 +2393,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_dataset.pdf used on inpu
 t line 209.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_profile_conc.pdf, id=3765, 595.023pt x 474.57298
+<ch-clusters/plots/systematics_profile_conc.pdf, id=3851, 595.023pt x 474.57298
 pt>
 File: ch-clusters/plots/systematics_profile_conc.pdf Graphic file (type pdf)
  <use ch-clusters/plots/systematics_profile_conc.pdf>
@@ -2374,7 +2403,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_profile_conc.pdf used on
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [164pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [171pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2384,7 +2413,7 @@ l.218 A
  <./ch-clusters/plots/systematics_nots_cuts.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [165pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [172pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2398,8 +2427,8 @@ pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_profile_conc.pdf
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [166]
-<ch-clusters/plots/boost_models_data.pdf, id=3874, 602.25pt x 481.8pt>
+ [173]
+<ch-clusters/plots/boost_models_data.pdf, id=3961, 602.25pt x 481.8pt>
 File: ch-clusters/plots/boost_models_data.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/boost_models_data.pdf>
@@ -2407,7 +2436,7 @@ Package pdftex.def Info: ch-clusters/plots/boost_models_data.pdf used on input
 line 236.
 (pdftex.def)             Requested size: 199.4681pt x 159.57527pt.
 
-<ch-clusters/plots/systematics_boost.pdf, id=3875, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_boost.pdf, id=3962, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_boost.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_boost.pdf>
@@ -2417,10 +2446,10 @@ line 237.
 
 Underfull \vbox (badness 7759) has occurred while \output is active []
 
- [167]
+ [174]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [168pdfTeX warning (ext4): destination with the same identifier (name{figure.B
+ [175pdfTeX warning (ext4): destination with the same identifier (name{figure.B
 .13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2435,12 +2464,12 @@ inclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [169]
+ [176]
 Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
-<ch-clusters/plots/systematics_lu.pdf, id=3961, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_lu.pdf, id=4048, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_lu.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_lu.pdf>
@@ -2448,7 +2477,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_lu.pdf used on input lin
 e 257.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_lu_elephant.pdf, id=3962, 602.25pt x 481.8pt>
+<ch-clusters/plots/systematics_lu_elephant.pdf, id=4049, 602.25pt x 481.8pt>
 File: ch-clusters/plots/systematics_lu_elephant.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_lu_elephant.pdf>
@@ -2458,8 +2487,8 @@ input line 258.
 )
 Underfull \vbox (badness 4792) has occurred while \output is active []
 
- [170]
-[171pdfTeX warning (ext4): destination with the same identifier (name{figure.B.
+ [177]
+[178pdfTeX warning (ext4): destination with the same identifier (name{figure.B.
 14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2470,39 +2499,38 @@ tics_lu.pdf> <./ch-clusters/plots/systematics_lu_elephant.pdf
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_lu_elephant.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
->] [172
+>] (./thesis.bbl [179
 
 
-] (./thesis.bbl [173
 
-] [174] [175] [176] [177] [178] [179] [180] [181]
-[182] [183]
-Underfull \hbox (badness 1527) in paragraph at lines 926--930
+] [180] [181] [182] [183] [184] [185] [186] [187] [188]
+[189]
+Underfull \hbox (badness 1527) in paragraph at lines 938--942
 []\T1/aer/m/n/12 Stefano Cam-era, Mat-tia For-nasa, Nico-lao For-nengo, and Mar
 co Regis.
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 926--930
+Underfull \hbox (badness 1838) in paragraph at lines 938--942
 \T1/aer/m/n/12 Tomographic-spectral ap-proach for dark mat-ter de-tec-tion in t
 he cross-
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 926--930
+Underfull \hbox (badness 2158) in paragraph at lines 938--942
 \T1/aer/m/n/12 correlation be-tween cos-mic shear and dif-fuse $\OML/cmm/m/it/1
 2 ^^M$\T1/aer/m/n/12 -ray emis-sion.  \T1/aer/m/it/12 JCAP\T1/aer/m/n/12 ,
  []
 
-[184] [185] [186]
-Underfull \hbox (badness 1067) in paragraph at lines 1171--1175
+[190] [191] [192] [193]
+Underfull \hbox (badness 1067) in paragraph at lines 1183--1187
 []\T1/aer/m/n/12 Miguel A. Sánchez-Conde and Fran-cisco Prada.  The flat-ten-in
 g of the
  []
 
-[187] [188] [189] [190])
+[194] [195] [196])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 575.
- [191]
+ [197]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 575.
  (./thesis.aux (./ch-intro/introduction.aux)
 (./ch-nptfit/NPTFit.aux) (./ch-igrb/LMNS_arxiv_v2.aux)
@@ -2513,18 +2541,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 575.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 575.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 575.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9A634F8C384E77744BD381ED45222F7B;4849.
+(rerunfilecheck)             Checksum: 6A7FDD7F445BABA62639B4C146F6A692;5585.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 575.
  ) 
 Here is how much of TeX's memory you used:
- 13512 strings out of 493014
- 211829 string characters out of 6133351
- 411927 words of memory out of 5000000
- 15785 multiletter control sequences out of 15000+600000
+ 13544 strings out of 493014
+ 212269 string characters out of 6133351
+ 412231 words of memory out of 5000000
+ 15799 multiletter control sequences out of 15000+600000
  76381 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,24n,47p,2404b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2653,10 +2684,10 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (199 pages, 6042522 bytes).
+Output written on thesis.pdf (206 pages, 6060306 bytes).
 PDF statistics:
- 4350 PDF objects out of 5155 (max. 8388607)
- 3838 compressed objects within 39 object streams
- 816 named destinations out of 1000 (max. 500000)
- 840 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4437 PDF objects out of 5155 (max. 8388607)
+ 3917 compressed objects within 40 object streams
+ 834 named destinations out of 1000 (max. 500000)
+ 912 words of extra memory for PDF output out of 10000 (max. 10000000)
 

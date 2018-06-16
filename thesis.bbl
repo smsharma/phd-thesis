@@ -1,5 +1,10 @@
 \begin{thebibliography}{100}
 
+\bibitem{Mishra-Sharma:2016gis}
+Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
+\newblock {NPTFit: A code package for Non-Poissonian Template Fitting}.
+\newblock {\em Astron. J.}, 153(6):253, 2017.
+
 \bibitem{Lee:2014mza}
 Samuel~K. Lee, Mariangela Lisanti, and Benjamin~R. Safdi.
 \newblock {Distinguishing Dark Matter from Unresolved Point Sources in the
@@ -829,6 +834,13 @@ Kohta Murase, Dafne Guetta, and Markus Ahlers.
   Neutrinos}.
 \newblock {\em Phys. Rev. Lett.}, 116(7):071101, 2016.
 
+\bibitem{Lisanti:2017qoz}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
+  Safdi, and Risa~H. Wechsler.
+\newblock {Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys:
+  A Systematic Study of Stacked Group Searches}.
+\newblock {\em Phys. Rev.}, D97(6):063005, 2018.
+
 \bibitem{Fermi-LAT:2016uux}
 A.~Albert et~al.
 \newblock {Searching for Dark Matter Annihilation in Recently Discovered Milky
@@ -1217,11 +1229,6 @@ Wolfgang~A. Rolke, Angel~M. Lopez, and Jan Conrad.
   parameters}.
 \newblock {\em Nucl. Instrum. Meth.}, A551:493--503, 2005.
 
-\bibitem{Mishra-Sharma:2016gis}
-Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
-\newblock {NPTFit: A code package for Non-Poissonian Template Fitting}.
-\newblock {\em Astron. J.}, 153(6):253, 2017.
-
 \bibitem{James:1975dr}
 F.~James and M.~Roos.
 \newblock {Minuit: A System for Function Minimization and Analysis of the
@@ -1251,6 +1258,12 @@ Yong Chen, T.~H. Reiprich, H.~Bohringer, Y.~Ikebe, and Y.~Y. Zhang.
 P.~A.~R. Ade et~al.
 \newblock {Planck 2015 results. XIII. Cosmological parameters}.
 \newblock {\em Astron. Astrophys.}, 594:A13, 2016.
+
+\bibitem{Lisanti:2017qlb}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
+  Safdi.
+\newblock {Search for Dark Matter Annihilation in Galaxy Groups}.
+\newblock {\em Phys. Rev. Lett.}, 120(10):101101, 2018.
 
 \bibitem{companion}
 Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.

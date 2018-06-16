@@ -1,8 +1,105 @@
 \chapter{Introduction}
 \label{ch:intro}
 
-\begin{itemize}
-\item History of dark matter
-\item Explanations
-\item Particle dark matter candidates
-\end{itemize}
+The nature of dark matter (DM) remains one of the major unsolved problems in physics. Originally inferred through its gravitational influence on galaxies and clusters, a rich body of evidence has accumulated over the last four decades establishing the existence of dark matter. The ongoing effort to detect is a giant effort that draws from a rich body of theoretical as well as experimental work, as well as major input from the computational and numerical side. Dark matter and its detection has found relevance in nearly every subfield of physics, playing a fundamental role in astrophysics, cosmology, particle physics, and recently taking input from further-flung fields such as condensed matter and solid state physics. Answering the question of what makes up 85\% of the mass in our Universe would have far reaching consequences, as there is no concrete explanation within the frameworks of the Standard Models of particle physics and cosmology. It would represent a paradigm shift and provide major insights into fundamental physics beyond the Standard Model, as well as elucidate the evolution of our Universe and the formation of structures within it. 
+
+Little is known beyond gravitational interaction... several open questions... paradigm shift
+
+We are at the dawn of a data-driven era in astrophysics and cosmology with great potential to pin down its properties.
+
+Intersection of fields...
+
+Although there are many pieces of evidence in favor of dark matter, it is
+worth noting that they each infer dark matter’s presence uniquely through
+its gravitational influence. 
+
+While there exists a large range of possibilities for the particle nature of dark matter, the dominant paradigm over the last three decades has been that of the Weakly Interacting Massive Particle (WIMP), which posits dark matter to consist of a particle with weak-scale interactions with the Standard Model, produced through thermal freeze-out in the early universe. This framework dovetails well, for example, with supersymmetric extensions to the Standard Model where candidates for dark matter can emerge naturally. After briefly describing alternative explanations, in this thesis I will focus exclusively on WIMP searches.
+
+This introduction is organized as follows. In Sec.~\ref{sec:evidence} I will summarize the large body of evidence that points to the existence of dark matter. In Sec.~\ref{sec:particledm} I will describe possible explanations underlying the particle nature of dark matter, describing WIMPs and summarizing alternative explanations. Section~\ref{sec:astrodm} will focus on the astrophysical effort to detect and characterize the nature of DM, in particular using gamma-ray data, and I will describe the theoretical and experimental tools available to us and the status of the field in this context. Finally, in Sec.~\ref{sec:thesisorg} I will describe the organization of the rest of this thesis.
+
+Searches for WIMPs are generally organized into a few categories depending on the interaction probed and experimental direction method. Collider searches focus on... and look for... . Terrestrial experiments, known as direct detection, look for... . Lastly, astrophysical search, indirect detection ... look for... .  In this thesis, I will focus on this last category of astrophysical dark matter searches, or ``indirect detection''.The search for dark matter using astrophysics is closely tied to understanding the nature of astrophysics itself -- ``to understand your signal you must understand your background'', and I'll spend a substantial portion of this thesis on this task as well. Wherever possible, I will touch upon the historical developments that have paved the way for our current state of understanding of dark matter and our efforts to look for it.
+
+\section{Evidence for Dark Matter}
+\label{sec:evidence}
+
+% The aim of this section is to provide an abridged history of dark matter, including the observations and theoretical arguments that led to its establishment as a core pillar of modern physics, and various ways in which scientists have tried to understand its nature over time.
+
+Although dark matter had its inception and development in the 20th century, several scientific problems that philosophically encapsulate the dark matter problem had their roots in earlier times. 
+% Among the ancient Greeks, Philolaus put forward that an invisible anti-Earth \emph{Antichton} revolved on the opposite side of the ``central fire'' with respect to our Earth~\cite{}. 
+The Aristotelian geometric view of an immutable Universe with the Earth as its center on the other hand offered a clean framework that did not call for additional invisible matter or celestial objects, and was the orthodox viewpoint until Renaissance astronomers conclusively refuted it with observations. Galileo, in the face of significant resistance from the Catholic Church, arguably played the largest role in this and discovered much that was previous unknowable -- including understanding the make-up of the Milky Way as consisting of individual stars rather than nebulous clouds, and observing Saturn's rings and Jupiter's four largest moons. These observations are very much in the spirit of modern dark matter searches -- demonstrating that the Universe can contain invisible forms of matter, and technological developments can play a big role in revealing it to us. In this section, I describe the evidence we have for the existence of dark matter in our Universe.
+
+% The general trend of explaining observational anomalies with invisible objects, which were then unveiled using more powerful experimental methods, continued to prove useful as a discovery tool. For example, some persistent anomalies in the motion of Uranus led Urbain Le Verrier to posit the existence of another planet, and Neptune was discovered by John Galle within $1^\circ$ of Le Verrier's predicted location. 
+
+\subsection{Dynamical Evidence}
+
+% \emph{Maybe split up into clusters and rotation curves}
+
+Dynamical evidence for some yet-unknown form of matter started piling up in the early 19th century. Lord Kelvin introduced the idea of applying the ``theory of gases'' to the Milky Way, describing stars as gas particles acting under the influence of gravity, in the process wondering whether a large number of stars may actually be dark bodies. In 1922, Dutch astronomer Jacobus Kapteyn described for the first time a predictive model for the distribution of matter in the Milky Way, describing the stars as particles in a virialized system. Kapteyn used this method to obtain the local matter density in term of the the observed stellar mass, diving out the gravitational mass by the number of stars observed, extrapolating the stellar luminosity function down below that observed. Kapteyn's student Jan Oort as well as several others during this time, including Jeans, Lindblad and Opik were able to derive estimates for the density of matter in the local neighborhood, usually claiming that an excess above the observed stellar mass could be accounted for by the extrapolation of the stellar luminosity function down to very faint stars.
+
+In 1933, Swiss-American astronomer Fritz Zwicky studied redshift data on galaxy clusters collected by Hubble and Humason, noticing large velocity dispersions in eight galaxies within the Coma cluster and applying the virial theorem to estimate its mass. Zwicky predicted the dispersion by using the number of observed galaxies, average mass of a galaxy and its extent, finding a value closer to 80 km/s. This was in stark conflict with the observed line-of-sight velocity dispersion of 1000 km/s. From this, Zwicky concluded that ``If this would be confirmed, we would get the surprising result that dark matter is present in much greater amount than luminous matter''. Zwicky's use of the term \emph{dark matter} was in continuity with usage by astronomers around that time, as described in the previous paragraph. In subsequent work, Zwicky was able to refine his estimates, confirming a very high mass-to-light ratio in the Coma cluster. An analysis of the Virgo cluster by Sinclair Smith in 1936 again pointed to a very high mass-to-light ratio in that system. In both cases, the astronomers put forward potential explanations in terms of ``clouds of low-luminosity internebular material''
+
+Although this represented a conundrum, there was widespread consensus that more information would be needed to understand what was going on. Historically, velocity rotation curves -- showing the circular velocity profiles of stars in a galaxy while varying the distance from the galactic center -- did the most to convince the scientific community to the existence of large amounts of non-luminous matter in galaxies. The idea here is as follows. Standard Newtonian theory dictates that the circular velocity of stars is given by $v_c(r) = \sqrt{GM/r}$, where $r$ is the radial distance, $M$ the enclosed mass and $G$ the universal gravitational constant. In the region beyond the galactic disk (dictating the observed extent of the galaxy), we expect the enclosed mass to be constant, and the Gauss' law dictates that the circular velocity fall as $v_c \propto r^{-1/2}$. Observations instead point to the approximate flattening out of rotation curves at larger radii, implying the mass continues to increase as $M \propto r$, pointing to the existence of additional unobserved `dark' mass beyond the visible component. From this, the dark matter density can be inferred to approximately scale as $\rho(r) \propto 1/r^2$.
+
+
+The discovery of the 21-cm emission line heralded a new era in radio astronomy Building upon the work of several others, Kent Ford and Vera Rubin,
+
+The 1970s revolution
+
+\url{https://arxiv.org/pdf/1703.00013.pdf}
+
+Bullet cluster
+
+\subsection{Cosmological Evidence}
+
+Cosmology provides substantial evidence for the presence of dark matter in our Universe. $\Lambda$CDM, often referred to as the standard model of cosmology, is associated with the presence of dark energy ($\Lambda$) and cold dark matter (CDM), is able to account for a plethora of cosmological observations, including the structure and existence of the cosmic microwave background (CMB) radiation, large-scale structure distribution of matter, accelerating expansion of the Universe as measure from ... and relic elemental abundances.
+
+(Talk about the effect of CDM on the CMB power spectrum, and plot how it would be different for different non-baryonic CDM)
+
+``The shape of this power spectrum is determined by oscillations in the hot gas of the early universe, and the resonant frequencies and amplitudes of these oscillations (which "notes" the universe likes to play!) are determined by its composition. Since we know the physics of hot gases very well, we can compute the properties of the oscillating gas by studying the positions and relative sizes of these peaks. The position of the first peak, for example, tells us about the curvature of the universe (and hence how much total stuff there is in it), while the ratio of heights between the first and second peaks tells us how much of the matter is baryonic (ordinary matter). In practice, there are many variables that affect all parts of the power spectrum, and detailed computer simulations (the red curve in the plot) are used to sort it all out.''
+
+Observations of the distribution of galaxies over a large range of scales provide further strong evidence for the existence of non-baryonic dark matter...
+
+\section{(Particle) Nature of Dark Matter}
+
+It is often implicitly assumed  these days that when people are talking about detecting dark matter at a particle collider, or finding evidence for it in gamma rays or in a direct detection experiment that the target at hand is a dark matter \emph{particle}. As touched upon above, this was by no means always the case -- prior usage and references to dark matter usually referred to the exist of generic objects that would be too faint to be observed, be in dim stars or internebular material. This transition in usage from an adjective to a noun is a result of sociological changes within the particle physics and astrophysics communities, bringing the two communities closer after the missing mass problem had been firmly established and validated in the 1970s. 
+
+All the evidence we have so far is consistent with dark matter being made up of one or more fundamental particles, or even the existence of an entire dark sector.
+
+Neutrinos, by virtue of being stable, electrically neutral particles and not interacting strongly, contain some of the essential ingredients for a particle dark matter candidate. Cosmological effects of neutrinos were discussed throughout the 1960s and 1970s, pioneered by the work of Zeldovich and others, and their implications for the missing mass observed on (super-)galactic scales was discussed by Weinberg and others in the the late 1970s. In this way, neutrinos served as a gateway particle in understanding the implications of particle physics to observations on galactic, cluster and cosmological scales.
+
+Sterile neutrinos...
+
+With no reason to be confined to the Standard Model, supersymmetry posits that nature may contain a spacetime symmetry relation bosons and fermions, requiring that for ever boson a fermion with the same quantum numbers must exist (and vice versa). This leads to the prediction of several new electrically neutral particles uncharged under the strong force. If some of these were stable, they could have played an important role in the history of our Universe and could conceivably make up some portion of dark matter. Supersymmetry took its modern form with a paper by Savas Dimopolous and Howard Georgi, who introduced the MSSM. In the MSSM, superpartners of the $Z$ boson, photon and two Higgses mix to form four particles, today known as neutralinos. Neutrialinos are definitively the most-discussed dark matter candidates. There would have to be a mechanism preventing the lightest neutralino from decaying quickly after being created, 
+
+(some discussion of R-parity), first introduced by Pagels and Primack.
+
+(how SUSY  is strongly motivated in its own right)
+
+(Discussion of axions)
+
+What do we know about dark matter? Gelmini.
+
+\subsection{The WIMP Paradigm and The Search For}
+
+(Commonality in particle DM candidates)
+
+(Freeze out calculation)
+
+(Gunn tremaine and Lee weinberg)
+
+\section{Astrophysical Detection of Dark Matter}
+
+\subsection{Tools for Indirect Detection}
+
+\subsection{Dark Matter and Gamma Rays}
+
+\section{Summary}
+
+
+% \begin{itemize}
+% \item History of dark matter
+
+% \item Particle dark matter
+% \item The case for WIMPs 
+% \item Dark matter searches
+% \end{itemize}
