@@ -298,6 +298,12 @@ OUTPUT thesis.toc
 OUTPUT ch-intro/introduction.aux
 INPUT ch-intro/introduction.tex
 INPUT ch-intro/introduction.tex
+INPUT rotcurves.pdf
+INPUT ./rotcurves.pdf
+INPUT ./rotcurves.pdf
+INPUT cells.pdf
+INPUT ./cells.pdf
+INPUT ./cells.pdf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aer8.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aer6.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/ae/aer12.tfm
