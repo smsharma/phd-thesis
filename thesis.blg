@@ -13,9 +13,42 @@ Illegal, another \bibstyle command---line 48 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 10658 items from 5000.
-Database file #1: ch-nptfit/NPTF.bib
-Database file #2: ch-igrb/fermi_igrb.bib
+Reallocated field_info (elt_size=4) to 12245 items from 5000.
+Database file #1: intro.bib
+Database file #2: ch-nptfit/NPTF.bib
+Repeated entry---line 814 of file ch-nptfit/NPTF.bib
+ : @article{Cirelli:2010xx
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2370 of file ch-nptfit/NPTF.bib
+ : @article{Ackermann:2015zua
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7251 of file ch-nptfit/NPTF.bib
+ : @article{Jungman:1995df
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7410 of file ch-nptfit/NPTF.bib
+ : @article{Feng:2008ya
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9185 of file ch-nptfit/NPTF.bib
+ : @article{Bertone:2004pz
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9626 of file ch-nptfit/NPTF.bib
+ : @article{1996PhR...267..195J
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10767 of file ch-nptfit/NPTF.bib
+ : @article{Sjostrand:2007gs
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11519 of file ch-nptfit/NPTF.bib
+ : @article{Bergstrom:2013jra
+ :                           ,
+I'm skipping whatever remains of this entry
+Database file #3: ch-igrb/fermi_igrb.bib
 Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
  : @article{Murase:2016gly
  :                        ,
@@ -428,7 +461,7 @@ Repeated entry---line 1776 of file ch-igrb/fermi_igrb.bib
  : @article{Collaboration:2010gqa
  :                               ,
 I'm skipping whatever remains of this entry
-Database file #3: ch-darksky/fermi_darksky.bib
+Database file #4: ch-darksky/fermi_darksky.bib
 Repeated entry---line 250 of file ch-darksky/fermi_darksky.bib
  : @article{PER-GRA:2007
  :                      ,
@@ -525,6 +558,10 @@ Repeated entry---line 1472 of file ch-darksky/fermi_darksky.bib
  : @article{Ackermann:2012uf
  :                          ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1681 of file ch-darksky/fermi_darksky.bib
+ : @article{Fermi-LAT:2016uux
+ :                           ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 1727 of file ch-darksky/fermi_darksky.bib
  : @article{Ackermann:2015tah
  :                           ,
@@ -609,7 +646,11 @@ Repeated entry---line 2160 of file ch-darksky/fermi_darksky.bib
  : @article{Ackermann:2015zua
  :                           ,
 I'm skipping whatever remains of this entry
-Database file #4: ch-clusters/fermi_clusters.bib
+Database file #5: ch-clusters/fermi_clusters.bib
+Repeated entry---line 11 of file ch-clusters/fermi_clusters.bib
+ : @article{Geringer-Sameth:2014qqa
+ :                                 ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 28 of file ch-clusters/fermi_clusters.bib
  : @article{Hutten:2016jko
  :                        ,
@@ -834,6 +875,10 @@ Repeated entry---line 1195 of file ch-clusters/fermi_clusters.bib
  : @article{Xia:2011ax
  :                    ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1209 of file ch-clusters/fermi_clusters.bib
+ : @article{Cholis:2013ena
+ :                        ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 1224 of file ch-clusters/fermi_clusters.bib
  : @article{Ando:2016ang
  :                      ,
@@ -1006,8 +1051,19 @@ Repeated entry---line 1984 of file ch-clusters/fermi_clusters.bib
  : @article{Adams:2016alz
  :                       ,
 I'm skipping whatever remains of this entry
-Database file #5: ch-intro/introduction.bib
+Database file #6: ch-intro/introduction.bib
+Repeated entry---line 11 of file ch-intro/introduction.bib
+ : @article{Lisanti:2017qoz
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 29 of file ch-intro/introduction.bib
+ : @article{Lisanti:2017qlb
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Zhang:2017chj
+Warning--empty journal in Aprile:2018dbl
 Warning--empty journal in Goodenough:2009gk
+Warning--empty journal in Chang:2018bpt
 Warning--empty journal in Macias:2016nev
 Warning--empty journal in Clark:2016mbb
 Warning--empty journal in Linden:2016rcf
@@ -1028,45 +1084,45 @@ Warning--empty journal in Elor:2015bho
 Warning--empty journal in companion
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 246 entries,
+You've used 315 entries,
             1791 wiz_defined-function locations,
-            1877 strings with 47652 characters,
-and the built_in function-call counts, 52939 in all, are:
-= -- 4275
-> -- 2891
-< -- 1
-+ -- 1051
-- -- 805
-* -- 3935
-:= -- 9055
-add.period$ -- 743
-call.type$ -- 246
-change.case$ -- 243
+            2286 strings with 59046 characters,
+and the built_in function-call counts, 68535 in all, are:
+= -- 5608
+> -- 3616
+< -- 3
++ -- 1319
+- -- 1004
+* -- 5098
+:= -- 11627
+add.period$ -- 954
+call.type$ -- 315
+change.case$ -- 311
 chr.to.int$ -- 0
-cite$ -- 267
-duplicate$ -- 2187
-empty$ -- 5028
-format.name$ -- 805
-if$ -- 11449
+cite$ -- 339
+duplicate$ -- 2830
+empty$ -- 6551
+format.name$ -- 1004
+if$ -- 14871
 int.to.chr$ -- 0
-int.to.str$ -- 246
-missing$ -- 246
-newline$ -- 1238
-num.names$ -- 245
-pop$ -- 353
+int.to.str$ -- 315
+missing$ -- 316
+newline$ -- 1587
+num.names$ -- 314
+pop$ -- 445
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 831
+skip$ -- 1091
 stack$ -- 0
-substring$ -- 3163
-swap$ -- 229
-text.length$ -- 1
+substring$ -- 4319
+swap$ -- 315
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 21
-while$ -- 465
-width$ -- 249
-write$ -- 2670
-(There were 248 error messages)
+warning$ -- 24
+while$ -- 606
+width$ -- 318
+write$ -- 3431
+(There were 261 error messages)

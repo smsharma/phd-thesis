@@ -1,13 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1529509539 "introduction.tex" "introduction.pdf" "introduction" 1529509540
+["pdflatex"] 1530549354 "introduction.tex" "introduction.pdf" "introduction" 1530549356
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1477785973 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "introduction.aux" 1529504867 2520 1f96dcf0d6bd91633c76f6a0d9f05a66 ""
-  "introduction.tex" 1529509538 25729 1cfce1e715ef000838bd8d3139bdec98 ""
+  "introduction.aux" 1530549344 5582 c0c26e037c115181b5a0e560f292f5e2 ""
+  "introduction.tex" 1530549329 30632 aef8afddd279d666719d8acf3cf023c7 ""
   (generated)
   "introduction.pdf"
   "introduction.log"

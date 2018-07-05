@@ -1,34 +1,394 @@
 \begin{thebibliography}{100}
 
-\bibitem{Mishra-Sharma:2016gis}
-Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
-\newblock {NPTFit: A code package for Non-Poissonian Template Fitting}.
-\newblock {\em Astron. J.}, 153(6):253, 2017.
+\bibitem{1922ApJ....55..302K}
+J.~C. {Kapteyn}.
+\newblock {First Attempt at a Theory of the Arrangement and Motion of the
+  Sidereal System}.
+\newblock {\em \apj}, 55:302, May 1922.
 
-\bibitem{Lee:2014mza}
-Samuel~K. Lee, Mariangela Lisanti, and Benjamin~R. Safdi.
-\newblock {Distinguishing Dark Matter from Unresolved Point Sources in the
-  Inner Galaxy with Photon Statistics}.
-\newblock {\em JCAP}, 1505(05):056, 2015.
+\bibitem{1932BAN.....6..249O}
+J.~H. {Oort}.
+\newblock {The force exerted by the stellar system in the direction
+  perpendicular to the galactic plane and some related problems}.
+\newblock {\em \bain}, 6:249, August 1932.
 
-\bibitem{Lee:2015fea}
-Samuel~K. Lee, Mariangela Lisanti, Benjamin~R. Safdi, Tracy~R. Slatyer, and Wei
-  Xue.
-\newblock {Evidence for Unresolved $\gamma$-Ray Point Sources in the Inner
-  Galaxy}.
-\newblock {\em Phys. Rev. Lett.}, 116(5):051103, 2016.
+\bibitem{1922MNRAS..82..122J}
+J.~H. {Jeans}.
+\newblock {The Motions of Stars in a Kapteyn Universe}.
+\newblock {\em \mnras}, 82:122--132, January 1922.
 
-\bibitem{Miyaji:2001dp}
-Takamitsu Miyaji and Richard~E. Griffiths.
-\newblock {Faint source counts from off-source fluctuation analysis on chandra
-  observations of the hubble deep field-north}.
-\newblock {\em Astrophys. J.}, 564:L5, 2002.
+\bibitem{1931ApJ....74...43H}
+E.~{Hubble} and M.~L. {Humason}.
+\newblock {The Velocity-Distance Relation among Extra-Galactic Nebulae}.
+\newblock {\em \apj}, 74:43, July 1931.
 
-\bibitem{Malyshev:2011zi}
-Dmitry Malyshev and David~W. Hogg.
-\newblock {Statistics of gamma-ray point sources below the Fermi detection
-  limit}.
-\newblock {\em Astrophys. J.}, 738:181, 2011.
+\bibitem{1933AcHPh...6..110Z}
+F.~{Zwicky}.
+\newblock {Die Rotverschiebung von extragalaktischen Nebeln}.
+\newblock {\em Helvetica Physica Acta}, 6:110--127, 1933.
+
+\bibitem{1937ApJ....86..217Z}
+F.~{Zwicky}.
+\newblock {On the Masses of Nebulae and of Clusters of Nebulae}.
+\newblock {\em \apj}, 86:217, October 1937.
+
+\bibitem{1970ApJ...159..379R}
+V.~C. {Rubin} and W.~K. {Ford}, Jr.
+\newblock {Rotation of the Andromeda Nebula from a Spectroscopic Survey of
+  Emission Regions}.
+\newblock {\em \apj}, 159:379, February 1970.
+
+\bibitem{1973A&A....26..483R}
+M.~S. {Roberts} and A.~H. {Rots}.
+\newblock {Comparison of Rotation Curves of Different Galaxy Types}.
+\newblock {\em \aap}, 26:483--485, August 1973.
+
+\bibitem{1974Natur.250..309E}
+J.~{Einasto}, A.~{Kaasik}, and E.~{Saar}.
+\newblock {Dynamic evidence on massive coronas of galaxies}.
+\newblock {\em \nat}, 250:309--310, July 1974.
+
+\bibitem{1974ApJ...193L...1O}
+J.~P. {Ostriker}, P.~J.~E. {Peebles}, and A.~{Yahil}.
+\newblock {The size and mass of galaxies, and the mass of the universe}.
+\newblock {\em \apjl}, 193:L1--L4, October 1974.
+
+\bibitem{2009PASJ...61..227S}
+Y.~{Sofue}, M.~{Honma}, and T.~{Omodaka}.
+\newblock {Unified Rotation Curve of the Galaxy -- Decomposition into de
+  Vaucouleurs Bulge, Disk, Dark Halo, and the 9-kpc Rotation Dip --}.
+\newblock {\em \pasj}, 61:227--236, February 2009.
+
+\bibitem{Dodelson:1282338}
+Scott Dodelson.
+\newblock {\em {Modern cosmology}}.
+\newblock Academic Press, San Diego, CA, 2003.
+
+\bibitem{Kolb:1990vq}
+Edward~W. Kolb and Michael~S. Turner.
+\newblock {The Early Universe}.
+\newblock {\em Front. Phys.}, 69:1--547, 1990.
+
+\bibitem{2013ApJS..208...19H}
+G.~{Hinshaw}, D.~{Larson}, E.~{Komatsu}, D.~N. {Spergel}, C.~L. {Bennett},
+  J.~{Dunkley}, M.~R. {Nolta}, M.~{Halpern}, R.~S. {Hill}, N.~{Odegard},
+  L.~{Page}, K.~M. {Smith}, J.~L. {Weiland}, B.~{Gold}, N.~{Jarosik},
+  A.~{Kogut}, M.~{Limon}, S.~S. {Meyer}, G.~S. {Tucker}, E.~{Wollack}, and
+  E.~L. {Wright}.
+\newblock {Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+  Cosmological Parameter Results}.
+\newblock {\em \apjs}, 208:19, October 2013.
+
+\bibitem{Ade:2015xua}
+P.~A.~R. Ade et~al.
+\newblock {Planck 2015 results. XIII. Cosmological parameters}.
+\newblock {\em Astron. Astrophys.}, 594:A13, 2016.
+
+\bibitem{Lewis:1999bs}
+Antony Lewis, Anthony Challinor, and Anthony Lasenby.
+\newblock {Efficient computation of CMB anisotropies in closed FRW models}.
+\newblock {\em Astrophys. J.}, 538:473--476, 2000.
+
+\bibitem{Gershtein:1966gg}
+S.~S. Gershtein and {\relax Ya}.~B. Zeldovich.
+\newblock {Rest Mass of Muonic Neutrino and Cosmology}.
+\newblock {\em JETP Lett.}, 4:120--122, 1966.
+\newblock [,58(1966)].
+
+\bibitem{PhysRevLett.29.669}
+R.~Cowsik and J.~McClelland.
+\newblock An upper limit on the neutrino rest mass.
+\newblock {\em Phys. Rev. Lett.}, 29:669--670, Sep 1972.
+
+\bibitem{PhysRevLett.39.165}
+Benjamin~W. Lee and Steven Weinberg.
+\newblock Cosmological lower bound on heavy-neutrino masses.
+\newblock {\em Phys. Rev. Lett.}, 39:165--168, Jul 1977.
+
+\bibitem{1978ApJ...223.1015G}
+J.~E. {Gunn}, B.~W. {Lee}, I.~{Lerche}, D.~N. {Schramm}, and G.~{Steigman}.
+\newblock {Some astrophysical consequences of the existence of a heavy stable
+  neutral lepton}.
+\newblock {\em \apj}, 223:1015--1031, August 1978.
+
+\bibitem{1983ApJ...274L...1W}
+S.~D.~M. {White}, C.~S. {Frenk}, and M.~{Davis}.
+\newblock {Clustering in a neutrino-dominated universe}.
+\newblock {\em \apjl}, 274:L1--L5, November 1983.
+
+\bibitem{Wess:1974tw}
+J.~Wess and B.~Zumino.
+\newblock {Supergauge Transformations in Four-Dimensions}.
+\newblock {\em Nucl. Phys.}, B70:39--50, 1974.
+\newblock [,24(1974)].
+
+\bibitem{PhysRevLett.48.223}
+Heinz Pagels and Joel~R. Primack.
+\newblock Supersymmetry, cosmology, and new physics at teraelectronvolt
+  energies.
+\newblock {\em Phys. Rev. Lett.}, 48:223--226, Jan 1982.
+
+\bibitem{Jungman:1995df}
+Gerard Jungman, Marc Kamionkowski, and Kim Griest.
+\newblock {Supersymmetric dark matter}.
+\newblock {\em Phys. Rept.}, 267:195--373, 1996.
+
+\bibitem{Dimopoulos:1981zb}
+Savas Dimopoulos and Howard Georgi.
+\newblock {Softly Broken Supersymmetry and SU(5)}.
+\newblock {\em Nucl. Phys.}, B193:150--162, 1981.
+
+\bibitem{Bertone:2004pz}
+Gianfranco Bertone, Dan Hooper, and Joseph Silk.
+\newblock {Particle dark matter: Evidence, candidates and constraints}.
+\newblock {\em Phys. Rept.}, 405:279--390, 2005.
+
+\bibitem{PhysRevLett.40.223}
+Steven Weinberg.
+\newblock A new light boson?
+\newblock {\em Phys. Rev. Lett.}, 40:223--226, Jan 1978.
+
+\bibitem{Peccei:1977hh}
+R.~D. Peccei and Helen~R. Quinn.
+\newblock {CP Conservation in the Presence of Instantons}.
+\newblock {\em Phys. Rev. Lett.}, 38:1440--1443, 1977.
+\newblock [,328(1977)].
+
+\bibitem{Abazajian:2001nj}
+Kevork Abazajian, George~M. Fuller, and Mitesh Patel.
+\newblock {Sterile neutrino hot, warm, and cold dark matter}.
+\newblock {\em Phys. Rev.}, D64:023501, 2001.
+
+\bibitem{Seljak:2006qw}
+Uros Seljak, Alexey Makarov, Patrick McDonald, and Hy~Trac.
+\newblock {Can sterile neutrinos be the dark matter?}
+\newblock {\em Phys. Rev. Lett.}, 97:191303, 2006.
+
+\bibitem{Feng:2008ya}
+Jonathan~L. Feng and Jason Kumar.
+\newblock {The WIMPless Miracle: Dark-Matter Particles without Weak-Scale
+  Masses or Weak Interactions}.
+\newblock {\em Phys. Rev. Lett.}, 101:231301, 2008.
+
+\bibitem{Lin:2011gj}
+Tongyan Lin, Hai-Bo Yu, and Kathryn~M. Zurek.
+\newblock {On Symmetric and Asymmetric Light Dark Matter}.
+\newblock {\em Phys. Rev.}, D85:063503, 2012.
+
+\bibitem{Zhang:2017chj}
+Jiajun Zhang, Jui-Lin Kuo, Hantao Liu, Yue-Lin~Sming Tsai, Kingman Cheung, and
+  Ming-Chung Chu.
+\newblock {Is Fuzzy Dark Matter in tension with Lyman-alpha forest?}
+\newblock 2017.
+
+\bibitem{Hui:2016ltb}
+Lam Hui, Jeremiah~P. Ostriker, Scott Tremaine, and Edward Witten.
+\newblock {Ultralight scalars as cosmological dark matter}.
+\newblock {\em Phys. Rev.}, D95(4):043541, 2017.
+
+\bibitem{Horiuchi:2013noa}
+Shunsaku Horiuchi, Philip~J. Humphrey, Jose Onorbe, Kevork~N. Abazajian, Manoj
+  Kaplinghat, and Shea Garrison-Kimmel.
+\newblock {Sterile neutrino dark matter bounds from galaxies of the Local
+  Group}.
+\newblock {\em Phys. Rev.}, D89(2):025017, 2014.
+
+\bibitem{Griest:2013aaa}
+Kim Griest, Agnieszka~M. Cieplak, and Matthew~J. Lehner.
+\newblock {Experimental Limits on Primordial Black Hole Dark Matter from the
+  First 2 yr of Kepler Data}.
+\newblock {\em Astrophys. J.}, 786(2):158, 2014.
+
+\bibitem{Bringmann:2006mu}
+Torsten Bringmann and Stefan Hofmann.
+\newblock {Thermal decoupling of WIMPs from first principles}.
+\newblock {\em JCAP}, 0704:016, 2007.
+\newblock [Erratum: JCAP1603,no.03,E02(2016)].
+
+\bibitem{Viel:2013apy}
+Matteo Viel, George~D. Becker, James~S. Bolton, and Martin~G. Haehnelt.
+\newblock {Warm dark matter as a solution to the small scale crisis: New
+  constraints from high redshift Lyman-α forest data}.
+\newblock {\em Phys. Rev.}, D88:043502, 2013.
+
+\bibitem{Griest:1989wd}
+Kim Griest and Marc Kamionkowski.
+\newblock {Unitarity Limits on the Mass and Radius of Dark Matter Particles}.
+\newblock {\em Phys. Rev. Lett.}, 64:615, 1990.
+
+\bibitem{1991NuPhB.360..145G}
+P.~{Gondolo} and G.~{Gelmini}.
+\newblock {Cosmic abundances of stable particles: improved analysis.}
+\newblock {\em Nuclear Physics B}, 360:145--179, August 1991.
+
+\bibitem{1996PhR...267..195J}
+G.~{Jungman}, M.~{Kamionkowski}, and K.~{Griest}.
+\newblock {Supersymmetric dark matter}.
+\newblock {\em \physrep}, 267:195--373, March 1996.
+
+\bibitem{Lisanti:2016jxe}
+Mariangela Lisanti.
+\newblock {Lectures on Dark Matter Physics}.
+\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
+  Elementary Particle Physics: New Frontiers in Fields and Strings (TASI 2015):
+  Boulder, CO, USA, June 1-26, 2015}}, pages 399--446, 2017.
+
+\bibitem{Aprile:2018dbl}
+E.~Aprile et~al.
+\newblock {Dark Matter Search Results from a One Tonne$\times$Year Exposure of
+  XENON1T}.
+\newblock 2018.
+
+\bibitem{Escudero:2016gzx}
+Miguel Escudero, Asher Berlin, Dan Hooper, and Meng-Xiang Lin.
+\newblock {Toward (Finally!) Ruling Out Z and Higgs Mediated Dark Matter
+  Models}.
+\newblock {\em JCAP}, 1612:029, 2016.
+
+\bibitem{Patrignani:2016xqp}
+C.~Patrignani et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em Chin. Phys.}, C40(10):100001, 2016.
+
+\bibitem{Kahlhoefer:2017dnp}
+Felix Kahlhoefer.
+\newblock {Review of LHC Dark Matter Searches}.
+\newblock {\em Int. J. Mod. Phys.}, A32(13):1730006, 2017.
+
+\bibitem{PhysRevD.43.3191}
+Kim Griest and David Seckel.
+\newblock Three exceptions in the calculation of relic abundances.
+\newblock {\em Phys. Rev. D}, 43:3191--3203, May 1991.
+
+\bibitem{DAgnolo:2015ujb}
+Raffaele~Tito D'Agnolo and Joshua~T. Ruderman.
+\newblock {Light Dark Matter from Forbidden Channels}.
+\newblock {\em Phys. Rev. Lett.}, 115(6):061301, 2015.
+
+\bibitem{Hochberg:2014dra}
+Yonit Hochberg, Eric Kuflik, Tomer Volansky, and Jay~G. Wacker.
+\newblock {Mechanism for Thermal Relic Dark Matter of Strongly Interacting
+  Massive Particles}.
+\newblock {\em Phys. Rev. Lett.}, 113:171301, 2014.
+
+\bibitem{Hochberg:2014kqa}
+Yonit Hochberg, Eric Kuflik, Hitoshi Murayama, Tomer Volansky, and Jay~G.
+  Wacker.
+\newblock {Model for Thermal Relic Dark Matter of Strongly Interacting Massive
+  Particles}.
+\newblock {\em Phys. Rev. Lett.}, 115(2):021301, 2015.
+
+\bibitem{Atwood:2009ez}
+W.~B. Atwood et~al.
+\newblock {The Large Area Telescope on the Fermi Gamma-ray Space Telescope
+  Mission}.
+\newblock {\em Astrophys. J.}, 697:1071--1102, 2009.
+
+\bibitem{Abeysekara:2014ffg}
+A.~U. Abeysekara et~al.
+\newblock {Sensitivity of HAWC to high-mass dark matter annihilations}.
+\newblock {\em Phys. Rev.}, D90(12):122002, 2014.
+
+\bibitem{Abdallah:2018qtu}
+H.~Abdallah et~al.
+\newblock {Search for $\gamma$-Ray Line Signals from Dark Matter Annihilations
+  in the Inner Galactic Halo from 10 Years of Observations with H.E.S.S.}
+\newblock {\em Phys. Rev. Lett.}, 120(20):201101, 2018.
+
+\bibitem{Ahnen:2017pqx}
+M.~L. Ahnen et~al.
+\newblock {Indirect dark matter searches in the dwarf satellite galaxy Ursa
+  Major II with the MAGIC Telescopes}.
+\newblock {\em JCAP}, 1803(03):009, 2018.
+
+\bibitem{Archambault:2017wyh}
+S.~Archambault et~al.
+\newblock {Dark Matter Constraints from a Joint Analysis of Dwarf Spheroidal
+  Galaxy Observations with VERITAS}.
+\newblock {\em Phys. Rev.}, D95(8):082001, 2017.
+
+\bibitem{Doro:2012xx}
+M.~Doro et~al.
+\newblock {Dark Matter and Fundamental Physics with the Cherenkov Telescope
+  Array}.
+\newblock {\em Astropart. Phys.}, 43:189--214, 2013.
+
+\bibitem{Aguilar:2014mma}
+M.~Aguilar et~al.
+\newblock {Electron and Positron Fluxes in Primary Cosmic Rays Measured with
+  the Alpha Magnetic Spectrometer on the International Space Station}.
+\newblock {\em Phys. Rev. Lett.}, 113:121102, 2014.
+
+\bibitem{Bergstrom:2013jra}
+Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
+  Weniger.
+\newblock {New limits on dark matter annihilation from AMS cosmic ray positron
+  data}.
+\newblock {\em Phys. Rev. Lett.}, 111:171101, 2013.
+
+\bibitem{Slatyer:2017sev}
+Tracy~R. Slatyer.
+\newblock {Indirect Detection of Dark Matter}.
+\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
+  Elementary Particle Physics : Anticipating the Next Discoveries in Particle
+  Physics (TASI 2016): Boulder, CO, USA, June 6-July 1, 2016}}, pages 297--353,
+  2018.
+
+\bibitem{Sjostrand:2007gs}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
+\newblock {A Brief Introduction to PYTHIA 8.1}.
+\newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
+
+\bibitem{Cirelli:2010xx}
+Marco Cirelli, Gennaro Corcella, Andi Hektor, Gert Hutsi, Mario Kadastik, Paolo
+  Panci, Martti Raidal, Filippo Sala, and Alessandro Strumia.
+\newblock {PPPC 4 DM ID: A Poor Particle Physicist Cookbook for Dark Matter
+  Indirect Detection}.
+\newblock {\em JCAP}, 1103:051, 2011.
+\newblock [Erratum: JCAP1210,E01(2012)].
+
+\bibitem{Fermi-LAT:2016uux}
+A.~Albert et~al.
+\newblock {Searching for Dark Matter Annihilation in Recently Discovered Milky
+  Way Satellites with Fermi-LAT}.
+\newblock {\em Astrophys. J.}, 834(2):110, 2017.
+
+\bibitem{Ackermann:2015zua}
+M.~Ackermann et~al.
+\newblock {Searching for Dark Matter Annihilation from Milky Way Dwarf
+  Spheroidal Galaxies with Six Years of Fermi Large Area Telescope Data}.
+\newblock {\em Phys. Rev. Lett.}, 115(23):231301, 2015.
+
+\bibitem{Geringer-Sameth:2014qqa}
+Alex Geringer-Sameth, Savvas~M. Koushiappas, and Matthew~G. Walker.
+\newblock {Comprehensive search for dark matter annihilation in dwarf
+  galaxies}.
+\newblock {\em Phys. Rev.}, D91(8):083535, 2015.
+
+\bibitem{Sanders:2016eie}
+Jason~L. Sanders, N.~Wyn Evans, Alex Geringer-Sameth, and Walter Dehnen.
+\newblock {Indirect Dark Matter Detection for Flattened Dwarf Galaxies}.
+\newblock {\em Phys. Rev.}, D94(6):063521, 2016.
+
+\bibitem{2016MNRAS.462..223B}
+V.~{Bonnivard}, D.~{Maurin}, and M.~G. {Walker}.
+\newblock {Contamination of stellar-kinematic samples and uncertainty about
+  dark matter annihilation profiles in ultrafaint dwarf galaxies: the example
+  of Segue I}.
+\newblock {\em \mnras}, 462:223--234, October 2016.
+
+\bibitem{Geringer-Sameth:2014yza}
+Alex Geringer-Sameth, Savvas~M. Koushiappas, and Matthew Walker.
+\newblock {Dwarf galaxy annihilation and decay emission profiles for dark
+  matter experiments}.
+\newblock {\em Astrophys. J.}, 801(2):74, 2015.
+
+\bibitem{Daylan:2014rsa}
+Tansu Daylan, Douglas~P. Finkbeiner, Dan Hooper, Tim Linden, Stephen K.~N.
+  Portillo, Nicholas~L. Rodd, and Tracy~R. Slatyer.
+\newblock {The characterization of the gamma-ray signal from the central Milky
+  Way: A case for annihilating dark matter}.
+\newblock {\em Phys. Dark Univ.}, 12:1--23, 2016.
 
 \bibitem{Goodenough:2009gk}
 Lisa Goodenough and Dan Hooper.
@@ -41,6 +401,173 @@ Dan Hooper and Lisa Goodenough.
 \newblock {Dark Matter Annihilation in The Galactic Center As Seen by the Fermi
   Gamma Ray Space Telescope}.
 \newblock {\em Phys.Lett.}, B697:412--428, 2011.
+
+\bibitem{Calore:2014xka}
+Francesca Calore, Ilias Cholis, and Christoph Weniger.
+\newblock {Background model systematics for the Fermi GeV excess}.
+\newblock {\em JCAP}, 1503:038, 2015.
+
+\bibitem{Gordon:2013vta}
+Chris Gordon and Oscar Macias.
+\newblock {Dark Matter and Pulsar Model Constraints from Galactic Center
+  Fermi-LAT Gamma Ray Observations}.
+\newblock {\em Phys.Rev.}, D88:083521, 2013.
+
+\bibitem{Lee:2015fea}
+Samuel~K. Lee, Mariangela Lisanti, Benjamin~R. Safdi, Tracy~R. Slatyer, and Wei
+  Xue.
+\newblock {Evidence for Unresolved $\gamma$-Ray Point Sources in the Inner
+  Galaxy}.
+\newblock {\em Phys. Rev. Lett.}, 116(5):051103, 2016.
+
+\bibitem{Bartels:2015aea}
+Richard Bartels, Suraj Krishnamurthy, and Christoph Weniger.
+\newblock {Strong support for the millisecond pulsar origin of the Galactic
+  center GeV excess}.
+\newblock {\em Phys. Rev. Lett.}, 116(5):051102, 2016.
+
+\bibitem{Chang:2018bpt}
+Laura~J. Chang, Mariangela Lisanti, and Siddharth Mishra-Sharma.
+\newblock {A Search for Dark Matter Annihilation in the Milky Way Halo}.
+\newblock 2018.
+
+\bibitem{2017MNRAS.467.2019R}
+J.~I. {Read}, G.~{Iorio}, O.~{Agertz}, and F.~{Fraternali}.
+\newblock {The stellar mass-halo mass relation of isolated field dwarfs: a
+  critical test of {$\Lambda$}CDM at the edge of galaxy formation}.
+\newblock {\em \mnras}, 467:2019--2038, May 2017.
+
+\bibitem{Fitts:2016usl}
+Alex Fitts et~al.
+\newblock {FIRE in the Field: Simulating the Threshold of Galaxy Formation}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 471(3):3547--3562, 2017.
+
+\bibitem{Bertoni:2015mla}
+Bridget Bertoni, Dan Hooper, and Tim Linden.
+\newblock {Examining The Fermi-LAT Third Source Catalog In Search Of Dark
+  Matter Subhalos}.
+\newblock {\em JCAP}, 1512(12):035, 2015.
+
+\bibitem{Calore:2016ogv}
+Francesca Calore, Valentina De~Romeri, Mattia Di~Mauro, Fiorenza Donato, and
+  Federico Marinacci.
+\newblock {Realistic estimation for the detectability of dark matter sub-halos
+  with Fermi-LAT}.
+\newblock {\em Phys. Rev.}, D96(6):063009, 2017.
+
+\bibitem{Hooper:2016cld}
+Dan Hooper and Samuel~J. Witte.
+\newblock {Gamma Rays From Dark Matter Subhalos Revisited: Refining the
+  Predictions and Constraints}.
+\newblock {\em JCAP}, 1704(04):018, 2017.
+
+\bibitem{Schoonenberg:2016aml}
+Djoeke Schoonenberg, Jennifer Gaskins, Gianfranco Bertone, and J{\"u}rg
+  Diemand.
+\newblock {Dark matter subhalos and unidentified sources in the Fermi 3FGL
+  source catalog}.
+\newblock {\em JCAP}, 1605(05):028, 2016.
+
+\bibitem{Ackermann:2015fdi}
+M.~Ackermann et~al.
+\newblock {Search for extended gamma-ray emission from the Virgo galaxy cluster
+  with Fermi-LAT}.
+\newblock {\em Astrophys. J.}, 812(2):159, 2015.
+
+\bibitem{Ackermann:2015tah}
+M.~Ackermann et~al.
+\newblock {Limits on Dark Matter Annihilation Signals from the Fermi LAT 4-year
+  Measurement of the Isotropic Gamma-Ray Background}.
+\newblock {\em JCAP}, 1509(09):008, 2015.
+
+\bibitem{Ajello:2015mfa}
+M.~Ajello et~al.
+\newblock {The Origin of the Extragalactic Gamma-Ray Background and
+  Implications for Dark-Matter Annihilation}.
+\newblock {\em Astrophys. J.}, 800(2):L27, 2015.
+
+\bibitem{Cholis:2013ena}
+Ilias Cholis, Dan Hooper, and Samuel~D. McDermott.
+\newblock {Dissecting the Gamma-Ray Background in Search of Dark Matter}.
+\newblock {\em JCAP}, 1402:014, 2014.
+
+\bibitem{DiMauro:2015tfa}
+Mattia Di~Mauro and Fiorenza Donato.
+\newblock {Composition of the Fermi-LAT isotropic gamma-ray background
+  intensity: Emission from extragalactic point sources and dark matter
+  annihilations}.
+\newblock {\em Phys. Rev.}, D91(12):123001, 2015.
+
+\bibitem{Ando:2013xwa}
+Shin'ichiro Ando, Aur{\'e}lien Benoit-L{\'e}vy, and Eiichiro Komatsu.
+\newblock {Mapping dark matter in the gamma-ray sky with galaxy catalogs}.
+\newblock {\em Phys. Rev.}, D90(2):023514, 2014.
+
+\bibitem{Ando:2014aoa}
+Shin'ichiro Ando.
+\newblock {Power spectrum tomography of dark matter annihilation with local
+  galaxy distribution}.
+\newblock {\em JCAP}, 1410(10):061, 2014.
+
+\bibitem{Ando:2016ang}
+Shin'ichiro Ando and Koji Ishiwata.
+\newblock {Constraining particle dark matter using local galaxy distribution}.
+\newblock {\em JCAP}, 1606(06):045, 2016.
+
+\bibitem{Cuoco:2015rfa}
+Alessandro Cuoco, Jun-Qing Xia, Marco Regis, Enzo Branchini, Nicolao Fornengo,
+  and Matteo Viel.
+\newblock {Dark Matter Searches in the Gamma-ray Extragalactic Background via
+  Cross-correlations With Galaxy Catalogs}.
+\newblock {\em Astrophys. J. Suppl.}, 221(2):29, 2015.
+
+\bibitem{Regis:2015zka}
+Marco Regis, Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, Nicolao Fornengo,
+  and Matteo Viel.
+\newblock {Particle dark matter searches outside the Local Group}.
+\newblock {\em Phys. Rev. Lett.}, 114(24):241301, 2015.
+
+\bibitem{Xia:2015wka}
+Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, and Matteo Viel.
+\newblock {Tomography of the Fermi-lat $\gamma$-ray Diffuse Extragalactic
+  Signal via Cross Correlations With Galaxy Catalogs}.
+\newblock {\em Astrophys. J. Suppl.}, 217(1):15, 2015.
+
+\bibitem{Lisanti:2017qoz}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
+  Safdi, and Risa~H. Wechsler.
+\newblock {Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys:
+  A Systematic Study of Stacked Group Searches}.
+\newblock {\em Phys. Rev.}, D97(6):063005, 2018.
+
+\bibitem{Lisanti:2017qlb}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
+  Safdi.
+\newblock {Search for Dark Matter Annihilation in Galaxy Groups}.
+\newblock {\em Phys. Rev. Lett.}, 120(10):101101, 2018.
+
+\bibitem{Mishra-Sharma:2016gis}
+Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
+\newblock {NPTFit: A code package for Non-Poissonian Template Fitting}.
+\newblock {\em Astron. J.}, 153(6):253, 2017.
+
+\bibitem{Lee:2014mza}
+Samuel~K. Lee, Mariangela Lisanti, and Benjamin~R. Safdi.
+\newblock {Distinguishing Dark Matter from Unresolved Point Sources in the
+  Inner Galaxy with Photon Statistics}.
+\newblock {\em JCAP}, 1505(05):056, 2015.
+
+\bibitem{Miyaji:2001dp}
+Takamitsu Miyaji and Richard~E. Griffiths.
+\newblock {Faint source counts from off-source fluctuation analysis on chandra
+  observations of the hubble deep field-north}.
+\newblock {\em Astrophys. J.}, 564:L5, 2002.
+
+\bibitem{Malyshev:2011zi}
+Dmitry Malyshev and David~W. Hogg.
+\newblock {Statistics of gamma-ray point sources below the Fermi detection
+  limit}.
+\newblock {\em Astrophys. J.}, 738:181, 2011.
 
 \bibitem{Boyarsky:2010dr}
 Alexey Boyarsky, Denys Malyshev, and Oleg Ruchayskiy.
@@ -66,29 +593,11 @@ Dan Hooper and Tracy~R. Slatyer.
   Annihilating Dark Matter}.
 \newblock {\em Phys.Dark Univ.}, 2:118--138, 2013.
 
-\bibitem{Gordon:2013vta}
-Chris Gordon and Oscar Macias.
-\newblock {Dark Matter and Pulsar Model Constraints from Galactic Center
-  Fermi-LAT Gamma Ray Observations}.
-\newblock {\em Phys.Rev.}, D88:083521, 2013.
-
 \bibitem{Abazajian:2014fta}
 Kevork~N. Abazajian, Nicolas Canac, Shunsaku Horiuchi, and Manoj Kaplinghat.
 \newblock {Astrophysical and Dark Matter Interpretations of Extended Gamma-Ray
   Emission from the Galactic Center}.
 \newblock {\em Phys.Rev.}, D90:023526, 2014.
-
-\bibitem{Daylan:2014rsa}
-Tansu Daylan, Douglas~P. Finkbeiner, Dan Hooper, Tim Linden, Stephen K.~N.
-  Portillo, Nicholas~L. Rodd, and Tracy~R. Slatyer.
-\newblock {The characterization of the gamma-ray signal from the central Milky
-  Way: A case for annihilating dark matter}.
-\newblock {\em Phys. Dark Univ.}, 12:1--23, 2016.
-
-\bibitem{Calore:2014xka}
-Francesca Calore, Ilias Cholis, and Christoph Weniger.
-\newblock {Background model systematics for the Fermi GeV excess}.
-\newblock {\em JCAP}, 1503:038, 2015.
 
 \bibitem{Abazajian:2014hsa}
 Kevork~N. Abazajian, Nicolas Canac, Shunsaku Horiuchi, Manoj Kaplinghat, and
@@ -167,12 +676,6 @@ Timothy~D. Brandt and Bence Kocsis.
 Tim Linden, Nicholas~L. Rodd, Benjamin~R. Safdi, and Tracy~R. Slatyer.
 \newblock {The High-Energy Tail of the Galactic Center Gamma-Ray Excess}.
 \newblock 2016.
-
-\bibitem{Bartels:2015aea}
-Richard Bartels, Suraj Krishnamurthy, and Christoph Weniger.
-\newblock {Strong support for the millisecond pulsar origin of the Galactic
-  center GeV excess}.
-\newblock {\em Phys. Rev. Lett.}, 116(5):051102, 2016.
 
 \bibitem{Zechlin:2015wdz}
 Hannes-S. Zechlin, Alessandro Cuoco, Fiorenza Donato, Nicolao Fornengo, and
@@ -480,12 +983,6 @@ M.~Di~Mauro, F.~Donato, G.~Lamanna, D.~A. Sanchez, and P.~D. Serpico.
 \newblock {Diffuse $\gamma$-ray emission from unresolved BL Lac objects}.
 \newblock {\em Astrophys. J.}, 786:129, 2014.
 
-\bibitem{Ajello:2015mfa}
-M.~Ajello et~al.
-\newblock {The Origin of the Extragalactic Gamma-Ray Background and
-  Implications for Dark-Matter Annihilation}.
-\newblock {\em Astrophys. J.}, 800(2):L27, 2015.
-
 \bibitem{Ackermann:2015uya}
 M.~Ackermann et~al.
 \newblock {2FHL: The Second Catalog of Hard Fermi-LAT Sources}.
@@ -607,28 +1104,10 @@ A.~Bottino, F.~Donato, N.~Fornengo, and S.~Scopel.
   without gaugino mass unification}.
 \newblock {\em Phys. Rev.}, D70:015005, 2004.
 
-\bibitem{Bertone:2004pz}
-Gianfranco Bertone, Dan Hooper, and Joseph Silk.
-\newblock {Particle dark matter: Evidence, candidates and constraints}.
-\newblock {\em Phys. Rept.}, 405:279--390, 2005.
-
 \bibitem{Bringmann:2012ez}
 Torsten Bringmann and Christoph Weniger.
 \newblock {Gamma Ray Signals from Dark Matter: Concepts, Status and Prospects}.
 \newblock {\em Phys. Dark Univ.}, 1:194--217, 2012.
-
-\bibitem{DiMauro:2015tfa}
-Mattia Di~Mauro and Fiorenza Donato.
-\newblock {Composition of the Fermi-LAT isotropic gamma-ray background
-  intensity: Emission from extragalactic point sources and dark matter
-  annihilations}.
-\newblock {\em Phys. Rev.}, D91(12):123001, 2015.
-
-\bibitem{Ackermann:2015tah}
-M.~Ackermann et~al.
-\newblock {Limits on Dark Matter Annihilation Signals from the Fermi LAT 4-year
-  Measurement of the Isotropic Gamma-Ray Background}.
-\newblock {\em JCAP}, 1509(09):008, 2015.
 
 \bibitem{Loeb:2000aa}
 Abraham Loeb and Eli Waxman.
@@ -834,25 +1313,6 @@ Kohta Murase, Dafne Guetta, and Markus Ahlers.
   Neutrinos}.
 \newblock {\em Phys. Rev. Lett.}, 116(7):071101, 2016.
 
-\bibitem{Lisanti:2017qoz}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
-  Safdi, and Risa~H. Wechsler.
-\newblock {Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys:
-  A Systematic Study of Stacked Group Searches}.
-\newblock {\em Phys. Rev.}, D97(6):063005, 2018.
-
-\bibitem{Fermi-LAT:2016uux}
-A.~Albert et~al.
-\newblock {Searching for Dark Matter Annihilation in Recently Discovered Milky
-  Way Satellites with Fermi-LAT}.
-\newblock {\em Astrophys. J.}, 834(2):110, 2017.
-
-\bibitem{Ackermann:2015zua}
-M.~Ackermann et~al.
-\newblock {Searching for Dark Matter Annihilation from Milky Way Dwarf
-  Spheroidal Galaxies with Six Years of Fermi Large Area Telescope Data}.
-\newblock {\em Phys. Rev. Lett.}, 115(23):231301, 2015.
-
 \bibitem{Feng:2016fkl}
 Chang Feng, Asantha Cooray, and Brian Keating.
 \newblock {Planck Lensing and Cosmic Infrared Background Cross-Correlation with
@@ -898,41 +1358,6 @@ Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, Mattia Fornasa, and Matteo
 \newblock {A cross-correlation study of the Fermi-LAT $\gamma$-ray diffuse
   extragalactic signal}.
 \newblock {\em Mon. Not. Roy. Astron. Soc.}, 416:2247--2264, 2011.
-
-\bibitem{Ando:2014aoa}
-Shin'ichiro Ando.
-\newblock {Power spectrum tomography of dark matter annihilation with local
-  galaxy distribution}.
-\newblock {\em JCAP}, 1410(10):061, 2014.
-
-\bibitem{Ando:2013xwa}
-Shin'ichiro Ando, Aur{\'e}lien Benoit-L{\'e}vy, and Eiichiro Komatsu.
-\newblock {Mapping dark matter in the gamma-ray sky with galaxy catalogs}.
-\newblock {\em Phys. Rev.}, D90(2):023514, 2014.
-
-\bibitem{Xia:2015wka}
-Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, and Matteo Viel.
-\newblock {Tomography of the Fermi-lat $\gamma$-ray Diffuse Extragalactic
-  Signal via Cross Correlations With Galaxy Catalogs}.
-\newblock {\em Astrophys. J. Suppl.}, 217(1):15, 2015.
-
-\bibitem{Regis:2015zka}
-Marco Regis, Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, Nicolao Fornengo,
-  and Matteo Viel.
-\newblock {Particle dark matter searches outside the Local Group}.
-\newblock {\em Phys. Rev. Lett.}, 114(24):241301, 2015.
-
-\bibitem{Cuoco:2015rfa}
-Alessandro Cuoco, Jun-Qing Xia, Marco Regis, Enzo Branchini, Nicolao Fornengo,
-  and Matteo Viel.
-\newblock {Dark Matter Searches in the Gamma-ray Extragalactic Background via
-  Cross-correlations With Galaxy Catalogs}.
-\newblock {\em Astrophys. J. Suppl.}, 221(2):29, 2015.
-
-\bibitem{Ando:2016ang}
-Shin'ichiro Ando and Koji Ishiwata.
-\newblock {Constraining particle dark matter using local galaxy distribution}.
-\newblock {\em JCAP}, 1606(06):045, 2016.
 
 \bibitem{Camera:2014rja}
 Stefano Camera, Mattia Fornasa, Nicolao Fornengo, and Marco Regis.
@@ -992,12 +1417,6 @@ M.~Ackermann et~al.
 \newblock {Observations of M31 and M33 with the Fermi Large Area Telescope: A
   Galactic Center Excess in Andromeda?}
 \newblock {\em Astrophys. J.}, 836(2):208, 2017.
-
-\bibitem{Ackermann:2015fdi}
-M.~Ackermann et~al.
-\newblock {Search for extended gamma-ray emission from the Virgo galaxy cluster
-  with Fermi-LAT}.
-\newblock {\em Astrophys. J.}, 812(2):159, 2015.
 
 \bibitem{Ackermann:2010rg}
 M.~Ackermann et~al.
@@ -1118,14 +1537,6 @@ Rachel~M. Reddick, Risa~H. Wechsler, Jeremy~L. Tinker, and Peter~S. Behroozi.
 Julio~F. Navarro, Carlos~S. Frenk, and Simon D.~M. White.
 \newblock {The Structure of Cold Dark Matter Halos}.
 \newblock {\em Astrophys. J.}, 462:563--575, 1996.
-
-\bibitem{Cirelli:2010xx}
-Marco Cirelli, Gennaro Corcella, Andi Hektor, Gert Hutsi, Mario Kadastik, Paolo
-  Panci, Martti Raidal, Filippo Sala, and Alessandro Strumia.
-\newblock {PPPC 4 DM ID: A Poor Particle Physicist Cookbook for Dark Matter
-  Indirect Detection}.
-\newblock {\em JCAP}, 1103:051, 2011.
-\newblock [Erratum: JCAP1210,E01(2012)].
 
 \bibitem{Elor:2015tva}
 Gilly Elor, Nicholas~L. Rodd, and Tracy~R. Slatyer.
@@ -1254,17 +1665,6 @@ Yong Chen, T.~H. Reiprich, H.~Bohringer, Y.~Ikebe, and Y.~Y. Zhang.
 \newblock {\em Astron. Astrophys.}, 2007.
 \newblock [Astron. Astrophys.466,805(2007)].
 
-\bibitem{Ade:2015xua}
-P.~A.~R. Ade et~al.
-\newblock {Planck 2015 results. XIII. Cosmological parameters}.
-\newblock {\em Astron. Astrophys.}, 594:A13, 2016.
-
-\bibitem{Lisanti:2017qlb}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
-  Safdi.
-\newblock {Search for Dark Matter Annihilation in Galaxy Groups}.
-\newblock {\em Phys. Rev. Lett.}, 120(10):101101, 2018.
-
 \bibitem{companion}
 Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
   Safdi.
@@ -1320,12 +1720,6 @@ B.~Huber, C.~Tchernin, D.~Eckert, C.~Farnier, A.~Manalaysay, U.~Straumann, and
 \newblock {Probing the cosmic-ray content of galaxy clusters by stacking
   Fermi-LAT count maps}.
 \newblock {\em Astron. Astrophys.}, 560:A64, 2013.
-
-\bibitem{Geringer-Sameth:2014qqa}
-Alex Geringer-Sameth, Savvas~M. Koushiappas, and Matthew~G. Walker.
-\newblock {Comprehensive search for dark matter annihilation in dwarf
-  galaxies}.
-\newblock {\em Phys. Rev.}, D91(8):083535, 2015.
 
 \bibitem{Karwin:2016tsw}
 Christopher Karwin, Simona Murgia, Tim M.~P. Tait, Troy~A. Porter, and Philip
