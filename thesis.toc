@@ -1,5 +1,4 @@
 \contentsline {section}{Abstract}{iii}{Doc-Start}
-\contentsline {section}{Acknowledgements}{iv}{section*.1}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Evidence for Dark Matter}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}(Particle) Nature of Dark Matter}{6}{section.1.2}
@@ -22,10 +21,10 @@
 \contentsline {subsection}{\numberline {2.6.3}Configure scan with PSF correction}{51}{subsection.2.6.3}
 \contentsline {subsection}{\numberline {2.6.4}Performing the scan with \texttt {MultiNest}}{52}{subsection.2.6.4}
 \contentsline {subsection}{\numberline {2.6.5}Analyzing the results}{52}{subsection.2.6.5}
-\contentsline {subsubsection}{Make triangle plots}{53}{section*.8}
-\contentsline {subsubsection}{Plot source-count distributions}{53}{section*.9}
-\contentsline {subsubsection}{Plot intensity fractions}{56}{section*.10}
-\contentsline {subsubsection}{Further analyses}{57}{section*.11}
+\contentsline {subsubsection}{Make triangle plots}{53}{section*.7}
+\contentsline {subsubsection}{Plot source-count distributions}{53}{section*.8}
+\contentsline {subsubsection}{Plot intensity fractions}{56}{section*.9}
+\contentsline {subsubsection}{Further analyses}{57}{section*.10}
 \contentsline {section}{\numberline {2.7}Conclusion}{58}{section.2.7}
 \contentsline {chapter}{\numberline {3}Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{59}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{59}{section.3.1}
@@ -41,28 +40,29 @@
 \contentsline {subsection}{\numberline {3.3.4}Blazar and SFG combination}{83}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Low-Energy Analysis: 1.89--94.9 GeV}{85}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1} Pass\nobreakspace {}8\nobreakspace {}{\it ultracleanveto} Data}{85}{subsection.3.4.1}
-\contentsline {subsubsection}{Top PSF Quartile}{85}{section*.12}
-\contentsline {subsubsection}{Top Three PSF Quartiles}{89}{section*.13}
+\contentsline {subsubsection}{Top PSF Quartile}{85}{section*.11}
+\contentsline {subsubsection}{Top Three PSF Quartiles}{89}{section*.12}
 \contentsline {subsection}{\numberline {3.4.2}Systematic Tests}{91}{subsection.3.4.2}
 \contentsline {section}{\numberline {3.5}High-Energy Analysis: 50--2000 GeV}{92}{section.3.5}
 \contentsline {section}{\numberline {3.6}Discussion and Conclusions}{99}{section.3.6}
-\contentsline {chapter}{\numberline {4}Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{108}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{108}{section.4.1}
-\contentsline {section}{\numberline {4.2}Tracing Dark Matter Flux with Galaxy Surveys}{111}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Galaxy and Halo Catalogs}{111}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Dark Matter Annihilation Flux Map}{114}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Uncertainties in Halo Modeling}{117}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Statistical Methods}{121}{section.4.3}
-\contentsline {section}{\numberline {4.4}Analysis Results}{127}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Halo Selection and Limits}{127}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Signal Recovery Tests}{134}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Conclusions}{136}{section.4.5}
-\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{140}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{140}{section.5.1}
-\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{142}{section.5.2}
-\contentsline {section}{\numberline {5.3}Data Analysis}{146}{section.5.3}
-\contentsline {section}{\numberline {5.4}Results}{150}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclusions}{151}{section.5.5}
+\contentsline {subsection}{\numberline {3.6.1}Implication for Dark Matter Annihilation Searches}{107}{subsection.3.6.1}
+\contentsline {chapter}{\numberline {4}Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{109}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{109}{section.4.1}
+\contentsline {section}{\numberline {4.2}Tracing Dark Matter Flux with Galaxy Surveys}{112}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Galaxy and Halo Catalogs}{112}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Dark Matter Annihilation Flux Map}{115}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Uncertainties in Halo Modeling}{118}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Statistical Methods}{122}{section.4.3}
+\contentsline {section}{\numberline {4.4}Analysis Results}{128}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Halo Selection and Limits}{128}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Signal Recovery Tests}{135}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Conclusions}{137}{section.4.5}
+\contentsline {chapter}{\numberline {5}A Search for Dark Matter Annihilation in Galaxy Groups}{141}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{141}{section.5.1}
+\contentsline {section}{\numberline {5.2}Galaxy Group Selection}{143}{section.5.2}
+\contentsline {section}{\numberline {5.3}Data Analysis}{147}{section.5.3}
+\contentsline {section}{\numberline {5.4}Results}{151}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusions}{152}{section.5.5}
 \contentsline {chapter}{\numberline {A}$J$- and $D$-factors for Extragalactic Sources}{153}{appendix.A}
 \contentsline {section}{\numberline {A.1}Units and Conventions}{154}{section.A.1}
 \contentsline {subsection}{\numberline {A.1.1}Dark Matter Flux}{154}{subsection.A.1.1}
@@ -72,4 +72,4 @@
 \contentsline {chapter}{\numberline {B}Supplementary Material on Cluster Searches}{163}{appendix.B}
 \contentsline {section}{\numberline {B.1}Extended results}{163}{section.B.1}
 \contentsline {section}{\numberline {B.2}Variations on the Analysis}{176}{section.B.2}
-\contentsline {chapter}{Bibliography}{187}{section*.14}
+\contentsline {chapter}{Bibliography}{187}{section*.13}

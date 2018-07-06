@@ -1,5 +1,4 @@
 - Correct table format with proper midrules (especially in IGRB section)
-- Format of intro references to papers
 - Link, reference and citation colours
 - Fig. 2.3 aspect ratio is weird, remake
 - LaTeX warnings

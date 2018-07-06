@@ -9,11 +9,11 @@ A level-1 auxiliary file: ch-darksky/fermi_darksky.aux
 A level-1 auxiliary file: ch-clusters/fermi_data_clusters_arxiv_v2.aux
 A level-1 auxiliary file: ch-appendicies/fermi_darksky.aux
 A level-1 auxiliary file: ch-appendicies/fermi_data_clusters_arxiv_v2.aux
-Illegal, another \bibstyle command---line 48 of file thesis.aux
+Illegal, another \bibstyle command---line 45 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12245 items from 5000.
+Reallocated field_info (elt_size=4) to 12291 items from 5000.
 Database file #1: intro.bib
 Database file #2: ch-nptfit/NPTF.bib
 Repeated entry---line 814 of file ch-nptfit/NPTF.bib
@@ -1062,6 +1062,7 @@ Repeated entry---line 29 of file ch-intro/introduction.bib
 I'm skipping whatever remains of this entry
 Warning--empty journal in Zhang:2017chj
 Warning--empty journal in Aprile:2018dbl
+Warning--empty journal in Agnes:2018ves
 Warning--empty journal in Goodenough:2009gk
 Warning--empty journal in Chang:2018bpt
 Warning--empty journal in Macias:2016nev
@@ -1070,6 +1071,7 @@ Warning--empty journal in Linden:2016rcf
 Warning--empty journal in Lisanti:2016jub
 Warning--empty journal in Daylan:2016tia
 Warning--empty journal in Bechtol:2015uqb
+Warning--empty journal in Bertoni:2016hoh
 Warning--empty journal in Feyereisen:2016fzb
 Warning--empty journal in Feroz:2013hea
 Warning--empty journal in Acero:2015hja
@@ -1084,36 +1086,36 @@ Warning--empty journal in Elor:2015bho
 Warning--empty journal in companion
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 315 entries,
+You've used 317 entries,
             1791 wiz_defined-function locations,
-            2286 strings with 59046 characters,
-and the built_in function-call counts, 68535 in all, are:
-= -- 5608
-> -- 3616
+            2293 strings with 59249 characters,
+and the built_in function-call counts, 68839 in all, are:
+= -- 5630
+> -- 3635
 < -- 3
-+ -- 1319
-- -- 1004
-* -- 5098
-:= -- 11627
-add.period$ -- 954
-call.type$ -- 315
-change.case$ -- 311
++ -- 1326
+- -- 1009
+* -- 5110
+:= -- 11682
+add.period$ -- 960
+call.type$ -- 317
+change.case$ -- 313
 chr.to.int$ -- 0
-cite$ -- 339
-duplicate$ -- 2830
-empty$ -- 6551
-format.name$ -- 1004
-if$ -- 14871
+cite$ -- 343
+duplicate$ -- 2846
+empty$ -- 6579
+format.name$ -- 1009
+if$ -- 14935
 int.to.chr$ -- 0
-int.to.str$ -- 315
-missing$ -- 316
-newline$ -- 1587
-num.names$ -- 314
-pop$ -- 445
+int.to.str$ -- 317
+missing$ -- 318
+newline$ -- 1597
+num.names$ -- 316
+pop$ -- 455
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1091
+skip$ -- 1098
 stack$ -- 0
 substring$ -- 4319
 swap$ -- 315
@@ -1121,8 +1123,8 @@ text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 24
-while$ -- 606
-width$ -- 318
-write$ -- 3431
+warning$ -- 26
+while$ -- 608
+width$ -- 320
+write$ -- 3449
 (There were 261 error messages)

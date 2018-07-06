@@ -239,6 +239,11 @@ E.~Aprile et~al.
   XENON1T}.
 \newblock 2018.
 
+\bibitem{Agnes:2018ves}
+P.~Agnes et~al.
+\newblock {Low-Mass Dark Matter Search with the DarkSide-50 Experiment}.
+\newblock 2018.
+
 \bibitem{Escudero:2016gzx}
 Miguel Escudero, Asher Berlin, Dan Hooper, and Meng-Xiang Lin.
 \newblock {Toward (Finally!) Ruling Out Z and Higgs Mediated Dark Matter
@@ -744,6 +749,11 @@ Kohta Murase and Eli Waxman.
 \newblock {Constraining High-Energy Cosmic Neutrino Sources: Implications and
   Prospects}.
 \newblock {\em MNRAS}, 2016.
+
+\bibitem{Bertoni:2016hoh}
+Bridget Bertoni, Dan Hooper, and Tim Linden.
+\newblock {Is The Gamma-Ray Source 3FGL J2212.5+0703 A Dark Matter Subhalo?}
+\newblock 2016.
 
 \bibitem{hasinger1993}
 G.~Hasinger, R.~Burg, R.~Giacconi, G.~Hartner, M.~Schmidt, J.~Trumper, and
@@ -1665,12 +1675,6 @@ Yong Chen, T.~H. Reiprich, H.~Bohringer, Y.~Ikebe, and Y.~Y. Zhang.
 \newblock {\em Astron. Astrophys.}, 2007.
 \newblock [Astron. Astrophys.466,805(2007)].
 
-\bibitem{companion}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
-  Safdi.
-\newblock {A Search for Dark Matter Annihilation in Galaxy Groups}.
-\newblock 2017.
-
 \bibitem{Jarrett:2000me}
 T.~H. Jarrett, T.~Chester, R.~Cutri, S.~Schneider, M.~Skrutskie, and J.~P.
   Huchra.
@@ -1774,6 +1778,12 @@ Kohta Murase and John~F. Beacom.
 \newblock {Constraining Very Heavy Dark Matter Using Diffuse Backgrounds of
   Neutrinos and Cascaded Gamma Rays}.
 \newblock {\em JCAP}, 1210:043, 2012.
+
+\bibitem{companion}
+Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
+  Safdi.
+\newblock {A Search for Dark Matter Annihilation in Galaxy Groups}.
+\newblock 2017.
 
 \bibitem{Cowan:2010js}
 Glen Cowan, Kyle Cranmer, Eilam Gross, and Ofer Vitells.

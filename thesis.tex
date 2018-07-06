@@ -68,7 +68,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
 %%%% Author & title page info
 
-\title{Extragalactic Searches for Annihilating Dark Matter}
+\title{Extragalactic Searches for \\ Dark Matter Annihilation}
 
 \submitted{August 2018}  % degree conferral date (January, April, June, September, or November)
 \copyrightyear{2018}  % year in which the copyright is secured by publication of the dissertation.
@@ -386,17 +386,22 @@
 \else
 
 
-\abstract{
+\abstract{We are at the dawn of a data-driven era in astrophysics and cosmology. A large number of ongoing and forthcoming experiments combined with an increasingly open approach to data availability offer great potential in unlocking some of the deepest mysteries of the Universe. Among these is understanding the nature of dark matter (DM) -- one of the major unsolved problems in particle physics. Characterizing DM through its astrophysical signatures will require the use of novel statistical methods and a robust understanding of its distribution in the sky. 
+
+The first part of this thesis describes the implementation of a novel statistical technique which leverages the ``clumpiness'' of photons originating from point sources (PSs) to derive the properties of PS populations hidden in astrophysical datasets. This is applied to the gamma-ray sky at higher latitudes as seen by the \emph{Fermi} satellite to characterize the contribution of PSs of extragalactic origin, finding that the majority of the extragalactic gamma-rays can be ascribed to unresolved PSs having properties consistent with known sources such as active galactic nuclei.
+
+The second part of this thesis asks the question: ``what is the best way to look for annihilating dark matter in extragalactic sources?'' and attempts to answer it by constructing a pipeline to robustly map out the distribution of dark matter in the local neighborhood using galaxy group catalogs. This framework is applied to \emph{Fermi} data and existing group catalogs to search for annihilating dark matter in local galaxies and clusters, and stringent bounds are obtained in the absence of a signal.
+
 % Abstract can be any length, but should be max 350 words for a Dissertation for ProQuest's print indicies (150 words for a Master's Thesis) or it will be truncated for those uses.
-\input{abstract}
+% \input{abstract}
 }
 
-\acknowledgements{
-%I would like to thank...
-\input{acknowledgements}
-}
+% \acknowledgements{
+% %I would like to thank...
+% \input{acknowledgements}
+% }
 
-\dedication{To family and friends.}
+% \dedication{To family and friends.}
 
 \fi  % disable frontmatter
 
@@ -459,72 +464,72 @@
 % applies when a single journal decides to revamp its abbreviating
 % scheme, as happened with the ApJ (Abt 1991).
 
-\def\aj{\ref@jnl{AJ}}                   % Astronomical Journal
-\def\actaa{\ref@jnl{Acta Astron.}}      % Acta Astronomica
-\def\araa{\ref@jnl{ARA\&A}}             % Annual Review of Astron and Astrophys
+\def\aj{{AJ}}                   % Astronomical Journal
+\def\actaa{{Acta Astron.}}      % Acta Astronomica
+\def\araa{{ARA\&A}}             % Annual Review of Astron and Astrophys
 \def\apj{Astrophys. J.}                 % Astrophysical Journal
-% \def\apj{\ref@jnl{ApJ}}                 % Astrophysical Journal
-\def\apjl{\ref@jnl{ApJ}}                % Astrophysical Journal, Letters
-\def\apjs{\ref@jnl{ApJS}}               % Astrophysical Journal, Supplement
-\def\ao{\ref@jnl{Appl.~Opt.}}           % Applied Optics
-\def\apss{\ref@jnl{Ap\&SS}}             % Astrophysics and Space Science
-\def\aap{\ref@jnl{A\&A}}                % Astronomy and Astrophysics
-\def\aapr{\ref@jnl{A\&A~Rev.}}          % Astronomy and Astrophysics Reviews
-\def\aaps{\ref@jnl{A\&AS}}              % Astronomy and Astrophysics, Supplement
-\def\azh{\ref@jnl{AZh}}                 % Astronomicheskii Zhurnal
-\def\baas{\ref@jnl{BAAS}}               % Bulletin of the AAS
-\def\bac{\ref@jnl{Bull. astr. Inst. Czechosl.}}
+% \def\apj{{ApJ}}                 % Astrophysical Journal
+\def\apjl{{ApJ}}                % Astrophysical Journal, Letters
+\def\apjs{{ApJS}}               % Astrophysical Journal, Supplement
+\def\ao{{Appl.~Opt.}}           % Applied Optics
+\def\apss{{Ap\&SS}}             % Astrophysics and Space Science
+\def\aap{{A\&A}}                % Astronomy and Astrophysics
+\def\aapr{{A\&A~Rev.}}          % Astronomy and Astrophysics Reviews
+\def\aaps{{A\&AS}}              % Astronomy and Astrophysics, Supplement
+\def\azh{{AZh}}                 % Astronomicheskii Zhurnal
+\def\baas{{BAAS}}               % Bulletin of the AAS
+\def\bac{{Bull. astr. Inst. Czechosl.}}
                 % Bulletin of the Astronomical Institutes of Czechoslovakia 
-\def\caa{\ref@jnl{Chinese Astron. Astrophys.}}
+\def\caa{{Chinese Astron. Astrophys.}}
                 % Chinese Astronomy and Astrophysics
-\def\cjaa{\ref@jnl{Chinese J. Astron. Astrophys.}}
+\def\cjaa{{Chinese J. Astron. Astrophys.}}
                 % Chinese Journal of Astronomy and Astrophysics
-\def\icarus{\ref@jnl{Icarus}}           % Icarus
-\def\jcap{\ref@jnl{J. Cosmology Astropart. Phys.}}
+\def\icarus{{Icarus}}           % Icarus
+\def\jcap{{J. Cosmology Astropart. Phys.}}
                 % Journal of Cosmology and Astroparticle Physics
-\def\jrasc{\ref@jnl{JRASC}}             % Journal of the RAS of Canada
-\def\memras{\ref@jnl{MmRAS}}            % Memoirs of the RAS
-\def\mnras{\ref@jnl{MNRAS}}             % Monthly Notices of the RAS
-\def\na{\ref@jnl{New A}}                % New Astronomy
-\def\nar{\ref@jnl{New A Rev.}}          % New Astronomy Review
-\def\pra{\ref@jnl{Phys.~Rev.~A}}        % Physical Review A: General Physics
-\def\prb{\ref@jnl{Phys.~Rev.~B}}        % Physical Review B: Solid State
-\def\prc{\ref@jnl{Phys.~Rev.~C}}        % Physical Review C
-\def\prd{\ref@jnl{Phys.~Rev.~D}}        % Physical Review D
-\def\pre{\ref@jnl{Phys.~Rev.~E}}        % Physical Review E
-\def\prl{\ref@jnl{Phys.~Rev.~Lett.}}    % Physical Review Letters
-\def\pasa{\ref@jnl{PASA}}               % Publications of the Astron. Soc. of Australia
-\def\pasp{\ref@jnl{PASP}}               % Publications of the ASP
-\def\pasj{\ref@jnl{PASJ}}               % Publications of the ASJ
-\def\rmxaa{\ref@jnl{Rev. Mexicana Astron. Astrofis.}}%
+\def\jrasc{{JRASC}}             % Journal of the RAS of Canada
+\def\memras{{MmRAS}}            % Memoirs of the RAS
+\def\mnras{{MNRAS}}             % Monthly Notices of the RAS
+\def\na{{New A}}                % New Astronomy
+\def\nar{{New A Rev.}}          % New Astronomy Review
+\def\pra{{Phys.~Rev.~A}}        % Physical Review A: General Physics
+\def\prb{{Phys.~Rev.~B}}        % Physical Review B: Solid State
+\def\prc{{Phys.~Rev.~C}}        % Physical Review C
+\def\prd{{Phys.~Rev.~D}}        % Physical Review D
+\def\pre{{Phys.~Rev.~E}}        % Physical Review E
+\def\prl{{Phys.~Rev.~Lett.}}    % Physical Review Letters
+\def\pasa{{PASA}}               % Publications of the Astron. Soc. of Australia
+\def\pasp{{PASP}}               % Publications of the ASP
+\def\pasj{{PASJ}}               % Publications of the ASJ
+\def\rmxaa{{Rev. Mexicana Astron. Astrofis.}}%
                 % Revista Mexicana de Astronomia y Astrofisica
-\def\qjras{\ref@jnl{QJRAS}}             % Quarterly Journal of the RAS
-\def\skytel{\ref@jnl{S\&T}}             % Sky and Telescope
-\def\solphys{\ref@jnl{Sol.~Phys.}}      % Solar Physics
-\def\sovast{\ref@jnl{Soviet~Ast.}}      % Soviet Astronomy
-\def\ssr{\ref@jnl{Space~Sci.~Rev.}}     % Space Science Reviews
-\def\zap{\ref@jnl{ZAp}}                 % Zeitschrift fuer Astrophysik
-\def\nat{\ref@jnl{Nature}}              % Nature
-\def\iaucirc{\ref@jnl{IAU~Circ.}}       % IAU Cirulars
-\def\aplett{\ref@jnl{Astrophys.~Lett.}} % Astrophysics Letters
-\def\apspr{\ref@jnl{Astrophys.~Space~Phys.~Res.}}
+\def\qjras{{QJRAS}}             % Quarterly Journal of the RAS
+\def\skytel{{S\&T}}             % Sky and Telescope
+\def\solphys{{Sol.~Phys.}}      % Solar Physics
+\def\sovast{{Soviet~Ast.}}      % Soviet Astronomy
+\def\ssr{{Space~Sci.~Rev.}}     % Space Science Reviews
+\def\zap{{ZAp}}                 % Zeitschrift fuer Astrophysik
+\def\nat{{Nature}}              % Nature
+\def\iaucirc{{IAU~Circ.}}       % IAU Cirulars
+\def\aplett{{Astrophys.~Lett.}} % Astrophysics Letters
+\def\apspr{{Astrophys.~Space~Phys.~Res.}}
                 % Astrophysics Space Physics Research
-\def\bain{\ref@jnl{Bull.~Astron.~Inst.~Netherlands}} 
+\def\bain{{Bull.~Astron.~Inst.~Netherlands}} 
                 % Bulletin Astronomical Institute of the Netherlands
-\def\fcp{\ref@jnl{Fund.~Cosmic~Phys.}}  % Fundamental Cosmic Physics
-\def\gca{\ref@jnl{Geochim.~Cosmochim.~Acta}}   % Geochimica Cosmochimica Acta
-\def\grl{\ref@jnl{Geophys.~Res.~Lett.}} % Geophysics Research Letters
-\def\jcp{\ref@jnl{J.~Chem.~Phys.}}      % Journal of Chemical Physics
-\def\jgr{\ref@jnl{J.~Geophys.~Res.}}    % Journal of Geophysics Research
-\def\jqsrt{\ref@jnl{J.~Quant.~Spec.~Radiat.~Transf.}}
+\def\fcp{{Fund.~Cosmic~Phys.}}  % Fundamental Cosmic Physics
+\def\gca{{Geochim.~Cosmochim.~Acta}}   % Geochimica Cosmochimica Acta
+\def\grl{{Geophys.~Res.~Lett.}} % Geophysics Research Letters
+\def\jcp{{J.~Chem.~Phys.}}      % Journal of Chemical Physics
+\def\jgr{{J.~Geophys.~Res.}}    % Journal of Geophysics Research
+\def\jqsrt{{J.~Quant.~Spec.~Radiat.~Transf.}}
                 % Journal of Quantitiative Spectroscopy and Radiative Transfer
-\def\memsai{\ref@jnl{Mem.~Soc.~Astron.~Italiana}}
+\def\memsai{{Mem.~Soc.~Astron.~Italiana}}
                 % Mem. Societa Astronomica Italiana
-\def\nphysa{\ref@jnl{Nucl.~Phys.~A}}   % Nuclear Physics A
-\def\physrep{\ref@jnl{Phys.~Rep.}}   % Physics Reports
-\def\physscr{\ref@jnl{Phys.~Scr}}   % Physica Scripta
-\def\planss{\ref@jnl{Planet.~Space~Sci.}}   % Planetary Space Science
-\def\procspie{\ref@jnl{Proc.~SPIE}}   % Proceedings of the SPIE
+\def\nphysa{{Nucl.~Phys.~A}}   % Nuclear Physics A
+\def\physrep{{Phys.~Rep.}}   % Physics Reports
+\def\physscr{{Phys.~Scr}}   % Physica Scripta
+\def\planss{{Planet.~Space~Sci.}}   % Planetary Space Science
+\def\procspie{{Proc.~SPIE}}   % Proceedings of the SPIE
 
 \let\astap=\aap
 \let\apjlett=\apjl
@@ -537,7 +542,7 @@
 
 
 % If you've disabled frontmatter, you can insert the toc manually
-%\tableofcontents\clearpage
+% \tableofcontents\clearpage
 
 % \include lets us split up the document (and each include starts a new page):
 \include{ch-intro/introduction}
