@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 JUL 2018 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 JUL 2018 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,8 +813,10 @@ Package pdftex.def Info: ch-intro/cells.pdf used on input line 32.
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
  [6]
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}
-) has been already used, duplicate ignored
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1947,7 +1949,7 @@ f
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/other_annh.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
->] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=3694, 602.25pt x 481.8pt>
+>] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=3693, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_10GeV.pdf>
@@ -1955,7 +1957,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_10GeV.pdf used on in
 put line 43.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/signal_recovery_100GeV.pdf, id=3695, 602.25pt x 481.8pt>
+<ch-clusters/plots/signal_recovery_100GeV.pdf, id=3694, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_100GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_100GeV.pdf>
@@ -1963,7 +1965,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_100GeV.pdf used on i
 nput line 44.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/signal_recovery_10TeV.pdf, id=3696, 602.25pt x 481.8pt>
+<ch-clusters/plots/signal_recovery_10TeV.pdf, id=3695, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10TeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/signal_recovery_10TeV.pdf>
@@ -1971,7 +1973,7 @@ Package pdftex.def Info: ch-clusters/plots/signal_recovery_10TeV.pdf used on in
 put line 45.
 (pdftex.def)             Requested size: 138.76157pt x 111.01016pt.
 
-<ch-clusters/plots/injsig_maxTS10GeV.pdf, id=3697, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS10GeV.pdf, id=3696, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS10GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS10GeV.pdf>
@@ -1979,7 +1981,7 @@ Package pdftex.def Info: ch-clusters/plots/injsig_maxTS10GeV.pdf used on input
 line 46.
 (pdftex.def)             Requested size: 138.76157pt x 102.02745pt.
 
-<ch-clusters/plots/injsig_maxTS100GeV.pdf, id=3698, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS100GeV.pdf, id=3697, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS100GeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS100GeV.pdf>
@@ -1987,7 +1989,7 @@ Package pdftex.def Info: ch-clusters/plots/injsig_maxTS100GeV.pdf used on input
  line 47.
 (pdftex.def)             Requested size: 138.76157pt x 102.02745pt.
 
-<ch-clusters/plots/injsig_maxTS10TeV.pdf, id=3699, 595.023pt x 437.51146pt>
+<ch-clusters/plots/injsig_maxTS10TeV.pdf, id=3698, 595.023pt x 437.51146pt>
 File: ch-clusters/plots/injsig_maxTS10TeV.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/injsig_maxTS10TeV.pdf>
@@ -2281,7 +2283,7 @@ Overfull \hbox (6.32893pt too wide) in paragraph at lines 112--112
  []
 
 [169]
-<ch-clusters/plots/data_individual_lims.pdf, id=3844, 1084.05pt x 1445.4pt>
+<ch-clusters/plots/data_individual_lims.pdf, id=3843, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/data_individual_lims.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/data_individual_lims.pdf>
@@ -2301,7 +2303,7 @@ l.171 \newpage
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/data_individual_lims.pdf>]
-<ch-clusters/plots/data_individual_maxts.pdf, id=3877, 1084.05pt x 1445.4pt>
+<ch-clusters/plots/data_individual_maxts.pdf, id=3876, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/data_individual_maxts.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/data_individual_maxts.pdf>
@@ -2315,7 +2317,7 @@ put line 171.
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/data_individual_maxts.pdf>]
-<ch-clusters/plots/FluxUL.pdf, id=3898, 1084.05pt x 1445.4pt>
+<ch-clusters/plots/FluxUL.pdf, id=3897, 1084.05pt x 1445.4pt>
 File: ch-clusters/plots/FluxUL.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/FluxUL.pdf>
@@ -2328,7 +2330,7 @@ Package pdftex.def Info: ch-clusters/plots/FluxUL.pdf used on input line 171.
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/FluxUL.pdf>]
-<ch-clusters/plots/object5_maxts_lim.pdf, id=3933, 1084.05pt x 289.08pt>
+<ch-clusters/plots/object5_maxts_lim.pdf, id=3932, 1084.05pt x 289.08pt>
 File: ch-clusters/plots/object5_maxts_lim.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/object5_maxts_lim.pdf>
@@ -2336,7 +2338,7 @@ Package pdftex.def Info: ch-clusters/plots/object5_maxts_lim.pdf used on input
 line 171.
 (pdftex.def)             Requested size: 424.94574pt x 113.31857pt.
 
-<ch-clusters/plots/jfactors.pdf, id=3938, 614.295pt x 390.25798pt>
+<ch-clusters/plots/jfactors.pdf, id=3937, 614.295pt x 390.25798pt>
 File: ch-clusters/plots/jfactors.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/jfactors.pdf>
@@ -2364,7 +2366,7 @@ l.171 \newpage
 
 pdfTeX warning: pdflatex (file ./ch-clusters/plots/jfactors.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
->] <ch-clusters/plots/skymaps.pdf, id=3984, 691.88953pt x 857.52022pt>
+>] <ch-clusters/plots/skymaps.pdf, id=3983, 691.88953pt x 857.52022pt>
 File: ch-clusters/plots/skymaps.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/skymaps.pdf>
@@ -2377,7 +2379,7 @@ Package pdftex.def Info: ch-clusters/plots/skymaps.pdf used on input line 171.
                                                   \fi \fi 
 l.171 \newpage
                <./ch-clusters/plots/skymaps.pdf>]
-<ch-clusters/plots/systematics_nh.pdf, id=4040, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_nh.pdf, id=4039, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_nh.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_nh.pdf>
@@ -2385,7 +2387,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_nh.pdf used on input lin
 e 183.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_cuts.pdf, id=4041, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_cuts.pdf, id=4040, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_cuts.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_cuts.pdf>
@@ -2416,14 +2418,14 @@ nclusion: multiple pdfs with page group included in a single page
 Underfull \vbox (badness 3895) has occurred while \output is active []
 
  [178]
-<ch-clusters/plots/systematics_nots_cuts.pdf, id=4114, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_nots_cuts.pdf, id=4113, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_nots_cuts.pdf Graphic file (type pdf)
 <use ch-clusters/plots/systematics_nots_cuts.pdf>
 Package pdftex.def Info: ch-clusters/plots/systematics_nots_cuts.pdf used on in
 put line 202.
 (pdftex.def)             Requested size: 303.53267pt x 242.0942pt.
 
-<ch-clusters/plots/systematics_dataset.pdf, id=4117, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_dataset.pdf, id=4116, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_dataset.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_dataset.pdf>
@@ -2431,7 +2433,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_dataset.pdf used on inpu
 t line 209.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_profile_conc.pdf, id=4118, 595.023pt x 474.57298
+<ch-clusters/plots/systematics_profile_conc.pdf, id=4117, 595.023pt x 474.57298
 pt>
 File: ch-clusters/plots/systematics_profile_conc.pdf Graphic file (type pdf)
  <use ch-clusters/plots/systematics_profile_conc.pdf>
@@ -2466,7 +2468,7 @@ pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_profile_conc.pdf
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [181]
-<ch-clusters/plots/boost_models_data.pdf, id=4228, 602.25pt x 481.8pt>
+<ch-clusters/plots/boost_models_data.pdf, id=4227, 602.25pt x 481.8pt>
 File: ch-clusters/plots/boost_models_data.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/boost_models_data.pdf>
@@ -2474,7 +2476,7 @@ Package pdftex.def Info: ch-clusters/plots/boost_models_data.pdf used on input
 line 236.
 (pdftex.def)             Requested size: 199.4681pt x 159.57527pt.
 
-<ch-clusters/plots/systematics_boost.pdf, id=4229, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_boost.pdf, id=4228, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_boost.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_boost.pdf>
@@ -2507,7 +2509,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
-<ch-clusters/plots/systematics_lu.pdf, id=4315, 595.023pt x 474.57298pt>
+<ch-clusters/plots/systematics_lu.pdf, id=4314, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/systematics_lu.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_lu.pdf>
@@ -2515,7 +2517,7 @@ Package pdftex.def Info: ch-clusters/plots/systematics_lu.pdf used on input lin
 e 257.
 (pdftex.def)             Requested size: 195.12767pt x 155.62474pt.
 
-<ch-clusters/plots/systematics_lu_elephant.pdf, id=4316, 602.25pt x 481.8pt>
+<ch-clusters/plots/systematics_lu_elephant.pdf, id=4315, 602.25pt x 481.8pt>
 File: ch-clusters/plots/systematics_lu_elephant.pdf Graphic file (type pdf)
 
 <use ch-clusters/plots/systematics_lu_elephant.pdf>
@@ -2587,10 +2589,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 575.
  ) 
 Here is how much of TeX's memory you used:
- 13707 strings out of 493014
- 215356 string characters out of 6133351
- 417420 words of memory out of 5000000
- 15877 multiletter control sequences out of 15000+600000
+ 13705 strings out of 493014
+ 215331 string characters out of 6133351
+ 417248 words of memory out of 5000000
+ 15876 multiletter control sequences out of 15000+600000
  76381 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,24n,47p,3233b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2725,10 +2727,10 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (217 pages, 6170342 bytes).
+Output written on thesis.pdf (217 pages, 6169834 bytes).
 PDF statistics:
- 4746 PDF objects out of 5155 (max. 8388607)
- 4199 compressed objects within 42 object streams
- 921 named destinations out of 1000 (max. 500000)
+ 4745 PDF objects out of 5155 (max. 8388607)
+ 4198 compressed objects within 42 object streams
+ 920 named destinations out of 1000 (max. 500000)
  906 words of extra memory for PDF output out of 10000 (max. 10000000)
 
