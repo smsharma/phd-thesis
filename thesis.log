@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 JUL 2018 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 JUL 2018 09:05
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
@@ -823,8 +824,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 l.44 
       <./ch-intro/rotcurves.pdf> <./ch-intro/cells.pdf
 
-pdfTeX warning: pdflatex (file ./ch-intro/cells.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-intro/cells.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1111,16 +1112,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 l.232 
        <./ch-igrb/plots/bl1-Espec.pdf> <./ch-igrb/plots/bl2-Espec.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl2-Espec.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl2-Espec.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-igrb/plots/bl1sf-Espec.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl1sf-Espec.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl1sf-Espec.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./ch-igrb/plots/bl2sf-Espec.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/bl2sf-Espec.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/bl2sf-Espec.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] <ch-igrb/plots/bl2-dnds.pdf, id=1842, 939.51pt x 939.51pt>
 File: ch-igrb/plots/bl2-dnds.pdf Graphic file (type pdf)
 
@@ -1183,9 +1184,9 @@ l.276
        <./ch-igrb/plots/Rp8RBlw1-1-data-ESpec-fp-700-E15-p8-3br.pdf> <./ch-igrb
 /plots/U3RRBlw1p8-1-data-ESpec-fp-700-E15-p8-3br.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/U3RRBlw1p8-1-data-ESpec-fp-700-E
-15-p8-3br.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/U3RRBlw1p8-1
+-data-ESpec-fp-700-E15-p8-3br.pdf): PDF inclusion: multiple pdfs with page grou
+p included in a single page
 >]pdfTeX warning (ext4): destination with the same identifier (name{equation.3.
 3.13}) has been already used, duplicate ignored
 <to be read again> 
@@ -1342,8 +1343,9 @@ l.475
        <./ch-igrb/plots/dnds_UCVA_0_10_10_K.pdf> <./ch-igrb/plots/N_cumul_UCV_0
 _10_10_K.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/N_cumul_UCV_0_10_10_K.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/N_cumul_UCV_
+0_10_10_K.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1403,8 +1405,9 @@ l.563 D
        eciphering the constituents of the EGB remains an important goal in t...
  <./ch-igrb/plots/temp_map_low_E.pdf> <./ch-igrb/plots/temp_map_high_E.pdf
 
-pdfTeX warning: pdflatex (file ./ch-igrb/plots/temp_map_high_E.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-igrb/plots/temp_map_hig
+h_E.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
 >]
 Underfull \vbox (badness 3138) has occurred while \output is active []
 
@@ -1477,8 +1480,8 @@ Package pdftex.def Info: ch-darksky/plots//LofMinf.pdf used on input line 91.
 l.98 
       <./ch-darksky/plots//LofM.pdf> <./ch-darksky/plots//LofMinf.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//LofMinf.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//LofMinf.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] [118]
 Underfull \vbox (badness 1997) has occurred while \output is active []
 
@@ -1513,8 +1516,9 @@ l.131
        <./ch-darksky/plots//cvir_models.pdf> <./ch-darksky/plots//boost_models.
 pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//boost_models.pdf): PDF inclu
-sion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//boost_mo
+dels.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
 >]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
@@ -1570,8 +1574,9 @@ l.242
        <./ch-darksky/plots//darksky_limits.pdf> <./ch-darksky/plots//darksky_re
 duced_err.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//darksky_reduced_err.pdf): PD
-F inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//darksky_
+reduced_err.pdf): PDF inclusion: multiple pdfs with page group included in a si
+ngle page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1623,8 +1628,9 @@ l.273 T
        he differences in the $J$-factor distributions can be traced to the r...
  <./ch-darksky/plots//cat_masses.pdf> <./ch-darksky/plots//cat_redshifts.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//cat_redshifts.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//cat_reds
+hifts.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
 >] [135]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1685,17 +1691,20 @@ l.305
        <./ch-darksky/plots//signal_recovery_10GeV.pdf> <./ch-darksky/plots//sig
 nal_recovery_100GeV.pdf> <./ch-darksky/plots//signal_recovery_10TeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_10TeV.pdf): 
-PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
+ecovery_10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a 
+single page
 > <./ch-darksky/plots//signal_recovery_10GeV_loc2.pdf> <./ch-darksky/plots//sig
 nal_recovery_100GeV_loc2.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_100GeV_loc2.
-pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
+ecovery_100GeV_loc2.pdf): PDF inclusion: multiple pdfs with page group included
+ in a single page
 > <./ch-darksky/plots//signal_recovery_10TeV_loc2.pdf
 
-pdfTeX warning: pdflatex (file ./ch-darksky/plots//signal_recovery_10TeV_loc2.p
-df): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-darksky/plots//signal_r
+ecovery_10TeV_loc2.pdf): PDF inclusion: multiple pdfs with page group included 
+in a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1918,8 +1927,9 @@ l.27
       <./ch-clusters/plots/elephant10.pdf> <./ch-clusters/plots/elephant10000.p
 df
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/elephant10000.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/elephant
+10000.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
 >] <ch-clusters/plots/global_maxts.pdf, id=3648, 595.023pt x 474.57298pt>
 File: ch-clusters/plots/global_maxts.pdf Graphic file (type pdf)
 
@@ -1947,8 +1957,9 @@ l.40
       <./ch-clusters/plots/global_maxts.pdf> <./ch-clusters/plots/other_annh.pd
 f
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/other_annh.pdf): PDF inclusi
-on: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/other_an
+nh.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+
 >] <ch-clusters/plots/signal_recovery_10GeV.pdf, id=3693, 602.25pt x 481.8pt>
 File: ch-clusters/plots/signal_recovery_10GeV.pdf Graphic file (type pdf)
 
@@ -2005,24 +2016,29 @@ l.60 }
        <./ch-clusters/plots/signal_recovery_10GeV.pdf> <./ch-clusters/plots/sig
 nal_recovery_100GeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/signal_recovery_100GeV.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/signal_r
+ecovery_100GeV.pdf): PDF inclusion: multiple pdfs with page group included in a
+ single page
 > <./ch-clusters/plots/signal_recovery_10TeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/signal_recovery_10TeV.pdf): 
-PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/signal_r
+ecovery_10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a 
+single page
 > <./ch-clusters/plots/injsig_maxTS10GeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS10GeV.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
+axTS10GeV.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 > <./ch-clusters/plots/injsig_maxTS100GeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS100GeV.pdf): PDF
- inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
+axTS100GeV.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
 > <./ch-clusters/plots/injsig_maxTS10TeV.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/injsig_maxTS10TeV.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/injsig_m
+axTS10TeV.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2364,8 +2380,8 @@ l.171 \newpage
                <./ch-clusters/plots/object5_maxts_lim.pdf> <./ch-clusters/plots
 /jfactors.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/jfactors.pdf): PDF inclusion
-: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/jfactors
+.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] <ch-clusters/plots/skymaps.pdf, id=3983, 691.88953pt x 857.52022pt>
 File: ch-clusters/plots/skymaps.pdf Graphic file (type pdf)
 
@@ -2412,8 +2428,9 @@ l.197
        <./ch-clusters/plots/systematics_nh.pdf> <./ch-clusters/plots/systematic
 s_cuts.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_cuts.pdf): PDF i
-nclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
+ics_cuts.pdf): PDF inclusion: multiple pdfs with page group included in a singl
+e page
 >]
 Underfull \vbox (badness 3895) has occurred while \output is active []
 
@@ -2462,8 +2479,9 @@ l.219
        <./ch-clusters/plots/systematics_dataset.pdf> <./ch-clusters/plots/syste
 matics_profile_conc.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_profile_conc.pdf
-): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
+ics_profile_conc.pdf): PDF inclusion: multiple pdfs with page group included in
+ a single page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2499,8 +2517,9 @@ l.246 W
  <./ch-clusters/plots/boost_models_data.pdf> <./ch-clusters/plots/systematics_b
 oost.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_boost.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
+ics_boost.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2537,8 +2556,9 @@ l.557 ...appendicies/fermi_data_clusters_arxiv_v2}
                                                    <./ch-clusters/plots/systema
 tics_lu.pdf> <./ch-clusters/plots/systematics_lu_elephant.pdf
 
-pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_lu_elephant.pdf)
-: PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ch-clusters/plots/systemat
+ics_lu_elephant.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
 >] (./thesis.bbl [187
 
 
@@ -2591,7 +2611,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 575.
 Here is how much of TeX's memory you used:
  13705 strings out of 493014
  215331 string characters out of 6133351
- 417248 words of memory out of 5000000
+ 417250 words of memory out of 5000000
  15876 multiletter control sequences out of 15000+600000
  76381 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2727,7 +2747,7 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (217 pages, 6169834 bytes).
+Output written on thesis.pdf (217 pages, 6169838 bytes).
 PDF statistics:
  4745 PDF objects out of 5155 (max. 8388607)
  4198 compressed objects within 42 object streams
