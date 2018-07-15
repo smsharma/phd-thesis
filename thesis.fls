@@ -342,6 +342,15 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
+INPUT ch-intro/jfactors.pdf
+INPUT ./ch-intro/jfactors.pdf
+INPUT ./ch-intro/jfactors.pdf
+INPUT ch-intro/data.pdf
+INPUT ./ch-intro/data.pdf
+INPUT ./ch-intro/data.pdf
+INPUT ch-intro/templates.pdf
+INPUT ./ch-intro/templates.pdf
+INPUT ./ch-intro/templates.pdf
 OUTPUT ch-nptfit/NPTFit.aux
 INPUT ch-nptfit/NPTFit.tex
 INPUT ch-nptfit/NPTFit.tex

@@ -7,64 +7,65 @@
 \BOOKMARK [1][-]{section.1.3}{1.3 Indirect Detection of Annihilating Dark Matter}{chapter.1}% 7
 \BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Tools for Indirect Detection}{section.1.3}% 8
 \BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Sources of Gamma Rays from Annihilating Dark Matter}{section.1.3}% 9
-\BOOKMARK [1][-]{section.1.4}{1.4 Thesis Organization}{chapter.1}% 10
-\BOOKMARK [0][-]{chapter.2}{2 Non-Poissonian Template Fitting: Fundamentals and Code}{}% 11
-\BOOKMARK [1][-]{section.2.1}{2.1 Introduction}{chapter.2}% 12
-\BOOKMARK [1][-]{section.2.2}{2.2 The Non-Poissonian Template Fit}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.3}{2.3 Mathematical foundations of NPTFit}{chapter.2}% 14
-\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 The \(non-\)Poissonian generating function}{section.2.3}% 15
-\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Correcting for a finite point spread function}{section.2.3}% 16
-\BOOKMARK [1][-]{section.2.4}{2.4 NPTFit: algorithms}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.5}{2.5 NPTFit: orientation}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.6}{2.6 NPTFit: an example}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Setting up the scan}{section.2.6}% 20
-\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Adding models}{section.2.6}% 21
-\BOOKMARK [2][-]{subsection.2.6.3}{2.6.3 Configure scan with PSF correction}{section.2.6}% 22
-\BOOKMARK [2][-]{subsection.2.6.4}{2.6.4 Performing the scan with MultiNest}{section.2.6}% 23
-\BOOKMARK [2][-]{subsection.2.6.5}{2.6.5 Analyzing the results}{section.2.6}% 24
-\BOOKMARK [1][-]{section.2.7}{2.7 Conclusion}{chapter.2}% 25
-\BOOKMARK [0][-]{chapter.3}{3 Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{}% 26
-\BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.2}{3.2 Methodology}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 The Templates}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Bayesian Fitting Procedure}{section.3.2}% 30
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Exposure Correction}{section.3.2}% 31
-\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Data Samples}{section.3.2}% 32
-\BOOKMARK [1][-]{section.3.3}{3.3 Simulated Data Studies}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Simulating Energy-Binned Source-Count Distributions}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Blazars}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Star-Forming Galaxies}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Blazar and SFG combination}{section.3.3}% 37
-\BOOKMARK [1][-]{section.3.4}{3.4 Low-Energy Analysis: 1.89\20594.9 GeV}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 \040Pass 8 ultracleanveto Data}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Systematic Tests}{section.3.4}% 40
-\BOOKMARK [1][-]{section.3.5}{3.5 High-Energy Analysis: 50\2052000 GeV}{chapter.3}% 41
-\BOOKMARK [1][-]{section.3.6}{3.6 Discussion and Conclusions}{chapter.3}% 42
-\BOOKMARK [2][-]{subsection.3.6.1}{3.6.1 Implication for Dark Matter Annihilation Searches}{section.3.6}% 43
-\BOOKMARK [0][-]{chapter.4}{4 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{}% 44
-\BOOKMARK [1][-]{section.4.1}{4.1 Introduction}{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.2}{4.2 Tracing Dark Matter Flux with Galaxy Surveys}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Galaxy and Halo Catalogs}{section.4.2}% 47
-\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Dark Matter Annihilation Flux Map}{section.4.2}% 48
-\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Uncertainties in Halo Modeling}{section.4.2}% 49
-\BOOKMARK [1][-]{section.4.3}{4.3 Statistical Methods}{chapter.4}% 50
-\BOOKMARK [1][-]{section.4.4}{4.4 Analysis Results}{chapter.4}% 51
-\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Halo Selection and Limits}{section.4.4}% 52
-\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Signal Recovery Tests}{section.4.4}% 53
-\BOOKMARK [1][-]{section.4.5}{4.5 Conclusions}{chapter.4}% 54
-\BOOKMARK [0][-]{chapter.5}{5 A Search for Dark Matter Annihilation in Galaxy Groups}{}% 55
-\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 56
-\BOOKMARK [1][-]{section.5.2}{5.2 Galaxy Group Selection}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.3}{5.3 Data Analysis}{chapter.5}% 58
-\BOOKMARK [1][-]{section.5.4}{5.4 Results}{chapter.5}% 59
-\BOOKMARK [1][-]{section.5.5}{5.5 Conclusions}{chapter.5}% 60
-\BOOKMARK [0][-]{appendix.A}{A J- and D-factors for Extragalactic Sources}{}% 61
-\BOOKMARK [1][-]{section.A.1}{A.1 Units and Conventions}{appendix.A}% 62
-\BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 Dark Matter Flux}{section.A.1}% 63
-\BOOKMARK [2][-]{subsection.A.1.2}{A.1.2 Halo Mass and Concentration}{section.A.1}% 64
-\BOOKMARK [1][-]{section.A.2}{A.2 Approximate J- and D-factors}{appendix.A}% 65
-\BOOKMARK [1][-]{section.A.3}{A.3 Analytic Relations}{appendix.A}% 66
-\BOOKMARK [0][-]{appendix.B}{B Supplementary Material on Cluster Searches}{}% 67
-\BOOKMARK [1][-]{section.B.1}{B.1 Extended results}{appendix.B}% 68
-\BOOKMARK [1][-]{section.B.2}{B.2 Variations on the Analysis}{appendix.B}% 69
-\BOOKMARK [0][-]{section*.13}{Bibliography}{}% 70
+\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Template Methods for Gamma-Ray Searches}{section.1.3}% 10
+\BOOKMARK [1][-]{section.1.4}{1.4 Thesis Organization}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{2 Non-Poissonian Template Fitting: Fundamentals and Code}{}% 12
+\BOOKMARK [1][-]{section.2.1}{2.1 Introduction}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{2.2 The Non-Poissonian Template Fit}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{2.3 Mathematical foundations of NPTFit}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 The \(non-\)Poissonian generating function}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Correcting for a finite point spread function}{section.2.3}% 17
+\BOOKMARK [1][-]{section.2.4}{2.4 NPTFit: algorithms}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.5}{2.5 NPTFit: orientation}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.6}{2.6 NPTFit: an example}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Setting up the scan}{section.2.6}% 21
+\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Adding models}{section.2.6}% 22
+\BOOKMARK [2][-]{subsection.2.6.3}{2.6.3 Configure scan with PSF correction}{section.2.6}% 23
+\BOOKMARK [2][-]{subsection.2.6.4}{2.6.4 Performing the scan with MultiNest}{section.2.6}% 24
+\BOOKMARK [2][-]{subsection.2.6.5}{2.6.5 Analyzing the results}{section.2.6}% 25
+\BOOKMARK [1][-]{section.2.7}{2.7 Conclusion}{chapter.2}% 26
+\BOOKMARK [0][-]{chapter.3}{3 Application of Non-Poissonian Template Fitting to the Extragalactic Gamma-Ray Background}{}% 27
+\BOOKMARK [1][-]{section.3.1}{3.1 Introduction}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{3.2 Methodology}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 The Templates}{section.3.2}% 30
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Bayesian Fitting Procedure}{section.3.2}% 31
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Exposure Correction}{section.3.2}% 32
+\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Data Samples}{section.3.2}% 33
+\BOOKMARK [1][-]{section.3.3}{3.3 Simulated Data Studies}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Simulating Energy-Binned Source-Count Distributions}{section.3.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Blazars}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Star-Forming Galaxies}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Blazar and SFG combination}{section.3.3}% 38
+\BOOKMARK [1][-]{section.3.4}{3.4 Low-Energy Analysis: 1.89\20594.9 GeV}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 \040Pass 8 ultracleanveto Data}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Systematic Tests}{section.3.4}% 41
+\BOOKMARK [1][-]{section.3.5}{3.5 High-Energy Analysis: 50\2052000 GeV}{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.6}{3.6 Discussion and Conclusions}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.6.1}{3.6.1 Implication for Dark Matter Annihilation Searches}{section.3.6}% 44
+\BOOKMARK [0][-]{chapter.4}{4 Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys}{}% 45
+\BOOKMARK [1][-]{section.4.1}{4.1 Introduction}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.2}{4.2 Tracing Dark Matter Flux with Galaxy Surveys}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Galaxy and Halo Catalogs}{section.4.2}% 48
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Dark Matter Annihilation Flux Map}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Uncertainties in Halo Modeling}{section.4.2}% 50
+\BOOKMARK [1][-]{section.4.3}{4.3 Statistical Methods}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.4}{4.4 Analysis Results}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Halo Selection and Limits}{section.4.4}% 53
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Signal Recovery Tests}{section.4.4}% 54
+\BOOKMARK [1][-]{section.4.5}{4.5 Conclusions}{chapter.4}% 55
+\BOOKMARK [0][-]{chapter.5}{5 A Search for Dark Matter Annihilation in Galaxy Groups}{}% 56
+\BOOKMARK [1][-]{section.5.1}{5.1 Introduction}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.2}{5.2 Galaxy Group Selection}{chapter.5}% 58
+\BOOKMARK [1][-]{section.5.3}{5.3 Data Analysis}{chapter.5}% 59
+\BOOKMARK [1][-]{section.5.4}{5.4 Results}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.5}{5.5 Conclusions}{chapter.5}% 61
+\BOOKMARK [0][-]{appendix.A}{A J- and D-factors for Extragalactic Sources}{}% 62
+\BOOKMARK [1][-]{section.A.1}{A.1 Units and Conventions}{appendix.A}% 63
+\BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 Dark Matter Flux}{section.A.1}% 64
+\BOOKMARK [2][-]{subsection.A.1.2}{A.1.2 Halo Mass and Concentration}{section.A.1}% 65
+\BOOKMARK [1][-]{section.A.2}{A.2 Approximate J- and D-factors}{appendix.A}% 66
+\BOOKMARK [1][-]{section.A.3}{A.3 Analytic Relations}{appendix.A}% 67
+\BOOKMARK [0][-]{appendix.B}{B Supplementary Material on Cluster Searches}{}% 68
+\BOOKMARK [1][-]{section.B.1}{B.1 Extended results}{appendix.B}% 69
+\BOOKMARK [1][-]{section.B.2}{B.2 Variations on the Analysis}{appendix.B}% 70
+\BOOKMARK [0][-]{section*.13}{Bibliography}{}% 71

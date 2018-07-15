@@ -447,6 +447,12 @@ Alex Fitts et~al.
 \newblock {FIRE in the Field: Simulating the Threshold of Galaxy Formation}.
 \newblock {\em Mon. Not. Roy. Astron. Soc.}, 471(3):3547--3562, 2017.
 
+\bibitem{Hutten:2016jko}
+M.~H{\"u}tten, C.~Combet, G.~Maier, and D.~Maurin.
+\newblock {Dark matter substructure modelling and sensitivity of the Cherenkov
+  Telescope Array to Galactic dark halos}.
+\newblock {\em JCAP}, 1609(09):047, 2016.
+
 \bibitem{Bertoni:2015mla}
 Bridget Bertoni, Dan Hooper, and Tim Linden.
 \newblock {Examining The Fermi-LAT Third Source Catalog In Search Of Dark
@@ -545,11 +551,64 @@ Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
   A Systematic Study of Stacked Group Searches}.
 \newblock {\em Phys. Rev.}, D97(6):063005, 2018.
 
+\bibitem{Tully:2015opa}
+R.~Brent Tully.
+\newblock {Galaxy Groups: A 2MASS Catalog}.
+\newblock {\em Astron. J.}, 149:171, 2015.
+
+\bibitem{2017ApJ...843...16K}
+Ehsan Kourkchi and R.~Brent Tully.
+\newblock {Galaxy Groups Within 3500 km s$^{-1}$}.
+\newblock {\em Astrophys. J.}, 843:16, 2017.
+
 \bibitem{Lisanti:2017qlb}
 Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
   Safdi.
 \newblock {Search for Dark Matter Annihilation in Galaxy Groups}.
 \newblock {\em Phys. Rev. Lett.}, 120(10):101101, 2018.
+
+\bibitem{2015ApJ...814...13M}
+C.~F. {McKee}, A.~{Parravano}, and D.~J. {Hollenbach}.
+\newblock {Stars, Gas, and Dark Matter in the Solar Neighborhood}.
+\newblock {\em \apj}, 814:13, November 2015.
+
+\bibitem{Sivertsson:2017rkp}
+S.~Sivertsson, H.~Silverwood, J.~I. Read, G.~Bertone, and P.~Steger.
+\newblock {The Local Dark Matter Density from SDSS-SEGUE G-dwarfs}.
+\newblock {\em Submitted to: Mon. Not. Roy. Astron. Soc.}, 2017.
+
+\bibitem{Read:2014qva}
+J.~I. Read.
+\newblock {The Local Dark Matter Density}.
+\newblock {\em J. Phys.}, G41:063101, 2014.
+
+\bibitem{Springel:2008cc}
+Volker Springel, Jie Wang, Mark Vogelsberger, Aaron Ludlow, Adrian Jenkins,
+  Amina Helmi, Julio~F. Navarro, Carlos~S. Frenk, and Simon D.~M. White.
+\newblock {The Aquarius Project: the subhalos of galactic halos}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 391:1685--1711, 2008.
+
+\bibitem{Sanchez-Conde:2013yxa}
+Miguel~A. S{\'a}nchez-Conde and Francisco Prada.
+\newblock {The flattening of the concentration--mass relation towards low halo
+  masses and its implications for the annihilation signal boost}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 442(3):2271--2277, 2014.
+
+\bibitem{Su:2010qj}
+Meng Su, Tracy~R. Slatyer, and Douglas~P. Finkbeiner.
+\newblock {Giant Gamma-ray Bubbles from Fermi-LAT: AGN Activity or Bipolar
+  Galactic Wind?}
+\newblock {\em Astrophys.J.}, 724:1044--1082, 2010.
+
+\bibitem{Fermi-LAT:2014sfa}
+M.~Ackermann et~al.
+\newblock {The Spectrum and Morphology of the $Fermi$ Bubbles}.
+\newblock {\em Astrophys. J.}, 793(1):64, 2014.
+
+\bibitem{Acero:2015hja}
+F.~Acero et~al.
+\newblock {Fermi Large Area Telescope Third Source Catalog}.
+\newblock 2015.
 
 \bibitem{Mishra-Sharma:2016gis}
 Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
@@ -866,17 +925,6 @@ M~Galassi, J~Davies, J~Theiler, B~Gough, G~Jungman, P~Alken, M~Booth, F~Rossi,
 Travis~E Oliphant.
 \newblock {\em A guide to NumPy}, volume~1.
 \newblock Trelgol Publishing USA, 2006.
-
-\bibitem{Acero:2015hja}
-F.~Acero et~al.
-\newblock {Fermi Large Area Telescope Third Source Catalog}.
-\newblock 2015.
-
-\bibitem{Su:2010qj}
-Meng Su, Tracy~R. Slatyer, and Douglas~P. Finkbeiner.
-\newblock {Giant Gamma-ray Bubbles from Fermi-LAT: AGN Activity or Bipolar
-  Galactic Wind?}
-\newblock {\em Astrophys.J.}, 724:1044--1082, 2010.
 
 \bibitem{1968ApJ...153L.203C}
 G.~W. Clark, G.~P. Garmire, and W.~L. Kraushaar.
@@ -1477,16 +1525,6 @@ John~P. Huchra et~al.
 \newblock {The 2MASS Redshift Survey - Description and Data Release}.
 \newblock {\em Astrophys. J. Suppl.}, 199:26, 2012.
 
-\bibitem{Tully:2015opa}
-R.~Brent Tully.
-\newblock {Galaxy Groups: A 2MASS Catalog}.
-\newblock {\em Astron. J.}, 149:171, 2015.
-
-\bibitem{2017ApJ...843...16K}
-Ehsan Kourkchi and R.~Brent Tully.
-\newblock {Galaxy Groups Within 3500 km s$^{-1}$}.
-\newblock {\em Astrophys. J.}, 843:16, 2017.
-
 \bibitem{Lu:2016vmu}
 Yi~Lu, Xiaohu Yang, Feng Shi, H.~J. Mo, Dylan Tweed, Huiyuan Wang, Youcai
   Zhang, Shijie Li, and S.~H. Lim.
@@ -1600,12 +1638,6 @@ Francisco Prada, Anatoly~A. Klypin, Antonio~J. Cuesta, Juan~E. Betancort-Rijo,
 \newblock {Halo concentrations in the standard LCDM cosmology}.
 \newblock {\em Mon. Not. Roy. Astron. Soc.}, 423:3018--3030, 2012.
 
-\bibitem{Sanchez-Conde:2013yxa}
-Miguel~A. S{\'a}nchez-Conde and Francisco Prada.
-\newblock {The flattening of the concentration--mass relation towards low halo
-  masses and its implications for the annihilation signal boost}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 442(3):2271--2277, 2014.
-
 \bibitem{Moline:2016pbm}
 {\'A}ngeles Molin{\'e}, Miguel~A. S{\'a}nchez-Conde, Sergio Palomares-Ruiz, and
   Francisco Prada.
@@ -1637,12 +1669,6 @@ Aaron~A. Dutton and Andrea~V. Macci{\`o}.
 \newblock {Cold dark matter haloes in the Planck era: evolution of structural
   parameters for Einasto and NFW profiles}.
 \newblock {\em Mon. Not. Roy. Astron. Soc.}, 441(4):3359--3374, 2014.
-
-\bibitem{Hutten:2016jko}
-M.~H{\"u}tten, C.~Combet, G.~Maier, and D.~Maurin.
-\newblock {Dark matter substructure modelling and sensitivity of the Cherenkov
-  Telescope Array to Galactic dark halos}.
-\newblock {\em JCAP}, 1609(09):047, 2016.
 
 \bibitem{Rolke:2004mj}
 Wolfgang~A. Rolke, Angel~M. Lopez, and Jan Conrad.
@@ -1814,11 +1840,6 @@ Timothy Cohen, Kohta Murase, Nicholas~L. Rodd, Benjamin~R. Safdi, and Yotam
 \newblock {Gamma-ray Constraints on Decaying Dark Matter and Implications for
   IceCube}.
 \newblock {\em Phys. Rev. Lett.}, 119(2):021102, 2017.
-
-\bibitem{Springel:2008cc}
-Volker Springel et~al.
-\newblock {The Aquarius Project: the subhalos of galactic halos}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 391:1685--1711, 2008.
 
 \bibitem{Schaller:2014uwa}
 Matthieu Schaller, Carlos~S. Frenk, Richard~G. Bower, Tom Theuns, Adrian
