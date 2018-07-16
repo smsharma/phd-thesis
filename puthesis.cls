@@ -63,7 +63,7 @@
 \newcommand{\maketitlepage}{{
   \thispagestyle{empty}
   \sc
-  \vspace*{0in}
+  \vspace*{-0.5in}
   \begin{center}
     \LARGE \@title
   \end{center}
@@ -74,6 +74,7 @@
   \end{center}
   \vspace{.6in}
   \extravspace{.6in}
+  \sectionline
   \begin{center}
     A Dissertation \\
     Presented to the Faculty \\
@@ -81,12 +82,12 @@
     in Candidacy for the Degree \\
     of Doctor of Philosophy
   \end{center}
+  \sectionline
   \vspace{.3in}
   \extravspace{.3in}
   \begin{center}
     Recommended for Acceptance \\
-    by the \@deptpref \\
-    \@dept \\
+    by the \@deptpref~\@dept \\
     Adviser: \@adviser
   \end{center}
   \vspace{.3in}

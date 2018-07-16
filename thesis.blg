@@ -13,7 +13,7 @@ Illegal, another \bibstyle command---line 45 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12912 items from 5000.
+Reallocated field_info (elt_size=4) to 13073 items from 5000.
 Database file #1: ch-nptfit/NPTF.bib
 Database file #2: ch-igrb/fermi_igrb.bib
 Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
@@ -1015,62 +1015,68 @@ Repeated entry---line 1984 of file ch-clusters/fermi_clusters.bib
  :                       ,
 I'm skipping whatever remains of this entry
 Database file #5: ch-intro/introduction.bib
-Repeated entry---line 33 of file ch-intro/introduction.bib
+Repeated entry---line 77 of file ch-intro/introduction.bib
+ : @article{Clowe:2006eq
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 140 of file ch-intro/introduction.bib
  : @article{Macias:2016nev
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 273 of file ch-intro/introduction.bib
+Repeated entry---line 380 of file ch-intro/introduction.bib
  : @article{Pospelov:2007mp
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 418 of file ch-intro/introduction.bib
+Repeated entry---line 525 of file ch-intro/introduction.bib
  : @article{Sanchez-Conde:2013yxa
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 435 of file ch-intro/introduction.bib
+Repeated entry---line 542 of file ch-intro/introduction.bib
  : @article{Springel:2008cc
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 547 of file ch-intro/introduction.bib
+Repeated entry---line 654 of file ch-intro/introduction.bib
  : @article{Bergstrom:2013jra
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 786 of file ch-intro/introduction.bib
+Repeated entry---line 893 of file ch-intro/introduction.bib
  : @article{Feng:2008ya
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 914 of file ch-intro/introduction.bib
+Repeated entry---line 1021 of file ch-intro/introduction.bib
  : @article{Bertone:2004pz
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 931 of file ch-intro/introduction.bib
+Repeated entry---line 1038 of file ch-intro/introduction.bib
  : @article{Jungman:1995df
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 985 of file ch-intro/introduction.bib
+Repeated entry---line 1092 of file ch-intro/introduction.bib
  : @article{Sjostrand:2007gs
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1002 of file ch-intro/introduction.bib
+Repeated entry---line 1109 of file ch-intro/introduction.bib
  : @article{Cirelli:2010xx
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1238 of file ch-intro/introduction.bib
+Repeated entry---line 1345 of file ch-intro/introduction.bib
  : @article{Ackermann:2015zua
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1257 of file ch-intro/introduction.bib
+Repeated entry---line 1364 of file ch-intro/introduction.bib
  : @article{Geringer-Sameth:2014qqa
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1274 of file ch-intro/introduction.bib
+Repeated entry---line 1381 of file ch-intro/introduction.bib
  : @article{Fermi-LAT:2016uux
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1373 of file ch-intro/introduction.bib
+Repeated entry---line 1480 of file ch-intro/introduction.bib
  : @article{1996PhR...267..195J
  :                             ,
 I'm skipping whatever remains of this entry
+Warning--empty journal in Plehn:2017fdg
+Warning--empty journal in Abbott:2017wau
 Warning--empty journal in Zhang:2017chj
 Warning--empty journal in Aprile:2018dbl
 Warning--empty journal in Agnes:2018ves
@@ -1079,6 +1085,7 @@ Warning--empty journal in Bartels:2017vsx
 Warning--empty journal in Bartels:2018eyb
 Warning--empty journal in Macias:2016nev
 Warning--empty journal in Chang:2018bpt
+Warning--empty journal in Troster:2016sgf
 Warning--empty journal in Acero:2015hja
 Warning--empty journal in Clark:2016mbb
 Warning--empty journal in Linden:2016rcf
@@ -1091,52 +1098,51 @@ Warning--empty journal in Feroz:2013hea
 Warning--empty author in Collaboration:2010gqa
 Warning--empty journal in Hooper:2016gjy
 Warning--empty journal in Hooper:2016jls
-Warning--empty journal in Troster:2016sgf
 Warning--empty journal in Adams:2016alz
 Warning--empty journal in Skillman:2014qca
 Warning--empty booktitle in Warren:2013vma
 Warning--empty journal in Elor:2015bho
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 344 entries,
+You've used 351 entries,
             1791 wiz_defined-function locations,
-            2437 strings with 63028 characters,
-and the built_in function-call counts, 74512 in all, are:
-= -- 6107
-> -- 3889
+            2474 strings with 64164 characters,
+and the built_in function-call counts, 75984 in all, are:
+= -- 6230
+> -- 3962
 < -- 3
-+ -- 1422
-- -- 1078
-* -- 5536
-:= -- 12635
-add.period$ -- 1042
-call.type$ -- 344
-change.case$ -- 340
++ -- 1449
+- -- 1098
+* -- 5635
+:= -- 12882
+add.period$ -- 1063
+call.type$ -- 351
+change.case$ -- 347
 chr.to.int$ -- 0
-cite$ -- 371
-duplicate$ -- 3087
-empty$ -- 7146
-format.name$ -- 1078
-if$ -- 16170
+cite$ -- 380
+duplicate$ -- 3147
+empty$ -- 7287
+format.name$ -- 1098
+if$ -- 16491
 int.to.chr$ -- 0
-int.to.str$ -- 344
-missing$ -- 345
-newline$ -- 1733
-num.names$ -- 343
-pop$ -- 487
+int.to.str$ -- 351
+missing$ -- 352
+newline$ -- 1768
+num.names$ -- 350
+pop$ -- 504
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1185
+skip$ -- 1210
 stack$ -- 0
-substring$ -- 4703
-swap$ -- 341
+substring$ -- 4805
+swap$ -- 346
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 27
-while$ -- 660
-width$ -- 347
-write$ -- 3745
-(There were 264 error messages)
+warning$ -- 29
+while$ -- 671
+width$ -- 354
+write$ -- 3817
+(There were 265 error messages)

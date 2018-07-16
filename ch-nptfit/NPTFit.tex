@@ -5,7 +5,7 @@ This chapter is based on an edited version of \emph{NPTFit: A code package for N
 
 \section{Introduction}
 
-Astrophysical point sources (PSs), which are defined as sources with angular extent smaller than the resolution of the detector, play an important role in virtually every analysis utilizing images of the cosmos.  It is useful to distinguish between resolved and unresolved PSs; the former may be detected individually at high significance, while members of the latter population are by definition too dim to be detected individually.  However, unresolved PSs -- due to their potentially large number density -- can be a leading and sometimes pesky source of flux across wavelengths.
+\lettrine[lines=4]{A}{strophysical} point sources (PSs), which are defined as sources with angular extent smaller than the resolution of the detector, play an important role in virtually every analysis utilizing images of the cosmos.  It is useful to distinguish between resolved and unresolved PSs; the former may be detected individually at high significance, while members of the latter population are by definition too dim to be detected individually.  However, unresolved PSs -- due to their potentially large number density -- can be a leading and sometimes pesky source of flux across wavelengths.
   Recently, a novel analysis technique called the non-Poissonian template fit (NPTF) has been developed for characterizing populations of unresolved PSs at fluxes below the detection threshold for finding individually-significant sources~\cite{Lee:2014mza,Lee:2015fea}.  The technique expands upon the traditional fluctuation analysis technique (see, for example,~\cite{Miyaji:2001dp,Malyshev:2011zi}), which analyzes the aggregate photon-count statistics of a data set to characterize the contribution from unresolved PSs, by additionally incorporating spatial information both for the distribution of unresolved PSs and for the potential sources of non-PS emission.  In this work, we present a code package called \texttt{NPTFit} for numerically implementing the NPTF in \texttt{python} and \texttt{cython}.
   
 The most up-to-date version of the open-source package \texttt{NPTFit} may be found at
@@ -669,6 +669,8 @@ Another straightforward generalization of the example described above is simply 
 \label{Conclusion}
 
 We have presented an open-source code package for performing non-Poissonian template fits.   We strongly recommend referring to the \href{http://nptfit.readthedocs.io}{online documentation} -- which will be kept up-to-date -- in addition to this chapter accompanying the initial release.  There are many way in which \texttt{NPTFit} can be improved in the future.  For one, the  \texttt{NPTFit} package only handles a single energy bin at a time.  In a later version of the code we plan to incorporate the ability to scan over multiple energy bins simultaneously.  Additionally, there are a few areas -- such as the evaluation of the incomplete gamma functions -- where the \texttt{cython} code may still be sped up.  Such improvements to the computational cost are relevant for analyses of large data sets with many model parameters.  Of course, we welcome additional suggestions for how we may improve the code and better adapt it to applications beyond the gamma-ray applications it has been used for so far. 
+
+\sectionline
 
 % \section*{Acknowledgements}
 % \vspace{-10pt}

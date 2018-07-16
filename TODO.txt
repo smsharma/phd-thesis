@@ -4,4 +4,3 @@
 - LaTeX warnings
 - License dissertation
 - Consistent journal titles
-- en/em dashes

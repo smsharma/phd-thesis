@@ -1,5 +1,30 @@
 \begin{thebibliography}{100}
 
+\bibitem{Lisanti:2016jxe}
+Mariangela Lisanti.
+\newblock {Lectures on Dark Matter Physics}.
+\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
+  Elementary Particle Physics: New Frontiers in Fields and Strings (TASI 2015):
+  Boulder, CO, USA, June 1-26, 2015}}, pages 399--446, 2017.
+
+\bibitem{Plehn:2017fdg}
+Tilman Plehn.
+\newblock {Yet Another Introduction to Dark Matter}.
+\newblock 2017.
+
+\bibitem{Slatyer:2017sev}
+Tracy~R. Slatyer.
+\newblock {Indirect Detection of Dark Matter}.
+\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
+  Elementary Particle Physics : Anticipating the Next Discoveries in Particle
+  Physics (TASI 2016): Boulder, CO, USA, June 6-July 1, 2016}}, pages 297--353,
+  2018.
+
+\bibitem{Bertone:2016nfn}
+Gianfranco Bertone and Dan Hooper.
+\newblock {A History of Dark Matter}.
+\newblock {\em Submitted to: Rev. Mod. Phys.}, 2016.
+
 \bibitem{1922ApJ....55..302K}
 J.~C. {Kapteyn}.
 \newblock {First Attempt at a Theory of the Arrangement and Motion of the
@@ -93,6 +118,36 @@ P.~A.~R. Ade et~al.
 Antony Lewis, Anthony Challinor, and Anthony Lasenby.
 \newblock {Efficient computation of CMB anisotropies in closed FRW models}.
 \newblock {\em Astrophys. J.}, 538:473--476, 2000.
+
+\bibitem{Alam:2016hwk}
+Shadab Alam et~al.
+\newblock {The clustering of galaxies in the completed SDSS-III Baryon
+  Oscillation Spectroscopic Survey: cosmological analysis of the DR12 galaxy
+  sample}.
+\newblock {\em Mon. Not. Roy. Astron. Soc.}, 470(3):2617--2652, 2017.
+
+\bibitem{Abbott:2017wau}
+T.~M.~C. Abbott et~al.
+\newblock {Dark Energy Survey Year 1 Results: Cosmological Constraints from
+  Galaxy Clustering and Weak Lensing}.
+\newblock 2017.
+
+\bibitem{2010MNRAS.408.1969V}
+S.~{Vegetti}, L.~V.~E. {Koopmans}, A.~{Bolton}, T.~{Treu}, and R.~{Gavazzi}.
+\newblock {Detection of a dark substructure through gravitational imaging}.
+\newblock {\em \mnras}, 408:1969--1981, November 2010.
+
+\bibitem{2012Natur.481..341V}
+S.~{Vegetti}, D.~J. {Lagattuta}, J.~P. {McKean}, M.~W. {Auger}, C.~D.
+  {Fassnacht}, and L.~V.~E. {Koopmans}.
+\newblock {Gravitational detection of a low-mass dark satellite galaxy at
+  cosmological distance}.
+\newblock {\em \nat}, 481:341--343, January 2012.
+
+\bibitem{Clowe:2006eq}
+Douglas Clowe et~al.
+\newblock {A direct empirical proof of the existence of dark matter}.
+\newblock {\em Astrophys. J.}, 648:L109--L113, 2006.
 
 \bibitem{1983ApJ...270..365M}
 M.~{Milgrom}.
@@ -271,13 +326,6 @@ G.~{Jungman}, M.~{Kamionkowski}, and K.~{Griest}.
 \newblock {Supersymmetric dark matter}.
 \newblock {\em \physrep}, 267:195--373, March 1996.
 
-\bibitem{Lisanti:2016jxe}
-Mariangela Lisanti.
-\newblock {Lectures on Dark Matter Physics}.
-\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
-  Elementary Particle Physics: New Frontiers in Fields and Strings (TASI 2015):
-  Boulder, CO, USA, June 1-26, 2015}}, pages 399--446, 2017.
-
 \bibitem{Aprile:2018dbl}
 E.~Aprile et~al.
 \newblock {Dark Matter Search Results from a One Tonne$\times$Year Exposure of
@@ -446,14 +494,6 @@ Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
   data}.
 \newblock {\em Phys.Rev.Lett.}, 111:171101, 2013.
 
-\bibitem{Slatyer:2017sev}
-Tracy~R. Slatyer.
-\newblock {Indirect Detection of Dark Matter}.
-\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
-  Elementary Particle Physics : Anticipating the Next Discoveries in Particle
-  Physics (TASI 2016): Boulder, CO, USA, June 6-July 1, 2016}}, pages 297--353,
-  2018.
-
 \bibitem{Sjostrand:2007gs}
 Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
 \newblock {A Brief Introduction to PYTHIA 8.1}.
@@ -532,6 +572,19 @@ Chris Gordon and Oscar Macias.
 \newblock {Dark Matter and Pulsar Model Constraints from Galactic Center
   Fermi-LAT Gamma Ray Observations}.
 \newblock {\em Phys.Rev.}, D88:083521, 2013.
+
+\bibitem{TheFermi-LAT:2015kwa}
+M.~Ajello et~al.
+\newblock {Fermi-LAT Observations of High-Energy $\gamma$-Ray Emission Toward
+  the Galactic Center}.
+\newblock {\em Astrophys. J.}, 819(1):44, 2016.
+
+\bibitem{Karwin:2016tsw}
+Christopher Karwin, Simona Murgia, Tim M.~P. Tait, Troy~A. Porter, and Philip
+  Tanedo.
+\newblock {Dark Matter Interpretation of the Fermi-LAT Observation Toward the
+  Galactic Center}.
+\newblock {\em Phys. Rev.}, D95(10):103005, 2017.
 
 \bibitem{Lee:2015fea}
 Samuel~K. Lee, Mariangela Lisanti, Benjamin~R. Safdi, Tracy~R. Slatyer, and Wei
@@ -677,6 +730,33 @@ Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, and Matteo Viel.
   Signal via Cross Correlations With Galaxy Catalogs}.
 \newblock {\em Astrophys. J. Suppl.}, 217(1):15, 2015.
 
+\bibitem{Shirasaki:2014noa}
+Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
+\newblock {Cross-Correlation of Cosmic Shear and Extragalactic Gamma-ray
+  Background: Constraints on the Dark Matter Annihilation Cross-Section}.
+\newblock {\em Phys. Rev.}, D90(6):063502, 2014.
+
+\bibitem{Shirasaki:2015nqp}
+Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
+\newblock {Cross-Correlation of the Extragalactic Gamma-ray Background with
+  Luminous Red Galaxies}.
+\newblock {\em Phys. Rev.}, D92(12):123540, 2015.
+
+\bibitem{Shirasaki:2016kol}
+Masato Shirasaki, Oscar Macias, Shunsaku Horiuchi, Satoshi Shirai, and Naoki
+  Yoshida.
+\newblock {Cosmological constraints on dark matter annihilation and decay:
+  Cross-correlation analysis of the extragalactic $\gamma$-ray background and
+  cosmic shear}.
+\newblock {\em Phys. Rev.}, D94(6):063522, 2016.
+
+\bibitem{Troster:2016sgf}
+Tilman Tr{\"o}ster et~al.
+\newblock {Cross-correlation of weak lensing and gamma rays: implications for
+  the nature of dark matter}.
+\newblock 2016.
+\newblock [Mon. Not. Roy. Astron. Soc.467,2706(2017)].
+
 \bibitem{Lisanti:2017qoz}
 Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
   Safdi, and Risa~H. Wechsler.
@@ -801,12 +881,6 @@ Kevork~N. Abazajian, Nicolas Canac, Shunsaku Horiuchi, Manoj Kaplinghat, and
 \newblock {Discovery of a New Galactic Center Excess Consistent with
   Upscattered Starlight}.
 \newblock {\em JCAP}, 1507(07):013, 2015.
-
-\bibitem{TheFermi-LAT:2015kwa}
-M.~Ajello et~al.
-\newblock {Fermi-LAT Observations of High-Energy $\gamma$-Ray Emission Toward
-  the Galactic Center}.
-\newblock {\em Astrophys. J.}, 819(1):44, 2016.
 
 \bibitem{Clark:2016mbb}
 Hamish~A. Clark, Pat Scott, Roberto Trotta, and Geraint~F. Lewis.
@@ -1548,13 +1622,6 @@ Stefano Camera, Mattia Fornasa, Nicolao Fornengo, and Marco Regis.
   cross-correlation between cosmic shear and diffuse $\gamma$-ray emission}.
 \newblock {\em JCAP}, 1506(06):029, 2015.
 
-\bibitem{Troster:2016sgf}
-Tilman Tr{\"o}ster et~al.
-\newblock {Cross-correlation of weak lensing and gamma rays: implications for
-  the nature of dark matter}.
-\newblock 2016.
-\newblock [Mon. Not. Roy. Astron. Soc.467,2706(2017)].
-
 \bibitem{Choi:2015mnp}
 Ami Choi, Catherine Heymans, Chris Blake, Hendrik Hildebrandt, Christopher
   A.~J. Duncan, Thomas Erben, Reiko Nakajima, Ludovic Van~Waerbeke, and Massimo
@@ -1568,26 +1635,6 @@ Stefano Camera, Mattia Fornasa, Nicolao Fornengo, and Marco Regis.
 \newblock {A Novel Approach in the Weakly Interacting Massive Particle Quest:
   Cross-correlation of Gamma-Ray Anisotropies and Cosmic Shear}.
 \newblock {\em Astrophys. J.}, 771:L5, 2013.
-
-\bibitem{Shirasaki:2015nqp}
-Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
-\newblock {Cross-Correlation of the Extragalactic Gamma-ray Background with
-  Luminous Red Galaxies}.
-\newblock {\em Phys. Rev.}, D92(12):123540, 2015.
-
-\bibitem{Shirasaki:2014noa}
-Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
-\newblock {Cross-Correlation of Cosmic Shear and Extragalactic Gamma-ray
-  Background: Constraints on the Dark Matter Annihilation Cross-Section}.
-\newblock {\em Phys. Rev.}, D90(6):063502, 2014.
-
-\bibitem{Shirasaki:2016kol}
-Masato Shirasaki, Oscar Macias, Shunsaku Horiuchi, Satoshi Shirai, and Naoki
-  Yoshida.
-\newblock {Cosmological constraints on dark matter annihilation and decay:
-  Cross-correlation analysis of the extragalactic $\gamma$-ray background and
-  cosmic shear}.
-\newblock {\em Phys. Rev.}, D94(6):063522, 2016.
 
 \bibitem{Fornengo:2014cya}
 Nicolao Fornengo, Laurence Perotto, Marco Regis, and Stefano Camera.
@@ -1875,13 +1922,6 @@ B.~Huber, C.~Tchernin, D.~Eckert, C.~Farnier, A.~Manalaysay, U.~Straumann, and
 \newblock {Probing the cosmic-ray content of galaxy clusters by stacking
   Fermi-LAT count maps}.
 \newblock {\em Astron. Astrophys.}, 560:A64, 2013.
-
-\bibitem{Karwin:2016tsw}
-Christopher Karwin, Simona Murgia, Tim M.~P. Tait, Troy~A. Porter, and Philip
-  Tanedo.
-\newblock {Dark Matter Interpretation of the Fermi-LAT Observation Toward the
-  Galactic Center}.
-\newblock {\em Phys. Rev.}, D95(10):103005, 2017.
 
 \bibitem{FermiLAT:2017yoi}
 M.~Ajello et~al.

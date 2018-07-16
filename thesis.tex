@@ -50,6 +50,7 @@
 % @PROQUESTMODE_CTRL@ \newcommand{\proquestmode}{}
 
 % @DRAFTMODE_CTRL@ \providecommand{\maybefrontmatter}{}
+
 \providecommand{\maybefrontmatter}{\makefrontmatter}
 
 \fixupmargins
@@ -68,11 +69,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
 %%%% Author & title page info
 
-\title{Extragalactic Searches for \\ Dark Matter Annihilation}
+\title{\LARGE{\lettrine[lines=1]{E}{xtragalactic} Searches} \\ \Large{for} \\ \LARGE{Dark Matter Annihilation}}
 
 \submitted{September 2018}  % degree conferral date (January, April, June, September, or November)
 \copyrightyear{2018}  % year in which the copyright is secured by publication of the dissertation.
-\author{Siddharth Mishra-Sharma}
+\author{{Siddharth Mishra-Sharma}}
 \adviser{Mariangela Lisanti}  %replace with the full name of your adviser
 %\departmentprefix{Program in}  % defaults to "Department of", but programs need to change this.
 \department{Physics}
@@ -129,8 +130,6 @@
 %set parameters for longtable:
 % default caption width is 4in for longtable, but wider for normal tables
 \setlength{\LTcapwidth}{\textwidth}
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Printed vs. online formatting
@@ -192,6 +191,26 @@
 \usepackage{mathtools}
 \usepackage{listings}
 \usepackage{color,xcolor}
+\usepackage{Zallman,lettrine}
+\renewcommand\LettrineFontHook{\Zallmanfamily}
+
+\PassOptionsToPackage{svgnames}{xcolor}
+\usepackage[object=vectorian]{pgfornament} %%  http://altermundus.com/pages/tkz/ornament/index.html
+\usepackage{lipsum,tikz}
+
+\newcommand{\sectionline}{%
+  \noindent
+  \begin{center}
+  {
+    \resizebox{0.5\linewidth}{1ex}
+    {{%
+    {\begin{tikzpicture}
+    \node  (C) at (0,0) {};
+    \node (D) at (9,0) {};
+    \path (C) to [ornament=88] (D);
+    \end{tikzpicture}}}}}%
+    \end{center}
+  }
 
 \definecolor{deepblue}{rgb}{0,0,0.9}
 \definecolor{deepred}{rgb}{0.85,0,0}
@@ -386,7 +405,7 @@
 \else
 
 
-\abstract{We are at the dawn of a data-driven era in astrophysics and cosmology. A large number of ongoing and forthcoming experiments combined with an increasingly open approach to data availability offer great potential in unlocking some of the deepest mysteries of the Universe. Among these is understanding the nature of dark matter (DM)---one of the major unsolved problems in particle physics. Characterizing DM through its astrophysical signatures will require the use of novel statistical methods and a robust understanding of its distribution in the sky. 
+\abstract{\lettrine[lines=4]{W}{e} are at the dawn of a data-driven era in astrophysics and cosmology. A large number of ongoing and forthcoming experiments combined with an increasingly open approach to data availability offer great potential in unlocking some of the deepest mysteries of the Universe. Among these is understanding the nature of dark matter (DM)---one of the major unsolved problems in particle physics. Characterizing DM through its astrophysical signatures will require the use of novel statistical methods and a robust understanding of its distribution in the sky. 
 
 The first part of this thesis describes the implementation of a novel statistical technique which leverages the ``clumpiness'' of photons originating from point sources (PSs) to derive the properties of PS populations hidden in astrophysical datasets. This is applied to the gamma-ray sky at higher latitudes as seen by the \emph{Fermi} satellite to characterize the contribution of PSs of extragalactic origin, finding that the majority of the extragalactic gamma-rays can be ascribed to unresolved PSs having properties consistent with known sources such as active galactic nuclei, leaving considerably less room for a dark matter contribution.
 
