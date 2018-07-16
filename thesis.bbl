@@ -32,6 +32,11 @@ F.~{Zwicky}.
 \newblock {On the Masses of Nebulae and of Clusters of Nebulae}.
 \newblock {\em \apj}, 86:217, October 1937.
 
+\bibitem{1939LicOB..19...41B}
+H.~W. {Babcock}.
+\newblock {The rotation of the Andromeda Nebula}.
+\newblock {\em Lick Observatory Bulletin}, 19:41--51, 1939.
+
 \bibitem{1970ApJ...159..379R}
 V.~C. {Rubin} and W.~K. {Ford}, Jr.
 \newblock {Rotation of the Andromeda Nebula from a Spectroscopic Survey of
@@ -88,6 +93,46 @@ P.~A.~R. Ade et~al.
 Antony Lewis, Anthony Challinor, and Anthony Lasenby.
 \newblock {Efficient computation of CMB anisotropies in closed FRW models}.
 \newblock {\em Astrophys. J.}, 538:473--476, 2000.
+
+\bibitem{1983ApJ...270..365M}
+M.~{Milgrom}.
+\newblock {A modification of the Newtonian dynamics as a possible alternative
+  to the hidden mass hypothesis}.
+\newblock {\em \apj}, 270:365--370, July 1983.
+
+\bibitem{1983ApJ...270..371M}
+M.~{Milgrom}.
+\newblock {A modification of the Newtonian dynamics - Implications for
+  galaxies}.
+\newblock {\em \apj}, 270:371--389, July 1983.
+
+\bibitem{1983ApJ...270..384M}
+M.~{Milgrom}.
+\newblock {A Modification of the Newtonian Dynamics - Implications for Galaxy
+  Systems}.
+\newblock {\em \apj}, 270:384, July 1983.
+
+\bibitem{1977A&A....54..661T}
+R.~B. {Tully} and J.~R. {Fisher}.
+\newblock {A new method of determining distances to galaxies}.
+\newblock {\em \aap}, 54:661--673, February 1977.
+
+\bibitem{Bekenstein:2004ne}
+Jacob~D. Bekenstein.
+\newblock {Relativistic gravitation theory for the MOND paradigm}.
+\newblock {\em Phys. Rev.}, D70:083509, 2004.
+\newblock [Erratum: Phys. Rev.D71,069901(2005)].
+
+\bibitem{2009CQGra..26n3001S}
+C.~{Skordis}.
+\newblock {TOPICAL REVIEW: The tensor-vector-scalar theory and its cosmology}.
+\newblock {\em Classical and Quantum Gravity}, 26(14):143001, July 2009.
+
+\bibitem{Famaey:2011kh}
+Benoit Famaey and Stacy McGaugh.
+\newblock {Modified Newtonian Dynamics (MOND): Observational Phenomenology and
+  Relativistic Extensions}.
+\newblock {\em Living Rev. Rel.}, 15:10, 2012.
 
 \bibitem{Gershtein:1966gg}
 S.~S. Gershtein and {\relax Ya}.~B. Zeldovich.
@@ -283,6 +328,76 @@ Yonit Hochberg, Eric Kuflik, Hitoshi Murayama, Tomer Volansky, and Jay~G.
   Particles}.
 \newblock {\em Phys. Rev. Lett.}, 115(2):021301, 2015.
 
+\bibitem{Berlin:2016gtr}
+Asher Berlin, Dan Hooper, and Gordan Krnjaic.
+\newblock {Thermal Dark Matter From A Highly Decoupled Sector}.
+\newblock {\em Phys. Rev.}, D94(9):095019, 2016.
+
+\bibitem{Berlin:2016vnh}
+Asher Berlin, Dan Hooper, and Gordan Krnjaic.
+\newblock {PeV-Scale Dark Matter as a Thermal Relic of a Decoupled Sector}.
+\newblock {\em Phys. Lett.}, B760:106--111, 2016.
+
+\bibitem{Berlin:2017ftj}
+Asher Berlin and Nikita Blinov.
+\newblock {Thermal Dark Matter Below an MeV}.
+\newblock {\em Phys. Rev. Lett.}, 120(2):021801, 2018.
+
+\bibitem{Bernal:2017mqb}
+Nicol{\'a}s Bernal, Xiaoyong Chu, and Josef Pradler.
+\newblock {Simply split strongly interacting massive particles}.
+\newblock {\em Phys. Rev.}, D95(11):115023, 2017.
+
+\bibitem{Cline:2017tka}
+James~M. Cline, Hongwan Liu, Tracy Slatyer, and Wei Xue.
+\newblock {Enabling Forbidden Dark Matter}.
+\newblock {\em Phys. Rev.}, D96(8):083521, 2017.
+
+\bibitem{DAgnolo:2015nbz}
+Raffaele~Tito D'Agnolo and Anson Hook.
+\newblock {Selfish Dark Matter}.
+\newblock {\em Phys. Rev.}, D91(11):115020, 2015.
+
+\bibitem{DAgnolo:2017dbv}
+Raffaele~Tito D'Agnolo, Duccio Pappadopulo, and Joshua~T. Ruderman.
+\newblock {Fourth Exception in the Calculation of Relic Abundances}.
+\newblock {\em Phys. Rev. Lett.}, 119(6):061102, 2017.
+
+\bibitem{DEramo:2010keq}
+Francesco D'Eramo and Jesse Thaler.
+\newblock {Semi-annihilation of Dark Matter}.
+\newblock {\em JHEP}, 06:109, 2010.
+
+\bibitem{Dror:2016rxc}
+Jeff~Asaf Dror, Eric Kuflik, and Wee~Hao Ng.
+\newblock {Codecaying Dark Matter}.
+\newblock {\em Phys. Rev. Lett.}, 117(21):211801, 2016.
+
+\bibitem{Farina:2016llk}
+Marco Farina, Duccio Pappadopulo, Joshua~T. Ruderman, and Gabriele Trevisan.
+\newblock {Phases of Cannibal Dark Matter}.
+\newblock {\em JHEP}, 12:039, 2016.
+
+\bibitem{Kopp:2016yji}
+Joachim Kopp, Jia Liu, Tracy~R. Slatyer, Xiao-Ping Wang, and Wei Xue.
+\newblock {Impeded Dark Matter}.
+\newblock {\em JHEP}, 12:033, 2016.
+
+\bibitem{Kuflik:2015isi}
+Eric Kuflik, Maxim Perelstein, Nicolas Rey-Le Lorier, and Yu-Dai Tsai.
+\newblock {Elastically Decoupling Dark Matter}.
+\newblock {\em Phys. Rev. Lett.}, 116(22):221302, 2016.
+
+\bibitem{Pappadopulo:2016pkp}
+Duccio Pappadopulo, Joshua~T. Ruderman, and Gabriele Trevisan.
+\newblock {Dark matter freeze-out in a nonrelativistic sector}.
+\newblock {\em Phys. Rev.}, D94(3):035005, 2016.
+
+\bibitem{Pospelov:2007mp}
+Maxim Pospelov, Adam Ritz, and Mikhail~B. Voloshin.
+\newblock {Secluded WIMP Dark Matter}.
+\newblock {\em Phys. Lett.}, B662:53--61, 2008.
+
 \bibitem{Atwood:2009ez}
 W.~B. Atwood et~al.
 \newblock {The Large Area Telescope on the Fermi Gamma-ray Space Telescope
@@ -430,6 +545,24 @@ Richard Bartels, Suraj Krishnamurthy, and Christoph Weniger.
 \newblock {Strong support for the millisecond pulsar origin of the Galactic
   center GeV excess}.
 \newblock {\em Phys. Rev. Lett.}, 116(5):051102, 2016.
+
+\bibitem{Bartels:2017vsx}
+Richard Bartels, Emma Storm, Christoph Weniger, and Francesca Calore.
+\newblock {The Fermi-LAT GeV Excess Traces Stellar Mass in the Galactic Bulge}.
+\newblock 2017.
+
+\bibitem{Bartels:2018eyb}
+Richard Bartels, Francesca Calore, Emma Storm, and Christoph Weniger.
+\newblock {Galactic Binaries Can Explain the Fermi Galactic Center Excess and
+  511 keV Emission}.
+\newblock 2018.
+
+\bibitem{Macias:2016nev}
+Oscar Macias, Chris Gordon, Roland~M. Crocker, Brendan Coleman, Dylan Paterson,
+  Shunsaku Horiuchi, and Martin Pohl.
+\newblock {Galactic bulge preferred over dark matter for the Galactic centre
+  gamma-ray excess}.
+\newblock {\em Nat. Astron.}, 2(5):387--392, 2018.
 
 \bibitem{Chang:2018bpt}
 Laura~J. Chang, Mariangela Lisanti, and Siddharth Mishra-Sharma.
@@ -675,13 +808,6 @@ M.~Ajello et~al.
 \newblock {Fermi-LAT Observations of High-Energy $\gamma$-Ray Emission Toward
   the Galactic Center}.
 \newblock {\em Astrophys. J.}, 819(1):44, 2016.
-
-\bibitem{Macias:2016nev}
-Oscar Macias, Chris Gordon, Roland~M. Crocker, Brendan Coleman, Dylan Paterson,
-  Shunsaku Horiuchi, and Martin Pohl.
-\newblock {Discovery of Gamma-Ray Emission from the X-shaped Bulge of the Milky
-  Way}.
-\newblock 2016.
 
 \bibitem{Clark:2016mbb}
 Hamish~A. Clark, Pat Scott, Roberto Trotta, and Geraint~F. Lewis.

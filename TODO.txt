@@ -3,3 +3,5 @@
 - Fig. 2.3 aspect ratio is weird, remake
 - LaTeX warnings
 - License dissertation
+- Consistent journal titles
+- en/em dashes

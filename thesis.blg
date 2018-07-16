@@ -13,9 +13,13 @@ Illegal, another \bibstyle command---line 45 of file thesis.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 12360 items from 5000.
+Reallocated field_info (elt_size=4) to 12912 items from 5000.
 Database file #1: intro.bib
 Database file #2: ch-nptfit/NPTF.bib
+Repeated entry---line 183 of file ch-nptfit/NPTF.bib
+ : @article{Macias:2016nev
+ :                        ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 814 of file ch-nptfit/NPTF.bib
  : @article{Cirelli:2010xx
  :                        ,
@@ -26,6 +30,10 @@ Repeated entry---line 2370 of file ch-nptfit/NPTF.bib
 I'm skipping whatever remains of this entry
 Repeated entry---line 4615 of file ch-nptfit/NPTF.bib
  : @article{Springel:2008cc
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5922 of file ch-nptfit/NPTF.bib
+ : @article{Pospelov:2007mp
  :                         ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 7251 of file ch-nptfit/NPTF.bib
@@ -1076,9 +1084,10 @@ Warning--empty journal in Zhang:2017chj
 Warning--empty journal in Aprile:2018dbl
 Warning--empty journal in Agnes:2018ves
 Warning--empty journal in Goodenough:2009gk
+Warning--empty journal in Bartels:2017vsx
+Warning--empty journal in Bartels:2018eyb
 Warning--empty journal in Chang:2018bpt
 Warning--empty journal in Acero:2015hja
-Warning--empty journal in Macias:2016nev
 Warning--empty journal in Clark:2016mbb
 Warning--empty journal in Linden:2016rcf
 Warning--empty journal in Lisanti:2016jub
@@ -1097,45 +1106,45 @@ Warning--empty booktitle in Warren:2013vma
 Warning--empty journal in Elor:2015bho
 Warning--empty journal in Edwards:2017mnf
 Warning--empty journal in Narayanan:2016nzy
-You've used 320 entries,
+You've used 344 entries,
             1791 wiz_defined-function locations,
-            2312 strings with 59870 characters,
-and the built_in function-call counts, 69513 in all, are:
-= -- 5679
-> -- 3682
+            2438 strings with 63175 characters,
+and the built_in function-call counts, 74688 in all, are:
+= -- 6117
+> -- 3910
 < -- 3
-+ -- 1343
-- -- 1023
-* -- 5167
-:= -- 11804
-add.period$ -- 969
-call.type$ -- 320
-change.case$ -- 316
++ -- 1429
+- -- 1085
+* -- 5565
+:= -- 12666
+add.period$ -- 1042
+call.type$ -- 344
+change.case$ -- 340
 chr.to.int$ -- 0
-cite$ -- 345
-duplicate$ -- 2873
-empty$ -- 6638
-format.name$ -- 1023
-if$ -- 15076
+cite$ -- 370
+duplicate$ -- 3088
+empty$ -- 7156
+format.name$ -- 1085
+if$ -- 16205
 int.to.chr$ -- 0
-int.to.str$ -- 320
-missing$ -- 321
-newline$ -- 1612
-num.names$ -- 319
-pop$ -- 456
+int.to.str$ -- 344
+missing$ -- 345
+newline$ -- 1733
+num.names$ -- 343
+pop$ -- 483
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1107
+skip$ -- 1184
 stack$ -- 0
-substring$ -- 4349
-swap$ -- 319
+substring$ -- 4724
+swap$ -- 342
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 25
-while$ -- 614
-width$ -- 323
-write$ -- 3483
-(There were 264 error messages)
+warning$ -- 26
+while$ -- 661
+width$ -- 347
+write$ -- 3747
+(There were 266 error messages)
