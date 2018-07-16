@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 JUL 2018 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 JUL 2018 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2592,25 +2592,25 @@ pdfTeX warning: pdflatex (file ./ch-clusters/plots/systematics_lu_elephant.pdf)
 
 
 ] [194] [195] [196] [197] [198] [199] [200]
-Underfull \hbox (badness 1067) in paragraph at lines 725--729
+Underfull \hbox (badness 1067) in paragraph at lines 724--728
 []\T1/aer/m/n/12 Miguel A. Sánchez-Conde and Fran-cisco Prada.  The flat-ten-in
 g of the
  []
 
 [201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211]
-Underfull \hbox (badness 1527) in paragraph at lines 1547--1551
+Underfull \hbox (badness 1527) in paragraph at lines 1546--1550
 []\T1/aer/m/n/12 Stefano Cam-era, Mat-tia For-nasa, Nico-lao For-nengo, and Mar
 co Regis.
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 1547--1551
+Underfull \hbox (badness 1838) in paragraph at lines 1546--1550
 \T1/aer/m/n/12 Tomographic-spectral ap-proach for dark mat-ter de-tec-tion in t
 he cross-
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 1547--1551
+Underfull \hbox (badness 2158) in paragraph at lines 1546--1550
 \T1/aer/m/n/12 correlation be-tween cos-mic shear and dif-fuse $\OML/cmm/m/it/1
 2 ^^M$\T1/aer/m/n/12 -ray emis-sion.  \T1/aer/m/it/12 JCAP\T1/aer/m/n/12 ,
  []
@@ -2777,7 +2777,7 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (225 pages, 6788192 bytes).
+Output written on thesis.pdf (225 pages, 6787835 bytes).
 PDF statistics:
  5025 PDF objects out of 5155 (max. 8388607)
  4424 compressed objects within 45 object streams

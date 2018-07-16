@@ -211,7 +211,7 @@ Uros Seljak, Alexey Makarov, Patrick McDonald, and Hy~Trac.
 
 \bibitem{Feng:2008ya}
 Jonathan~L. Feng and Jason Kumar.
-\newblock {The WIMPless Miracle: Dark-Matter Particles without Weak-Scale
+\newblock {The WIMPless Miracle: Dark-Matter Particles without Weak- Scale
   Masses or Weak Interactions}.
 \newblock {\em Phys. Rev. Lett.}, 101:231301, 2008.
 
@@ -444,7 +444,7 @@ Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
   Weniger.
 \newblock {New limits on dark matter annihilation from AMS cosmic ray positron
   data}.
-\newblock {\em Phys. Rev. Lett.}, 111:171101, 2013.
+\newblock {\em Phys.Rev.Lett.}, 111:171101, 2013.
 
 \bibitem{Slatyer:2017sev}
 Tracy~R. Slatyer.
@@ -457,7 +457,7 @@ Tracy~R. Slatyer.
 \bibitem{Sjostrand:2007gs}
 Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
 \newblock {A Brief Introduction to PYTHIA 8.1}.
-\newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
+\newblock {\em Comput.Phys.Commun.}, 178:852--867, 2008.
 
 \bibitem{Cirelli:2010xx}
 Marco Cirelli, Gennaro Corcella, Andi Hektor, Gert Hutsi, Mario Kadastik, Paolo
@@ -560,9 +560,9 @@ Richard Bartels, Francesca Calore, Emma Storm, and Christoph Weniger.
 \bibitem{Macias:2016nev}
 Oscar Macias, Chris Gordon, Roland~M. Crocker, Brendan Coleman, Dylan Paterson,
   Shunsaku Horiuchi, and Martin Pohl.
-\newblock {Galactic bulge preferred over dark matter for the Galactic centre
-  gamma-ray excess}.
-\newblock {\em Nat. Astron.}, 2(5):387--392, 2018.
+\newblock {Discovery of Gamma-Ray Emission from the X-shaped Bulge of the Milky
+  Way}.
+\newblock 2016.
 
 \bibitem{Chang:2018bpt}
 Laura~J. Chang, Mariangela Lisanti, and Siddharth Mishra-Sharma.
@@ -716,8 +716,7 @@ J.~I. Read.
 \newblock {\em J. Phys.}, G41:063101, 2014.
 
 \bibitem{Springel:2008cc}
-Volker Springel, Jie Wang, Mark Vogelsberger, Aaron Ludlow, Adrian Jenkins,
-  Amina Helmi, Julio~F. Navarro, Carlos~S. Frenk, and Simon D.~M. White.
+Volker Springel et~al.
 \newblock {The Aquarius Project: the subhalos of galactic halos}.
 \newblock {\em Mon. Not. Roy. Astron. Soc.}, 391:1685--1711, 2008.
 
