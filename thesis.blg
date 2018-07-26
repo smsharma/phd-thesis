@@ -1020,55 +1020,55 @@ Repeated entry---line 1984 of file ch-clusters/fermi_clusters.bib
  :                       ,
 I'm skipping whatever remains of this entry
 Database file #5: ch-intro/introduction.bib
-Repeated entry---line 115 of file ch-intro/introduction.bib
+Repeated entry---line 96 of file ch-intro/introduction.bib
  : @article{Clowe:2006eq
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 178 of file ch-intro/introduction.bib
+Repeated entry---line 159 of file ch-intro/introduction.bib
  : @article{Macias:2016nev
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 418 of file ch-intro/introduction.bib
+Repeated entry---line 399 of file ch-intro/introduction.bib
  : @article{Pospelov:2007mp
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 563 of file ch-intro/introduction.bib
+Repeated entry---line 544 of file ch-intro/introduction.bib
  : @article{Sanchez-Conde:2013yxa
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 580 of file ch-intro/introduction.bib
+Repeated entry---line 561 of file ch-intro/introduction.bib
  : @article{Springel:2008cc
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 931 of file ch-intro/introduction.bib
+Repeated entry---line 912 of file ch-intro/introduction.bib
  : @article{Feng:2008ya
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1059 of file ch-intro/introduction.bib
+Repeated entry---line 1040 of file ch-intro/introduction.bib
  : @article{Bertone:2004pz
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1076 of file ch-intro/introduction.bib
+Repeated entry---line 1057 of file ch-intro/introduction.bib
  : @article{Jungman:1995df
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1130 of file ch-intro/introduction.bib
+Repeated entry---line 1111 of file ch-intro/introduction.bib
  : @article{Sjostrand:2007gs
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1147 of file ch-intro/introduction.bib
+Repeated entry---line 1128 of file ch-intro/introduction.bib
  : @article{Cirelli:2010xx
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1383 of file ch-intro/introduction.bib
+Repeated entry---line 1364 of file ch-intro/introduction.bib
  : @article{Ackermann:2015zua
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1402 of file ch-intro/introduction.bib
+Repeated entry---line 1383 of file ch-intro/introduction.bib
  : @article{Geringer-Sameth:2014qqa
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1419 of file ch-intro/introduction.bib
+Repeated entry---line 1400 of file ch-intro/introduction.bib
  : @article{Fermi-LAT:2016uux
  :                           ,
 I'm skipping whatever remains of this entry
@@ -1172,7 +1172,7 @@ You can't pop an empty literal stack for entry 1993AJ....105.2035D
 while executing---line 2447 of file utphys.bst
 You've used 350 entries,
             2281 wiz_defined-function locations,
-            3454 strings with 84409 characters,
+            3454 strings with 84415 characters,
 and the built_in function-call counts, 116984 in all, are:
 = -- 11718
 > -- 3942

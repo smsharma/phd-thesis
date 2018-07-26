@@ -347,11 +347,15 @@
 \usepackage{booktabs}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-% \usepackage[utf8]{inputenc}
-% \usepackage[russian]{babel}
-
 \usepackage{inconsolata}
 % \usepackage{zi4}            % Nice font
+
+%Russian-specific packages
+%--------------------------------------
+\usepackage[T2A,T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% \usepackage[russian,english]{babel}
+%--------------------------------------
 
 
 %% End custom imports
@@ -608,6 +612,6 @@ The second part of this thesis poses the question: ``what is the best way to loo
 % include your .bib file
 \bibliography{ch-nptfit/NPTF,ch-igrb/fermi_igrb,ch-darksky/fermi_darksky,ch-clusters/fermi_clusters,ch-intro/introduction}
 
-\end{document}
+\sectionline
 
-Generically, some of the dark pions could decay promptly and some could be long lived or even collider stable, analogous to the neutral vs. charged pions in the SM. If both stable and unstable hadrons are produced in a collision, the missing energy could be aligned along one of the jets, resulting in low acceptance for traditional monojet-style searches. This is the semi-visible jets scenario, and Refs.~\cite{Cohen:2015toa,Cohen:2017pzm} introduce a Simplified Model-like parameterization to map the complicated dynamics of the underlying dark sector onto a limited number of physically-motivated variables---in particular, the fraction of stable vs decaying pions, the characteristic mass scale of dark pions and the dark coupling strength. In particular, the Monte Carlo described here along with the \texttt{Pythia8} Hidden Valley module allows the user to vary these for the $s$- and $t$-channel UV completions. See Refs.~\cite{Cohen:2015toa,Cohen:2017pzm} for further details.
+\end{document}
