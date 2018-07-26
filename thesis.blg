@@ -1,7 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
-The style file: unsrt.bst
 A level-1 auxiliary file: ch-intro/introduction.aux
 A level-1 auxiliary file: ch-nptfit/NPTFit.aux
 A level-1 auxiliary file: ch-igrb/LMNS_arxiv_v2.aux
@@ -9,11 +8,8 @@ A level-1 auxiliary file: ch-darksky/fermi_darksky.aux
 A level-1 auxiliary file: ch-clusters/fermi_data_clusters_arxiv_v2.aux
 A level-1 auxiliary file: ch-appendicies/fermi_darksky.aux
 A level-1 auxiliary file: ch-appendicies/fermi_data_clusters_arxiv_v2.aux
-Illegal, another \bibstyle command---line 45 of file thesis.aux
- : \bibstyle
- :          {plain}
-I'm skipping whatever remains of this command
-Reallocated field_info (elt_size=4) to 13073 items from 5000.
+The style file: utphys.bst
+Reallocated field_info (elt_size=4) to 16200 items from 5000.
 Database file #1: ch-nptfit/NPTF.bib
 Database file #2: ch-igrb/fermi_igrb.bib
 Repeated entry---line 11 of file ch-igrb/fermi_igrb.bib
@@ -88,6 +84,10 @@ Repeated entry---line 370 of file ch-igrb/fermi_igrb.bib
  : @article{Abramowski:2012ry
  :                           ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 385 of file ch-igrb/fermi_igrb.bib
+ : @article{Acero-2016
+ :                    ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 394 of file ch-igrb/fermi_igrb.bib
  : @article{Ackermann:2015uya
  :                           ,
@@ -111,6 +111,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 497 of file ch-igrb/fermi_igrb.bib
  : @article{2012Sci...338.1190A
  :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 511 of file ch-igrb/fermi_igrb.bib
+ : @article{Ackermann:2012pya
+ :                           ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 526 of file ch-igrb/fermi_igrb.bib
  : @article{Ackermann:2012vca
@@ -662,6 +666,7 @@ Repeated entry---line 258 of file ch-clusters/fermi_clusters.bib
  : @article{Steigman:2012nb
  :                         ,
 I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Repeated entry---line 393 of file ch-clusters/fermi_clusters.bib
  : @article{Ackermann:2017nya
  :                           ,
@@ -1015,134 +1020,195 @@ Repeated entry---line 1984 of file ch-clusters/fermi_clusters.bib
  :                       ,
 I'm skipping whatever remains of this entry
 Database file #5: ch-intro/introduction.bib
-Repeated entry---line 77 of file ch-intro/introduction.bib
+Repeated entry---line 115 of file ch-intro/introduction.bib
  : @article{Clowe:2006eq
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 140 of file ch-intro/introduction.bib
+Repeated entry---line 178 of file ch-intro/introduction.bib
  : @article{Macias:2016nev
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 380 of file ch-intro/introduction.bib
+Repeated entry---line 418 of file ch-intro/introduction.bib
  : @article{Pospelov:2007mp
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 525 of file ch-intro/introduction.bib
+Repeated entry---line 563 of file ch-intro/introduction.bib
  : @article{Sanchez-Conde:2013yxa
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 542 of file ch-intro/introduction.bib
+Repeated entry---line 580 of file ch-intro/introduction.bib
  : @article{Springel:2008cc
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 654 of file ch-intro/introduction.bib
- : @article{Bergstrom:2013jra
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 893 of file ch-intro/introduction.bib
+Repeated entry---line 931 of file ch-intro/introduction.bib
  : @article{Feng:2008ya
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1021 of file ch-intro/introduction.bib
+Repeated entry---line 1059 of file ch-intro/introduction.bib
  : @article{Bertone:2004pz
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1038 of file ch-intro/introduction.bib
+Repeated entry---line 1076 of file ch-intro/introduction.bib
  : @article{Jungman:1995df
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1092 of file ch-intro/introduction.bib
+Repeated entry---line 1130 of file ch-intro/introduction.bib
  : @article{Sjostrand:2007gs
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1109 of file ch-intro/introduction.bib
+Repeated entry---line 1147 of file ch-intro/introduction.bib
  : @article{Cirelli:2010xx
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1345 of file ch-intro/introduction.bib
+Repeated entry---line 1383 of file ch-intro/introduction.bib
  : @article{Ackermann:2015zua
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1364 of file ch-intro/introduction.bib
+Repeated entry---line 1402 of file ch-intro/introduction.bib
  : @article{Geringer-Sameth:2014qqa
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1381 of file ch-intro/introduction.bib
+Repeated entry---line 1419 of file ch-intro/introduction.bib
  : @article{Fermi-LAT:2016uux
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1480 of file ch-intro/introduction.bib
- : @article{1996PhR...267..195J
- :                             ,
-I'm skipping whatever remains of this entry
-Warning--empty journal in Plehn:2017fdg
-Warning--empty journal in Abbott:2017wau
-Warning--empty journal in Zhang:2017chj
-Warning--empty journal in Aprile:2018dbl
-Warning--empty journal in Agnes:2018ves
-Warning--empty journal in Goodenough:2009gk
-Warning--empty journal in Bartels:2017vsx
-Warning--empty journal in Bartels:2018eyb
-Warning--empty journal in Macias:2016nev
-Warning--empty journal in Chang:2018bpt
-Warning--empty journal in Troster:2016sgf
-Warning--empty journal in Acero:2015hja
-Warning--empty journal in Clark:2016mbb
-Warning--empty journal in Linden:2016rcf
-Warning--empty journal in Lisanti:2016jub
-Warning--empty journal in Daylan:2016tia
-Warning--empty journal in Bechtol:2015uqb
-Warning--empty journal in Bertoni:2016hoh
-Warning--empty journal in Feyereisen:2016fzb
-Warning--empty journal in Feroz:2013hea
+You can't pop an empty literal stack for entry 2009PASJ...61..227S
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2015ApJ...814...13M
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1922ApJ....55..302K
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1932BAN.....6..249O
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1922MNRAS..82..122J
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1931ApJ....74...43H
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1937ApJ....86..217Z
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1970ApJ...159..379R
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1973A&A....26..483R
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1974Natur.250..309E
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1974ApJ...193L...1O
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2013ApJS..208...19H
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2010MNRAS.408.1969V
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2012Natur.481..341V
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1983ApJ...270..365M
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1983ApJ...270..371M
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1983ApJ...270..384M
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1977A&A....54..661T
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2009CQGra..26n3001S
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PhysRevLett.29.669
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PhysRevLett.39.165
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1978ApJ...223.1015G
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1983ApJ...274L...1W
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PhysRevLett.48.223
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PhysRevLett.40.223
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1991NuPhB.360..145G
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PhysRevD.43.3191
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2016MNRAS.462..223B
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2017MNRAS.467.2019R
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1993MNRAS.262..619G
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry behnel2010cython
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry skilling2006
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry PER-GRA:2007
+while executing---line 2447 of file utphys.bst
+`howpublished' is a missing field, not a string, for entry dan_foreman_mackey_2016_53155
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1968ApJ...153L.203C
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1972ApJ...177..341K
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1975ApJ...198..163F
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1978ApJ...222..833F
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1998ApJ...494..523S
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2004ApJ...613..956S
+while executing---line 2447 of file utphys.bst
 Warning--empty author in Collaboration:2010gqa
-Warning--empty journal in Hooper:2016gjy
-Warning--empty journal in Hooper:2016jls
-Warning--empty journal in Adams:2016alz
-Warning--empty journal in Skillman:2014qca
+You can't pop an empty literal stack for entry Loeb:2000aa
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2011arXiv1111.2183C
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1992ApJ...390L..49S
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2010ApJ...712..238F
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2016A&A...589A..33A
+while executing---line 2447 of file utphys.bst
 Warning--empty booktitle in Warren:2013vma
-Warning--empty journal in Elor:2015bho
-Warning--empty journal in Edwards:2017mnf
-Warning--empty journal in Narayanan:2016nzy
-You've used 351 entries,
-            1791 wiz_defined-function locations,
-            2474 strings with 64164 characters,
-and the built_in function-call counts, 75984 in all, are:
-= -- 6230
-> -- 3962
-< -- 3
-+ -- 1449
-- -- 1098
-* -- 5635
-:= -- 12882
-add.period$ -- 1063
-call.type$ -- 351
-change.case$ -- 347
+You can't pop an empty literal stack for entry 1996AJ....111..794K
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 2014ApJ...782....4K
+while executing---line 2447 of file utphys.bst
+You can't pop an empty literal stack for entry 1993AJ....105.2035D
+while executing---line 2447 of file utphys.bst
+You've used 350 entries,
+            2281 wiz_defined-function locations,
+            3454 strings with 84409 characters,
+and the built_in function-call counts, 116984 in all, are:
+= -- 11718
+> -- 3942
+< -- 0
++ -- 1442
+- -- 1092
+* -- 12688
+:= -- 13605
+add.period$ -- 671
+call.type$ -- 350
+change.case$ -- 348
 chr.to.int$ -- 0
-cite$ -- 380
-duplicate$ -- 3147
-empty$ -- 7287
-format.name$ -- 1098
-if$ -- 16491
+cite$ -- 352
+duplicate$ -- 6192
+empty$ -- 11374
+format.name$ -- 1092
+if$ -- 30405
 int.to.chr$ -- 0
-int.to.str$ -- 351
-missing$ -- 352
-newline$ -- 1768
-num.names$ -- 350
-pop$ -- 504
+int.to.str$ -- 350
+missing$ -- 1350
+newline$ -- 1646
+num.names$ -- 349
+pop$ -- 1638
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1210
+skip$ -- 4333
 stack$ -- 0
-substring$ -- 4805
-swap$ -- 346
-text.length$ -- 3
+substring$ -- 4755
+swap$ -- 3067
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 29
-while$ -- 671
-width$ -- 354
-write$ -- 3817
-(There were 265 error messages)
+warning$ -- 2
+while$ -- 776
+width$ -- 353
+write$ -- 3093
+(There were 312 error messages)

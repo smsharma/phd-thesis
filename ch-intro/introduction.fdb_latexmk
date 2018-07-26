@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1531756082 "introduction.tex" "introduction.pdf" "introduction" 1531756085
+["pdflatex"] 1532113636 "introduction.tex" "introduction.pdf" "introduction" 1532113639
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
@@ -8,8 +8,8 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1477785973 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "introduction.aux" 1531752096 16274 3d3054bc302826c30d633ca4bbc3d6a9 ""
-  "introduction.tex" 1531751959 47866 3f5fbe01836f809c5488f7a0b76976dd ""
+  "introduction.aux" 1532108480 16820 cfceca149b2f7e3495b357858d627aea ""
+  "introduction.tex" 1532113080 49042 ff0028a1a010369006421ee517cc625d ""
   (generated)
   "introduction.pdf"
   "introduction.log"

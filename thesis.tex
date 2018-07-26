@@ -11,7 +11,6 @@
 % UseLATEX (https://github.com/kmorel/UseLATEX)
 % ****************************************************************************************** %
 
-
 %%% For print copies
 %% set 'singlespace' option to set entire thesis to single space, and
 %% define "\printmode" to remove all hyperlinks for printed copies of
@@ -33,7 +32,7 @@
 %%%%%%%%%%%%%%%%%%%%%
 %%%%%  DEFAULT  %%%%%
 %%%%%%%%%%%%%%%%%%%%%
-\providecommand{\chooselayout}{\documentclass[12pt,twoside]{puthesis}}
+\providecommand{\chooselayout}{\documentclass[12pt,lot,lof,twoside,longbibliography,nofootinbib,preprintnumbers]{puthesis}}
 \providecommand{\modifyoutput}{}
 \providecommand{\fixupmargins}{\usepackage[hmarginratio=2:1]{geometry}}
 
@@ -113,8 +112,6 @@
 \usepackage{graphicx}
 %\usepackage{subfig,rotate}
 
-
-
 %%% for comments
 \usepackage{verbatim}
 
@@ -139,7 +136,6 @@
 % url package understands urls (with proper line-breaks) without hyperlinking them
 \usepackage{url}
 
-
 \else
 
 \ifdefined\proquestmode
@@ -147,11 +143,10 @@
 
 % ProQuest requires a double spaced version (set previously). They will take an electronic copy, so we want links in the pdf, but also copies may be printed or made into microfilm in black and white, so we want outlined links instead of colored links.
 \usepackage{hyperref}
-\hypersetup{bookmarksnumbered}
 
 % copy the already-set title and author to use in the pdf properties
 \makeatletter
-\hypersetup{pdftitle=\@title,
+\hypersetup{bookmarksnumbered, pdftitle=\@title,
         pdfauthor=\@author}
 \makeatother
 
@@ -166,7 +161,20 @@
 % options:
 %   colorlinks makes links by coloring the text instead of putting a rectangle around the text.
 \usepackage{hyperref}
-\hypersetup{colorlinks,bookmarksnumbered}
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage{cleveref}
+
+\newcommand\myshade{85}
+\colorlet{mylinkcolor}{violet}
+\colorlet{mycitecolor}{YellowOrange}
+\colorlet{myurlcolor}{Aquamarine}
+
+\hypersetup{colorlinks,bookmarksnumbered,
+  linkcolor  = mylinkcolor!\myshade!black,
+  citecolor  = mycitecolor!\myshade!black,
+  urlcolor   = myurlcolor!\myshade!black,
+}
 
 %% Custom imports
 
@@ -215,6 +223,7 @@
 \definecolor{deepblue}{rgb}{0,0,0.9}
 \definecolor{deepred}{rgb}{0.85,0,0}
 \definecolor{deepgreen}{rgb}{0,0.95,0}
+\definecolor{mygray}{gray}{0.97}
 
 \lstdefinestyle{python}{
   belowcaptionskip=1\baselineskip,
@@ -230,6 +239,7 @@
   identifierstyle=\color{black},
   stringstyle=\color{deepred},
   rulecolor=\color{gray},
+  backgroundcolor=\color{mygray},
 }
 
 \lstset{escapechar=@,style=python}
@@ -241,7 +251,7 @@
 
 %\documentclass[twocolumn,twocolappendix]{aastex6}
 %\documentclass[aps,prd,nofootinbib,twocolumn,superscriptaddress,preprintnumbers,groupedaddress]{revtex4} %showpacs
-\bibliographystyle{unsrt}
+% \bibliographystyle{unsrt}
 
 
 \usepackage{amssymb,amsmath,latexsym,graphics, graphicx,epsfig,multirow,comment,hyperref,appendix,slashed,xcolor,afterpage, makecell} 
@@ -337,6 +347,13 @@
 \usepackage{booktabs}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
+% \usepackage[utf8]{inputenc}
+% \usepackage[russian]{babel}
+
+\usepackage{inconsolata}
+% \usepackage{zi4}            % Nice font
+
+
 %% End custom imports
 
 % copy the already-set title and author to use in the pdf properties
@@ -405,20 +422,20 @@
 \else
 
 
-\abstract{\lettrine[lines=4]{W}{e} are at the dawn of a data-driven era in astrophysics and cosmology. A large number of ongoing and forthcoming experiments combined with an increasingly open approach to data availability offer great potential in unlocking some of the deepest mysteries of the Universe. Among these is understanding the nature of dark matter (DM)---one of the major unsolved problems in particle physics. Characterizing DM through its astrophysical signatures will require the use of novel statistical methods and a robust understanding of its distribution in the sky. 
+\abstract{\lettrine[lines=3]{W}{e} are at the dawn of a data-driven era in astrophysics and cosmology. A large number of ongoing and forthcoming experiments combined with an increasingly open approach to data availability offer great potential in unlocking some of the deepest mysteries of the Universe. Among these is understanding the nature of dark matter (DM)---one of the major unsolved problems in particle physics. Characterizing DM through its astrophysical signatures will require a robust understanding of its distribution in the sky and the use of novel statistical methods. 
 
-The first part of this thesis describes the implementation of a novel statistical technique which leverages the ``clumpiness'' of photons originating from point sources (PSs) to derive the properties of PS populations hidden in astrophysical datasets. This is applied to the gamma-ray sky at higher latitudes as seen by the \emph{Fermi} satellite to characterize the contribution of PSs of extragalactic origin, finding that the majority of the extragalactic gamma-rays can be ascribed to unresolved PSs having properties consistent with known sources such as active galactic nuclei, leaving considerably less room for a dark matter contribution.
+The first part of this thesis describes the implementation of a novel statistical technique which leverages the ``clumpiness'' of photons originating from point sources (PSs) to derive the properties of PS populations hidden in astrophysical datasets. This is applied to data from the \emph{Fermi} satellite at high latitudes ($|b|\geq 30^\circ$) to characterize the contribution of PSs of extragalactic origin. We find that the majority of extragalactic gamma-ray emission can be ascribed to unresolved PSs having properties consistent with known sources such as active galactic nuclei. This leaves considerably less room for significant dark matter contribution.
 
-The second part of this thesis asks the question: ``what is the best way to look for annihilating dark matter in extragalactic sources?'' and attempts to answer it by constructing a pipeline to robustly map out the distribution of dark matter in the local neighborhood using galaxy group catalogs. This framework is applied to \emph{Fermi} data and existing group catalogs to search for annihilating dark matter in local galaxies and clusters, and stringent bounds are obtained in the absence of a signal.
+The second part of this thesis poses the question: ``what is the best way to look for annihilating dark matter in extragalactic sources?'' and attempts to answer it by constructing a pipeline to robustly map out the distribution of dark matter outside the Milky Way using galaxy group catalogs. This framework is then applied to \emph{Fermi} data and existing group catalogs to search for annihilating dark matter in extragalactic galaxies and clusters.
 
 % Abstract can be any length, but should be max 350 words for a Dissertation for ProQuest's print indicies (150 words for a Master's Thesis) or it will be truncated for those uses.
 % \input{abstract}
 }
 
-% \acknowledgements{
-% %I would like to thank...
-% \input{acknowledgements}
-% }
+\acknowledgements{
+%I would like to thank...
+\input{acknowledgements}
+}
 
 % \dedication{To family and friends.}
 
@@ -508,7 +525,7 @@ The second part of this thesis asks the question: ``what is the best way to look
                 % Journal of Cosmology and Astroparticle Physics
 \def\jrasc{{JRASC}}             % Journal of the RAS of Canada
 \def\memras{{MmRAS}}            % Memoirs of the RAS
-\def\mnras{{MNRAS}}             % Monthly Notices of the RAS
+\def\mnras{{Mon. Not. Roy. Astron. Soc.}}             % Monthly Notices of the RAS
 \def\na{{New A}}                % New Astronomy
 \def\nar{{New A Rev.}}          % New Astronomy Review
 \def\pra{{Phys.~Rev.~A}}        % Physical Review A: General Physics
@@ -578,7 +595,7 @@ The second part of this thesis asks the question: ``what is the best way to look
 
 % Make the bibliography single spaced
 \singlespacing
-\bibliographystyle{plain}
+\bibliographystyle{utphys}
 
 % add the Bibliography to the Table of Contents
 \cleardoublepage
@@ -593,3 +610,4 @@ The second part of this thesis asks the question: ``what is the best way to look
 
 \end{document}
 
+Generically, some of the dark pions could decay promptly and some could be long lived or even collider stable, analogous to the neutral vs. charged pions in the SM. If both stable and unstable hadrons are produced in a collision, the missing energy could be aligned along one of the jets, resulting in low acceptance for traditional monojet-style searches. This is the semi-visible jets scenario, and Refs.~\cite{Cohen:2015toa,Cohen:2017pzm} introduce a Simplified Model-like parameterization to map the complicated dynamics of the underlying dark sector onto a limited number of physically-motivated variables---in particular, the fraction of stable vs decaying pions, the characteristic mass scale of dark pions and the dark coupling strength. In particular, the Monte Carlo described here along with the \texttt{Pythia8} Hidden Valley module allows the user to vary these for the $s$- and $t$-channel UV completions. See Refs.~\cite{Cohen:2015toa,Cohen:2017pzm} for further details.

@@ -1,2047 +1,2636 @@
-\begin{thebibliography}{100}
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{100}
 
-\bibitem{Lisanti:2016jxe}
-Mariangela Lisanti.
-\newblock {Lectures on Dark Matter Physics}.
-\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
-  Elementary Particle Physics: New Frontiers in Fields and Strings (TASI 2015):
-  Boulder, CO, USA, June 1-26, 2015}}, pages 399--446, 2017.
+\bibitem{Acero:2015hja}
+{\bf Fermi-LAT} Collaboration, F.~Acero {\em et al.}, ``{Fermi Large Area
+  Telescope Third Source Catalog},''
+\href{http://arxiv.org/abs/1501.02003}{{\tt arXiv:1501.02003 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1501.02003;%%.
 
-\bibitem{Plehn:2017fdg}
-Tilman Plehn.
-\newblock {Yet Another Introduction to Dark Matter}.
-\newblock 2017.
+\bibitem{Ackermann:2015uya}
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{2FHL: The Second
+  Catalog of Hard Fermi-LAT Sources},''
+  \href{http://dx.doi.org/10.3847/0067-0049/222/1/5}{{\em Astrophys. J. Suppl.}
+  {\bf 222} (2016) no.~1, 5},
+\href{http://arxiv.org/abs/1508.04449}{{\tt arXiv:1508.04449 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1508.04449;%%.
 
-\bibitem{Slatyer:2017sev}
-Tracy~R. Slatyer.
-\newblock {Indirect Detection of Dark Matter}.
-\newblock In {\em {Proceedings, Theoretical Advanced Study Institute in
-  Elementary Particle Physics : Anticipating the Next Discoveries in Particle
-  Physics (TASI 2016): Boulder, CO, USA, June 6-July 1, 2016}}, pages 297--353,
-  2018.
+\bibitem{Ackermann:2014usa}
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{The spectrum of
+  isotropic diffuse gamma-ray emission between 100 MeV and 820 GeV},''
+  \href{http://dx.doi.org/10.1088/0004-637X/799/1/86}{{\em Astrophys. J.} {\bf
+  799} (2015)  86},
+\href{http://arxiv.org/abs/1410.3696}{{\tt arXiv:1410.3696 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1410.3696;%%.
 
-\bibitem{Bertone:2016nfn}
-Gianfranco Bertone and Dan Hooper.
-\newblock {A History of Dark Matter}.
-\newblock {\em Submitted to: Rev. Mod. Phys.}, 2016.
+\bibitem{Correa:2015dva}
+C.~A. Correa, J.~S.~B. Wyithe, J.~Schaye, and A.~R. Duffy, ``{The accretion
+  history of dark matter haloes -- III. A physical model for the
+  concentration--mass relation},''
+  \href{http://dx.doi.org/10.1093/mnras/stv1363}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 452} (2015) no.~2, 1217--1232},
+\href{http://arxiv.org/abs/1502.00391}{{\tt arXiv:1502.00391 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1502.00391;%%.
 
-\bibitem{1922ApJ....55..302K}
-J.~C. {Kapteyn}.
-\newblock {First Attempt at a Theory of the Arrangement and Motion of the
-  Sidereal System}.
-\newblock {\em \apj}, 55:302, May 1922.
+\bibitem{Bartels:2015uba}
+R.~Bartels and S.~Ando, ``{Boosting the annihilation boost: Tidal effects on
+  dark matter subhalos and consistent luminosity modeling},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.92.123508}{{\em Phys. Rev.} {\bf
+  D92} (2015) no.~12, 123508},
+\href{http://arxiv.org/abs/1507.08656}{{\tt arXiv:1507.08656 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1507.08656;%%.
 
-\bibitem{1932BAN.....6..249O}
-J.~H. {Oort}.
-\newblock {The force exerted by the stellar system in the direction
-  perpendicular to the galactic plane and some related problems}.
-\newblock {\em \bain}, 6:249, August 1932.
+\bibitem{Tully:2015opa}
+R.~B. Tully, ``{Galaxy Groups: A 2MASS Catalog},''
+  \href{http://dx.doi.org/10.1088/0004-6256/149/5/171}{{\em Astron. J.} {\bf
+  149} (2015)  171},
+\href{http://arxiv.org/abs/1503.03134}{{\tt arXiv:1503.03134 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1503.03134;%%.
 
-\bibitem{1922MNRAS..82..122J}
-J.~H. {Jeans}.
-\newblock {The Motions of Stars in a Kapteyn Universe}.
-\newblock {\em \mnras}, 82:122--132, January 1922.
-
-\bibitem{1931ApJ....74...43H}
-E.~{Hubble} and M.~L. {Humason}.
-\newblock {The Velocity-Distance Relation among Extra-Galactic Nebulae}.
-\newblock {\em \apj}, 74:43, July 1931.
-
-\bibitem{1933AcHPh...6..110Z}
-F.~{Zwicky}.
-\newblock {Die Rotverschiebung von extragalaktischen Nebeln}.
-\newblock {\em Helvetica Physica Acta}, 6:110--127, 1933.
-
-\bibitem{1937ApJ....86..217Z}
-F.~{Zwicky}.
-\newblock {On the Masses of Nebulae and of Clusters of Nebulae}.
-\newblock {\em \apj}, 86:217, October 1937.
-
-\bibitem{1939LicOB..19...41B}
-H.~W. {Babcock}.
-\newblock {The rotation of the Andromeda Nebula}.
-\newblock {\em Lick Observatory Bulletin}, 19:41--51, 1939.
-
-\bibitem{1970ApJ...159..379R}
-V.~C. {Rubin} and W.~K. {Ford}, Jr.
-\newblock {Rotation of the Andromeda Nebula from a Spectroscopic Survey of
-  Emission Regions}.
-\newblock {\em \apj}, 159:379, February 1970.
-
-\bibitem{1973A&A....26..483R}
-M.~S. {Roberts} and A.~H. {Rots}.
-\newblock {Comparison of Rotation Curves of Different Galaxy Types}.
-\newblock {\em \aap}, 26:483--485, August 1973.
-
-\bibitem{1974Natur.250..309E}
-J.~{Einasto}, A.~{Kaasik}, and E.~{Saar}.
-\newblock {Dynamic evidence on massive coronas of galaxies}.
-\newblock {\em \nat}, 250:309--310, July 1974.
-
-\bibitem{1974ApJ...193L...1O}
-J.~P. {Ostriker}, P.~J.~E. {Peebles}, and A.~{Yahil}.
-\newblock {The size and mass of galaxies, and the mass of the universe}.
-\newblock {\em \apjl}, 193:L1--L4, October 1974.
+\bibitem{2017ApJ...843...16K}
+E.~Kourkchi and R.~B. Tully, ``{Galaxy Groups Within 3500 km s$^{-1}$},''
+  \href{http://dx.doi.org/10.3847/1538-4357/aa76db}{{\em Astrophys. J.} {\bf
+  843} (2017)  16},
+\href{http://arxiv.org/abs/1705.08068}{{\tt arXiv:1705.08068 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1503.03134;%%.
 
 \bibitem{2009PASJ...61..227S}
-Y.~{Sofue}, M.~{Honma}, and T.~{Omodaka}.
-\newblock {Unified Rotation Curve of the Galaxy -- Decomposition into de
-  Vaucouleurs Bulge, Disk, Dark Halo, and the 9-kpc Rotation Dip --}.
-\newblock {\em \pasj}, 61:227--236, February 2009.
+Y.~{Sofue}, M.~{Honma}, and T.~{Omodaka},
+  \href{http://dx.doi.org/10.1093/pasj/61.2.227}{``{Unified Rotation Curve of
+  the Galaxy -- Decomposition into de Vaucouleurs Bulge, Disk, Dark Halo, and
+  the 9-kpc Rotation Dip --},''{\em \pasj} {\bf 61} (Feb., 2009)  227--236},
+  \href{http://arxiv.org/abs/0811.0859}{{\tt arXiv:0811.0859}}.
+
+\bibitem{Ade:2015xua}
+{\bf Planck} Collaboration, P.~A.~R. Ade {\em et al.}, ``{Planck 2015 results.
+  XIII. Cosmological parameters},''
+  \href{http://dx.doi.org/10.1051/0004-6361/201525830}{{\em Astron. Astrophys.}
+  {\bf 594} (2016)  A13},
+\href{http://arxiv.org/abs/1502.01589}{{\tt arXiv:1502.01589 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1502.01589;%%.
+
+\bibitem{Lewis:1999bs}
+A.~Lewis, A.~Challinor, and A.~Lasenby, ``{Efficient computation of CMB
+  anisotropies in closed FRW models},''
+  \href{http://dx.doi.org/10.1086/309179}{{\em Astrophys. J.} {\bf 538} (2000)
+  473--476},
+\href{http://arxiv.org/abs/astro-ph/9911177}{{\tt arXiv:astro-ph/9911177
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9911177;%%.
+
+\bibitem{2015ApJ...814...13M}
+C.~F. {McKee}, A.~{Parravano}, and D.~J. {Hollenbach},
+  \href{http://dx.doi.org/10.1088/0004-637X/814/1/13}{``{Stars, Gas, and Dark
+  Matter in the Solar Neighborhood},''{\em \apj} {\bf 814} (Nov., 2015)  13},
+  \href{http://arxiv.org/abs/1509.05334}{{\tt arXiv:1509.05334}}.
+
+\bibitem{Sivertsson:2017rkp}
+S.~Sivertsson, H.~Silverwood, J.~I. Read, G.~Bertone, and P.~Steger, ``{The
+  Local Dark Matter Density from SDSS-SEGUE G-dwarfs},'' {\em Submitted to:
+  Mon. Not. Roy. Astron. Soc.} (2017)  ,
+\href{http://arxiv.org/abs/1708.07836}{{\tt arXiv:1708.07836 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1708.07836;%%.
+
+\bibitem{Read:2014qva}
+J.~I. Read, ``{The Local Dark Matter Density},''
+  \href{http://dx.doi.org/10.1088/0954-3899/41/6/063101}{{\em J. Phys.} {\bf
+  G41} (2014)  063101},
+\href{http://arxiv.org/abs/1404.1938}{{\tt arXiv:1404.1938 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1404.1938;%%.
+
+\bibitem{Fermi-LAT:2016uux}
+{\bf DES, Fermi-LAT} Collaboration, A.~Albert {\em et al.}, ``{Searching for
+  Dark Matter Annihilation in Recently Discovered Milky Way Satellites with
+  Fermi-LAT},'' \href{http://dx.doi.org/10.3847/1538-4357/834/2/110}{{\em
+  Astrophys. J.} {\bf 834} (2017) no.~2, 110},
+\href{http://arxiv.org/abs/1611.03184}{{\tt arXiv:1611.03184 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1611.03184;%%.
+
+\bibitem{Hutten:2016jko}
+M.~H{\"u}tten, C.~Combet, G.~Maier, and D.~Maurin, ``{Dark matter substructure
+  modelling and sensitivity of the Cherenkov Telescope Array to Galactic dark
+  halos},'' \href{http://dx.doi.org/10.1088/1475-7516/2016/09/047}{{\em JCAP}
+  {\bf 1609} (2016) no.~09, 047},
+\href{http://arxiv.org/abs/1606.04898}{{\tt arXiv:1606.04898 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1606.04898;%%.
+
+\bibitem{Springel:2008cc}
+V.~Springel {\em et al.}, ``{The Aquarius Project: the subhalos of galactic
+  halos},'' \href{http://dx.doi.org/10.1111/j.1365-2966.2008.14066.x}{{\em Mon.
+  Not. Roy. Astron. Soc.} {\bf 391} (2008)  1685--1711},
+\href{http://arxiv.org/abs/0809.0898}{{\tt arXiv:0809.0898 [astro-ph]}}.
+%%CITATION = 0809.0898;%%.
+
+\bibitem{Sanchez-Conde:2013yxa}
+M.~A. S{\'a}nchez-Conde and F.~Prada, ``{The flattening of the
+  concentration--mass relation towards low halo masses and its implications for
+  the annihilation signal boost},''
+  \href{http://dx.doi.org/10.1093/mnras/stu1014}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 442} (2014) no.~3, 2271--2277},
+\href{http://arxiv.org/abs/1312.1729}{{\tt arXiv:1312.1729 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1312.1729;%%.
+
+\bibitem{Bertoni:2015mla}
+B.~Bertoni, D.~Hooper, and T.~Linden, ``{Examining The Fermi-LAT Third Source
+  Catalog In Search Of Dark Matter Subhalos},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/12/035}{{\em JCAP} {\bf 1512}
+  (2015) no.~12, 035},
+\href{http://arxiv.org/abs/1504.02087}{{\tt arXiv:1504.02087 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1504.02087;%%.
+
+\bibitem{Su:2010qj}
+M.~Su, T.~R. Slatyer, and D.~P. Finkbeiner, ``{Giant Gamma-ray Bubbles from
+  Fermi-LAT: AGN Activity or Bipolar Galactic Wind?},''
+  \href{http://dx.doi.org/10.1088/0004-637X/724/2/1044}{{\em Astrophys.J.} {\bf
+  724} (2010)  1044--1082},
+\href{http://arxiv.org/abs/1005.5480}{{\tt arXiv:1005.5480 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1005.5480;%%.
+
+\bibitem{Fermi-LAT:2014sfa}
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{The Spectrum and
+  Morphology of the $Fermi$ Bubbles},''
+  \href{http://dx.doi.org/10.1088/0004-637X/793/1/64}{{\em Astrophys. J.} {\bf
+  793} (2014) no.~1, 64},
+\href{http://arxiv.org/abs/1407.7905}{{\tt arXiv:1407.7905 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1407.7905;%%.
+
+\bibitem{Ajello:2015mfa}
+M.~Ajello {\em et al.}, ``{The Origin of the Extragalactic Gamma-Ray Background
+  and Implications for Dark-Matter Annihilation},''
+  \href{http://dx.doi.org/10.1088/2041-8205/800/2/L27}{{\em Astrophys. J.} {\bf
+  800} (2015) no.~2, L27},
+\href{http://arxiv.org/abs/1501.05301}{{\tt arXiv:1501.05301 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1501.05301;%%.
+
+\bibitem{Ajello:2011zi}
+M.~Ajello {\em et al.}, ``{The Luminosity Function of Fermi-detected
+  Flat-Spectrum Radio Quasars},''
+  \href{http://dx.doi.org/10.1088/0004-637X/751/2/108}{{\em Astrophys. J.} {\bf
+  751} (2012)  108},
+\href{http://arxiv.org/abs/1110.3787}{{\tt arXiv:1110.3787 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1110.3787;%%.
+
+\bibitem{Ajello:2013lka}
+M.~Ajello {\em et al.}, ``{The Cosmic Evolution of Fermi BL Lacertae
+  Objects},'' \href{http://dx.doi.org/10.1088/0004-637X/780/1/73}{{\em
+  Astrophys. J.} {\bf 780} (2014)  73},
+\href{http://arxiv.org/abs/1310.0006}{{\tt arXiv:1310.0006 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1310.0006;%%.
+
+\bibitem{Tamborra:2014xia}
+I.~Tamborra, S.~Ando, and K.~Murase, ``{Star-forming galaxies as the origin of
+  diffuse high-energy backgrounds: Gamma-ray and neutrino connections, and
+  implications for starburst history},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2014/09/043}{{\em JCAP} {\bf 1409}
+  (2014)  043},
+\href{http://arxiv.org/abs/1404.1189}{{\tt arXiv:1404.1189 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1404.1189;%%.
+
+\bibitem{TheFermi-LAT:2015ykq}
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Resolving the
+  Extragalactic $\gamma$-Ray Background above 50 GeV with the Fermi Large Area
+  Telescope},'' \href{http://dx.doi.org/10.1103/PhysRevLett.116.151105}{{\em
+  Phys. Rev. Lett.} {\bf 116} (2016) no.~15, 151105},
+\href{http://arxiv.org/abs/1511.00693}{{\tt arXiv:1511.00693 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1511.00693;%%.
+
+\bibitem{Diemer:2014gba}
+B.~Diemer and A.~V. Kravtsov, ``{A universal model for halo concentrations},''
+  \href{http://dx.doi.org/10.1088/0004-637X/799/1/108}{{\em Astrophys. J.} {\bf
+  799} (2015) no.~1, 108},
+\href{http://arxiv.org/abs/1407.4730}{{\tt arXiv:1407.4730 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1407.4730;%%.
+
+\bibitem{Prada:2011jf}
+F.~Prada, A.~A. Klypin, A.~J. Cuesta, J.~E. Betancort-Rijo, and J.~Primack,
+  ``{Halo concentrations in the standard LCDM cosmology},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2012.21007.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 423} (2012)  3018--3030},
+\href{http://arxiv.org/abs/1104.5130}{{\tt arXiv:1104.5130 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1104.5130;%%.
+
+\bibitem{Moline:2016pbm}
+{\'A}.~Molin{\'e}, M.~A. S{\'a}nchez-Conde, S.~Palomares-Ruiz, and F.~Prada,
+  ``{Characterization of subhalo structural properties and implications for
+  dark matter annihilation signals},''
+  \href{http://dx.doi.org/10.1093/mnras/stx026}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 466} (2017) no.~4, 4974--4990},
+\href{http://arxiv.org/abs/1603.04057}{{\tt arXiv:1603.04057 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1603.04057;%%.
+
+\bibitem{Gao:2011rf}
+L.~Gao, C.~S. Frenk, A.~Jenkins, V.~Springel, and S.~D.~M. White, ``{Where will
+  supersymmetric dark matter first be seen?},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2011.19836.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 419} (2012)  1721},
+\href{http://arxiv.org/abs/1107.1916}{{\tt arXiv:1107.1916 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1107.1916;%%.
+
+\bibitem{Steigman:2012nb}
+G.~Steigman, B.~Dasgupta, and J.~F. Beacom, ``{Precise Relic WIMP Abundance and
+  its Impact on Searches for Dark Matter Annihilation},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.023506}{{\em Phys.Rev.} {\bf D86}
+  (2012)  023506},
+\href{http://arxiv.org/abs/1204.3622}{{\tt arXiv:1204.3622 [hep-ph]}}.
+%%CITATION = ARXIV:1204.3622;%%.
+
+\bibitem{Lu:2016vmu}
+Y.~Lu, X.~Yang, F.~Shi, H.~J. Mo, D.~Tweed, H.~Wang, Y.~Zhang, S.~Li, and S.~H.
+  Lim, ``{Galaxy groups in the 2MASS Redshift Survey},''
+  \href{http://dx.doi.org/10.3847/0004-637X/832/1/39}{{\em Astrophys. J.} {\bf
+  832} (2016) no.~1, 39},
+\href{http://arxiv.org/abs/1607.03982}{{\tt arXiv:1607.03982 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1607.03982;%%.
+
+\bibitem{Reiprich:2001zv}
+T.~H. Reiprich and H.~Boehringer, ``{The Mass function of an X-ray flux-limited
+  sample of galaxy clusters},'' \href{http://dx.doi.org/10.1086/338753}{{\em
+  Astrophys. J.} {\bf 567} (2002)  716--740},
+\href{http://arxiv.org/abs/astro-ph/0111285}{{\tt arXiv:astro-ph/0111285
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0111285;%%.
+
+\bibitem{Chen:2007sz}
+Y.~Chen, T.~H. Reiprich, H.~Bohringer, Y.~Ikebe, and Y.~Y. Zhang, ``{Statistics
+  of X-ray observables for the cooling-core and non-cooling core galaxy
+  clusters},'' \href{http://dx.doi.org/10.1051/0004-6361:20066471}{{\em Astron.
+  Astrophys.} (2007)  }, \href{http://arxiv.org/abs/astro-ph/0702482}{{\tt
+  arXiv:astro-ph/0702482 [astro-ph]}}.
+[Astron. Astrophys.466,805(2007)].
+%%CITATION = ASTRO-PH/0702482;%%.
+
+\bibitem{Burkert:1995yz}
+A.~Burkert, ``{The Structure of dark matter halos in dwarf galaxies},''
+  \href{http://dx.doi.org/10.1086/309560}{{\em IAU Symp.} {\bf 171} (1996)
+  175}, \href{http://arxiv.org/abs/astro-ph/9504041}{{\tt
+  arXiv:astro-ph/9504041 [astro-ph]}}.
+[Astrophys. J.447,L25(1995)].
+%%CITATION = ASTRO-PH/9504041;%%.
+
+\bibitem{Lisanti:2016jxe}
+M.~Lisanti, \href{http://dx.doi.org/10.1142/9789813149441_0007}{``{Lectures on
+  Dark Matter Physics},''} in {\em {Proceedings, Theoretical Advanced Study
+  Institute in Elementary Particle Physics: New Frontiers in Fields and Strings
+  (TASI 2015): Boulder, CO, USA, June 1-26, 2015}}, pp.~399--446.
+\newblock 2017.
+\newblock \href{http://arxiv.org/abs/1603.03797}{{\tt arXiv:1603.03797
+  [hep-ph]}}.
+\newblock
+\url{http://inspirehep.net/record/1427360/files/arXiv:1603.03797.pdf}.
+\newblock
+%%CITATION = ARXIV:1603.03797;%%.
+
+\bibitem{Plehn:2017fdg}
+T.~Plehn, ``{Yet Another Introduction to Dark Matter},''
+\href{http://arxiv.org/abs/1705.01987}{{\tt arXiv:1705.01987 [hep-ph]}}.
+%%CITATION = ARXIV:1705.01987;%%.
+
+\bibitem{Slatyer:2017sev}
+T.~R. Slatyer, \href{http://dx.doi.org/10.1142/9789813233348_0005}{``{Indirect
+  Detection of Dark Matter},''} in {\em {Proceedings, Theoretical Advanced
+  Study Institute in Elementary Particle Physics : Anticipating the Next
+  Discoveries in Particle Physics (TASI 2016): Boulder, CO, USA, June 6-July 1,
+  2016}}, pp.~297--353.
+\newblock 2018.
+\newblock
+\href{http://arxiv.org/abs/1710.05137}{{\tt arXiv:1710.05137 [hep-ph]}}.
+\newblock
+%%CITATION = ARXIV:1710.05137;%%.
+
+\bibitem{Bertone:2016nfn}
+G.~Bertone and D.~Hooper, ``{A History of Dark Matter},'' {\em Submitted to:
+  Rev. Mod. Phys.} (2016)  ,
+\href{http://arxiv.org/abs/1605.04909}{{\tt arXiv:1605.04909 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1605.04909;%%.
+
+\bibitem{1922ApJ....55..302K}
+J.~C. {Kapteyn}, \href{http://dx.doi.org/10.1086/142670}{``{First Attempt at a
+  Theory of the Arrangement and Motion of the Sidereal System},''{\em \apj}
+  {\bf 55} (May, 1922)  302}.
+
+\bibitem{1932BAN.....6..249O}
+J.~H. {Oort}, ``{The force exerted by the stellar system in the direction
+  perpendicular to the galactic plane and some related problems},''{\em \bain}
+  {\bf 6} (Aug., 1932)  249.
+
+\bibitem{1922MNRAS..82..122J}
+J.~H. {Jeans}, \href{http://dx.doi.org/10.1093/mnras/82.3.122}{``{The Motions
+  of Stars in a Kapteyn Universe},''{\em \mnras} {\bf 82} (Jan., 1922)
+  122--132}.
+
+\bibitem{1931ApJ....74...43H}
+E.~{Hubble} and M.~L. {Humason}, \href{http://dx.doi.org/10.1086/143323}{``{The
+  Velocity-Distance Relation among Extra-Galactic Nebulae},''{\em \apj} {\bf
+  74} (July, 1931)  43}.
+
+\bibitem{1933AcHPh...6..110Z}
+F.~{Zwicky}, ``{Die Rotverschiebung von extragalaktischen Nebeln},'' {\em
+  Helvetica Physica Acta} {\bf 6} (1933)  110--127.
+
+\bibitem{1937ApJ....86..217Z}
+F.~{Zwicky}, \href{http://dx.doi.org/10.1086/143864}{``{On the Masses of
+  Nebulae and of Clusters of Nebulae},''{\em \apj} {\bf 86} (Oct., 1937)  217}.
+
+\bibitem{1939LicOB..19...41B}
+H.~W. {Babcock}, ``{The rotation of the Andromeda Nebula},''
+  \href{http://dx.doi.org/10.5479/ADS/bib/1939LicOB.19.41B}{{\em Lick
+  Observatory Bulletin} {\bf 19} (1939)  41--51}.
+
+\bibitem{1970ApJ...159..379R}
+V.~C. {Rubin} and W.~K. {Ford}, Jr.,
+  \href{http://dx.doi.org/10.1086/150317}{``{Rotation of the Andromeda Nebula
+  from a Spectroscopic Survey of Emission Regions},''{\em \apj} {\bf 159}
+  (Feb., 1970)  379}.
+
+\bibitem{1973A&A....26..483R}
+M.~S. {Roberts} and A.~H. {Rots}, ``{Comparison of Rotation Curves of Different
+  Galaxy Types},''{\em \aap} {\bf 26} (Aug., 1973)  483--485.
+
+\bibitem{1974Natur.250..309E}
+J.~{Einasto}, A.~{Kaasik}, and E.~{Saar},
+  \href{http://dx.doi.org/10.1038/250309a0}{``{Dynamic evidence on massive
+  coronas of galaxies},''{\em \nat} {\bf 250} (July, 1974)  309--310}.
+
+\bibitem{1974ApJ...193L...1O}
+J.~P. {Ostriker}, P.~J.~E. {Peebles}, and A.~{Yahil},
+  \href{http://dx.doi.org/10.1086/181617}{``{The size and mass of galaxies, and
+  the mass of the universe},''{\em \apjl} {\bf 193} (Oct., 1974)  L1--L4}.
 
 \bibitem{Dodelson:1282338}
-Scott Dodelson.
-\newblock {\em {Modern cosmology}}.
+S.~Dodelson, {\em {Modern cosmology}}.
 \newblock Academic Press, San Diego, CA, 2003.
+\newblock \url{https://cds.cern.ch/record/1282338}.
 
 \bibitem{Kolb:1990vq}
-Edward~W. Kolb and Michael~S. Turner.
-\newblock {The Early Universe}.
-\newblock {\em Front. Phys.}, 69:1--547, 1990.
+E.~W. Kolb and M.~S. Turner, ``{The Early Universe},''
+{\em Front. Phys.} {\bf 69} (1990)  1--547.
+%%CITATION = FRPHA,69,1;%%.
 
 \bibitem{2013ApJS..208...19H}
 G.~{Hinshaw}, D.~{Larson}, E.~{Komatsu}, D.~N. {Spergel}, C.~L. {Bennett},
   J.~{Dunkley}, M.~R. {Nolta}, M.~{Halpern}, R.~S. {Hill}, N.~{Odegard},
   L.~{Page}, K.~M. {Smith}, J.~L. {Weiland}, B.~{Gold}, N.~{Jarosik},
   A.~{Kogut}, M.~{Limon}, S.~S. {Meyer}, G.~S. {Tucker}, E.~{Wollack}, and
-  E.~L. {Wright}.
-\newblock {Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
-  Cosmological Parameter Results}.
-\newblock {\em \apjs}, 208:19, October 2013.
-
-\bibitem{Ade:2015xua}
-P.~A.~R. Ade et~al.
-\newblock {Planck 2015 results. XIII. Cosmological parameters}.
-\newblock {\em Astron. Astrophys.}, 594:A13, 2016.
-
-\bibitem{Lewis:1999bs}
-Antony Lewis, Anthony Challinor, and Anthony Lasenby.
-\newblock {Efficient computation of CMB anisotropies in closed FRW models}.
-\newblock {\em Astrophys. J.}, 538:473--476, 2000.
+  E.~L. {Wright},
+  \href{http://dx.doi.org/10.1088/0067-0049/208/2/19}{``{Nine-year Wilkinson
+  Microwave Anisotropy Probe (WMAP) Observations: Cosmological Parameter
+  Results},''{\em \apjs} {\bf 208} (Oct., 2013)  19},
+  \href{http://arxiv.org/abs/1212.5226}{{\tt arXiv:1212.5226}}.
 
 \bibitem{Alam:2016hwk}
-Shadab Alam et~al.
-\newblock {The clustering of galaxies in the completed SDSS-III Baryon
-  Oscillation Spectroscopic Survey: cosmological analysis of the DR12 galaxy
-  sample}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 470(3):2617--2652, 2017.
+{\bf BOSS} Collaboration, S.~Alam {\em et al.}, ``{The clustering of galaxies
+  in the completed SDSS-III Baryon Oscillation Spectroscopic Survey:
+  cosmological analysis of the DR12 galaxy sample},''
+  \href{http://dx.doi.org/10.1093/mnras/stx721}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 470} (2017) no.~3, 2617--2652},
+\href{http://arxiv.org/abs/1607.03155}{{\tt arXiv:1607.03155 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1607.03155;%%.
 
 \bibitem{Abbott:2017wau}
-T.~M.~C. Abbott et~al.
-\newblock {Dark Energy Survey Year 1 Results: Cosmological Constraints from
-  Galaxy Clustering and Weak Lensing}.
-\newblock 2017.
+{\bf DES} Collaboration, T.~M.~C. Abbott {\em et al.}, ``{Dark Energy Survey
+  Year 1 Results: Cosmological Constraints from Galaxy Clustering and Weak
+  Lensing},''
+\href{http://arxiv.org/abs/1708.01530}{{\tt arXiv:1708.01530 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1708.01530;%%.
 
 \bibitem{2010MNRAS.408.1969V}
-S.~{Vegetti}, L.~V.~E. {Koopmans}, A.~{Bolton}, T.~{Treu}, and R.~{Gavazzi}.
-\newblock {Detection of a dark substructure through gravitational imaging}.
-\newblock {\em \mnras}, 408:1969--1981, November 2010.
+S.~{Vegetti}, L.~V.~E. {Koopmans}, A.~{Bolton}, T.~{Treu}, and R.~{Gavazzi},
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2010.16865.x}{``{Detection of a
+  dark substructure through gravitational imaging},''{\em \mnras} {\bf 408}
+  (Nov., 2010)  1969--1981}, \href{http://arxiv.org/abs/0910.0760}{{\tt
+  arXiv:0910.0760}}.
 
 \bibitem{2012Natur.481..341V}
 S.~{Vegetti}, D.~J. {Lagattuta}, J.~P. {McKean}, M.~W. {Auger}, C.~D.
-  {Fassnacht}, and L.~V.~E. {Koopmans}.
-\newblock {Gravitational detection of a low-mass dark satellite galaxy at
-  cosmological distance}.
-\newblock {\em \nat}, 481:341--343, January 2012.
+  {Fassnacht}, and L.~V.~E. {Koopmans},
+  \href{http://dx.doi.org/10.1038/nature10669}{``{Gravitational detection of a
+  low-mass dark satellite galaxy at cosmological distance},''{\em \nat} {\bf
+  481} (Jan., 2012)  341--343}, \href{http://arxiv.org/abs/1201.3643}{{\tt
+  arXiv:1201.3643}}.
 
 \bibitem{Clowe:2006eq}
-Douglas Clowe et~al.
-\newblock {A direct empirical proof of the existence of dark matter}.
-\newblock {\em Astrophys. J.}, 648:L109--L113, 2006.
+D.~Clowe {\em et al.}, ``{A direct empirical proof of the existence of dark
+  matter},'' {\em Astrophys. J.} {\bf 648} (2006)  L109--L113,
+\href{http://arxiv.org/abs/astro-ph/0608407}{{\tt astro-ph/0608407}}.
+%%CITATION = ASTRO-PH/0608407;%%.
 
 \bibitem{1983ApJ...270..365M}
-M.~{Milgrom}.
-\newblock {A modification of the Newtonian dynamics as a possible alternative
-  to the hidden mass hypothesis}.
-\newblock {\em \apj}, 270:365--370, July 1983.
+M.~{Milgrom}, \href{http://dx.doi.org/10.1086/161130}{``{A modification of the
+  Newtonian dynamics as a possible alternative to the hidden mass
+  hypothesis},''{\em \apj} {\bf 270} (July, 1983)  365--370}.
 
 \bibitem{1983ApJ...270..371M}
-M.~{Milgrom}.
-\newblock {A modification of the Newtonian dynamics - Implications for
-  galaxies}.
-\newblock {\em \apj}, 270:371--389, July 1983.
+M.~{Milgrom}, \href{http://dx.doi.org/10.1086/161131}{``{A modification of the
+  Newtonian dynamics - Implications for galaxies},''{\em \apj} {\bf 270} (July,
+  1983)  371--389}.
 
 \bibitem{1983ApJ...270..384M}
-M.~{Milgrom}.
-\newblock {A Modification of the Newtonian Dynamics - Implications for Galaxy
-  Systems}.
-\newblock {\em \apj}, 270:384, July 1983.
+M.~{Milgrom}, \href{http://dx.doi.org/10.1086/161132}{``{A Modification of the
+  Newtonian Dynamics - Implications for Galaxy Systems},''{\em \apj} {\bf 270}
+  (July, 1983)  384}.
 
 \bibitem{1977A&A....54..661T}
-R.~B. {Tully} and J.~R. {Fisher}.
-\newblock {A new method of determining distances to galaxies}.
-\newblock {\em \aap}, 54:661--673, February 1977.
+R.~B. {Tully} and J.~R. {Fisher}, ``{A new method of determining distances to
+  galaxies},''{\em \aap} {\bf 54} (Feb., 1977)  661--673.
 
 \bibitem{Bekenstein:2004ne}
-Jacob~D. Bekenstein.
-\newblock {Relativistic gravitation theory for the MOND paradigm}.
-\newblock {\em Phys. Rev.}, D70:083509, 2004.
-\newblock [Erratum: Phys. Rev.D71,069901(2005)].
+J.~D. Bekenstein, ``{Relativistic gravitation theory for the MOND paradigm},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.70.083509,
+  10.1103/PhysRevD.71.069901}{{\em Phys. Rev.} {\bf D70} (2004)  083509},
+  \href{http://arxiv.org/abs/astro-ph/0403694}{{\tt arXiv:astro-ph/0403694
+  [astro-ph]}}.
+[Erratum: Phys. Rev.D71,069901(2005)].
+%%CITATION = ASTRO-PH/0403694;%%.
 
 \bibitem{2009CQGra..26n3001S}
-C.~{Skordis}.
-\newblock {TOPICAL REVIEW: The tensor-vector-scalar theory and its cosmology}.
-\newblock {\em Classical and Quantum Gravity}, 26(14):143001, July 2009.
+C.~{Skordis},
+  \href{http://dx.doi.org/10.1088/0264-9381/26/14/143001}{``{TOPICAL REVIEW:
+  The tensor-vector-scalar theory and its cosmology},''{\em Classical and
+  Quantum Gravity} {\bf 26} (July, 2009)  143001},
+  \href{http://arxiv.org/abs/0903.3602}{{\tt arXiv:0903.3602 [astro-ph.CO]}}.
 
 \bibitem{Famaey:2011kh}
-Benoit Famaey and Stacy McGaugh.
-\newblock {Modified Newtonian Dynamics (MOND): Observational Phenomenology and
-  Relativistic Extensions}.
-\newblock {\em Living Rev. Rel.}, 15:10, 2012.
+B.~Famaey and S.~McGaugh, ``{Modified Newtonian Dynamics (MOND): Observational
+  Phenomenology and Relativistic Extensions},''
+  \href{http://dx.doi.org/10.12942/lrr-2012-10}{{\em Living Rev. Rel.} {\bf 15}
+  (2012)  10},
+\href{http://arxiv.org/abs/1112.3960}{{\tt arXiv:1112.3960 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1112.3960;%%.
 
 \bibitem{Gershtein:1966gg}
-S.~S. Gershtein and {\relax Ya}.~B. Zeldovich.
-\newblock {Rest Mass of Muonic Neutrino and Cosmology}.
-\newblock {\em JETP Lett.}, 4:120--122, 1966.
-\newblock [,58(1966)].
+S.~S. Gershtein and {\relax Ya}.~B. Zeldovich, ``{Rest Mass of Muonic Neutrino
+  and Cosmology},'' {\em JETP Lett.} {\bf 4} (1966)  120--122.
+[,58(1966)].
+%%CITATION = JTPLA,4,120;%%.
 
 \bibitem{PhysRevLett.29.669}
-R.~Cowsik and J.~McClelland.
-\newblock An upper limit on the neutrino rest mass.
-\newblock {\em Phys. Rev. Lett.}, 29:669--670, Sep 1972.
+R.~Cowsik and J.~McClelland,
+  \href{http://dx.doi.org/10.1103/PhysRevLett.29.669}{``An upper limit on the
+  neutrino rest mass,''{\em Phys. Rev. Lett.} {\bf 29} (Sep, 1972)  669--670}.
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.29.669}.
 
 \bibitem{PhysRevLett.39.165}
-Benjamin~W. Lee and Steven Weinberg.
-\newblock Cosmological lower bound on heavy-neutrino masses.
-\newblock {\em Phys. Rev. Lett.}, 39:165--168, Jul 1977.
+B.~W. Lee and S.~Weinberg,
+  \href{http://dx.doi.org/10.1103/PhysRevLett.39.165}{``Cosmological lower
+  bound on heavy-neutrino masses,''{\em Phys. Rev. Lett.} {\bf 39} (Jul, 1977)
+  165--168}. \url{https://link.aps.org/doi/10.1103/PhysRevLett.39.165}.
 
 \bibitem{1978ApJ...223.1015G}
-J.~E. {Gunn}, B.~W. {Lee}, I.~{Lerche}, D.~N. {Schramm}, and G.~{Steigman}.
-\newblock {Some astrophysical consequences of the existence of a heavy stable
-  neutral lepton}.
-\newblock {\em \apj}, 223:1015--1031, August 1978.
+J.~E. {Gunn}, B.~W. {Lee}, I.~{Lerche}, D.~N. {Schramm}, and G.~{Steigman},
+  \href{http://dx.doi.org/10.1086/156335}{``{Some astrophysical consequences of
+  the existence of a heavy stable neutral lepton},''{\em \apj} {\bf 223} (Aug.,
+  1978)  1015--1031}.
 
 \bibitem{1983ApJ...274L...1W}
-S.~D.~M. {White}, C.~S. {Frenk}, and M.~{Davis}.
-\newblock {Clustering in a neutrino-dominated universe}.
-\newblock {\em \apjl}, 274:L1--L5, November 1983.
+S.~D.~M. {White}, C.~S. {Frenk}, and M.~{Davis},
+  \href{http://dx.doi.org/10.1086/184139}{``{Clustering in a neutrino-dominated
+  universe},''{\em \apjl} {\bf 274} (Nov., 1983)  L1--L5}.
 
 \bibitem{Wess:1974tw}
-J.~Wess and B.~Zumino.
-\newblock {Supergauge Transformations in Four-Dimensions}.
-\newblock {\em Nucl. Phys.}, B70:39--50, 1974.
-\newblock [,24(1974)].
+J.~Wess and B.~Zumino, ``{Supergauge Transformations in Four-Dimensions},''
+  \href{http://dx.doi.org/10.1016/0550-3213(74)90355-1}{{\em Nucl. Phys.} {\bf
+  B70} (1974)  39--50}.
+[,24(1974)].
+%%CITATION = NUPHA,B70,39;%%.
 
 \bibitem{PhysRevLett.48.223}
-Heinz Pagels and Joel~R. Primack.
-\newblock Supersymmetry, cosmology, and new physics at teraelectronvolt
-  energies.
-\newblock {\em Phys. Rev. Lett.}, 48:223--226, Jan 1982.
+H.~Pagels and J.~R. Primack,
+  \href{http://dx.doi.org/10.1103/PhysRevLett.48.223}{``Supersymmetry,
+  cosmology, and new physics at teraelectronvolt energies,''{\em Phys. Rev.
+  Lett.} {\bf 48} (Jan, 1982)  223--226}.
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.48.223}.
 
 \bibitem{Jungman:1995df}
-Gerard Jungman, Marc Kamionkowski, and Kim Griest.
-\newblock {Supersymmetric dark matter}.
-\newblock {\em Phys. Rept.}, 267:195--373, 1996.
+G.~Jungman, M.~Kamionkowski, and K.~Griest, ``{Supersymmetric dark matter},''
+  \href{http://dx.doi.org/10.1016/0370-1573(95)00058-5}{{\em Phys. Rept.} {\bf
+  267} (1996)  195--373},
+\href{http://arxiv.org/abs/hep-ph/9506380}{{\tt arXiv:hep-ph/9506380}}.
+%%CITATION = HEP-PH/9506380;%%.
 
 \bibitem{Dimopoulos:1981zb}
-Savas Dimopoulos and Howard Georgi.
-\newblock {Softly Broken Supersymmetry and SU(5)}.
-\newblock {\em Nucl. Phys.}, B193:150--162, 1981.
+S.~Dimopoulos and H.~Georgi, ``{Softly Broken Supersymmetry and SU(5)},''
+\href{http://dx.doi.org/10.1016/0550-3213(81)90522-8}{{\em Nucl. Phys.} {\bf
+  B193} (1981)  150--162}.
+%%CITATION = NUPHA,B193,150;%%.
 
 \bibitem{Bertone:2004pz}
-Gianfranco Bertone, Dan Hooper, and Joseph Silk.
-\newblock {Particle dark matter: Evidence, candidates and constraints}.
-\newblock {\em Phys. Rept.}, 405:279--390, 2005.
+G.~Bertone, D.~Hooper, and J.~Silk, ``{Particle dark matter: Evidence,
+  candidates and constraints},'' {\em Phys. Rept.} {\bf 405} (2005)  279--390,
+\href{http://arxiv.org/abs/hep-ph/0404175}{{\tt hep-ph/0404175}}.
+%%CITATION = HEP-PH 0404175;%%.
 
 \bibitem{PhysRevLett.40.223}
-Steven Weinberg.
-\newblock A new light boson?
-\newblock {\em Phys. Rev. Lett.}, 40:223--226, Jan 1978.
+S.~Weinberg, \href{http://dx.doi.org/10.1103/PhysRevLett.40.223}{``A new light
+  boson?,''{\em Phys. Rev. Lett.} {\bf 40} (Jan, 1978)  223--226}.
+  \url{https://link.aps.org/doi/10.1103/PhysRevLett.40.223}.
 
 \bibitem{Peccei:1977hh}
-R.~D. Peccei and Helen~R. Quinn.
-\newblock {CP Conservation in the Presence of Instantons}.
-\newblock {\em Phys. Rev. Lett.}, 38:1440--1443, 1977.
-\newblock [,328(1977)].
+R.~D. Peccei and H.~R. Quinn, ``{CP Conservation in the Presence of
+  Instantons},'' \href{http://dx.doi.org/10.1103/PhysRevLett.38.1440}{{\em
+  Phys. Rev. Lett.} {\bf 38} (1977)  1440--1443}.
+[,328(1977)].
+%%CITATION = PRLTA,38,1440;%%.
 
 \bibitem{Abazajian:2001nj}
-Kevork Abazajian, George~M. Fuller, and Mitesh Patel.
-\newblock {Sterile neutrino hot, warm, and cold dark matter}.
-\newblock {\em Phys. Rev.}, D64:023501, 2001.
+K.~Abazajian, G.~M. Fuller, and M.~Patel, ``{Sterile neutrino hot, warm, and
+  cold dark matter},'' \href{http://dx.doi.org/10.1103/PhysRevD.64.023501}{{\em
+  Phys. Rev.} {\bf D64} (2001)  023501},
+\href{http://arxiv.org/abs/astro-ph/0101524}{{\tt arXiv:astro-ph/0101524
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0101524;%%.
 
 \bibitem{Seljak:2006qw}
-Uros Seljak, Alexey Makarov, Patrick McDonald, and Hy~Trac.
-\newblock {Can sterile neutrinos be the dark matter?}
-\newblock {\em Phys. Rev. Lett.}, 97:191303, 2006.
+U.~Seljak, A.~Makarov, P.~McDonald, and H.~Trac, ``{Can sterile neutrinos be
+  the dark matter?},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.97.191303}{{\em Phys. Rev. Lett.}
+  {\bf 97} (2006)  191303},
+\href{http://arxiv.org/abs/astro-ph/0602430}{{\tt arXiv:astro-ph/0602430
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0602430;%%.
 
 \bibitem{Feng:2008ya}
-Jonathan~L. Feng and Jason Kumar.
-\newblock {The WIMPless Miracle: Dark-Matter Particles without Weak- Scale
-  Masses or Weak Interactions}.
-\newblock {\em Phys. Rev. Lett.}, 101:231301, 2008.
+J.~L. Feng and J.~Kumar, ``{The WIMPless Miracle: Dark-Matter Particles without
+  Weak- Scale Masses or Weak Interactions},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.101.231301}{{\em Phys. Rev.
+  Lett.} {\bf 101} (2008)  231301},
+\href{http://arxiv.org/abs/0803.4196}{{\tt arXiv:0803.4196 [hep-ph]}}.
+%%CITATION = 0803.4196;%%.
 
 \bibitem{Lin:2011gj}
-Tongyan Lin, Hai-Bo Yu, and Kathryn~M. Zurek.
-\newblock {On Symmetric and Asymmetric Light Dark Matter}.
-\newblock {\em Phys. Rev.}, D85:063503, 2012.
-
-\bibitem{Zhang:2017chj}
-Jiajun Zhang, Jui-Lin Kuo, Hantao Liu, Yue-Lin~Sming Tsai, Kingman Cheung, and
-  Ming-Chung Chu.
-\newblock {Is Fuzzy Dark Matter in tension with Lyman-alpha forest?}
-\newblock 2017.
+T.~Lin, H.-B. Yu, and K.~M. Zurek, ``{On Symmetric and Asymmetric Light Dark
+  Matter},'' \href{http://dx.doi.org/10.1103/PhysRevD.85.063503}{{\em Phys.
+  Rev.} {\bf D85} (2012)  063503},
+\href{http://arxiv.org/abs/1111.0293}{{\tt arXiv:1111.0293 [hep-ph]}}.
+%%CITATION = ARXIV:1111.0293;%%.
 
 \bibitem{Hui:2016ltb}
-Lam Hui, Jeremiah~P. Ostriker, Scott Tremaine, and Edward Witten.
-\newblock {Ultralight scalars as cosmological dark matter}.
-\newblock {\em Phys. Rev.}, D95(4):043541, 2017.
+L.~Hui, J.~P. Ostriker, S.~Tremaine, and E.~Witten, ``{Ultralight scalars as
+  cosmological dark matter},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.95.043541}{{\em Phys. Rev.} {\bf
+  D95} (2017) no.~4, 043541},
+\href{http://arxiv.org/abs/1610.08297}{{\tt arXiv:1610.08297 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1610.08297;%%.
+
+\bibitem{Zhang:2017chj}
+J.~Zhang, J.-L. Kuo, H.~Liu, Y.-L.~S. Tsai, K.~Cheung, and M.-C. Chu, ``{Is
+  Fuzzy Dark Matter in tension with Lyman-alpha forest?},''
+\href{http://arxiv.org/abs/1708.04389}{{\tt arXiv:1708.04389 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1708.04389;%%.
 
 \bibitem{Horiuchi:2013noa}
-Shunsaku Horiuchi, Philip~J. Humphrey, Jose Onorbe, Kevork~N. Abazajian, Manoj
-  Kaplinghat, and Shea Garrison-Kimmel.
-\newblock {Sterile neutrino dark matter bounds from galaxies of the Local
-  Group}.
-\newblock {\em Phys. Rev.}, D89(2):025017, 2014.
+S.~Horiuchi, P.~J. Humphrey, J.~Onorbe, K.~N. Abazajian, M.~Kaplinghat, and
+  S.~Garrison-Kimmel, ``{Sterile neutrino dark matter bounds from galaxies of
+  the Local Group},'' \href{http://dx.doi.org/10.1103/PhysRevD.89.025017}{{\em
+  Phys. Rev.} {\bf D89} (2014) no.~2, 025017},
+\href{http://arxiv.org/abs/1311.0282}{{\tt arXiv:1311.0282 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1311.0282;%%.
 
 \bibitem{Griest:2013aaa}
-Kim Griest, Agnieszka~M. Cieplak, and Matthew~J. Lehner.
-\newblock {Experimental Limits on Primordial Black Hole Dark Matter from the
-  First 2 yr of Kepler Data}.
-\newblock {\em Astrophys. J.}, 786(2):158, 2014.
+K.~Griest, A.~M. Cieplak, and M.~J. Lehner, ``{Experimental Limits on
+  Primordial Black Hole Dark Matter from the First 2 yr of Kepler Data},''
+  \href{http://dx.doi.org/10.1088/0004-637X/786/2/158}{{\em Astrophys. J.} {\bf
+  786} (2014) no.~2, 158},
+\href{http://arxiv.org/abs/1307.5798}{{\tt arXiv:1307.5798 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1307.5798;%%.
 
 \bibitem{Bringmann:2006mu}
-Torsten Bringmann and Stefan Hofmann.
-\newblock {Thermal decoupling of WIMPs from first principles}.
-\newblock {\em JCAP}, 0704:016, 2007.
-\newblock [Erratum: JCAP1603,no.03,E02(2016)].
+T.~Bringmann and S.~Hofmann, ``{Thermal decoupling of WIMPs from first
+  principles},'' \href{http://dx.doi.org/10.1088/1475-7516/2007/04/016,
+  10.1088/1475-7516/2016/03/E02}{{\em JCAP} {\bf 0704} (2007)  016},
+  \href{http://arxiv.org/abs/hep-ph/0612238}{{\tt arXiv:hep-ph/0612238
+  [hep-ph]}}.
+[Erratum: JCAP1603,no.03,E02(2016)].
+%%CITATION = HEP-PH/0612238;%%.
 
 \bibitem{Viel:2013apy}
-Matteo Viel, George~D. Becker, James~S. Bolton, and Martin~G. Haehnelt.
-\newblock {Warm dark matter as a solution to the small scale crisis: New
-  constraints from high redshift Lyman-α forest data}.
-\newblock {\em Phys. Rev.}, D88:043502, 2013.
+M.~Viel, G.~D. Becker, J.~S. Bolton, and M.~G. Haehnelt, ``{Warm dark matter as
+  a solution to the small scale crisis: New constraints from high redshift
+  Lyman-α forest data},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.88.043502}{{\em Phys. Rev.} {\bf
+  D88} (2013)  043502},
+\href{http://arxiv.org/abs/1306.2314}{{\tt arXiv:1306.2314 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1306.2314;%%.
 
 \bibitem{Griest:1989wd}
-Kim Griest and Marc Kamionkowski.
-\newblock {Unitarity Limits on the Mass and Radius of Dark Matter Particles}.
-\newblock {\em Phys. Rev. Lett.}, 64:615, 1990.
+K.~Griest and M.~Kamionkowski, ``{Unitarity Limits on the Mass and Radius of
+  Dark Matter Particles},''
+\href{http://dx.doi.org/10.1103/PhysRevLett.64.615}{{\em Phys. Rev. Lett.} {\bf
+  64} (1990)  615}.
+%%CITATION = PRLTA,64,615;%%.
 
 \bibitem{1991NuPhB.360..145G}
-P.~{Gondolo} and G.~{Gelmini}.
-\newblock {Cosmic abundances of stable particles: improved analysis.}
-\newblock {\em Nuclear Physics B}, 360:145--179, August 1991.
-
-\bibitem{1996PhR...267..195J}
-G.~{Jungman}, M.~{Kamionkowski}, and K.~{Griest}.
-\newblock {Supersymmetric dark matter}.
-\newblock {\em \physrep}, 267:195--373, March 1996.
+P.~{Gondolo} and G.~{Gelmini},
+  \href{http://dx.doi.org/10.1016/0550-3213(91)90438-4}{``{Cosmic abundances of
+  stable particles: improved analysis.},''{\em Nuclear Physics B} {\bf 360}
+  (Aug., 1991)  145--179}.
 
 \bibitem{Aprile:2018dbl}
-E.~Aprile et~al.
-\newblock {Dark Matter Search Results from a One Tonne$\times$Year Exposure of
-  XENON1T}.
-\newblock 2018.
+{\bf XENON} Collaboration, E.~Aprile {\em et al.}, ``{Dark Matter Search
+  Results from a One Tonne$\times$Year Exposure of XENON1T},''
+\href{http://arxiv.org/abs/1805.12562}{{\tt arXiv:1805.12562 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1805.12562;%%.
 
 \bibitem{Agnes:2018ves}
-P.~Agnes et~al.
-\newblock {Low-Mass Dark Matter Search with the DarkSide-50 Experiment}.
-\newblock 2018.
+{\bf DarkSide} Collaboration, P.~Agnes {\em et al.}, ``{Low-Mass Dark Matter
+  Search with the DarkSide-50 Experiment},''
+\href{http://arxiv.org/abs/1802.06994}{{\tt arXiv:1802.06994 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1802.06994;%%.
 
 \bibitem{Escudero:2016gzx}
-Miguel Escudero, Asher Berlin, Dan Hooper, and Meng-Xiang Lin.
-\newblock {Toward (Finally!) Ruling Out Z and Higgs Mediated Dark Matter
-  Models}.
-\newblock {\em JCAP}, 1612:029, 2016.
+M.~Escudero, A.~Berlin, D.~Hooper, and M.-X. Lin, ``{Toward (Finally!) Ruling
+  Out Z and Higgs Mediated Dark Matter Models},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2016/12/029}{{\em JCAP} {\bf 1612}
+  (2016)  029},
+\href{http://arxiv.org/abs/1609.09079}{{\tt arXiv:1609.09079 [hep-ph]}}.
+%%CITATION = ARXIV:1609.09079;%%.
 
 \bibitem{Patrignani:2016xqp}
-C.~Patrignani et~al.
-\newblock {Review of Particle Physics}.
-\newblock {\em Chin. Phys.}, C40(10):100001, 2016.
+{\bf Particle Data Group} Collaboration, C.~Patrignani {\em et al.}, ``{Review
+  of Particle Physics},''
+\href{http://dx.doi.org/10.1088/1674-1137/40/10/100001}{{\em Chin. Phys.} {\bf
+  C40} (2016) no.~10, 100001}.
+%%CITATION = CHPHD,C40,100001;%%.
 
 \bibitem{Kahlhoefer:2017dnp}
-Felix Kahlhoefer.
-\newblock {Review of LHC Dark Matter Searches}.
-\newblock {\em Int. J. Mod. Phys.}, A32(13):1730006, 2017.
+F.~Kahlhoefer, ``{Review of LHC Dark Matter Searches},''
+  \href{http://dx.doi.org/10.1142/S0217751X1730006X}{{\em Int. J. Mod. Phys.}
+  {\bf A32} (2017) no.~13, 1730006},
+\href{http://arxiv.org/abs/1702.02430}{{\tt arXiv:1702.02430 [hep-ph]}}.
+%%CITATION = ARXIV:1702.02430;%%.
 
 \bibitem{PhysRevD.43.3191}
-Kim Griest and David Seckel.
-\newblock Three exceptions in the calculation of relic abundances.
-\newblock {\em Phys. Rev. D}, 43:3191--3203, May 1991.
+K.~Griest and D.~Seckel,
+  \href{http://dx.doi.org/10.1103/PhysRevD.43.3191}{``Three exceptions in the
+  calculation of relic abundances,''{\em Phys. Rev. D} {\bf 43} (May, 1991)
+  3191--3203}. \url{https://link.aps.org/doi/10.1103/PhysRevD.43.3191}.
 
 \bibitem{DAgnolo:2015ujb}
-Raffaele~Tito D'Agnolo and Joshua~T. Ruderman.
-\newblock {Light Dark Matter from Forbidden Channels}.
-\newblock {\em Phys. Rev. Lett.}, 115(6):061301, 2015.
+R.~T. D'Agnolo and J.~T. Ruderman, ``{Light Dark Matter from Forbidden
+  Channels},'' \href{http://dx.doi.org/10.1103/PhysRevLett.115.061301}{{\em
+  Phys. Rev. Lett.} {\bf 115} (2015) no.~6, 061301},
+\href{http://arxiv.org/abs/1505.07107}{{\tt arXiv:1505.07107 [hep-ph]}}.
+%%CITATION = ARXIV:1505.07107;%%.
 
 \bibitem{Hochberg:2014dra}
-Yonit Hochberg, Eric Kuflik, Tomer Volansky, and Jay~G. Wacker.
-\newblock {Mechanism for Thermal Relic Dark Matter of Strongly Interacting
-  Massive Particles}.
-\newblock {\em Phys. Rev. Lett.}, 113:171301, 2014.
+Y.~Hochberg, E.~Kuflik, T.~Volansky, and J.~G. Wacker, ``{Mechanism for Thermal
+  Relic Dark Matter of Strongly Interacting Massive Particles},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.113.171301}{{\em Phys. Rev.
+  Lett.} {\bf 113} (2014)  171301},
+\href{http://arxiv.org/abs/1402.5143}{{\tt arXiv:1402.5143 [hep-ph]}}.
+%%CITATION = ARXIV:1402.5143;%%.
 
 \bibitem{Hochberg:2014kqa}
-Yonit Hochberg, Eric Kuflik, Hitoshi Murayama, Tomer Volansky, and Jay~G.
-  Wacker.
-\newblock {Model for Thermal Relic Dark Matter of Strongly Interacting Massive
-  Particles}.
-\newblock {\em Phys. Rev. Lett.}, 115(2):021301, 2015.
+Y.~Hochberg, E.~Kuflik, H.~Murayama, T.~Volansky, and J.~G. Wacker, ``{Model
+  for Thermal Relic Dark Matter of Strongly Interacting Massive Particles},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.115.021301}{{\em Phys. Rev.
+  Lett.} {\bf 115} (2015) no.~2, 021301},
+\href{http://arxiv.org/abs/1411.3727}{{\tt arXiv:1411.3727 [hep-ph]}}.
+%%CITATION = ARXIV:1411.3727;%%.
 
 \bibitem{Berlin:2016gtr}
-Asher Berlin, Dan Hooper, and Gordan Krnjaic.
-\newblock {Thermal Dark Matter From A Highly Decoupled Sector}.
-\newblock {\em Phys. Rev.}, D94(9):095019, 2016.
+A.~Berlin, D.~Hooper, and G.~Krnjaic, ``{Thermal Dark Matter From A Highly
+  Decoupled Sector},'' \href{http://dx.doi.org/10.1103/PhysRevD.94.095019}{{\em
+  Phys. Rev.} {\bf D94} (2016) no.~9, 095019},
+\href{http://arxiv.org/abs/1609.02555}{{\tt arXiv:1609.02555 [hep-ph]}}.
+%%CITATION = ARXIV:1609.02555;%%.
 
 \bibitem{Berlin:2016vnh}
-Asher Berlin, Dan Hooper, and Gordan Krnjaic.
-\newblock {PeV-Scale Dark Matter as a Thermal Relic of a Decoupled Sector}.
-\newblock {\em Phys. Lett.}, B760:106--111, 2016.
+A.~Berlin, D.~Hooper, and G.~Krnjaic, ``{PeV-Scale Dark Matter as a Thermal
+  Relic of a Decoupled Sector},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2016.06.037}{{\em Phys. Lett.}
+  {\bf B760} (2016)  106--111},
+\href{http://arxiv.org/abs/1602.08490}{{\tt arXiv:1602.08490 [hep-ph]}}.
+%%CITATION = ARXIV:1602.08490;%%.
 
 \bibitem{Berlin:2017ftj}
-Asher Berlin and Nikita Blinov.
-\newblock {Thermal Dark Matter Below an MeV}.
-\newblock {\em Phys. Rev. Lett.}, 120(2):021801, 2018.
+A.~Berlin and N.~Blinov, ``{Thermal Dark Matter Below an MeV},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.120.021801}{{\em Phys. Rev.
+  Lett.} {\bf 120} (2018) no.~2, 021801},
+\href{http://arxiv.org/abs/1706.07046}{{\tt arXiv:1706.07046 [hep-ph]}}.
+%%CITATION = ARXIV:1706.07046;%%.
 
 \bibitem{Bernal:2017mqb}
-Nicol{\'a}s Bernal, Xiaoyong Chu, and Josef Pradler.
-\newblock {Simply split strongly interacting massive particles}.
-\newblock {\em Phys. Rev.}, D95(11):115023, 2017.
+N.~Bernal, X.~Chu, and J.~Pradler, ``{Simply split strongly interacting massive
+  particles},'' \href{http://dx.doi.org/10.1103/PhysRevD.95.115023}{{\em Phys.
+  Rev.} {\bf D95} (2017) no.~11, 115023},
+\href{http://arxiv.org/abs/1702.04906}{{\tt arXiv:1702.04906 [hep-ph]}}.
+%%CITATION = ARXIV:1702.04906;%%.
 
 \bibitem{Cline:2017tka}
-James~M. Cline, Hongwan Liu, Tracy Slatyer, and Wei Xue.
-\newblock {Enabling Forbidden Dark Matter}.
-\newblock {\em Phys. Rev.}, D96(8):083521, 2017.
+J.~M. Cline, H.~Liu, T.~Slatyer, and W.~Xue, ``{Enabling Forbidden Dark
+  Matter},'' \href{http://dx.doi.org/10.1103/PhysRevD.96.083521}{{\em Phys.
+  Rev.} {\bf D96} (2017) no.~8, 083521},
+\href{http://arxiv.org/abs/1702.07716}{{\tt arXiv:1702.07716 [hep-ph]}}.
+%%CITATION = ARXIV:1702.07716;%%.
 
 \bibitem{DAgnolo:2015nbz}
-Raffaele~Tito D'Agnolo and Anson Hook.
-\newblock {Selfish Dark Matter}.
-\newblock {\em Phys. Rev.}, D91(11):115020, 2015.
+R.~T. D'Agnolo and A.~Hook, ``{Selfish Dark Matter},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.91.115020}{{\em Phys. Rev.} {\bf
+  D91} (2015) no.~11, 115020},
+\href{http://arxiv.org/abs/1504.00361}{{\tt arXiv:1504.00361 [hep-ph]}}.
+%%CITATION = ARXIV:1504.00361;%%.
 
 \bibitem{DAgnolo:2017dbv}
-Raffaele~Tito D'Agnolo, Duccio Pappadopulo, and Joshua~T. Ruderman.
-\newblock {Fourth Exception in the Calculation of Relic Abundances}.
-\newblock {\em Phys. Rev. Lett.}, 119(6):061102, 2017.
+R.~T. D'Agnolo, D.~Pappadopulo, and J.~T. Ruderman, ``{Fourth Exception in the
+  Calculation of Relic Abundances},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.119.061102}{{\em Phys. Rev.
+  Lett.} {\bf 119} (2017) no.~6, 061102},
+\href{http://arxiv.org/abs/1705.08450}{{\tt arXiv:1705.08450 [hep-ph]}}.
+%%CITATION = ARXIV:1705.08450;%%.
 
 \bibitem{DEramo:2010keq}
-Francesco D'Eramo and Jesse Thaler.
-\newblock {Semi-annihilation of Dark Matter}.
-\newblock {\em JHEP}, 06:109, 2010.
+F.~D'Eramo and J.~Thaler, ``{Semi-annihilation of Dark Matter},''
+  \href{http://dx.doi.org/10.1007/JHEP06(2010)109}{{\em JHEP} {\bf 06} (2010)
+  109},
+\href{http://arxiv.org/abs/1003.5912}{{\tt arXiv:1003.5912 [hep-ph]}}.
+%%CITATION = ARXIV:1003.5912;%%.
 
 \bibitem{Dror:2016rxc}
-Jeff~Asaf Dror, Eric Kuflik, and Wee~Hao Ng.
-\newblock {Codecaying Dark Matter}.
-\newblock {\em Phys. Rev. Lett.}, 117(21):211801, 2016.
+J.~A. Dror, E.~Kuflik, and W.~H. Ng, ``{Codecaying Dark Matter},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.117.211801}{{\em Phys. Rev.
+  Lett.} {\bf 117} (2016) no.~21, 211801},
+\href{http://arxiv.org/abs/1607.03110}{{\tt arXiv:1607.03110 [hep-ph]}}.
+%%CITATION = ARXIV:1607.03110;%%.
 
 \bibitem{Farina:2016llk}
-Marco Farina, Duccio Pappadopulo, Joshua~T. Ruderman, and Gabriele Trevisan.
-\newblock {Phases of Cannibal Dark Matter}.
-\newblock {\em JHEP}, 12:039, 2016.
+M.~Farina, D.~Pappadopulo, J.~T. Ruderman, and G.~Trevisan, ``{Phases of
+  Cannibal Dark Matter},''
+  \href{http://dx.doi.org/10.1007/JHEP12(2016)039}{{\em JHEP} {\bf 12} (2016)
+  039},
+\href{http://arxiv.org/abs/1607.03108}{{\tt arXiv:1607.03108 [hep-ph]}}.
+%%CITATION = ARXIV:1607.03108;%%.
 
 \bibitem{Kopp:2016yji}
-Joachim Kopp, Jia Liu, Tracy~R. Slatyer, Xiao-Ping Wang, and Wei Xue.
-\newblock {Impeded Dark Matter}.
-\newblock {\em JHEP}, 12:033, 2016.
+J.~Kopp, J.~Liu, T.~R. Slatyer, X.-P. Wang, and W.~Xue, ``{Impeded Dark
+  Matter},'' \href{http://dx.doi.org/10.1007/JHEP12(2016)033}{{\em JHEP} {\bf
+  12} (2016)  033},
+\href{http://arxiv.org/abs/1609.02147}{{\tt arXiv:1609.02147 [hep-ph]}}.
+%%CITATION = ARXIV:1609.02147;%%.
 
 \bibitem{Kuflik:2015isi}
-Eric Kuflik, Maxim Perelstein, Nicolas Rey-Le Lorier, and Yu-Dai Tsai.
-\newblock {Elastically Decoupling Dark Matter}.
-\newblock {\em Phys. Rev. Lett.}, 116(22):221302, 2016.
+E.~Kuflik, M.~Perelstein, N.~R.-L. Lorier, and Y.-D. Tsai, ``{Elastically
+  Decoupling Dark Matter},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.221302}{{\em Phys. Rev.
+  Lett.} {\bf 116} (2016) no.~22, 221302},
+\href{http://arxiv.org/abs/1512.04545}{{\tt arXiv:1512.04545 [hep-ph]}}.
+%%CITATION = ARXIV:1512.04545;%%.
 
 \bibitem{Pappadopulo:2016pkp}
-Duccio Pappadopulo, Joshua~T. Ruderman, and Gabriele Trevisan.
-\newblock {Dark matter freeze-out in a nonrelativistic sector}.
-\newblock {\em Phys. Rev.}, D94(3):035005, 2016.
+D.~Pappadopulo, J.~T. Ruderman, and G.~Trevisan, ``{Dark matter freeze-out in a
+  nonrelativistic sector},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.035005}{{\em Phys. Rev.} {\bf
+  D94} (2016) no.~3, 035005},
+\href{http://arxiv.org/abs/1602.04219}{{\tt arXiv:1602.04219 [hep-ph]}}.
+%%CITATION = ARXIV:1602.04219;%%.
 
 \bibitem{Pospelov:2007mp}
-Maxim Pospelov, Adam Ritz, and Mikhail~B. Voloshin.
-\newblock {Secluded WIMP Dark Matter}.
-\newblock {\em Phys. Lett.}, B662:53--61, 2008.
+M.~Pospelov, A.~Ritz, and M.~B. Voloshin, ``{Secluded WIMP Dark Matter},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2008.02.052}{{\em Phys. Lett.}
+  {\bf B662} (2008)  53--61},
+\href{http://arxiv.org/abs/0711.4866}{{\tt arXiv:0711.4866 [hep-ph]}}.
+%%CITATION = 0711.4866;%%.
 
 \bibitem{Atwood:2009ez}
-W.~B. Atwood et~al.
-\newblock {The Large Area Telescope on the Fermi Gamma-ray Space Telescope
-  Mission}.
-\newblock {\em Astrophys. J.}, 697:1071--1102, 2009.
+{\bf Fermi-LAT} Collaboration, W.~B. Atwood {\em et al.}, ``{The Large Area
+  Telescope on the Fermi Gamma-ray Space Telescope Mission},''
+  \href{http://dx.doi.org/10.1088/0004-637X/697/2/1071}{{\em Astrophys. J.}
+  {\bf 697} (2009)  1071--1102},
+\href{http://arxiv.org/abs/0902.1089}{{\tt arXiv:0902.1089 [astro-ph.IM]}}.
+%%CITATION = ARXIV:0902.1089;%%.
 
 \bibitem{Abeysekara:2014ffg}
-A.~U. Abeysekara et~al.
-\newblock {Sensitivity of HAWC to high-mass dark matter annihilations}.
-\newblock {\em Phys. Rev.}, D90(12):122002, 2014.
+{\bf HAWC} Collaboration, A.~U. Abeysekara {\em et al.}, ``{Sensitivity of HAWC
+  to high-mass dark matter annihilations},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.90.122002}{{\em Phys. Rev.} {\bf
+  D90} (2014) no.~12, 122002},
+\href{http://arxiv.org/abs/1405.1730}{{\tt arXiv:1405.1730 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1405.1730;%%.
 
 \bibitem{Abdallah:2018qtu}
-H.~Abdallah et~al.
-\newblock {Search for $\gamma$-Ray Line Signals from Dark Matter Annihilations
-  in the Inner Galactic Halo from 10 Years of Observations with H.E.S.S.}
-\newblock {\em Phys. Rev. Lett.}, 120(20):201101, 2018.
+{\bf HESS} Collaboration, H.~Abdallah {\em et al.}, ``{Search for $\gamma$-Ray
+  Line Signals from Dark Matter Annihilations in the Inner Galactic Halo from
+  10 Years of Observations with H.E.S.S.},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.120.201101}{{\em Phys. Rev.
+  Lett.} {\bf 120} (2018) no.~20, 201101},
+\href{http://arxiv.org/abs/1805.05741}{{\tt arXiv:1805.05741 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1805.05741;%%.
 
 \bibitem{Ahnen:2017pqx}
-M.~L. Ahnen et~al.
-\newblock {Indirect dark matter searches in the dwarf satellite galaxy Ursa
-  Major II with the MAGIC Telescopes}.
-\newblock {\em JCAP}, 1803(03):009, 2018.
+{\bf MAGIC} Collaboration, M.~L. Ahnen {\em et al.}, ``{Indirect dark matter
+  searches in the dwarf satellite galaxy Ursa Major II with the MAGIC
+  Telescopes},'' \href{http://dx.doi.org/10.1088/1475-7516/2018/03/009}{{\em
+  JCAP} {\bf 1803} (2018) no.~03, 009},
+\href{http://arxiv.org/abs/1712.03095}{{\tt arXiv:1712.03095 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1712.03095;%%.
 
 \bibitem{Archambault:2017wyh}
-S.~Archambault et~al.
-\newblock {Dark Matter Constraints from a Joint Analysis of Dwarf Spheroidal
-  Galaxy Observations with VERITAS}.
-\newblock {\em Phys. Rev.}, D95(8):082001, 2017.
+{\bf VERITAS} Collaboration, S.~Archambault {\em et al.}, ``{Dark Matter
+  Constraints from a Joint Analysis of Dwarf Spheroidal Galaxy Observations
+  with VERITAS},'' \href{http://dx.doi.org/10.1103/PhysRevD.95.082001}{{\em
+  Phys. Rev.} {\bf D95} (2017) no.~8, 082001},
+\href{http://arxiv.org/abs/1703.04937}{{\tt arXiv:1703.04937 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1703.04937;%%.
 
 \bibitem{Doro:2012xx}
-M.~Doro et~al.
-\newblock {Dark Matter and Fundamental Physics with the Cherenkov Telescope
-  Array}.
-\newblock {\em Astropart. Phys.}, 43:189--214, 2013.
-
-\bibitem{Aguilar:2014mma}
-M.~Aguilar et~al.
-\newblock {Electron and Positron Fluxes in Primary Cosmic Rays Measured with
-  the Alpha Magnetic Spectrometer on the International Space Station}.
-\newblock {\em Phys. Rev. Lett.}, 113:121102, 2014.
-
-\bibitem{Bergstrom:2013jra}
-Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
-  Weniger.
-\newblock {New limits on dark matter annihilation from AMS cosmic ray positron
-  data}.
-\newblock {\em Phys.Rev.Lett.}, 111:171101, 2013.
+{\bf CTA Consortium} Collaboration, M.~Doro {\em et al.}, ``{Dark Matter and
+  Fundamental Physics with the Cherenkov Telescope Array},''
+  \href{http://dx.doi.org/10.1016/j.astropartphys.2012.08.002}{{\em Astropart.
+  Phys.} {\bf 43} (2013)  189--214},
+\href{http://arxiv.org/abs/1208.5356}{{\tt arXiv:1208.5356 [astro-ph.IM]}}.
+%%CITATION = ARXIV:1208.5356;%%.
 
 \bibitem{Sjostrand:2007gs}
-Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
-\newblock {A Brief Introduction to PYTHIA 8.1}.
-\newblock {\em Comput.Phys.Commun.}, 178:852--867, 2008.
+T.~Sjostrand, S.~Mrenna, and P.~Z. Skands, ``{A Brief Introduction to PYTHIA
+  8.1},'' \href{http://dx.doi.org/10.1016/j.cpc.2008.01.036}{{\em
+  Comput.Phys.Commun.} {\bf 178} (2008)  852--867},
+\href{http://arxiv.org/abs/0710.3820}{{\tt arXiv:0710.3820 [hep-ph]}}.
+%%CITATION = ARXIV:0710.3820;%%.
 
 \bibitem{Cirelli:2010xx}
-Marco Cirelli, Gennaro Corcella, Andi Hektor, Gert Hutsi, Mario Kadastik, Paolo
-  Panci, Martti Raidal, Filippo Sala, and Alessandro Strumia.
-\newblock {PPPC 4 DM ID: A Poor Particle Physicist Cookbook for Dark Matter
-  Indirect Detection}.
-\newblock {\em JCAP}, 1103:051, 2011.
-\newblock [Erratum: JCAP1210,E01(2012)].
-
-\bibitem{Fermi-LAT:2016uux}
-A.~Albert et~al.
-\newblock {Searching for Dark Matter Annihilation in Recently Discovered Milky
-  Way Satellites with Fermi-LAT}.
-\newblock {\em Astrophys. J.}, 834(2):110, 2017.
+M.~Cirelli, G.~Corcella, A.~Hektor, G.~Hutsi, M.~Kadastik, P.~Panci, M.~Raidal,
+  F.~Sala, and A.~Strumia, ``{PPPC 4 DM ID: A Poor Particle Physicist Cookbook
+  for Dark Matter Indirect Detection},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2012/10/E01,
+  10.1088/1475-7516/2011/03/051}{{\em JCAP} {\bf 1103} (2011)  051},
+  \href{http://arxiv.org/abs/1012.4515}{{\tt arXiv:1012.4515 [hep-ph]}}.
+[Erratum: JCAP1210,E01(2012)].
+%%CITATION = ARXIV:1012.4515;%%.
 
 \bibitem{Ackermann:2015zua}
-M.~Ackermann et~al.
-\newblock {Searching for Dark Matter Annihilation from Milky Way Dwarf
-  Spheroidal Galaxies with Six Years of Fermi Large Area Telescope Data}.
-\newblock {\em Phys. Rev. Lett.}, 115(23):231301, 2015.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Searching for Dark
+  Matter Annihilation from Milky Way Dwarf Spheroidal Galaxies with Six Years
+  of Fermi Large Area Telescope Data},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.115.231301}{{\em Phys. Rev.
+  Lett.} {\bf 115} (2015) no.~23, 231301},
+\href{http://arxiv.org/abs/1503.02641}{{\tt arXiv:1503.02641 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1503.02641;%%.
 
 \bibitem{Geringer-Sameth:2014qqa}
-Alex Geringer-Sameth, Savvas~M. Koushiappas, and Matthew~G. Walker.
-\newblock {Comprehensive search for dark matter annihilation in dwarf
-  galaxies}.
-\newblock {\em Phys. Rev.}, D91(8):083535, 2015.
+A.~Geringer-Sameth, S.~M. Koushiappas, and M.~G. Walker, ``{Comprehensive
+  search for dark matter annihilation in dwarf galaxies},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.91.083535}{{\em Phys. Rev.} {\bf
+  D91} (2015) no.~8, 083535},
+\href{http://arxiv.org/abs/1410.2242}{{\tt arXiv:1410.2242 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1410.2242;%%.
 
 \bibitem{Sanders:2016eie}
-Jason~L. Sanders, N.~Wyn Evans, Alex Geringer-Sameth, and Walter Dehnen.
-\newblock {Indirect Dark Matter Detection for Flattened Dwarf Galaxies}.
-\newblock {\em Phys. Rev.}, D94(6):063521, 2016.
+J.~L. Sanders, N.~W. Evans, A.~Geringer-Sameth, and W.~Dehnen, ``{Indirect Dark
+  Matter Detection for Flattened Dwarf Galaxies},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.063521}{{\em Phys. Rev.} {\bf
+  D94} (2016) no.~6, 063521},
+\href{http://arxiv.org/abs/1604.05493}{{\tt arXiv:1604.05493 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1604.05493;%%.
 
 \bibitem{2016MNRAS.462..223B}
-V.~{Bonnivard}, D.~{Maurin}, and M.~G. {Walker}.
-\newblock {Contamination of stellar-kinematic samples and uncertainty about
-  dark matter annihilation profiles in ultrafaint dwarf galaxies: the example
-  of Segue I}.
-\newblock {\em \mnras}, 462:223--234, October 2016.
+V.~{Bonnivard}, D.~{Maurin}, and M.~G. {Walker},
+  \href{http://dx.doi.org/10.1093/mnras/stw1691}{``{Contamination of
+  stellar-kinematic samples and uncertainty about dark matter annihilation
+  profiles in ultrafaint dwarf galaxies: the example of Segue I},''{\em \mnras}
+  {\bf 462} (Oct., 2016)  223--234},
+  \href{http://arxiv.org/abs/1506.08209}{{\tt arXiv:1506.08209}}.
 
 \bibitem{Geringer-Sameth:2014yza}
-Alex Geringer-Sameth, Savvas~M. Koushiappas, and Matthew Walker.
-\newblock {Dwarf galaxy annihilation and decay emission profiles for dark
-  matter experiments}.
-\newblock {\em Astrophys. J.}, 801(2):74, 2015.
+A.~Geringer-Sameth, S.~M. Koushiappas, and M.~Walker, ``{Dwarf galaxy
+  annihilation and decay emission profiles for dark matter experiments},''
+  \href{http://dx.doi.org/10.1088/0004-637X/801/2/74}{{\em Astrophys. J.} {\bf
+  801} (2015) no.~2, 74},
+\href{http://arxiv.org/abs/1408.0002}{{\tt arXiv:1408.0002 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1408.0002;%%.
 
 \bibitem{Daylan:2014rsa}
-Tansu Daylan, Douglas~P. Finkbeiner, Dan Hooper, Tim Linden, Stephen K.~N.
-  Portillo, Nicholas~L. Rodd, and Tracy~R. Slatyer.
-\newblock {The characterization of the gamma-ray signal from the central Milky
-  Way: A case for annihilating dark matter}.
-\newblock {\em Phys. Dark Univ.}, 12:1--23, 2016.
+T.~Daylan, D.~P. Finkbeiner, D.~Hooper, T.~Linden, S.~K.~N. Portillo, N.~L.
+  Rodd, and T.~R. Slatyer, ``{The characterization of the gamma-ray signal from
+  the central Milky Way: A case for annihilating dark matter},''
+  \href{http://dx.doi.org/10.1016/j.dark.2015.12.005}{{\em Phys. Dark Univ.}
+  {\bf 12} (2016)  1--23},
+\href{http://arxiv.org/abs/1402.6703}{{\tt arXiv:1402.6703 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1402.6703;%%.
 
 \bibitem{Goodenough:2009gk}
-Lisa Goodenough and Dan Hooper.
-\newblock {Possible Evidence For Dark Matter Annihilation In The Inner Milky
-  Way From The Fermi Gamma Ray Space Telescope}.
-\newblock 2009.
+L.~Goodenough and D.~Hooper, ``{Possible Evidence For Dark Matter Annihilation
+  In The Inner Milky Way From The Fermi Gamma Ray Space Telescope},''
+\href{http://arxiv.org/abs/0910.2998}{{\tt arXiv:0910.2998 [hep-ph]}}.
+%%CITATION = ARXIV:0910.2998;%%.
 
 \bibitem{Hooper:2010mq}
-Dan Hooper and Lisa Goodenough.
-\newblock {Dark Matter Annihilation in The Galactic Center As Seen by the Fermi
-  Gamma Ray Space Telescope}.
-\newblock {\em Phys.Lett.}, B697:412--428, 2011.
+D.~Hooper and L.~Goodenough, ``{Dark Matter Annihilation in The Galactic Center
+  As Seen by the Fermi Gamma Ray Space Telescope},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2011.02.029}{{\em Phys.Lett.} {\bf
+  B697} (2011)  412--428},
+\href{http://arxiv.org/abs/1010.2752}{{\tt arXiv:1010.2752 [hep-ph]}}.
+%%CITATION = ARXIV:1010.2752;%%.
 
 \bibitem{Calore:2014xka}
-Francesca Calore, Ilias Cholis, and Christoph Weniger.
-\newblock {Background model systematics for the Fermi GeV excess}.
-\newblock {\em JCAP}, 1503:038, 2015.
+F.~Calore, I.~Cholis, and C.~Weniger, ``{Background model systematics for the
+  Fermi GeV excess},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/03/038}{{\em JCAP} {\bf 1503}
+  (2015)  038},
+\href{http://arxiv.org/abs/1409.0042}{{\tt arXiv:1409.0042 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1409.0042;%%.
 
 \bibitem{Gordon:2013vta}
-Chris Gordon and Oscar Macias.
-\newblock {Dark Matter and Pulsar Model Constraints from Galactic Center
-  Fermi-LAT Gamma Ray Observations}.
-\newblock {\em Phys.Rev.}, D88:083521, 2013.
+C.~Gordon and O.~Macias, ``{Dark Matter and Pulsar Model Constraints from
+  Galactic Center Fermi-LAT Gamma Ray Observations},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.88.083521}{{\em Phys.Rev.} {\bf D88}
+  (2013)  083521},
+\href{http://arxiv.org/abs/1306.5725}{{\tt arXiv:1306.5725 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1306.5725;%%.
 
 \bibitem{TheFermi-LAT:2015kwa}
-M.~Ajello et~al.
-\newblock {Fermi-LAT Observations of High-Energy $\gamma$-Ray Emission Toward
-  the Galactic Center}.
-\newblock {\em Astrophys. J.}, 819(1):44, 2016.
+{\bf Fermi-LAT} Collaboration, M.~Ajello {\em et al.}, ``{Fermi-LAT
+  Observations of High-Energy $\gamma$-Ray Emission Toward the Galactic
+  Center},'' \href{http://dx.doi.org/10.3847/0004-637X/819/1/44}{{\em
+  Astrophys. J.} {\bf 819} (2016) no.~1, 44},
+\href{http://arxiv.org/abs/1511.02938}{{\tt arXiv:1511.02938 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1511.02938;%%.
 
 \bibitem{Karwin:2016tsw}
-Christopher Karwin, Simona Murgia, Tim M.~P. Tait, Troy~A. Porter, and Philip
-  Tanedo.
-\newblock {Dark Matter Interpretation of the Fermi-LAT Observation Toward the
-  Galactic Center}.
-\newblock {\em Phys. Rev.}, D95(10):103005, 2017.
+C.~Karwin, S.~Murgia, T.~M.~P. Tait, T.~A. Porter, and P.~Tanedo, ``{Dark
+  Matter Interpretation of the Fermi-LAT Observation Toward the Galactic
+  Center},'' \href{http://dx.doi.org/10.1103/PhysRevD.95.103005}{{\em Phys.
+  Rev.} {\bf D95} (2017) no.~10, 103005},
+\href{http://arxiv.org/abs/1612.05687}{{\tt arXiv:1612.05687 [hep-ph]}}.
+%%CITATION = ARXIV:1612.05687;%%.
 
 \bibitem{Lee:2015fea}
-Samuel~K. Lee, Mariangela Lisanti, Benjamin~R. Safdi, Tracy~R. Slatyer, and Wei
-  Xue.
-\newblock {Evidence for Unresolved $\gamma$-Ray Point Sources in the Inner
-  Galaxy}.
-\newblock {\em Phys. Rev. Lett.}, 116(5):051103, 2016.
+S.~K. Lee, M.~Lisanti, B.~R. Safdi, T.~R. Slatyer, and W.~Xue, ``{Evidence for
+  Unresolved $\gamma$-Ray Point Sources in the Inner Galaxy},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.051103}{{\em Phys. Rev.
+  Lett.} {\bf 116} (2016) no.~5, 051103},
+\href{http://arxiv.org/abs/1506.05124}{{\tt arXiv:1506.05124 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1506.05124;%%.
 
 \bibitem{Bartels:2015aea}
-Richard Bartels, Suraj Krishnamurthy, and Christoph Weniger.
-\newblock {Strong support for the millisecond pulsar origin of the Galactic
-  center GeV excess}.
-\newblock {\em Phys. Rev. Lett.}, 116(5):051102, 2016.
+R.~Bartels, S.~Krishnamurthy, and C.~Weniger, ``{Strong support for the
+  millisecond pulsar origin of the Galactic center GeV excess},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.051102}{{\em Phys. Rev.
+  Lett.} {\bf 116} (2016) no.~5, 051102},
+\href{http://arxiv.org/abs/1506.05104}{{\tt arXiv:1506.05104 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1506.05104;%%.
 
 \bibitem{Bartels:2017vsx}
-Richard Bartels, Emma Storm, Christoph Weniger, and Francesca Calore.
-\newblock {The Fermi-LAT GeV Excess Traces Stellar Mass in the Galactic Bulge}.
-\newblock 2017.
+R.~Bartels, E.~Storm, C.~Weniger, and F.~Calore, ``{The Fermi-LAT GeV Excess
+  Traces Stellar Mass in the Galactic Bulge},''
+\href{http://arxiv.org/abs/1711.04778}{{\tt arXiv:1711.04778 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1711.04778;%%.
 
 \bibitem{Bartels:2018eyb}
-Richard Bartels, Francesca Calore, Emma Storm, and Christoph Weniger.
-\newblock {Galactic Binaries Can Explain the Fermi Galactic Center Excess and
-  511 keV Emission}.
-\newblock 2018.
+R.~Bartels, F.~Calore, E.~Storm, and C.~Weniger, ``{Galactic Binaries Can
+  Explain the Fermi Galactic Center Excess and 511 keV Emission},''
+\href{http://arxiv.org/abs/1803.04370}{{\tt arXiv:1803.04370 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1803.04370;%%.
 
 \bibitem{Macias:2016nev}
-Oscar Macias, Chris Gordon, Roland~M. Crocker, Brendan Coleman, Dylan Paterson,
-  Shunsaku Horiuchi, and Martin Pohl.
-\newblock {Discovery of Gamma-Ray Emission from the X-shaped Bulge of the Milky
-  Way}.
-\newblock 2016.
+O.~Macias, C.~Gordon, R.~M. Crocker, B.~Coleman, D.~Paterson, S.~Horiuchi, and
+  M.~Pohl, ``{Discovery of Gamma-Ray Emission from the X-shaped Bulge of the
+  Milky Way},''
+\href{http://arxiv.org/abs/1611.06644}{{\tt arXiv:1611.06644 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1611.06644;%%.
 
 \bibitem{Chang:2018bpt}
-Laura~J. Chang, Mariangela Lisanti, and Siddharth Mishra-Sharma.
-\newblock {A Search for Dark Matter Annihilation in the Milky Way Halo}.
-\newblock 2018.
+L.~J. Chang, M.~Lisanti, and S.~Mishra-Sharma, ``{A Search for Dark Matter
+  Annihilation in the Milky Way Halo},''
+\href{http://arxiv.org/abs/1804.04132}{{\tt arXiv:1804.04132 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1804.04132;%%.
 
 \bibitem{2017MNRAS.467.2019R}
-J.~I. {Read}, G.~{Iorio}, O.~{Agertz}, and F.~{Fraternali}.
-\newblock {The stellar mass-halo mass relation of isolated field dwarfs: a
-  critical test of {$\Lambda$}CDM at the edge of galaxy formation}.
-\newblock {\em \mnras}, 467:2019--2038, May 2017.
+J.~I. {Read}, G.~{Iorio}, O.~{Agertz}, and F.~{Fraternali},
+  \href{http://dx.doi.org/10.1093/mnras/stx147}{``{The stellar mass-halo mass
+  relation of isolated field dwarfs: a critical test of {$\Lambda$}CDM at the
+  edge of galaxy formation},''{\em \mnras} {\bf 467} (May, 2017)  2019--2038},
+  \href{http://arxiv.org/abs/1607.03127}{{\tt arXiv:1607.03127}}.
 
 \bibitem{Fitts:2016usl}
-Alex Fitts et~al.
-\newblock {FIRE in the Field: Simulating the Threshold of Galaxy Formation}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 471(3):3547--3562, 2017.
-
-\bibitem{Hutten:2016jko}
-M.~H{\"u}tten, C.~Combet, G.~Maier, and D.~Maurin.
-\newblock {Dark matter substructure modelling and sensitivity of the Cherenkov
-  Telescope Array to Galactic dark halos}.
-\newblock {\em JCAP}, 1609(09):047, 2016.
-
-\bibitem{Bertoni:2015mla}
-Bridget Bertoni, Dan Hooper, and Tim Linden.
-\newblock {Examining The Fermi-LAT Third Source Catalog In Search Of Dark
-  Matter Subhalos}.
-\newblock {\em JCAP}, 1512(12):035, 2015.
+A.~Fitts {\em et al.}, ``{FIRE in the Field: Simulating the Threshold of Galaxy
+  Formation},'' \href{http://dx.doi.org/10.1093/mnras/stx1757}{{\em Mon. Not.
+  Roy. Astron. Soc.} {\bf 471} (2017) no.~3, 3547--3562},
+\href{http://arxiv.org/abs/1611.02281}{{\tt arXiv:1611.02281 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1611.02281;%%.
 
 \bibitem{Calore:2016ogv}
-Francesca Calore, Valentina De~Romeri, Mattia Di~Mauro, Fiorenza Donato, and
-  Federico Marinacci.
-\newblock {Realistic estimation for the detectability of dark matter sub-halos
-  with Fermi-LAT}.
-\newblock {\em Phys. Rev.}, D96(6):063009, 2017.
+F.~Calore, V.~De~Romeri, M.~Di~Mauro, F.~Donato, and F.~Marinacci, ``{Realistic
+  estimation for the detectability of dark matter sub-halos with Fermi-LAT},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.96.063009}{{\em Phys. Rev.} {\bf
+  D96} (2017) no.~6, 063009},
+\href{http://arxiv.org/abs/1611.03503}{{\tt arXiv:1611.03503 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1611.03503;%%.
 
 \bibitem{Hooper:2016cld}
-Dan Hooper and Samuel~J. Witte.
-\newblock {Gamma Rays From Dark Matter Subhalos Revisited: Refining the
-  Predictions and Constraints}.
-\newblock {\em JCAP}, 1704(04):018, 2017.
+D.~Hooper and S.~J. Witte, ``{Gamma Rays From Dark Matter Subhalos Revisited:
+  Refining the Predictions and Constraints},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2017/04/018}{{\em JCAP} {\bf 1704}
+  (2017) no.~04, 018},
+\href{http://arxiv.org/abs/1610.07587}{{\tt arXiv:1610.07587 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1610.07587;%%.
 
 \bibitem{Schoonenberg:2016aml}
-Djoeke Schoonenberg, Jennifer Gaskins, Gianfranco Bertone, and J{\"u}rg
-  Diemand.
-\newblock {Dark matter subhalos and unidentified sources in the Fermi 3FGL
-  source catalog}.
-\newblock {\em JCAP}, 1605(05):028, 2016.
+D.~Schoonenberg, J.~Gaskins, G.~Bertone, and J.~Diemand, ``{Dark matter
+  subhalos and unidentified sources in the Fermi 3FGL source catalog},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2016/05/028}{{\em JCAP} {\bf 1605}
+  (2016) no.~05, 028},
+\href{http://arxiv.org/abs/1601.06781}{{\tt arXiv:1601.06781 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1601.06781;%%.
 
 \bibitem{Ackermann:2015fdi}
-M.~Ackermann et~al.
-\newblock {Search for extended gamma-ray emission from the Virgo galaxy cluster
-  with Fermi-LAT}.
-\newblock {\em Astrophys. J.}, 812(2):159, 2015.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Search for
+  extended gamma-ray emission from the Virgo galaxy cluster with Fermi-LAT},''
+  \href{http://dx.doi.org/10.1088/0004-637X/812/2/159}{{\em Astrophys. J.} {\bf
+  812} (2015) no.~2, 159},
+\href{http://arxiv.org/abs/1510.00004}{{\tt arXiv:1510.00004 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1510.00004;%%.
 
 \bibitem{Ackermann:2015tah}
-M.~Ackermann et~al.
-\newblock {Limits on Dark Matter Annihilation Signals from the Fermi LAT 4-year
-  Measurement of the Isotropic Gamma-Ray Background}.
-\newblock {\em JCAP}, 1509(09):008, 2015.
-
-\bibitem{Ajello:2015mfa}
-M.~Ajello et~al.
-\newblock {The Origin of the Extragalactic Gamma-Ray Background and
-  Implications for Dark-Matter Annihilation}.
-\newblock {\em Astrophys. J.}, 800(2):L27, 2015.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Limits on Dark
+  Matter Annihilation Signals from the Fermi LAT 4-year Measurement of the
+  Isotropic Gamma-Ray Background},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/09/008}{{\em JCAP} {\bf 1509}
+  (2015) no.~09, 008},
+\href{http://arxiv.org/abs/1501.05464}{{\tt arXiv:1501.05464 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1501.05464;%%.
 
 \bibitem{Cholis:2013ena}
-Ilias Cholis, Dan Hooper, and Samuel~D. McDermott.
-\newblock {Dissecting the Gamma-Ray Background in Search of Dark Matter}.
-\newblock {\em JCAP}, 1402:014, 2014.
+I.~Cholis, D.~Hooper, and S.~D. McDermott, ``{Dissecting the Gamma-Ray
+  Background in Search of Dark Matter},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2014/02/014}{{\em JCAP} {\bf 1402}
+  (2014)  014},
+\href{http://arxiv.org/abs/1312.0608}{{\tt 1312.0608}}.
+%%CITATION = ARXIV:1312.0608;%%.
 
 \bibitem{DiMauro:2015tfa}
-Mattia Di~Mauro and Fiorenza Donato.
-\newblock {Composition of the Fermi-LAT isotropic gamma-ray background
-  intensity: Emission from extragalactic point sources and dark matter
-  annihilations}.
-\newblock {\em Phys. Rev.}, D91(12):123001, 2015.
+M.~Di~Mauro and F.~Donato, ``{Composition of the Fermi-LAT isotropic gamma-ray
+  background intensity: Emission from extragalactic point sources and dark
+  matter annihilations},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.91.123001}{{\em Phys. Rev.} {\bf
+  D91} (2015) no.~12, 123001},
+\href{http://arxiv.org/abs/1501.05316}{{\tt arXiv:1501.05316 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1501.05316;%%.
 
 \bibitem{Ando:2013xwa}
-Shin'ichiro Ando, Aur{\'e}lien Benoit-L{\'e}vy, and Eiichiro Komatsu.
-\newblock {Mapping dark matter in the gamma-ray sky with galaxy catalogs}.
-\newblock {\em Phys. Rev.}, D90(2):023514, 2014.
+S.~Ando, A.~Benoit-L{\'e}vy, and E.~Komatsu, ``{Mapping dark matter in the
+  gamma-ray sky with galaxy catalogs},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.90.023514}{{\em Phys. Rev.} {\bf
+  D90} (2014) no.~2, 023514},
+\href{http://arxiv.org/abs/1312.4403}{{\tt arXiv:1312.4403 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1312.4403;%%.
 
 \bibitem{Ando:2014aoa}
-Shin'ichiro Ando.
-\newblock {Power spectrum tomography of dark matter annihilation with local
-  galaxy distribution}.
-\newblock {\em JCAP}, 1410(10):061, 2014.
+S.~Ando, ``{Power spectrum tomography of dark matter annihilation with local
+  galaxy distribution},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2014/10/061}{{\em JCAP} {\bf 1410}
+  (2014) no.~10, 061},
+\href{http://arxiv.org/abs/1407.8502}{{\tt arXiv:1407.8502 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1407.8502;%%.
 
 \bibitem{Ando:2016ang}
-Shin'ichiro Ando and Koji Ishiwata.
-\newblock {Constraining particle dark matter using local galaxy distribution}.
-\newblock {\em JCAP}, 1606(06):045, 2016.
+S.~Ando and K.~Ishiwata, ``{Constraining particle dark matter using local
+  galaxy distribution},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2016/06/045}{{\em JCAP} {\bf 1606}
+  (2016) no.~06, 045},
+\href{http://arxiv.org/abs/1604.02263}{{\tt arXiv:1604.02263 [hep-ph]}}.
+%%CITATION = ARXIV:1604.02263;%%.
 
 \bibitem{Cuoco:2015rfa}
-Alessandro Cuoco, Jun-Qing Xia, Marco Regis, Enzo Branchini, Nicolao Fornengo,
-  and Matteo Viel.
-\newblock {Dark Matter Searches in the Gamma-ray Extragalactic Background via
-  Cross-correlations With Galaxy Catalogs}.
-\newblock {\em Astrophys. J. Suppl.}, 221(2):29, 2015.
+A.~Cuoco, J.-Q. Xia, M.~Regis, E.~Branchini, N.~Fornengo, and M.~Viel, ``{Dark
+  Matter Searches in the Gamma-ray Extragalactic Background via
+  Cross-correlations With Galaxy Catalogs},''
+  \href{http://dx.doi.org/10.1088/0067-0049/221/2/29}{{\em Astrophys. J.
+  Suppl.} {\bf 221} (2015) no.~2, 29},
+\href{http://arxiv.org/abs/1506.01030}{{\tt arXiv:1506.01030 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1506.01030;%%.
 
 \bibitem{Regis:2015zka}
-Marco Regis, Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, Nicolao Fornengo,
-  and Matteo Viel.
-\newblock {Particle dark matter searches outside the Local Group}.
-\newblock {\em Phys. Rev. Lett.}, 114(24):241301, 2015.
+M.~Regis, J.-Q. Xia, A.~Cuoco, E.~Branchini, N.~Fornengo, and M.~Viel,
+  ``{Particle dark matter searches outside the Local Group},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.114.241301}{{\em Phys. Rev.
+  Lett.} {\bf 114} (2015) no.~24, 241301},
+\href{http://arxiv.org/abs/1503.05922}{{\tt arXiv:1503.05922 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1503.05922;%%.
 
 \bibitem{Xia:2015wka}
-Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, and Matteo Viel.
-\newblock {Tomography of the Fermi-lat $\gamma$-ray Diffuse Extragalactic
-  Signal via Cross Correlations With Galaxy Catalogs}.
-\newblock {\em Astrophys. J. Suppl.}, 217(1):15, 2015.
+J.-Q. Xia, A.~Cuoco, E.~Branchini, and M.~Viel, ``{Tomography of the Fermi-lat
+  $\gamma$-ray Diffuse Extragalactic Signal via Cross Correlations With Galaxy
+  Catalogs},'' \href{http://dx.doi.org/10.1088/0067-0049/217/1/15}{{\em
+  Astrophys. J. Suppl.} {\bf 217} (2015) no.~1, 15},
+\href{http://arxiv.org/abs/1503.05918}{{\tt arXiv:1503.05918 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1503.05918;%%.
 
 \bibitem{Shirasaki:2014noa}
-Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
-\newblock {Cross-Correlation of Cosmic Shear and Extragalactic Gamma-ray
-  Background: Constraints on the Dark Matter Annihilation Cross-Section}.
-\newblock {\em Phys. Rev.}, D90(6):063502, 2014.
+M.~Shirasaki, S.~Horiuchi, and N.~Yoshida, ``{Cross-Correlation of Cosmic Shear
+  and Extragalactic Gamma-ray Background: Constraints on the Dark Matter
+  Annihilation Cross-Section},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.90.063502}{{\em Phys. Rev.} {\bf
+  D90} (2014) no.~6, 063502},
+\href{http://arxiv.org/abs/1404.5503}{{\tt arXiv:1404.5503 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1404.5503;%%.
 
 \bibitem{Shirasaki:2015nqp}
-Masato Shirasaki, Shunsaku Horiuchi, and Naoki Yoshida.
-\newblock {Cross-Correlation of the Extragalactic Gamma-ray Background with
-  Luminous Red Galaxies}.
-\newblock {\em Phys. Rev.}, D92(12):123540, 2015.
+M.~Shirasaki, S.~Horiuchi, and N.~Yoshida, ``{Cross-Correlation of the
+  Extragalactic Gamma-ray Background with Luminous Red Galaxies},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.92.123540}{{\em Phys. Rev.} {\bf
+  D92} (2015) no.~12, 123540},
+\href{http://arxiv.org/abs/1511.07092}{{\tt arXiv:1511.07092 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1511.07092;%%.
 
 \bibitem{Shirasaki:2016kol}
-Masato Shirasaki, Oscar Macias, Shunsaku Horiuchi, Satoshi Shirai, and Naoki
-  Yoshida.
-\newblock {Cosmological constraints on dark matter annihilation and decay:
+M.~Shirasaki, O.~Macias, S.~Horiuchi, S.~Shirai, and N.~Yoshida,
+  ``{Cosmological constraints on dark matter annihilation and decay:
   Cross-correlation analysis of the extragalactic $\gamma$-ray background and
-  cosmic shear}.
-\newblock {\em Phys. Rev.}, D94(6):063522, 2016.
+  cosmic shear},'' \href{http://dx.doi.org/10.1103/PhysRevD.94.063522}{{\em
+  Phys. Rev.} {\bf D94} (2016) no.~6, 063522},
+\href{http://arxiv.org/abs/1607.02187}{{\tt arXiv:1607.02187 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1607.02187;%%.
 
 \bibitem{Troster:2016sgf}
-Tilman Tr{\"o}ster et~al.
-\newblock {Cross-correlation of weak lensing and gamma rays: implications for
-  the nature of dark matter}.
-\newblock 2016.
-\newblock [Mon. Not. Roy. Astron. Soc.467,2706(2017)].
+T.~Tr{\"o}ster {\em et al.}, ``{Cross-correlation of weak lensing and gamma
+  rays: implications for the nature of dark matter},''
+  \href{http://arxiv.org/abs/1611.03554}{{\tt arXiv:1611.03554 [astro-ph.CO]}}.
+[Mon. Not. Roy. Astron. Soc.467,2706(2017)].
+%%CITATION = ARXIV:1611.03554;%%.
 
 \bibitem{Lisanti:2017qoz}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, Benjamin~R.
-  Safdi, and Risa~H. Wechsler.
-\newblock {Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys:
-  A Systematic Study of Stacked Group Searches}.
-\newblock {\em Phys. Rev.}, D97(6):063005, 2018.
-
-\bibitem{Tully:2015opa}
-R.~Brent Tully.
-\newblock {Galaxy Groups: A 2MASS Catalog}.
-\newblock {\em Astron. J.}, 149:171, 2015.
-
-\bibitem{2017ApJ...843...16K}
-Ehsan Kourkchi and R.~Brent Tully.
-\newblock {Galaxy Groups Within 3500 km s$^{-1}$}.
-\newblock {\em Astrophys. J.}, 843:16, 2017.
+M.~Lisanti, S.~Mishra-Sharma, N.~L. Rodd, B.~R. Safdi, and R.~H. Wechsler,
+  ``{Mapping Extragalactic Dark Matter Annihilation with Galaxy Surveys: A
+  Systematic Study of Stacked Group Searches},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.97.063005}{{\em Phys. Rev.} {\bf
+  D97} (2018) no.~6, 063005},
+\href{http://arxiv.org/abs/1709.00416}{{\tt arXiv:1709.00416 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1709.00416;%%.
 
 \bibitem{Lisanti:2017qlb}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R.
-  Safdi.
-\newblock {Search for Dark Matter Annihilation in Galaxy Groups}.
-\newblock {\em Phys. Rev. Lett.}, 120(10):101101, 2018.
-
-\bibitem{2015ApJ...814...13M}
-C.~F. {McKee}, A.~{Parravano}, and D.~J. {Hollenbach}.
-\newblock {Stars, Gas, and Dark Matter in the Solar Neighborhood}.
-\newblock {\em \apj}, 814:13, November 2015.
-
-\bibitem{Sivertsson:2017rkp}
-S.~Sivertsson, H.~Silverwood, J.~I. Read, G.~Bertone, and P.~Steger.
-\newblock {The Local Dark Matter Density from SDSS-SEGUE G-dwarfs}.
-\newblock {\em Submitted to: Mon. Not. Roy. Astron. Soc.}, 2017.
-
-\bibitem{Read:2014qva}
-J.~I. Read.
-\newblock {The Local Dark Matter Density}.
-\newblock {\em J. Phys.}, G41:063101, 2014.
-
-\bibitem{Springel:2008cc}
-Volker Springel et~al.
-\newblock {The Aquarius Project: the subhalos of galactic halos}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 391:1685--1711, 2008.
-
-\bibitem{Sanchez-Conde:2013yxa}
-Miguel~A. S{\'a}nchez-Conde and Francisco Prada.
-\newblock {The flattening of the concentration--mass relation towards low halo
-  masses and its implications for the annihilation signal boost}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 442(3):2271--2277, 2014.
-
-\bibitem{Su:2010qj}
-Meng Su, Tracy~R. Slatyer, and Douglas~P. Finkbeiner.
-\newblock {Giant Gamma-ray Bubbles from Fermi-LAT: AGN Activity or Bipolar
-  Galactic Wind?}
-\newblock {\em Astrophys.J.}, 724:1044--1082, 2010.
-
-\bibitem{Fermi-LAT:2014sfa}
-M.~Ackermann et~al.
-\newblock {The Spectrum and Morphology of the $Fermi$ Bubbles}.
-\newblock {\em Astrophys. J.}, 793(1):64, 2014.
-
-\bibitem{Acero:2015hja}
-F.~Acero et~al.
-\newblock {Fermi Large Area Telescope Third Source Catalog}.
-\newblock 2015.
+M.~Lisanti, S.~Mishra-Sharma, N.~L. Rodd, and B.~R. Safdi, ``{Search for Dark
+  Matter Annihilation in Galaxy Groups},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.120.101101}{{\em Phys. Rev.
+  Lett.} {\bf 120} (2018) no.~10, 101101},
+\href{http://arxiv.org/abs/1708.09385}{{\tt arXiv:1708.09385 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1708.09385;%%.
 
 \bibitem{Mishra-Sharma:2016gis}
-Siddharth Mishra-Sharma, Nicholas~L. Rodd, and Benjamin~R. Safdi.
-\newblock {NPTFit: A code package for Non-Poissonian Template Fitting}.
-\newblock {\em Astron. J.}, 153(6):253, 2017.
+S.~Mishra-Sharma, N.~L. Rodd, and B.~R. Safdi, ``{NPTFit: A code package for
+  Non-Poissonian Template Fitting},''
+  \href{http://dx.doi.org/10.3847/1538-3881/aa6d5f}{{\em Astron. J.} {\bf 153}
+  (2017) no.~6, 253},
+\href{http://arxiv.org/abs/1612.03173}{{\tt arXiv:1612.03173 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1612.03173;%%.
 
 \bibitem{Lee:2014mza}
-Samuel~K. Lee, Mariangela Lisanti, and Benjamin~R. Safdi.
-\newblock {Distinguishing Dark Matter from Unresolved Point Sources in the
-  Inner Galaxy with Photon Statistics}.
-\newblock {\em JCAP}, 1505(05):056, 2015.
+S.~K. Lee, M.~Lisanti, and B.~R. Safdi, ``{Distinguishing Dark Matter from
+  Unresolved Point Sources in the Inner Galaxy with Photon Statistics},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/05/056}{{\em JCAP} {\bf 1505}
+  (2015) no.~05, 056},
+\href{http://arxiv.org/abs/1412.6099}{{\tt arXiv:1412.6099 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1412.6099;%%.
 
 \bibitem{Miyaji:2001dp}
-Takamitsu Miyaji and Richard~E. Griffiths.
-\newblock {Faint source counts from off-source fluctuation analysis on chandra
-  observations of the hubble deep field-north}.
-\newblock {\em Astrophys. J.}, 564:L5, 2002.
+T.~Miyaji and R.~E. Griffiths, ``{Faint source counts from off-source
+  fluctuation analysis on chandra observations of the hubble deep
+  field-north},'' \href{http://dx.doi.org/10.1086/338794}{{\em Astrophys. J.}
+  {\bf 564} (2002)  L5},
+\href{http://arxiv.org/abs/astro-ph/0111393}{{\tt arXiv:astro-ph/0111393
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0111393;%%.
 
 \bibitem{Malyshev:2011zi}
-Dmitry Malyshev and David~W. Hogg.
-\newblock {Statistics of gamma-ray point sources below the Fermi detection
-  limit}.
-\newblock {\em Astrophys. J.}, 738:181, 2011.
+D.~Malyshev and D.~W. Hogg, ``{Statistics of gamma-ray point sources below the
+  Fermi detection limit},''
+  \href{http://dx.doi.org/10.1088/0004-637X/738/2/181}{{\em Astrophys. J.} {\bf
+  738} (2011)  181},
+\href{http://arxiv.org/abs/1104.0010}{{\tt arXiv:1104.0010 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1104.0010;%%.
 
 \bibitem{Boyarsky:2010dr}
-Alexey Boyarsky, Denys Malyshev, and Oleg Ruchayskiy.
-\newblock {A comment on the emission from the Galactic Center as seen by the
-  Fermi telescope}.
-\newblock {\em Phys.Lett.}, B705:165--169, 2011.
+A.~Boyarsky, D.~Malyshev, and O.~Ruchayskiy, ``{A comment on the emission from
+  the Galactic Center as seen by the Fermi telescope},''
+  \href{http://dx.doi.org/10.1016/j.physletb.2011.10.014}{{\em Phys.Lett.} {\bf
+  B705} (2011)  165--169},
+\href{http://arxiv.org/abs/1012.5839}{{\tt arXiv:1012.5839 [hep-ph]}}.
+%%CITATION = ARXIV:1012.5839;%%.
 
 \bibitem{Hooper:2011ti}
-Dan Hooper and Tim Linden.
-\newblock {On The Origin Of The Gamma Rays From The Galactic Center}.
-\newblock {\em Phys.Rev.}, D84:123005, 2011.
+D.~Hooper and T.~Linden, ``{On The Origin Of The Gamma Rays From The Galactic
+  Center},'' \href{http://dx.doi.org/10.1103/PhysRevD.84.123005}{{\em
+  Phys.Rev.} {\bf D84} (2011)  123005},
+\href{http://arxiv.org/abs/1110.0006}{{\tt arXiv:1110.0006 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1110.0006;%%.
 
 \bibitem{Abazajian:2012pn}
-Kevork~N. Abazajian and Manoj Kaplinghat.
-\newblock {Detection of a Gamma-Ray Source in the Galactic Center Consistent
-  with Extended Emission from Dark Matter Annihilation and Concentrated
-  Astrophysical Emission}.
-\newblock {\em Phys.Rev.}, D86:083511, 2012.
+K.~N. Abazajian and M.~Kaplinghat, ``{Detection of a Gamma-Ray Source in the
+  Galactic Center Consistent with Extended Emission from Dark Matter
+  Annihilation and Concentrated Astrophysical Emission},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.083511}{{\em Phys.Rev.} {\bf D86}
+  (2012)  083511},
+\href{http://arxiv.org/abs/1207.6047}{{\tt arXiv:1207.6047 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1207.6047;%%.
 
 \bibitem{Hooper:2013rwa}
-Dan Hooper and Tracy~R. Slatyer.
-\newblock {Two Emission Mechanisms in the Fermi Bubbles: A Possible Signal of
-  Annihilating Dark Matter}.
-\newblock {\em Phys.Dark Univ.}, 2:118--138, 2013.
+D.~Hooper and T.~R. Slatyer, ``{Two Emission Mechanisms in the Fermi Bubbles: A
+  Possible Signal of Annihilating Dark Matter},''
+  \href{http://dx.doi.org/10.1016/j.dark.2013.06.003}{{\em Phys.Dark Univ.}
+  {\bf 2} (2013)  118--138},
+\href{http://arxiv.org/abs/1302.6589}{{\tt arXiv:1302.6589 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1302.6589;%%.
 
 \bibitem{Abazajian:2014fta}
-Kevork~N. Abazajian, Nicolas Canac, Shunsaku Horiuchi, and Manoj Kaplinghat.
-\newblock {Astrophysical and Dark Matter Interpretations of Extended Gamma-Ray
-  Emission from the Galactic Center}.
-\newblock {\em Phys.Rev.}, D90:023526, 2014.
+K.~N. Abazajian, N.~Canac, S.~Horiuchi, and M.~Kaplinghat, ``{Astrophysical and
+  Dark Matter Interpretations of Extended Gamma-Ray Emission from the Galactic
+  Center},'' \href{http://dx.doi.org/10.1103/PhysRevD.90.023526}{{\em
+  Phys.Rev.} {\bf D90} (2014)  023526},
+\href{http://arxiv.org/abs/1402.4090}{{\tt arXiv:1402.4090 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1402.4090;%%.
 
 \bibitem{Abazajian:2014hsa}
-Kevork~N. Abazajian, Nicolas Canac, Shunsaku Horiuchi, Manoj Kaplinghat, and
-  Anna Kwa.
-\newblock {Discovery of a New Galactic Center Excess Consistent with
-  Upscattered Starlight}.
-\newblock {\em JCAP}, 1507(07):013, 2015.
+K.~N. Abazajian, N.~Canac, S.~Horiuchi, M.~Kaplinghat, and A.~Kwa, ``{Discovery
+  of a New Galactic Center Excess Consistent with Upscattered Starlight},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/07/013}{{\em JCAP} {\bf 1507}
+  (2015) no.~07, 013},
+\href{http://arxiv.org/abs/1410.6168}{{\tt arXiv:1410.6168 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1410.6168;%%.
 
 \bibitem{Clark:2016mbb}
-Hamish~A. Clark, Pat Scott, Roberto Trotta, and Geraint~F. Lewis.
-\newblock {Substructure considerations rule out dark matter interpretation of
-  Fermi Galactic Center excess}.
-\newblock 2016.
+H.~A. Clark, P.~Scott, R.~Trotta, and G.~F. Lewis, ``{Substructure
+  considerations rule out dark matter interpretation of Fermi Galactic Center
+  excess},''
+\href{http://arxiv.org/abs/1612.01539}{{\tt arXiv:1612.01539 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1612.01539;%%.
 
 \bibitem{Abazajian:2010zy}
-Kevork~N. Abazajian.
-\newblock {The Consistency of Fermi-LAT Observations of the Galactic Center
-  with a Millisecond Pulsar Population in the Central Stellar Cluster}.
-\newblock {\em JCAP}, 1103:010, 2011.
+K.~N. Abazajian, ``{The Consistency of Fermi-LAT Observations of the Galactic
+  Center with a Millisecond Pulsar Population in the Central Stellar
+  Cluster},'' \href{http://dx.doi.org/10.1088/1475-7516/2011/03/010}{{\em JCAP}
+  {\bf 1103} (2011)  010},
+\href{http://arxiv.org/abs/1011.4275}{{\tt arXiv:1011.4275 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1011.4275;%%.
 
 \bibitem{Hooper:2013nhl}
-Dan Hooper, Ilias Cholis, Tim Linden, Jennifer Siegal-Gaskins, and Tracy~R.
-  Slatyer.
-\newblock {Millisecond pulsars Cannot Account for the Inner Galaxy's GeV
-  Excess}.
-\newblock {\em Phys.Rev.}, D88:083009, 2013.
+D.~Hooper, I.~Cholis, T.~Linden, J.~Siegal-Gaskins, and T.~R. Slatyer,
+  ``{Millisecond pulsars Cannot Account for the Inner Galaxy's GeV Excess},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.88.083009}{{\em Phys.Rev.} {\bf D88}
+  (2013)  083009},
+\href{http://arxiv.org/abs/1305.0830}{{\tt arXiv:1305.0830 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1305.0830;%%.
 
 \bibitem{Calore:2014oga}
-F.~Calore, M.~Di~Mauro, F.~Donato, and F.~Donato.
-\newblock {Diffuse gamma-ray emission from galactic pulsars}.
-\newblock {\em Astrophys. J.}, 796:1, 2014.
+F.~Calore, M.~Di~Mauro, F.~Donato, and F.~Donato, ``{Diffuse gamma-ray emission
+  from galactic pulsars},''
+  \href{http://dx.doi.org/10.1088/0004-637X/796/1/14}{{\em Astrophys. J.} {\bf
+  796} (2014)  1},
+\href{http://arxiv.org/abs/1406.2706}{{\tt arXiv:1406.2706 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1406.2706;%%.
 
 \bibitem{Cholis:2014lta}
-Ilias Cholis, Dan Hooper, and Tim Linden.
-\newblock {Challenges in Explaining the Galactic Center Gamma-Ray Excess with
-  Millisecond Pulsars}.
-\newblock {\em JCAP}, 1506(06):043, 2015.
+I.~Cholis, D.~Hooper, and T.~Linden, ``{Challenges in Explaining the Galactic
+  Center Gamma-Ray Excess with Millisecond Pulsars},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/06/043}{{\em JCAP} {\bf 1506}
+  (2015) no.~06, 043},
+\href{http://arxiv.org/abs/1407.5625}{{\tt arXiv:1407.5625 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1407.5625;%%.
 
 \bibitem{Petrovic:2014xra}
-Jovana Petrovi{\'c}, Pasquale~D. Serpico, and Gabrijela Zaharijas.
-\newblock {Millisecond pulsars and the Galactic Center gamma-ray excess: the
-  importance of luminosity function and secondary emission}.
-\newblock {\em JCAP}, 1502(02):023, 2015.
+J.~Petrovi{\'c}, P.~D. Serpico, and G.~Zaharijas, ``{Millisecond pulsars and
+  the Galactic Center gamma-ray excess: the importance of luminosity function
+  and secondary emission},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/02/023}{{\em JCAP} {\bf 1502}
+  (2015) no.~02, 023},
+\href{http://arxiv.org/abs/1411.2980}{{\tt arXiv:1411.2980 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1411.2980;%%.
 
 \bibitem{Yuan:2014yda}
-Qiang Yuan and Kunihito Ioka.
-\newblock {Testing the millisecond pulsar scenario of the Galactic center
-  gamma-ray excess with very high energy gamma-rays}.
-\newblock {\em Astrophys. J.}, 802(2):124, 2015.
+Q.~Yuan and K.~Ioka, ``{Testing the millisecond pulsar scenario of the Galactic
+  center gamma-ray excess with very high energy gamma-rays},''
+  \href{http://dx.doi.org/10.1088/0004-637X/802/2/124}{{\em Astrophys. J.} {\bf
+  802} (2015) no.~2, 124},
+\href{http://arxiv.org/abs/1411.4363}{{\tt arXiv:1411.4363 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1411.4363;%%.
 
 \bibitem{OLeary:2015gfa}
-Ryan~M. O'Leary, Matthew~D. Kistler, Matthew Kerr, and Jason Dexter.
-\newblock "{Young Pulsars and the Galactic Center GeV Gamma-ray Excess}".
-\newblock {\em 1504.02477}, 2015.
+R.~M. O'Leary, M.~D. Kistler, M.~Kerr, and J.~Dexter, ``"{Young Pulsars and the
+  Galactic Center GeV Gamma-ray Excess}",'' {\em 1504.02477} (2015)  .
 
 \bibitem{Brandt:2015ula}
-Timothy~D. Brandt and Bence Kocsis.
-\newblock {Disrupted Globular Clusters Can Explain the Galactic Center Gamma
-  Ray Excess}.
-\newblock {\em Astrophys. J.}, 812(1):15, 2015.
+T.~D. Brandt and B.~Kocsis, ``{Disrupted Globular Clusters Can Explain the
+  Galactic Center Gamma Ray Excess},''
+  \href{http://dx.doi.org/10.1088/0004-637X/812/1/15}{{\em Astrophys. J.} {\bf
+  812} (2015) no.~1, 15},
+\href{http://arxiv.org/abs/1507.05616}{{\tt arXiv:1507.05616 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1507.05616;%%.
 
 \bibitem{Linden:2016rcf}
-Tim Linden, Nicholas~L. Rodd, Benjamin~R. Safdi, and Tracy~R. Slatyer.
-\newblock {The High-Energy Tail of the Galactic Center Gamma-Ray Excess}.
-\newblock 2016.
+T.~Linden, N.~L. Rodd, B.~R. Safdi, and T.~R. Slatyer, ``{The High-Energy Tail
+  of the Galactic Center Gamma-Ray Excess},''
+\href{http://arxiv.org/abs/1604.01026}{{\tt arXiv:1604.01026 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1604.01026;%%.
 
 \bibitem{Zechlin:2015wdz}
-Hannes-S. Zechlin, Alessandro Cuoco, Fiorenza Donato, Nicolao Fornengo, and
-  Andrea Vittino.
-\newblock {Unveiling the Gamma-ray Source Count Distribution Below the Fermi
-  Detection Limit with Photon Statistics}.
-\newblock {\em Astrophys. J. Suppl.}, 225(2):18, 2016.
-
-\bibitem{TheFermi-LAT:2015ykq}
-M.~Ackermann et~al.
-\newblock {Resolving the Extragalactic $\gamma$-Ray Background above 50 GeV
-  with the Fermi Large Area Telescope}.
-\newblock {\em Phys. Rev. Lett.}, 116(15):151105, 2016.
+H.-S. Zechlin, A.~Cuoco, F.~Donato, N.~Fornengo, and A.~Vittino, ``{Unveiling
+  the Gamma-ray Source Count Distribution Below the Fermi Detection Limit with
+  Photon Statistics},''
+  \href{http://dx.doi.org/10.3847/0067-0049/225/2/18}{{\em Astrophys. J.
+  Suppl.} {\bf 225} (2016) no.~2, 18},
+\href{http://arxiv.org/abs/1512.07190}{{\tt arXiv:1512.07190 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1512.07190;%%.
 
 \bibitem{Zechlin:2016pme}
-Hannes-S. Zechlin, Alessandro Cuoco, Fiorenza Donato, Nicolao Fornengo, and
-  Marco Regis.
-\newblock {Statistical Measurement of the Gamma-ray Source-count Distribution
-  as a Function of Energy}.
-\newblock {\em Astrophys. J.}, 826(2):L31, 2016.
+H.-S. Zechlin, A.~Cuoco, F.~Donato, N.~Fornengo, and M.~Regis, ``{Statistical
+  Measurement of the Gamma-ray Source-count Distribution as a Function of
+  Energy},'' \href{http://dx.doi.org/10.3847/2041-8205/826/2/L31}{{\em
+  Astrophys. J.} {\bf 826} (2016) no.~2, L31},
+\href{http://arxiv.org/abs/1605.04256}{{\tt arXiv:1605.04256 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1605.04256;%%.
 
 \bibitem{Lisanti:2016jub}
-Mariangela Lisanti, Siddharth Mishra-Sharma, Lina Necib, and Benjamin~R. Safdi.
-\newblock {Deciphering Contributions to the Extragalactic Gamma-Ray Background
-  from 2 GeV to 2 TeV}.
-\newblock 2016.
+M.~Lisanti, S.~Mishra-Sharma, L.~Necib, and B.~R. Safdi, ``{Deciphering
+  Contributions to the Extragalactic Gamma-Ray Background from 2 GeV to 2
+  TeV},''
+\href{http://arxiv.org/abs/1606.04101}{{\tt arXiv:1606.04101 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1606.04101;%%.
 
 \bibitem{Daylan:2016tia}
-Tansu Daylan, Stephen K.~N. Portillo, and Douglas~P. Finkbeiner.
-\newblock {Inference of Unresolved Point Sources At High Galactic Latitudes
-  Using Probabilistic Catalogs}.
-\newblock 2016.
+T.~Daylan, S.~K.~N. Portillo, and D.~P. Finkbeiner, ``{Inference of Unresolved
+  Point Sources At High Galactic Latitudes Using Probabilistic Catalogs},''
+\href{http://arxiv.org/abs/1607.04637}{{\tt arXiv:1607.04637 [astro-ph.IM]}}.
+%%CITATION = ARXIV:1607.04637;%%.
 
 \bibitem{Aartsen:2013bka}
-M.~G. Aartsen et~al.
-\newblock {First observation of PeV-energy neutrinos with IceCube}.
-\newblock {\em Phys. Rev. Lett.}, 111:021103, 2013.
+{\bf IceCube} Collaboration, M.~G. Aartsen {\em et al.}, ``{First observation
+  of PeV-energy neutrinos with IceCube},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.111.021103}{{\em Phys. Rev.
+  Lett.} {\bf 111} (2013)  021103},
+\href{http://arxiv.org/abs/1304.5356}{{\tt arXiv:1304.5356 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1304.5356;%%.
 
 \bibitem{Aartsen:2013jdh}
-M.~G. Aartsen et~al.
-\newblock {Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube
-  Detector}.
-\newblock {\em Science}, 342:1242856, 2013.
+{\bf IceCube} Collaboration, M.~G. Aartsen {\em et al.}, ``{Evidence for
+  High-Energy Extraterrestrial Neutrinos at the IceCube Detector},''
+  \href{http://dx.doi.org/10.1126/science.1242856}{{\em Science} {\bf 342}
+  (2013)  1242856},
+\href{http://arxiv.org/abs/1311.5238}{{\tt arXiv:1311.5238 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1311.5238;%%.
 
 \bibitem{Aartsen:2015knd}
-M.~G. Aartsen et~al.
-\newblock {A combined maximum-likelihood analysis of the high-energy
-  astrophysical neutrino flux measured with IceCube}.
-\newblock {\em Astrophys. J.}, 809(1):98, 2015.
+{\bf IceCube} Collaboration, M.~G. Aartsen {\em et al.}, ``{A combined
+  maximum-likelihood analysis of the high-energy astrophysical neutrino flux
+  measured with IceCube},''
+  \href{http://dx.doi.org/10.1088/0004-637X/809/1/98}{{\em Astrophys. J.} {\bf
+  809} (2015) no.~1, 98},
+\href{http://arxiv.org/abs/1507.03991}{{\tt arXiv:1507.03991 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1507.03991;%%.
 
 \bibitem{Aartsen:2015rwa}
-M.~G. Aartsen et~al.
-\newblock {Evidence for Astrophysical Muon Neutrinos from the Northern Sky with
-  IceCube}.
-\newblock {\em Phys. Rev. Lett.}, 115(8):081102, 2015.
+{\bf IceCube} Collaboration, M.~G. Aartsen {\em et al.}, ``{Evidence for
+  Astrophysical Muon Neutrinos from the Northern Sky with IceCube},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.115.081102}{{\em Phys. Rev.
+  Lett.} {\bf 115} (2015) no.~8, 081102},
+\href{http://arxiv.org/abs/1507.04005}{{\tt arXiv:1507.04005 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1507.04005;%%.
 
 \bibitem{Bechtol:2015uqb}
-Keith Bechtol, Markus Ahlers, Mattia Di~Mauro, Marco Ajello, and Justin
-  Vandenbroucke.
-\newblock {Evidence against star-forming galaxies as the dominant source of
-  IceCube neutrinos}.
-\newblock 2015.
+K.~Bechtol, M.~Ahlers, M.~Di~Mauro, M.~Ajello, and J.~Vandenbroucke,
+  ``{Evidence against star-forming galaxies as the dominant source of IceCube
+  neutrinos},''
+\href{http://arxiv.org/abs/1511.00688}{{\tt arXiv:1511.00688 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1511.00688;%%.
 
 \bibitem{Murase:2016gly}
-Kohta Murase and Eli Waxman.
-\newblock {Constraining High-Energy Cosmic Neutrino Sources: Implications and
-  Prospects}.
-\newblock {\em MNRAS}, 2016.
+K.~Murase and E.~Waxman, ``{Constraining High-Energy Cosmic Neutrino Sources:
+  Implications and Prospects},'' {\em MNRAS} (2016)  ,
+\href{http://arxiv.org/abs/1607.01601}{{\tt arXiv:1607.01601 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1607.01601;%%.
 
 \bibitem{Bertoni:2016hoh}
-Bridget Bertoni, Dan Hooper, and Tim Linden.
-\newblock {Is The Gamma-Ray Source 3FGL J2212.5+0703 A Dark Matter Subhalo?}
-\newblock 2016.
+B.~Bertoni, D.~Hooper, and T.~Linden, ``{Is The Gamma-Ray Source 3FGL
+  J2212.5+0703 A Dark Matter Subhalo?},''
+\href{http://arxiv.org/abs/1602.07303}{{\tt arXiv:1602.07303 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1602.07303;%%.
 
 \bibitem{hasinger1993}
 G.~Hasinger, R.~Burg, R.~Giacconi, G.~Hartner, M.~Schmidt, J.~Trumper, and
-  G.~Zamorani.
-\newblock empty.
-\newblock {\em A\&A}, 275(1):1, 1993.
+  G.~Zamorani, ``empty,'' {\em A\&A} {\bf 275} (1993) no.~1, 1.
 
 \bibitem{1993MNRAS.262..619G}
 I.~{Georgantopoulos}, G.~C. {Stewart}, T.~{Shanks}, R.~E. {Griffiths}, and
-  B.~J. {Boyle}.
-\newblock {A deep ROSAT survey. II - Observations of the isotropy of the 1-2
-  keV X-ray background}.
-\newblock {\em MNRAS}, 262:619--626, June 1993.
+  B.~J. {Boyle}, \href{http://dx.doi.org/10.1093/mnras/262.3.619}{``{A deep
+  ROSAT survey. II - Observations of the isotropy of the 1-2 keV X-ray
+  background},''{\em MNRAS} {\bf 262} (June, 1993)  619--626}.
 
 \bibitem{Gendreau:1997di}
-K.~C. Gendreau, X.~Barcons, and A.~C. Fabian.
-\newblock {Deep hard x-ray source counts from a fluctuation analysis of asca
-  sis images}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 297:41, 1998.
+K.~C. Gendreau, X.~Barcons, and A.~C. Fabian, ``{Deep hard x-ray source counts
+  from a fluctuation analysis of asca sis images},''
+  \href{http://dx.doi.org/10.1046/j.1365-8711.1998.01407.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 297} (1998)  41},
+\href{http://arxiv.org/abs/astro-ph/9711083}{{\tt arXiv:astro-ph/9711083
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9711083;%%.
 
 \bibitem{Perri:2000fv}
-M.~Perri and P.~Giommi.
-\newblock {Extragalactic 2-10 kev source counts from a fluctuation analysis of
-  deep bepposax mecs images}.
-\newblock {\em Astron. Astrophys.}, 362:L57, 2000.
+M.~Perri and P.~Giommi, ``{Extragalactic 2-10 kev source counts from a
+  fluctuation analysis of deep bepposax mecs images},'' {\em Astron.
+  Astrophys.} {\bf 362} (2000)  L57,
+\href{http://arxiv.org/abs/astro-ph/0006298}{{\tt arXiv:astro-ph/0006298
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0006298;%%.
 
 \bibitem{Feyereisen:2015cea}
-Michael~R. Feyereisen, Shin'ichiro Ando, and Samuel~K. Lee.
-\newblock {Modelling the flux distribution function of the extragalactic
-  gamma-ray background from dark matter annihilation}.
-\newblock {\em JCAP}, 1509(09):027, 2015.
+M.~R. Feyereisen, S.~Ando, and S.~K. Lee, ``{Modelling the flux distribution
+  function of the extragalactic gamma-ray background from dark matter
+  annihilation},'' \href{http://dx.doi.org/10.1088/1475-7516/2015/9/027,
+  10.1088/1475-7516/2015/09/027}{{\em JCAP} {\bf 1509} (2015) no.~09, 027},
+\href{http://arxiv.org/abs/1506.05118}{{\tt arXiv:1506.05118 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1506.05118;%%.
 
 \bibitem{Feyereisen:2016fzb}
-Michael~R. Feyereisen, Irene Tamborra, and Shin'ichiro Ando.
-\newblock {One-point fluctuation analysis of the high-energy neutrino sky}.
-\newblock 2016.
+M.~R. Feyereisen, I.~Tamborra, and S.~Ando, ``{One-point fluctuation analysis
+  of the high-energy neutrino sky},''
+\href{http://arxiv.org/abs/1610.01607}{{\tt arXiv:1610.01607 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1610.01607;%%.
 
 \bibitem{behnel2010cython}
-S.~Behnel, R.~Bradshaw, C.~Citro, L.~Dalcin, D.S. Seljebotn, and K.~Smith.
-\newblock Cython: The best of both worlds.
-\newblock {\em Computing in Science Engineering}, 13(2):31 --39, 3 2011.
+S.~Behnel, R.~Bradshaw, C.~Citro, L.~Dalcin, D.~Seljebotn, and K.~Smith,
+  \href{http://dx.doi.org/10.1109/MCSE.2010.118}{``Cython: The best of both
+  worlds,''{\em Computing in Science Engineering} {\bf 13} (3, 2011)  31 --39}.
 
 \bibitem{Feroz:2008xx}
-F.~Feroz, M.~P. Hobson, and M.~Bridges.
-\newblock {MultiNest: an efficient and robust Bayesian inference tool for
-  cosmology and particle physics}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 398:1601--1614, 2009.
+F.~Feroz, M.~P. Hobson, and M.~Bridges, ``{MultiNest: an efficient and robust
+  Bayesian inference tool for cosmology and particle physics},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2009.14548.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 398} (2009)  1601--1614},
+\href{http://arxiv.org/abs/0809.3437}{{\tt arXiv:0809.3437 [astro-ph]}}.
+%%CITATION = ARXIV:0809.3437;%%.
 
 \bibitem{Buchner:2014nha}
 J.~Buchner, A.~Georgakakis, K.~Nandra, L.~Hsu, C.~Rangel, M.~Brightman,
-  A.~Merloni, M.~Salvato, J.~Donley, and D.~Kocevski.
-\newblock {X-ray spectral modelling of the AGN obscuring region in the CDFS:
-  Bayesian model selection and catalogue}.
-\newblock {\em Astron. Astrophys.}, 564:A125, 2014.
+  A.~Merloni, M.~Salvato, J.~Donley, and D.~Kocevski, ``{X-ray spectral
+  modelling of the AGN obscuring region in the CDFS: Bayesian model selection
+  and catalogue},'' \href{http://dx.doi.org/10.1051/0004-6361/201322971}{{\em
+  Astron. Astrophys.} {\bf 564} (2014)  A125},
+\href{http://arxiv.org/abs/1402.0004}{{\tt arXiv:1402.0004 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1402.0004;%%.
 
 \bibitem{Feroz:2013hea}
-F.~Feroz, M.~P. Hobson, E.~Cameron, and A.~N. Pettitt.
-\newblock {Importance Nested Sampling and the MultiNest Algorithm}.
-\newblock 2013.
+F.~Feroz, M.~P. Hobson, E.~Cameron, and A.~N. Pettitt, ``{Importance Nested
+  Sampling and the MultiNest Algorithm},''
+\href{http://arxiv.org/abs/1306.2144}{{\tt arXiv:1306.2144 [astro-ph.IM]}}.
+%%CITATION = ARXIV:1306.2144;%%.
 
 \bibitem{Feroz:2007kg}
-Farhan Feroz and M.~P. Hobson.
-\newblock {Multimodal nested sampling: an efficient and robust alternative to
-  MCMC methods for astronomical data analysis}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 384:449, 2008.
+F.~Feroz and M.~P. Hobson, ``{Multimodal nested sampling: an efficient and
+  robust alternative to MCMC methods for astronomical data analysis},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2007.12353.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 384} (2008)  449},
+\href{http://arxiv.org/abs/0704.3704}{{\tt arXiv:0704.3704 [astro-ph]}}.
+%%CITATION = ARXIV:0704.3704;%%.
 
 \bibitem{skilling2006}
-John Skilling.
-\newblock Nested sampling for general bayesian computation.
-\newblock {\em Bayesian Anal.}, 1(4):833--859, 12 2006.
+J.~Skilling, \href{http://dx.doi.org/10.1214/06-BA127}{``Nested sampling for
+  general bayesian computation,''{\em Bayesian Anal.} {\bf 1} (12, 2006)
+  833--859}. \url{http://dx.doi.org/10.1214/06-BA127}.
 
 \bibitem{Gorski:2004by}
-K.~M. Gorski, Eric Hivon, A.~J. Banday, B.~D. Wandelt, F.~K. Hansen,
-  M.~Reinecke, and M.~Bartelman.
-\newblock {HEALPix - A Framework for high resolution discretization, and fast
-  analysis of data distributed on the sphere}.
-\newblock {\em Astrophys. J.}, 622:759--771, 2005.
+K.~M. Gorski, E.~Hivon, A.~J. Banday, B.~D. Wandelt, F.~K. Hansen, M.~Reinecke,
+  and M.~Bartelman, ``{HEALPix - A Framework for high resolution
+  discretization, and fast analysis of data distributed on the sphere},''
+  \href{http://dx.doi.org/10.1086/427976}{{\em Astrophys. J.} {\bf 622} (2005)
+  759--771},
+\href{http://arxiv.org/abs/astro-ph/0409513}{{\tt arXiv:astro-ph/0409513
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0409513;%%.
 
 \bibitem{PER-GRA:2007}
-Fernando P\'erez and Brian~E. Granger.
-\newblock {IP}ython: a system for interactive scientific computing.
-\newblock {\em Computing in Science and Engineering}, 9(3):21--29, May 2007.
+F.~P\'erez and B.~E. Granger,
+  \href{http://dx.doi.org/10.1109/MCSE.2007.53}{``{IP}ython: a system for
+  interactive scientific computing,''{\em Computing in Science and Engineering}
+  {\bf 9} (May, 2007)  21--29}. \url{http://ipython.org}.
 
 \bibitem{dan_foreman_mackey_2016_53155}
-Dan Foreman-Mackey, Will Vousden, Adrian Price-Whelan, Matt Pitkin, Victor
-  Zabalza, Geoffrey Ryan, Emily, Michael Smith, Gregory Ashton, Kelle Cruz,
-  Wolfgang Kerzendorf, Thomas~A Caswell, Stephan Hoyer, Kyle Barbary, Ian
-  Czekala, Hanno Rein, Eric Gentry, Brendon~J. Brewer, and David~W. Hogg.
-\newblock corner.py: corner.py v2.0.0, May 2016.
+D.~Foreman-Mackey, W.~Vousden, A.~Price-Whelan, M.~Pitkin, V.~Zabalza, G.~Ryan,
+  Emily, M.~Smith, G.~Ashton, K.~Cruz, W.~Kerzendorf, T.~A. Caswell, S.~Hoyer,
+  K.~Barbary, I.~Czekala, H.~Rein, E.~Gentry, B.~J. Brewer, and D.~W. Hogg,
+  ``corner.py: corner.py v2.0.0,'' May, 2016.
+\newblock \url{https://doi.org/10.5281/zenodo.53155}.
 
 \bibitem{Hunter:2007}
-J.~D. Hunter.
-\newblock Matplotlib: A 2d graphics environment.
-\newblock {\em Computing In Science \& Engineering}, 9(3):90--95, 2007.
+J.~D. Hunter, ``Matplotlib: A 2d graphics environment,''
+  \href{http://dx.doi.org/10.1109/MCSE.2007.55}{{\em Computing In Science \&
+  Engineering} {\bf 9} (2007) no.~3, 90--95}.
 
 \bibitem{mpmath}
-Fredrik Johansson et~al.
-\newblock {\em mpmath: a {P}ython library for arbitrary-precision
-  floating-point arithmetic (version 0.18)}, December 2013.
+F.~Johansson {\em et al.}, {\em mpmath: a {P}ython library for
+  arbitrary-precision floating-point arithmetic (version 0.18)}, December,
+  2013.
 \newblock {\tt http://mpmath.org/}.
 
 \bibitem{galassi2015gnu}
-M~Galassi, J~Davies, J~Theiler, B~Gough, G~Jungman, P~Alken, M~Booth, F~Rossi,
-  and R~Ulerich.
-\newblock Gnu scientific library reference manual , isbn 0954612078.
-\newblock {\em Library available online at http://www. gnu. org/software/gsl},
-  2015.
+M.~Galassi, J.~Davies, J.~Theiler, B.~Gough, G.~Jungman, P.~Alken, M.~Booth,
+  F.~Rossi, and R.~Ulerich, ``Gnu scientific library reference manual , isbn
+  0954612078,'' {\em Library available online at http://www. gnu.
+  org/software/gsl} (2015)  .
 
 \bibitem{oliphant2006guide}
-Travis~E Oliphant.
-\newblock {\em A guide to NumPy}, volume~1.
+T.~E. Oliphant, {\em A guide to NumPy}, vol.~1.
 \newblock Trelgol Publishing USA, 2006.
 
 \bibitem{1968ApJ...153L.203C}
-G.~W. Clark, G.~P. Garmire, and W.~L. Kraushaar.
-\newblock {Observation of High-Energy Cosmic Gamma Rays}.
-\newblock {\em Astrophys. J. Lett.}, 153:L203, September 1968.
+G.~W. Clark, G.~P. Garmire, and W.~L. Kraushaar,
+  \href{http://dx.doi.org/10.1086/180252}{``{Observation of High-Energy Cosmic
+  Gamma Rays},''{\em Astrophys. J. Lett.} {\bf 153} (Sept., 1968)  L203}.
 
 \bibitem{1972ApJ...177..341K}
-W.~L. Kraushaar et~al.
-\newblock {High-Energy Cosmic Gamma-Ray Observations from the OSO-3 Satellite}.
-\newblock {\em Astrophys. J.}, 177:341, November 1972.
+W.~L. Kraushaar {\em et al.},
+  \href{http://dx.doi.org/10.1086/151713}{``{High-Energy Cosmic Gamma-Ray
+  Observations from the OSO-3 Satellite},''{\em Astrophys. J.} {\bf 177} (Nov.,
+  1972)  341}.
 
 \bibitem{1975ApJ...198..163F}
-C.~E. Fichtel et~al.
-\newblock {High-energy gamma-ray results from the second small astronomy
-  satellite}.
-\newblock {\em Astrophys. J.}, 198:163--182, May 1975.
+C.~E. Fichtel {\em et al.},
+  \href{http://dx.doi.org/10.1086/153590}{``{High-energy gamma-ray results from
+  the second small astronomy satellite},''{\em Astrophys. J.} {\bf 198} (May,
+  1975)  163--182}.
 
 \bibitem{1978ApJ...222..833F}
-C.~E. Fichtel, G.~A. Simpson, and D.~J. Thompson.
-\newblock {Diffuse gamma radiation}.
-\newblock {\em Astrophys. J.}, 222:833--849, June 1978.
+C.~E. Fichtel, G.~A. Simpson, and D.~J. Thompson,
+  \href{http://dx.doi.org/10.1086/156202}{``{Diffuse gamma radiation},''{\em
+  Astrophys. J.} {\bf 222} (June, 1978)  833--849}.
 
 \bibitem{1998ApJ...494..523S}
-P.~Sreekumar et~al.
-\newblock {EGRET Observations of the Extragalactic Gamma-Ray Emission}.
-\newblock {\em Astrophys. J.}, 494:523--534, February 1998.
+P.~Sreekumar {\em et al.}, \href{http://dx.doi.org/10.1086/305222}{``{EGRET
+  Observations of the Extragalactic Gamma-Ray Emission},''{\em Astrophys. J.}
+  {\bf 494} (Feb., 1998)  523--534},
+  \href{http://arxiv.org/abs/astro-ph/9709257}{{\tt astro-ph/9709257}}.
 
 \bibitem{2004ApJ...613..956S}
-A.~W. Strong, I.~V. Moskalenko, and O.~Reimer.
-\newblock {A New Determination of the Extragalactic Diffuse Gamma-Ray
-  Background from EGRET Data}.
-\newblock {\em Astrophys. J.}, 613:956--961, October 2004.
-
-\bibitem{Ackermann:2014usa}
-M.~Ackermann et~al.
-\newblock {The spectrum of isotropic diffuse gamma-ray emission between 100 MeV
-  and 820 GeV}.
-\newblock {\em Astrophys. J.}, 799:86, 2015.
+A.~W. Strong, I.~V. Moskalenko, and O.~Reimer,
+  \href{http://dx.doi.org/10.1086/423196}{``{A New Determination of the
+  Extragalactic Diffuse Gamma-Ray Background from EGRET Data},''{\em Astrophys.
+  J.} {\bf 613} (Oct., 2004)  956--961},
+  \href{http://arxiv.org/abs/astro-ph/0405441}{{\tt astro-ph/0405441}}.
 
 \bibitem{Stecker:1993ni}
-F.~W. Stecker, M.~H. Salamon, and M.~A. Malkan.
-\newblock {The High-energy diffuse cosmic gamma-ray background radiation from
-  blazars}.
-\newblock {\em Astrophys. J.}, 410:L71--L74, 1993.
+F.~W. Stecker, M.~H. Salamon, and M.~A. Malkan, ``{The High-energy diffuse
+  cosmic gamma-ray background radiation from blazars},''
+\href{http://dx.doi.org/10.1086/186882}{{\em Astrophys. J.} {\bf 410} (1993)
+  L71--L74}.
+%%CITATION = ASJOA,410,L71;%%.
 
 \bibitem{Stecker:1996ma}
-F.~W. Stecker and M.~H. Salamon.
-\newblock {The Gamma-ray background from blazars: A New look}.
-\newblock {\em Astrophys. J.}, 464:600--605, 1996.
+F.~W. Stecker and M.~H. Salamon, ``{The Gamma-ray background from blazars: A
+  New look},'' \href{http://dx.doi.org/10.1086/177348}{{\em Astrophys. J.} {\bf
+  464} (1996)  600--605},
+\href{http://arxiv.org/abs/astro-ph/9601120}{{\tt arXiv:astro-ph/9601120
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9601120;%%.
 
 \bibitem{Muecke:1998cs}
-A.~Muecke and M.~Pohl.
-\newblock {On the contribution of unresolved blazars to the extragalactic
-  gamma-ray background}.
-\newblock {\em ASP Conf. Ser.}, 159:217, 1999.
+A.~Muecke and M.~Pohl, ``{On the contribution of unresolved blazars to the
+  extragalactic gamma-ray background},'' {\em ASP Conf. Ser.} {\bf 159} (1999)
+  217,
+\href{http://arxiv.org/abs/astro-ph/9807297}{{\tt arXiv:astro-ph/9807297
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9807297;%%.
 
 \bibitem{Narumoto:2006qg}
-Takuro Narumoto and Tomonori Totani.
-\newblock {Gamma-ray luminosity function of blazars and the cosmic gamma-ray
-  background: evidence for the luminosity dependent density evolution}.
-\newblock {\em Astrophys. J.}, 643:81--91, 2006.
+T.~Narumoto and T.~Totani, ``{Gamma-ray luminosity function of blazars and the
+  cosmic gamma-ray background: evidence for the luminosity dependent density
+  evolution},'' \href{http://dx.doi.org/10.1086/502708}{{\em Astrophys. J.}
+  {\bf 643} (2006)  81--91},
+\href{http://arxiv.org/abs/astro-ph/0602178}{{\tt arXiv:astro-ph/0602178
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0602178;%%.
 
 \bibitem{Dermer:2007fg}
-Charles~D. Dermer.
-\newblock {The Extragalactic Gamma Ray Background}.
-\newblock {\em AIP Conf. Proc.}, 921:122--126, 2007.
+C.~D. Dermer, ``{The Extragalactic Gamma Ray Background},''
+  \href{http://dx.doi.org/10.1063/1.2757282}{{\em AIP Conf. Proc.} {\bf 921}
+  (2007)  122--126},
+\href{http://arxiv.org/abs/0704.2888}{{\tt arXiv:0704.2888 [astro-ph]}}.
+%%CITATION = ARXIV:0704.2888;%%.
 
 \bibitem{Pavlidou:2007dv}
-Vasiliki Pavlidou and Tonia~M. Venters.
-\newblock {The Spectral Shape of the Gamma-ray Background from Blazars}.
-\newblock {\em Astrophys. J.}, 673:114--118, 2008.
+V.~Pavlidou and T.~M. Venters, ``{The Spectral Shape of the Gamma-ray
+  Background from Blazars},'' \href{http://dx.doi.org/10.1086/523956}{{\em
+  Astrophys. J.} {\bf 673} (2008)  114--118},
+\href{http://arxiv.org/abs/0710.0002}{{\tt arXiv:0710.0002 [astro-ph]}}.
+%%CITATION = ARXIV:0710.0002;%%.
 
 \bibitem{Ajello:2009ip}
-M.~Ajello et~al.
-\newblock {The Evolution of Swift/BAT blazars and the origin of the MeV
-  background}.
-\newblock {\em Astrophys. J.}, 699:603--625, 2009.
+M.~Ajello {\em et al.}, ``{The Evolution of Swift/BAT blazars and the origin of
+  the MeV background},''
+  \href{http://dx.doi.org/10.1088/0004-637X/699/1/603}{{\em Astrophys. J.} {\bf
+  699} (2009)  603--625},
+\href{http://arxiv.org/abs/0905.0472}{{\tt arXiv:0905.0472 [astro-ph.CO]}}.
+%%CITATION = ARXIV:0905.0472;%%.
 
 \bibitem{Collaboration:2010gqa}
-{The Fermi-LAT high-latitude Survey: Source Count Distributions and the Origin
-  of the Extragalactic Diffuse Background}.
-\newblock {\em Astrophys. J.}, 720:435--453, 2010.
+{\bf Fermi-LAT} Collaboration, ``{The Fermi-LAT high-latitude Survey: Source
+  Count Distributions and the Origin of the Extragalactic Diffuse
+  Background},'' \href{http://dx.doi.org/10.1088/0004-637X/720/1/435}{{\em
+  Astrophys. J.} {\bf 720} (2010)  435--453},
+\href{http://arxiv.org/abs/1003.0895}{{\tt arXiv:1003.0895 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1003.0895;%%.
 
 \bibitem{Abazajian:2010pc}
-Kevork~N. Abazajian, Steve Blanchet, and J.~Patrick Harding.
-\newblock {The Contribution of Blazars to the Extragalactic Diffuse Gamma-ray
-  Background and Their Future Spatial Resolution}.
-\newblock {\em Phys. Rev.}, D84:103007, 2011.
+K.~N. Abazajian, S.~Blanchet, and J.~P. Harding, ``{The Contribution of Blazars
+  to the Extragalactic Diffuse Gamma-ray Background and Their Future Spatial
+  Resolution},'' \href{http://dx.doi.org/10.1103/PhysRevD.84.103007}{{\em Phys.
+  Rev.} {\bf D84} (2011)  103007},
+\href{http://arxiv.org/abs/1012.1247}{{\tt arXiv:1012.1247 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1012.1247;%%.
 
 \bibitem{Stecker:2010di}
-Floyd~W. Stecker and Tonia~M. Venters.
-\newblock {Components of the Extragalactic Gamma Ray Background}.
-\newblock {\em Astrophys. J.}, 736:40, 2011.
+F.~W. Stecker and T.~M. Venters, ``{Components of the Extragalactic Gamma Ray
+  Background},'' \href{http://dx.doi.org/10.1088/0004-637X/736/1/40}{{\em
+  Astrophys. J.} {\bf 736} (2011)  40},
+\href{http://arxiv.org/abs/1012.3678}{{\tt arXiv:1012.3678 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1012.3678;%%.
 
 \bibitem{Singal:2011yi}
-J.~Singal, V.~Petrosian, and M.~Ajello.
-\newblock {Flux and Photon Spectral Index Distributions of Fermi-LAT Blazars
-  And Contribution To The Extragalactic Gamma-ray Background}.
-\newblock {\em Astrophys. J.}, 753:45, 2012.
-
-\bibitem{Ajello:2011zi}
-M.~Ajello et~al.
-\newblock {The Luminosity Function of Fermi-detected Flat-Spectrum Radio
-  Quasars}.
-\newblock {\em Astrophys. J.}, 751:108, 2012.
-
-\bibitem{Ajello:2013lka}
-M.~Ajello et~al.
-\newblock {The Cosmic Evolution of Fermi BL Lacertae Objects}.
-\newblock {\em Astrophys. J.}, 780:73, 2014.
+J.~Singal, V.~Petrosian, and M.~Ajello, ``{Flux and Photon Spectral Index
+  Distributions of Fermi-LAT Blazars And Contribution To The Extragalactic
+  Gamma-ray Background},''
+  \href{http://dx.doi.org/10.1088/0004-637X/753/1/45}{{\em Astrophys. J.} {\bf
+  753} (2012)  45},
+\href{http://arxiv.org/abs/1106.3111}{{\tt arXiv:1106.3111 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1106.3111;%%.
 
 \bibitem{DiMauro:2013zfa}
-M.~Di~Mauro, F.~Donato, G.~Lamanna, D.~A. Sanchez, and P.~D. Serpico.
-\newblock {Diffuse $\gamma$-ray emission from unresolved BL Lac objects}.
-\newblock {\em Astrophys. J.}, 786:129, 2014.
-
-\bibitem{Ackermann:2015uya}
-M.~Ackermann et~al.
-\newblock {2FHL: The Second Catalog of Hard Fermi-LAT Sources}.
-\newblock {\em Astrophys. J. Suppl.}, 222(1):5, 2016.
+M.~Di~Mauro, F.~Donato, G.~Lamanna, D.~A. Sanchez, and P.~D. Serpico,
+  ``{Diffuse $\gamma$-ray emission from unresolved BL Lac objects},''
+  \href{http://dx.doi.org/10.1088/0004-637X/786/2/129}{{\em Astrophys. J.} {\bf
+  786} (2014)  129},
+\href{http://arxiv.org/abs/1311.5708}{{\tt arXiv:1311.5708 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1311.5708;%%.
 
 \bibitem{Soltan:1998jg}
-Andrzej~M. Soltan and Jozef Juchniewicz.
-\newblock {FIR galaxies and the gamma-ray background}.
-\newblock {\em Astrophys. Lett.}, 39:197, 1999.
+A.~M. Soltan and J.~Juchniewicz, ``{FIR galaxies and the gamma-ray
+  background},'' {\em Astrophys. Lett.} {\bf 39} (1999)  197,
+\href{http://arxiv.org/abs/astro-ph/9811405}{{\tt arXiv:astro-ph/9811405
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9811405;%%.
 
 \bibitem{Pavlidou:2002va}
-Vasiliki Pavlidou and Brian~D. Fields.
-\newblock {The Guaranteed gamma-ray background}.
-\newblock {\em Astrophys. J.}, 575:L5--L8, 2002.
+V.~Pavlidou and B.~D. Fields, ``{The Guaranteed gamma-ray background},''
+  \href{http://dx.doi.org/10.1086/342670}{{\em Astrophys. J.} {\bf 575} (2002)
+  L5--L8},
+\href{http://arxiv.org/abs/astro-ph/0207253}{{\tt arXiv:astro-ph/0207253
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0207253;%%.
 
 \bibitem{Bhattacharya:2009yv}
-D.~Bhattacharya, P.~Sreekumar, and R.~Mukherjee.
-\newblock {Contribution from unresolved discrete sources to the Extragalactic
-  Gamma-Ray Background (EGRB)}.
-\newblock {\em Res. Astron. Astrophys.}, 9:1205--1214, 2009.
+D.~Bhattacharya, P.~Sreekumar, and R.~Mukherjee, ``{Contribution from
+  unresolved discrete sources to the Extragalactic Gamma-Ray Background
+  (EGRB)},'' \href{http://dx.doi.org/10.1088/1674-4527/9/11/004}{{\em Res.
+  Astron. Astrophys.} {\bf 9} (2009)  1205--1214},
+\href{http://arxiv.org/abs/0907.1741}{{\tt arXiv:0907.1741 [astro-ph.HE]}}.
+%%CITATION = ARXIV:0907.1741;%%.
 
 \bibitem{Ando:2009nk}
-Shin'ichiro Ando and Vasiliki Pavlidou.
-\newblock {Imprint of Galaxy Clustering in the Cosmic Gamma-Ray Background}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 400:2122, 2009.
+S.~Ando and V.~Pavlidou, ``{Imprint of Galaxy Clustering in the Cosmic
+  Gamma-Ray Background},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2009.15605.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 400} (2009)  2122},
+\href{http://arxiv.org/abs/0908.3890}{{\tt arXiv:0908.3890 [astro-ph.HE]}}.
+%%CITATION = ARXIV:0908.3890;%%.
 
 \bibitem{Fields:2010bw}
-Brian~D. Fields, Vasiliki Pavlidou, and Tijana Prodanovic.
-\newblock {Cosmic Gamma-Ray Background from Star-Forming Galaxies}.
-\newblock {\em Astrophys. J.}, 722:L199, 2010.
+B.~D. Fields, V.~Pavlidou, and T.~Prodanovic, ``{Cosmic Gamma-Ray Background
+  from Star-Forming Galaxies},''
+  \href{http://dx.doi.org/10.1088/2041-8205/722/2/L199}{{\em Astrophys. J.}
+  {\bf 722} (2010)  L199},
+\href{http://arxiv.org/abs/1003.3647}{{\tt arXiv:1003.3647 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1003.3647;%%.
 
 \bibitem{Makiya:2010zt}
-R.~Makiya, T.~Totani, and M.~A.~R. Kobayashi.
-\newblock {Contribution from Star-Forming Galaxies to the Cosmic Gamma-Ray
-  Background Radiation}.
-\newblock {\em Astrophys. J.}, 728:158, 2011.
+R.~Makiya, T.~Totani, and M.~A.~R. Kobayashi, ``{Contribution from Star-Forming
+  Galaxies to the Cosmic Gamma-Ray Background Radiation},''
+  \href{http://dx.doi.org/10.1088/0004-637X/728/2/158}{{\em Astrophys. J.} {\bf
+  728} (2011)  158},
+\href{http://arxiv.org/abs/1005.1390}{{\tt arXiv:1005.1390 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1005.1390;%%.
 
 \bibitem{Ackermann:2012vca}
-M.~Ackermann et~al.
-\newblock {GeV Observations of Star-forming Galaxies with \textit{Fermi} LAT}.
-\newblock {\em Astrophys. J.}, 755:164, 2012.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{GeV Observations
+  of Star-forming Galaxies with \textit{Fermi} LAT},''
+  \href{http://dx.doi.org/10.1088/0004-637X/755/2/164}{{\em Astrophys. J.} {\bf
+  755} (2012)  164},
+\href{http://arxiv.org/abs/1206.1346}{{\tt arXiv:1206.1346 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1206.1346;%%.
 
 \bibitem{Chakraborty:2012sh}
-Nachiketa Chakraborty and Brian~D. Fields.
-\newblock {Inverse Compton Contribution to the Star-Forming Extragalactic
-  Gamma-Ray Background}.
-\newblock {\em Astrophys. J.}, 773:104, 2013.
+N.~Chakraborty and B.~D. Fields, ``{Inverse Compton Contribution to the
+  Star-Forming Extragalactic Gamma-Ray Background},''
+  \href{http://dx.doi.org/10.1088/0004-637X/773/2/104}{{\em Astrophys. J.} {\bf
+  773} (2013)  104},
+\href{http://arxiv.org/abs/1206.0770}{{\tt arXiv:1206.0770 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1206.0770;%%.
 
 \bibitem{Lacki:2012si}
-Brian~C. Lacki, Shunsaku Horiuchi, and John~F. Beacom.
-\newblock {The Star-Forming Galaxy Contribution to the Cosmic MeV and GeV
-  Gamma-Ray Background}.
-\newblock {\em Astrophys. J.}, 786:40, 2014.
-
-\bibitem{Tamborra:2014xia}
-Irene Tamborra, Shin'ichiro Ando, and Kohta Murase.
-\newblock {Star-forming galaxies as the origin of diffuse high-energy
-  backgrounds: Gamma-ray and neutrino connections, and implications for
-  starburst history}.
-\newblock {\em JCAP}, 1409:043, 2014.
+B.~C. Lacki, S.~Horiuchi, and J.~F. Beacom, ``{The Star-Forming Galaxy
+  Contribution to the Cosmic MeV and GeV Gamma-Ray Background},''
+  \href{http://dx.doi.org/10.1088/0004-637X/786/1/40}{{\em Astrophys. J.} {\bf
+  786} (2014)  40},
+\href{http://arxiv.org/abs/1206.0772}{{\tt arXiv:1206.0772 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1206.0772;%%.
 
 \bibitem{Stawarz:2005tq}
-Lukasz Stawarz, T.~M. Kneiske, and J.~Kataoka.
-\newblock {Kiloparsec-scale jets in FR I radio galaxies and the gamma-ray
-  background}.
-\newblock {\em Astrophys. J.}, 637:693--698, 2006.
+L.~Stawarz, T.~M. Kneiske, and J.~Kataoka, ``{Kiloparsec-scale jets in FR I
+  radio galaxies and the gamma-ray background},''
+  \href{http://dx.doi.org/10.1086/498084}{{\em Astrophys. J.} {\bf 637} (2006)
+  693--698},
+\href{http://arxiv.org/abs/astro-ph/0507316}{{\tt arXiv:astro-ph/0507316
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0507316;%%.
 
 \bibitem{Inoue:2011bm}
-Yoshiyuki Inoue.
-\newblock {Contribution of the Gamma-ray Loud Radio Galaxies Core Emissions to
-  the Cosmic MeV and GeV Gamma-Ray Background Radiation}.
-\newblock {\em Astrophys. J.}, 733:66, 2011.
+Y.~Inoue, ``{Contribution of the Gamma-ray Loud Radio Galaxies Core Emissions
+  to the Cosmic MeV and GeV Gamma-Ray Background Radiation},''
+  \href{http://dx.doi.org/10.1088/0004-637X/733/1/66}{{\em Astrophys. J.} {\bf
+  733} (2011)  66},
+\href{http://arxiv.org/abs/1103.3946}{{\tt arXiv:1103.3946 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1103.3946;%%.
 
 \bibitem{Massaro:2011ww}
-F.~Massaro and M.~Ajello.
-\newblock {Fueling lobes of radio galaxies: statistical particle acceleration
-  and the extragalactic gamma-ray background}.
-\newblock {\em Astrophys. J.}, 729:L12, 2011.
+F.~Massaro and M.~Ajello, ``{Fueling lobes of radio galaxies: statistical
+  particle acceleration and the extragalactic gamma-ray background},''
+  \href{http://dx.doi.org/10.1088/2041-8205/729/1/L12}{{\em Astrophys. J.} {\bf
+  729} (2011)  L12},
+\href{http://arxiv.org/abs/1102.0774}{{\tt arXiv:1102.0774 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1102.0774;%%.
 
 \bibitem{DiMauro:2013xta}
-M.~Di~Mauro, F.~Calore, F.~Donato, M.~Ajello, and L.~Latronico.
-\newblock {Diffuse $\gamma$-ray emission from misaligned active galactic
-  nuclei}.
-\newblock {\em Astrophys. J.}, 780:161, 2014.
+M.~Di~Mauro, F.~Calore, F.~Donato, M.~Ajello, and L.~Latronico, ``{Diffuse
+  $\gamma$-ray emission from misaligned active galactic nuclei},''
+  \href{http://dx.doi.org/10.1088/0004-637X/780/2/161}{{\em Astrophys. J.} {\bf
+  780} (2014)  161},
+\href{http://arxiv.org/abs/1304.0908}{{\tt arXiv:1304.0908 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1304.0908;%%.
 
 \bibitem{Hooper:2016gjy}
-Dan Hooper, Tim Linden, and Alejandro Lopez.
-\newblock {Radio Galaxies Dominate the High-Energy Diffuse Gamma-Ray
-  Background}.
-\newblock 2016.
+D.~Hooper, T.~Linden, and A.~Lopez, ``{Radio Galaxies Dominate the High-Energy
+  Diffuse Gamma-Ray Background},''
+\href{http://arxiv.org/abs/1604.08505}{{\tt arXiv:1604.08505 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1604.08505;%%.
 
 \bibitem{Murase:2013rfa}
-Kohta Murase, Markus Ahlers, and Brian~C. Lacki.
-\newblock {Testing the Hadronuclear Origin of PeV Neutrinos Observed with
-  IceCube}.
-\newblock {\em Phys. Rev.}, D88(12):121301, 2013.
+K.~Murase, M.~Ahlers, and B.~C. Lacki, ``{Testing the Hadronuclear Origin of
+  PeV Neutrinos Observed with IceCube},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.88.121301}{{\em Phys. Rev.} {\bf
+  D88} (2013) no.~12, 121301},
+\href{http://arxiv.org/abs/1306.3417}{{\tt arXiv:1306.3417 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1306.3417;%%.
 
 \bibitem{Bengtsson:1990xf}
-Hans~Uno Bengtsson, Pierre Salati, and Joseph Silk.
-\newblock {Quark Flavors and the gamma-ray Spectrum From Halo Dark Matter
-  Annihilations}.
-\newblock {\em Nucl. Phys.}, B346:129--148, 1990.
+H.~U. Bengtsson, P.~Salati, and J.~Silk, ``{Quark Flavors and the gamma-ray
+  Spectrum From Halo Dark Matter Annihilations},''
+\href{http://dx.doi.org/10.1016/0550-3213(90)90241-5}{{\em Nucl. Phys.} {\bf
+  B346} (1990)  129--148}.
+%%CITATION = NUPHA,B346,129;%%.
 
 \bibitem{Bergstrom:2001jj}
-Lars Bergstrom, Joakim Edsjo, and Piero Ullio.
-\newblock {Spectral gamma-ray signatures of cosmological dark matter
-  annihilation}.
-\newblock {\em Phys. Rev. Lett.}, 87:251301, 2001.
+L.~Bergstrom, J.~Edsjo, and P.~Ullio, ``{Spectral gamma-ray signatures of
+  cosmological dark matter annihilation},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.87.251301}{{\em Phys. Rev. Lett.}
+  {\bf 87} (2001)  251301},
+\href{http://arxiv.org/abs/astro-ph/0105048}{{\tt arXiv:astro-ph/0105048
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0105048;%%.
 
 \bibitem{Ullio:2002pj}
-Piero Ullio, Lars Bergstrom, Joakim Edsjo, and Cedric~G. Lacey.
-\newblock {Cosmological dark matter annihilations into gamma-rays - a closer
-  look}.
-\newblock {\em Phys. Rev.}, D66:123502, 2002.
+P.~Ullio, L.~Bergstrom, J.~Edsjo, and C.~G. Lacey, ``{Cosmological dark matter
+  annihilations into gamma-rays - a closer look},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.66.123502}{{\em Phys. Rev.} {\bf
+  D66} (2002)  123502},
+\href{http://arxiv.org/abs/astro-ph/0207125}{{\tt arXiv:astro-ph/0207125
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0207125;%%.
 
 \bibitem{Bottino:2004qi}
-A.~Bottino, F.~Donato, N.~Fornengo, and S.~Scopel.
-\newblock {Indirect signals from light neutralinos in supersymmetric models
-  without gaugino mass unification}.
-\newblock {\em Phys. Rev.}, D70:015005, 2004.
+A.~Bottino, F.~Donato, N.~Fornengo, and S.~Scopel, ``{Indirect signals from
+  light neutralinos in supersymmetric models without gaugino mass
+  unification},'' \href{http://dx.doi.org/10.1103/PhysRevD.70.015005}{{\em
+  Phys. Rev.} {\bf D70} (2004)  015005},
+\href{http://arxiv.org/abs/hep-ph/0401186}{{\tt arXiv:hep-ph/0401186
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0401186;%%.
 
 \bibitem{Bringmann:2012ez}
-Torsten Bringmann and Christoph Weniger.
-\newblock {Gamma Ray Signals from Dark Matter: Concepts, Status and Prospects}.
-\newblock {\em Phys. Dark Univ.}, 1:194--217, 2012.
+T.~Bringmann and C.~Weniger, ``{Gamma Ray Signals from Dark Matter: Concepts,
+  Status and Prospects},''
+  \href{http://dx.doi.org/10.1016/j.dark.2012.10.005}{{\em Phys. Dark Univ.}
+  {\bf 1} (2012)  194--217},
+\href{http://arxiv.org/abs/1208.5481}{{\tt arXiv:1208.5481 [hep-ph]}}.
+%%CITATION = ARXIV:1208.5481;%%.
 
 \bibitem{Loeb:2000aa}
-Abraham Loeb and Eli Waxman.
-\newblock Cosmic {$[$}gamma{$]$}-ray background from structure formation in the
-  intergalactic medium.
-\newblock {\em Nature}, 405(6783):156--158, 05 2000.
+A.~Loeb and E.~Waxman, ``Cosmic {$[$}gamma{$]$}-ray background from structure
+  formation in the intergalactic medium,''{\em Nature} {\bf 405} (05, 2000)
+  156--158. \url{http://dx.doi.org/10.1038/35012018}.
 
 \bibitem{Kalashev:2007sn}
-Oleg~E. Kalashev, Dmitry~V. Semikoz, and Gunter Sigl.
-\newblock {Ultra-High Energy Cosmic Rays and the GeV-TeV Diffuse Gamma-Ray
-  Flux}.
-\newblock {\em Phys. Rev.}, D79:063005, 2009.
+O.~E. Kalashev, D.~V. Semikoz, and G.~Sigl, ``{Ultra-High Energy Cosmic Rays
+  and the GeV-TeV Diffuse Gamma-Ray Flux},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.79.063005}{{\em Phys. Rev.} {\bf
+  D79} (2009)  063005},
+\href{http://arxiv.org/abs/0704.2463}{{\tt arXiv:0704.2463 [astro-ph]}}.
+%%CITATION = ARXIV:0704.2463;%%.
 
 \bibitem{Ahlers:2011sd}
-Markus Ahlers and Jordi Salvado.
-\newblock {Cosmogenic gamma-rays and the composition of cosmic rays}.
-\newblock {\em Phys. Rev.}, D84:085019, 2011.
+M.~Ahlers and J.~Salvado, ``{Cosmogenic gamma-rays and the composition of
+  cosmic rays},'' \href{http://dx.doi.org/10.1103/PhysRevD.84.085019}{{\em
+  Phys. Rev.} {\bf D84} (2011)  085019},
+\href{http://arxiv.org/abs/1105.5113}{{\tt arXiv:1105.5113 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1105.5113;%%.
 
 \bibitem{Murase:2012df}
-Kohta Murase, John~F. Beacom, and Hajime Takami.
-\newblock {Gamma-Ray and Neutrino Backgrounds as Probes of the High-Energy
-  Universe: Hints of Cascades, General Constraints, and Implications for TeV
-  Searches}.
-\newblock {\em JCAP}, 1208:030, 2012.
+K.~Murase, J.~F. Beacom, and H.~Takami, ``{Gamma-Ray and Neutrino Backgrounds
+  as Probes of the High-Energy Universe: Hints of Cascades, General
+  Constraints, and Implications for TeV Searches},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2012/08/030}{{\em JCAP} {\bf 1208}
+  (2012)  030},
+\href{http://arxiv.org/abs/1205.5755}{{\tt arXiv:1205.5755 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1205.5755;%%.
 
 \bibitem{Taylor:2015rla}
-Andrew~M. Taylor, Markus Ahlers, and Dan Hooper.
-\newblock {Indications of Negative Evolution for the Sources of the Highest
-  Energy Cosmic Rays}.
-\newblock {\em Phys. Rev.}, D92(6):063011, 2015.
+A.~M. Taylor, M.~Ahlers, and D.~Hooper, ``{Indications of Negative Evolution
+  for the Sources of the Highest Energy Cosmic Rays},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.92.063011}{{\em Phys. Rev.} {\bf
+  D92} (2015) no.~6, 063011},
+\href{http://arxiv.org/abs/1505.06090}{{\tt arXiv:1505.06090 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1505.06090;%%.
 
 \bibitem{Murase:2008yt}
-Kohta Murase, Susumu Inoue, and Shigehiro Nagataki.
-\newblock {Cosmic Rays Above the Second Knee from Clusters of Galaxies and
-  Associated High-Energy Neutrino Emission}.
-\newblock {\em Astrophys. J.}, 689:L105, 2008.
+K.~Murase, S.~Inoue, and S.~Nagataki, ``{Cosmic Rays Above the Second Knee from
+  Clusters of Galaxies and Associated High-Energy Neutrino Emission},''
+  \href{http://dx.doi.org/10.1086/595882}{{\em Astrophys. J.} {\bf 689} (2008)
+  L105},
+\href{http://arxiv.org/abs/0805.0104}{{\tt arXiv:0805.0104 [astro-ph]}}.
+%%CITATION = ARXIV:0805.0104;%%.
 
 \bibitem{Zandanel:2014pva}
-Fabio Zandanel, Irene Tamborra, Stefano Gabici, and Shin'ichiro Ando.
-\newblock {High-energy gamma-ray and neutrino backgrounds from clusters of
-  galaxies and radio constraints}.
-\newblock {\em Astron. Astrophys.}, 578:A32, 2015.
+F.~Zandanel, I.~Tamborra, S.~Gabici, and S.~Ando, ``{High-energy gamma-ray and
+  neutrino backgrounds from clusters of galaxies and radio constraints},''
+  \href{http://dx.doi.org/10.1051/0004-6361/201425249}{{\em Astron. Astrophys.}
+  {\bf 578} (2015)  A32},
+\href{http://arxiv.org/abs/1410.8697}{{\tt arXiv:1410.8697 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1410.8697;%%.
 
 \bibitem{Sandage}
-A.~R. Sandage, R.~G. Kron, and M.~S. Longair.
-\newblock {\em The Deep Universee}.
+A.~R. Sandage, R.~G. Kron, and M.~S. Longair, {\em The Deep Universee}.
 \newblock Springer, Berlin, 1995.
 
 \bibitem{Ando:2015bva}
-Shin'ichiro Ando, Irene Tamborra, and Fabio Zandanel.
-\newblock {Tomographic Constraints on High-Energy Neutrinos of Hadronuclear
-  Origin}.
-\newblock {\em Phys. Rev. Lett.}, 115(22):221101, 2015.
+S.~Ando, I.~Tamborra, and F.~Zandanel, ``{Tomographic Constraints on
+  High-Energy Neutrinos of Hadronuclear Origin},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.115.221101}{{\em Phys. Rev.
+  Lett.} {\bf 115} (2015) no.~22, 221101},
+\href{http://arxiv.org/abs/1509.02444}{{\tt arXiv:1509.02444 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1509.02444;%%.
 
 \bibitem{Hooper:2016jls}
-Dan Hooper.
-\newblock {A Case for Radio Galaxies as the Sources of IceCube's Astrophysical
-  Neutrino Flux}.
-\newblock 2016.
+D.~Hooper, ``{A Case for Radio Galaxies as the Sources of IceCube's
+  Astrophysical Neutrino Flux},''
+\href{http://arxiv.org/abs/1605.06504}{{\tt arXiv:1605.06504 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1605.06504;%%.
 
 \bibitem{2011arXiv1111.2183C}
-T.~{CTA Consortium}.
-\newblock {Contributions from the Cherenkov Telescope Array (CTA) Consortium to
-  the ICRC 2011}.
-\newblock {\em ArXiv e-prints}, November 2011.
+T.~{CTA Consortium}, ``{Contributions from the Cherenkov Telescope Array (CTA)
+  Consortium to the ICRC 2011},''{\em ArXiv e-prints} (Nov., 2011)  ,
+  \href{http://arxiv.org/abs/1111.2183}{{\tt arXiv:1111.2183 [astro-ph.IM]}}.
 
 \bibitem{Dubus:2012hm}
-G.~Dubus et~al.
-\newblock {Surveys with the Cherenkov Telescope Array}.
-\newblock {\em Astropart. Phys.}, 43:317--330, 2013.
+G.~Dubus {\em et al.}, ``{Surveys with the Cherenkov Telescope Array},''
+  \href{http://dx.doi.org/10.1016/j.astropartphys.2012.05.020}{{\em Astropart.
+  Phys.} {\bf 43} (2013)  317--330},
+\href{http://arxiv.org/abs/1208.5686}{{\tt arXiv:1208.5686 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1208.5686;%%.
 
 \bibitem{DiMauro:2014wha}
-Mattia Di~Mauro, Alessandro Cuoco, Fiorenza Donato, and Jennifer~M.
-  Siegal-Gaskins.
-\newblock {Fermi-LAT $/gamma$-ray anisotropy and intensity explained by
-  unresolved Radio-Loud Active Galactic Nuclei}.
-\newblock {\em JCAP}, 1411(11):021, 2014.
+M.~Di~Mauro, A.~Cuoco, F.~Donato, and J.~M. Siegal-Gaskins, ``{Fermi-LAT
+  $/gamma$-ray anisotropy and intensity explained by unresolved Radio-Loud
+  Active Galactic Nuclei},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2014/11/021}{{\em JCAP} {\bf 1411}
+  (2014) no.~11, 021},
+\href{http://arxiv.org/abs/1407.3275}{{\tt arXiv:1407.3275 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1407.3275;%%.
 
 \bibitem{Gould:1966pza}
-Robert Gould and Gerald Schr{\'e}der.
-\newblock {Opacity of the Universe to High-Energy Photons}.
-\newblock {\em Phys. Rev. Lett.}, 16(6):252--254, 1966.
+R.~Gould and G.~Schr{\'e}der, ``{Opacity of the Universe to High-Energy
+  Photons},''
+\href{http://dx.doi.org/10.1103/PhysRevLett.16.252}{{\em Phys. Rev. Lett.} {\bf
+  16} (1966) no.~6, 252--254}.
+%%CITATION = PRLTA,16,252;%%.
 
 \bibitem{Fazio:1970pr}
-G.~G. Fazio and F.~W. Stecker.
-\newblock {Predicted high energy break in the isotropic gamma-ray spectrum: A
-  Test of cosmological origin}.
-\newblock {\em Nature}, 226:135--136, 1970.
+G.~G. Fazio and F.~W. Stecker, ``{Predicted high energy break in the isotropic
+  gamma-ray spectrum: A Test of cosmological origin},''
+\href{http://dx.doi.org/10.1038/226135a0}{{\em Nature} {\bf 226} (1970)
+  135--136}.
+%%CITATION = NATUA,226,135;%%.
 
 \bibitem{1992ApJ...390L..49S}
-F.~W. Stecker, O.~C. de~Jager, and M.~H. Salamon.
-\newblock {TeV gamma rays from 3C 279 - A possible probe of origin and
-  intergalactic infrared radiation fields}.
-\newblock {\em Astrophys. J. Lett.}, 390:L49--L52, May 1992.
+F.~W. Stecker, O.~C. de~Jager, and M.~H. Salamon,
+  \href{http://dx.doi.org/10.1086/186369}{``{TeV gamma rays from 3C 279 - A
+  possible probe of origin and intergalactic infrared radiation fields},''{\em
+  Astrophys. J. Lett.} {\bf 390} (May, 1992)  L49--L52}.
 
 \bibitem{Franceschini:2008tp}
-Alberto Franceschini, Giulia Rodighiero, and Mattia Vaccari.
-\newblock {The extragalactic optical-infrared background radiations, their time
-  evolution and the cosmic photon-photon opacity}.
-\newblock {\em Astron. Astrophys.}, 487:837, 2008.
+A.~Franceschini, G.~Rodighiero, and M.~Vaccari, ``{The extragalactic
+  optical-infrared background radiations, their time evolution and the cosmic
+  photon-photon opacity},''
+  \href{http://dx.doi.org/10.1051/0004-6361:200809691}{{\em Astron. Astrophys.}
+  {\bf 487} (2008)  837},
+\href{http://arxiv.org/abs/0805.1841}{{\tt arXiv:0805.1841 [astro-ph]}}.
+%%CITATION = ARXIV:0805.1841;%%.
 
 \bibitem{2012Sci...338.1190A}
-M.~Ackermann et~al.
-\newblock {The Imprint of the Extragalactic Background Light in the Gamma-Ray
-  Spectra of Blazars}.
-\newblock {\em Science}, 338:1190, 2012.
+M.~Ackermann {\em et al.}, ``{The Imprint of the Extragalactic Background Light
+  in the Gamma-Ray Spectra of Blazars},''
+  \href{http://dx.doi.org/10.1126/science.1227160}{{\em Science} {\bf 338}
+  (2012)  1190}, \href{http://arxiv.org/abs/1211.1671}{{\tt arXiv:1211.1671
+  [astro-ph.CO]}}.
 
 \bibitem{Abramowski:2012ry}
-A.~Abramowski et~al.
-\newblock {Measurement of the extragalactic background light imprint on the
-  spectra of the brightest blazars observed with H.E.S.S}.
-\newblock {\em Astron. Astrophys.}, 550:A4, 2013.
+{\bf HESS} Collaboration, A.~Abramowski {\em et al.}, ``{Measurement of the
+  extragalactic background light imprint on the spectra of the brightest
+  blazars observed with H.E.S.S},''
+  \href{http://dx.doi.org/10.1051/0004-6361/201220355}{{\em Astron. Astrophys.}
+  {\bf 550} (2013)  A4},
+\href{http://arxiv.org/abs/1212.3409}{{\tt arXiv:1212.3409 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1212.3409;%%.
 
 \bibitem{Dominguez:2013lfa}
-A.~Dom{\'\i}nguez et~al.
-\newblock {Detection of the cosmic gamma-ray horizon from multiwavelength
-  observations of blazars}.
-\newblock {\em Astrophys. J.}, 770:77, 2013.
+A.~Dom{\'\i}nguez {\em et al.}, ``{Detection of the cosmic gamma-ray horizon
+  from multiwavelength observations of blazars},''
+  \href{http://dx.doi.org/10.1088/0004-637X/770/1/77}{{\em Astrophys. J.} {\bf
+  770} (2013)  77},
+\href{http://arxiv.org/abs/1305.2162}{{\tt arXiv:1305.2162 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1305.2162;%%.
 
 \bibitem{2010ApJ...712..238F}
-J.~D. {Finke}, S.~{Razzaque}, and C.~D. {Dermer}.
-\newblock {Modeling the Extragalactic Background Light from Stars and Dust}.
-\newblock {\em \apj}, 712:238--249, March 2010.
+J.~D. {Finke}, S.~{Razzaque}, and C.~D. {Dermer},
+  \href{http://dx.doi.org/10.1088/0004-637X/712/1/238}{``{Modeling the
+  Extragalactic Background Light from Stars and Dust},''{\em \apj} {\bf 712}
+  (Mar., 2010)  238--249}, \href{http://arxiv.org/abs/0905.1115}{{\tt
+  arXiv:0905.1115 [astro-ph.HE]}}.
 
 \bibitem{Urry:1995mg}
-C.~Megan Urry and Paolo Padovani.
-\newblock {Unified schemes for radio-loud active galactic nuclei}.
-\newblock {\em Publ. Astron. Soc. Pac.}, 107:803, 1995.
+C.~M. Urry and P.~Padovani, ``{Unified schemes for radio-loud active galactic
+  nuclei},'' \href{http://dx.doi.org/10.1086/133630}{{\em Publ. Astron. Soc.
+  Pac.} {\bf 107} (1995)  803},
+\href{http://arxiv.org/abs/astro-ph/9506063}{{\tt arXiv:astro-ph/9506063
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9506063;%%.
 
 \bibitem{Angel:1980}
-J.R.P. Angel and H.S. Stockman.
-\newblock {Optical and Infrared Polarization of Active Extraglactic Objects}.
-\newblock {\em ARA\&A}, 18:321, 1980.
+J.~Angel and H.~Stockman, ``{Optical and Infrared Polarization of Active
+  Extraglactic Objects},'' {\em ARA\&A} {\bf 18} (1980)  321.
 
 \bibitem{Fossati:1998zn}
-G.~Fossati, L.~Maraschi, A.~Celotti, A.~Comastri, and G.~Ghisellini.
-\newblock {A Unifying view of the spectral energy distributions of blazars}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 299:433--448, 1998.
+G.~Fossati, L.~Maraschi, A.~Celotti, A.~Comastri, and G.~Ghisellini, ``{A
+  Unifying view of the spectral energy distributions of blazars},''
+  \href{http://dx.doi.org/10.1046/j.1365-8711.1998.01828.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 299} (1998)  433--448},
+\href{http://arxiv.org/abs/astro-ph/9804103}{{\tt arXiv:astro-ph/9804103
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9804103;%%.
 
 \bibitem{Ghisellini:1998it}
-G.~Ghisellini, A.~Celotti, G.~Fossati, L.~Maraschi, and A.~Comastri.
-\newblock {A Theoretical unifying scheme for gamma-ray bright blazars}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 301:451, 1998.
+G.~Ghisellini, A.~Celotti, G.~Fossati, L.~Maraschi, and A.~Comastri, ``{A
+  Theoretical unifying scheme for gamma-ray bright blazars},''
+  \href{http://dx.doi.org/10.1046/j.1365-8711.1998.02032.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 301} (1998)  451},
+\href{http://arxiv.org/abs/astro-ph/9807317}{{\tt arXiv:astro-ph/9807317
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9807317;%%.
 
 \bibitem{Ghisellini:2009fj}
 G.~Ghisellini, F.~Tavecchio, L.~Foschini, G.~Ghirlanda, L.~Maraschi, and
-  A.~Celotti.
-\newblock {General physical properties of bright Fermi blazars}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 402:497, 2010.
+  A.~Celotti, ``{General physical properties of bright Fermi blazars},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2009.15898.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 402} (2010)  497},
+\href{http://arxiv.org/abs/0909.0932}{{\tt arXiv:0909.0932 [astro-ph.CO]}}.
+%%CITATION = ARXIV:0909.0932;%%.
 
 \bibitem{Boettcher:2013wxa}
-M.~Boettcher, A.~Reimer, K.~Sweeney, and A.~Prakash.
-\newblock {Leptonic and Hadronic Modeling of Fermi-Detected Blazars}.
-\newblock {\em Astrophys. J.}, 768:54, 2013.
+M.~Boettcher, A.~Reimer, K.~Sweeney, and A.~Prakash, ``{Leptonic and Hadronic
+  Modeling of Fermi-Detected Blazars},''
+  \href{http://dx.doi.org/10.1088/0004-637X/768/1/54}{{\em Astrophys. J.} {\bf
+  768} (2013)  54},
+\href{http://arxiv.org/abs/1304.0605}{{\tt arXiv:1304.0605 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1304.0605;%%.
 
 \bibitem{Tavecchio:2013fwa}
-Fabrizio Tavecchio.
-\newblock {On the hadronic cascade scenario for extreme BL Lacs}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 438(4):3255--3262, 2014.
+F.~Tavecchio, ``{On the hadronic cascade scenario for extreme BL Lacs},''
+  \href{http://dx.doi.org/10.1093/mnras/stt2437}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 438} (2014) no.~4, 3255--3262},
+\href{http://arxiv.org/abs/1312.4281}{{\tt arXiv:1312.4281 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1312.4281;%%.
 
 \bibitem{Cerruti:2014iwa}
-M.~Cerruti, A.~Zech, C.~Boisson, and S.~Inoue.
-\newblock {A hadronic origin for ultra-high-frequency-peaked BL Lac objects}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 448:910--927, 2015.
+M.~Cerruti, A.~Zech, C.~Boisson, and S.~Inoue, ``{A hadronic origin for
+  ultra-high-frequency-peaked BL Lac objects},''
+  \href{http://dx.doi.org/10.1093/mnras/stu2691}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 448} (2015)  910--927},
+\href{http://arxiv.org/abs/1411.5968}{{\tt arXiv:1411.5968 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1411.5968;%%.
 
 \bibitem{Zdziarski:2015rsa}
-Andrzej~A. Zdziarski and Markus B{\"o}ttcher.
-\newblock {Hadronic models of blazars require a change of the accretion
-  paradigm}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 450(1):L21--L25, 2015.
+A.~A. Zdziarski and M.~B{\"o}ttcher, ``{Hadronic models of blazars require a
+  change of the accretion paradigm},''
+  \href{http://dx.doi.org/10.1093/mnrasl/slv039}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 450} (2015) no.~1, L21--L25},
+\href{http://arxiv.org/abs/1501.06124}{{\tt arXiv:1501.06124 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1501.06124;%%.
 
 \bibitem{Giommi:2015ela}
-Paolo Giommi and Paolo Padovani.
-\newblock {A simplified view of blazars: contribution to the X-ray and
-  $\gamma$-ray cosmic backgrounds}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 450(3):2404--2409, 2015.
+P.~Giommi and P.~Padovani, ``{A simplified view of blazars: contribution to the
+  X-ray and $\gamma$-ray cosmic backgrounds},''
+  \href{http://dx.doi.org/10.1093/mnras/stv793}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 450} (2015) no.~3, 2404--2409},
+\href{http://arxiv.org/abs/1504.01978}{{\tt arXiv:1504.01978 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1504.01978;%%.
 
 \bibitem{Padovani:2014cha}
-P.~Padovani and P.~Giommi.
-\newblock {A simplified view of blazars: the very high energy $\gamma$-ray
-  vision}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 446(1):L41--L45, 2015.
+P.~Padovani and P.~Giommi, ``{A simplified view of blazars: the very high
+  energy $\gamma$-ray vision},''
+  \href{http://dx.doi.org/10.1093/mnrasl/slu164}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 446} (2015) no.~1, L41--L45},
+\href{http://arxiv.org/abs/1410.0497}{{\tt arXiv:1410.0497 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1410.0497;%%.
 
 \bibitem{Abdo:2010ge}
-A.~A. Abdo.
-\newblock {The First Catalog of Active Galactic Nuclei Detected by the Fermi
-  Large Area Telescope}.
-\newblock {\em Astrophys. J.}, 715:429--457, 2010.
+{\bf Fermi-LAT} Collaboration, A.~A. Abdo, ``{The First Catalog of Active
+  Galactic Nuclei Detected by the Fermi Large Area Telescope},''
+  \href{http://dx.doi.org/10.1088/0004-637X/715/1/429}{{\em Astrophys. J.} {\bf
+  715} (2010)  429--457},
+\href{http://arxiv.org/abs/1002.0150}{{\tt arXiv:1002.0150 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1002.0150;%%.
 
 \bibitem{Fornasa:2015qua}
-Mattia Fornasa and Miguel~A. S{\'a}nchez-Conde.
-\newblock {The nature of the Diffuse Gamma-Ray Background}.
-\newblock {\em Phys. Rept.}, 598:1--58, 2015.
+M.~Fornasa and M.~A. S{\'a}nchez-Conde, ``{The nature of the Diffuse Gamma-Ray
+  Background},'' \href{http://dx.doi.org/10.1016/j.physrep.2015.09.002}{{\em
+  Phys. Rept.} {\bf 598} (2015)  1--58},
+\href{http://arxiv.org/abs/1502.02866}{{\tt arXiv:1502.02866 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1502.02866;%%.
+
+\bibitem{Ackermann:2012pya}
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Fermi-LAT
+  Observations of the Diffuse Gamma-Ray Emission: Implications for Cosmic Rays
+  and the Interstellar Medium},''
+  \href{http://dx.doi.org/10.1088/0004-637X/750/1/3}{{\em Astrophys. J.} {\bf
+  750} (2012)  3},
+\href{http://arxiv.org/abs/1202.4039}{{\tt arXiv:1202.4039 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1202.4039;%%.
+
+\bibitem{Strong:2007nh}
+A.~W. Strong, I.~V. Moskalenko, and V.~S. Ptuskin, ``{Cosmic-ray propagation
+  and interactions in the Galaxy},'' {\em Ann. Rev. Nucl. Part. Sci.} {\bf 57}
+  (2007)  285--327,
+\href{http://arxiv.org/abs/astro-ph/0701517}{{\tt astro-ph/0701517}}.
+%%CITATION = ASTRO-PH/0701517;%%.
+
+\bibitem{Acero-2016}
+F.~Acero {\em et al.}, ``Development of the model of galactic interstellar
+  emission for standard point-source analysis of fermi large area telescope
+  data,'' {\em Astrophys. J. Supp.} {\bf 223} (2016) no.~2, 26.
 
 \bibitem{Eddington}
-A.~S. Eddington.
-\newblock {The Distribution in Space of the Bright Stars}.
-\newblock {\em MNRAS}, 73:359, 1913.
+A.~S. Eddington, ``{The Distribution in Space of the Bright Stars},'' {\em
+  MNRAS} {\bf 73} (1913)  359.
 
 \bibitem{Murase:2015xka}
-Kohta Murase, Dafne Guetta, and Markus Ahlers.
-\newblock {Hidden Cosmic-Ray Accelerators as an Origin of TeV-PeV Cosmic
-  Neutrinos}.
-\newblock {\em Phys. Rev. Lett.}, 116(7):071101, 2016.
+K.~Murase, D.~Guetta, and M.~Ahlers, ``{Hidden Cosmic-Ray Accelerators as an
+  Origin of TeV-PeV Cosmic Neutrinos},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.071101}{{\em Phys. Rev.
+  Lett.} {\bf 116} (2016) no.~7, 071101},
+\href{http://arxiv.org/abs/1509.00805}{{\tt arXiv:1509.00805 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1509.00805;%%.
 
 \bibitem{Feng:2016fkl}
-Chang Feng, Asantha Cooray, and Brian Keating.
-\newblock {Planck Lensing and Cosmic Infrared Background Cross-Correlation with
-  Fermi-LAT: Tracing Dark Matter Signals in the Gamma-Ray Background}.
-\newblock {\em Astrophys. J.}, 836(1):127, 2017.
+C.~Feng, A.~Cooray, and B.~Keating, ``{Planck Lensing and Cosmic Infrared
+  Background Cross-Correlation with Fermi-LAT: Tracing Dark Matter Signals in
+  the Gamma-Ray Background},''
+  \href{http://dx.doi.org/10.3847/1538-4357/836/1/127}{{\em Astrophys. J.} {\bf
+  836} (2017) no.~1, 127},
+\href{http://arxiv.org/abs/1608.04351}{{\tt arXiv:1608.04351 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1608.04351;%%.
 
 \bibitem{Ackermann:2012uf}
-M.~Ackermann et~al.
-\newblock {Anisotropies in the diffuse gamma-ray background measured by the
-  Fermi LAT}.
-\newblock {\em Phys.Rev.}, D85:083007, 2012.
+{\bf Fermi LAT Collaboration} Collaboration, M.~Ackermann {\em et al.},
+  ``{Anisotropies in the diffuse gamma-ray background measured by the Fermi
+  LAT},'' \href{http://dx.doi.org/10.1103/PhysRevD.85.109901,
+  10.1103/PhysRevD.85.083007}{{\em Phys.Rev.} {\bf D85} (2012)  083007},
+\href{http://arxiv.org/abs/1202.2856}{{\tt arXiv:1202.2856 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1202.2856;%%.
 
 \bibitem{Fornasa:2016ohl}
-Mattia Fornasa et~al.
-\newblock {Angular power spectrum of the diffuse gamma-ray emission as measured
-  by the Fermi Large Area Telescope and constraints on its dark matter
-  interpretation}.
-\newblock {\em Phys. Rev.}, D94(12):123005, 2016.
+M.~Fornasa {\em et al.}, ``{Angular power spectrum of the diffuse gamma-ray
+  emission as measured by the Fermi Large Area Telescope and constraints on its
+  dark matter interpretation},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.123005}{{\em Phys. Rev.} {\bf
+  D94} (2016) no.~12, 123005},
+\href{http://arxiv.org/abs/1608.07289}{{\tt arXiv:1608.07289 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1608.07289;%%.
 
 \bibitem{Ando:2006cr}
-Shin'ichiro Ando, Eiichiro Komatsu, Takuro Narumoto, and Tomonori Totani.
-\newblock {Dark matter annihilation or unresolved astrophysical sources?
-  Anisotropy probe of the origin of cosmic gamma-ray background}.
-\newblock {\em Phys. Rev.}, D75:063519, 2007.
+S.~Ando, E.~Komatsu, T.~Narumoto, and T.~Totani, ``{Dark matter annihilation or
+  unresolved astrophysical sources? Anisotropy probe of the origin of cosmic
+  gamma-ray background},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.75.063519}{{\em Phys. Rev.} {\bf
+  D75} (2007)  063519},
+\href{http://arxiv.org/abs/astro-ph/0612467}{{\tt arXiv:astro-ph/0612467
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0612467;%%.
 
 \bibitem{Ando:2013ff}
-Shin'ichiro Ando and Eiichiro Komatsu.
-\newblock {Constraints on the annihilation cross section of dark matter
-  particles from anisotropies in the diffuse gamma-ray background measured with
-  Fermi-LAT}.
-\newblock {\em Phys. Rev.}, D87(12):123539, 2013.
+S.~Ando and E.~Komatsu, ``{Constraints on the annihilation cross section of
+  dark matter particles from anisotropies in the diffuse gamma-ray background
+  measured with Fermi-LAT},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.87.123539}{{\em Phys. Rev.} {\bf
+  D87} (2013) no.~12, 123539},
+\href{http://arxiv.org/abs/1301.5901}{{\tt arXiv:1301.5901 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1301.5901;%%.
 
 \bibitem{Branchini:2016glc}
-Enzo Branchini, Stefano Camera, Alessandro Cuoco, Nicolao Fornengo, Marco
-  Regis, Matteo Viel, and Jun-Qing Xia.
-\newblock {Cross-correlating the $\gamma$-ray sky with Catalogs of Galaxy
-  Clusters}.
-\newblock {\em Astrophys. J. Suppl.}, 228(1):8, 2017.
+E.~Branchini, S.~Camera, A.~Cuoco, N.~Fornengo, M.~Regis, M.~Viel, and J.-Q.
+  Xia, ``{Cross-correlating the $\gamma$-ray sky with Catalogs of Galaxy
+  Clusters},'' \href{http://dx.doi.org/10.3847/1538-4365/228/1/8}{{\em
+  Astrophys. J. Suppl.} {\bf 228} (2017) no.~1, 8},
+\href{http://arxiv.org/abs/1612.05788}{{\tt arXiv:1612.05788 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1612.05788;%%.
 
 \bibitem{Xia:2011ax}
-Jun-Qing Xia, Alessandro Cuoco, Enzo Branchini, Mattia Fornasa, and Matteo
-  Viel.
-\newblock {A cross-correlation study of the Fermi-LAT $\gamma$-ray diffuse
-  extragalactic signal}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 416:2247--2264, 2011.
+J.-Q. Xia, A.~Cuoco, E.~Branchini, M.~Fornasa, and M.~Viel, ``{A
+  cross-correlation study of the Fermi-LAT $\gamma$-ray diffuse extragalactic
+  signal},'' \href{http://dx.doi.org/10.1111/j.1365-2966.2011.19200.x}{{\em
+  Mon. Not. Roy. Astron. Soc.} {\bf 416} (2011)  2247--2264},
+\href{http://arxiv.org/abs/1103.4861}{{\tt arXiv:1103.4861 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1103.4861;%%.
 
 \bibitem{Camera:2014rja}
-Stefano Camera, Mattia Fornasa, Nicolao Fornengo, and Marco Regis.
-\newblock {Tomographic-spectral approach for dark matter detection in the
-  cross-correlation between cosmic shear and diffuse $\gamma$-ray emission}.
-\newblock {\em JCAP}, 1506(06):029, 2015.
+S.~Camera, M.~Fornasa, N.~Fornengo, and M.~Regis, ``{Tomographic-spectral
+  approach for dark matter detection in the cross-correlation between cosmic
+  shear and diffuse $\gamma$-ray emission},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2015/06/029}{{\em JCAP} {\bf 1506}
+  (2015) no.~06, 029},
+\href{http://arxiv.org/abs/1411.4651}{{\tt arXiv:1411.4651 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1411.4651;%%.
 
 \bibitem{Choi:2015mnp}
-Ami Choi, Catherine Heymans, Chris Blake, Hendrik Hildebrandt, Christopher
-  A.~J. Duncan, Thomas Erben, Reiko Nakajima, Ludovic Van~Waerbeke, and Massimo
-  Viola.
-\newblock {CFHTLenS and RCSLenS: Testing Photometric Redshift Distributions
-  Using Angular Cross-Correlations with Spectroscopic Galaxy Surveys}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 463(4):3737--3754, 2016.
+A.~Choi, C.~Heymans, C.~Blake, H.~Hildebrandt, C.~A.~J. Duncan, T.~Erben,
+  R.~Nakajima, L.~Van~Waerbeke, and M.~Viola, ``{CFHTLenS and RCSLenS: Testing
+  Photometric Redshift Distributions Using Angular Cross-Correlations with
+  Spectroscopic Galaxy Surveys},''
+  \href{http://dx.doi.org/10.1093/mnras/stw2241}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 463} (2016) no.~4, 3737--3754},
+\href{http://arxiv.org/abs/1512.03626}{{\tt arXiv:1512.03626 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1512.03626;%%.
 
 \bibitem{Camera:2012cj}
-Stefano Camera, Mattia Fornasa, Nicolao Fornengo, and Marco Regis.
-\newblock {A Novel Approach in the Weakly Interacting Massive Particle Quest:
-  Cross-correlation of Gamma-Ray Anisotropies and Cosmic Shear}.
-\newblock {\em Astrophys. J.}, 771:L5, 2013.
+S.~Camera, M.~Fornasa, N.~Fornengo, and M.~Regis, ``{A Novel Approach in the
+  Weakly Interacting Massive Particle Quest: Cross-correlation of Gamma-Ray
+  Anisotropies and Cosmic Shear},''
+  \href{http://dx.doi.org/10.1088/2041-8205/771/1/L5}{{\em Astrophys. J.} {\bf
+  771} (2013)  L5},
+\href{http://arxiv.org/abs/1212.5018}{{\tt arXiv:1212.5018 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1212.5018;%%.
 
 \bibitem{Fornengo:2014cya}
-Nicolao Fornengo, Laurence Perotto, Marco Regis, and Stefano Camera.
-\newblock {Evidence of Cross-correlation between the CMB Lensing and the
-  $\Gamma$-ray sky}.
-\newblock {\em Astrophys. J.}, 802(1):L1, 2015.
+N.~Fornengo, L.~Perotto, M.~Regis, and S.~Camera, ``{Evidence of
+  Cross-correlation between the CMB Lensing and the $\Gamma$-ray sky},''
+  \href{http://dx.doi.org/10.1088/2041-8205/802/1/L1}{{\em Astrophys. J.} {\bf
+  802} (2015) no.~1, L1},
+\href{http://arxiv.org/abs/1410.4997}{{\tt arXiv:1410.4997 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1410.4997;%%.
 
 \bibitem{Ackermann:2017nya}
-M.~Ackermann et~al.
-\newblock {Observations of M31 and M33 with the Fermi Large Area Telescope: A
-  Galactic Center Excess in Andromeda?}
-\newblock {\em Astrophys. J.}, 836(2):208, 2017.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Observations of
+  M31 and M33 with the Fermi Large Area Telescope: A Galactic Center Excess in
+  Andromeda?},'' \href{http://dx.doi.org/10.3847/1538-4357/aa5c3d}{{\em
+  Astrophys. J.} {\bf 836} (2017) no.~2, 208},
+\href{http://arxiv.org/abs/1702.08602}{{\tt arXiv:1702.08602 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1702.08602;%%.
 
 \bibitem{Ackermann:2010rg}
-M.~Ackermann et~al.
-\newblock {Constraints on Dark Matter Annihilation in Clusters of Galaxies with
-  the Fermi Large Area Telescope}.
-\newblock {\em JCAP}, 1005:025, 2010.
+M.~Ackermann {\em et al.}, ``{Constraints on Dark Matter Annihilation in
+  Clusters of Galaxies with the Fermi Large Area Telescope},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2010/05/025}{{\em JCAP} {\bf 1005}
+  (2010)  025},
+\href{http://arxiv.org/abs/1002.2239}{{\tt arXiv:1002.2239 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1002.2239;%%.
 
 \bibitem{Ando:2012vu}
-Shinichiro Ando and Daisuke Nagai.
-\newblock {Fermi-LAT constraints on dark matter annihilation cross section from
-  observations of the Fornax cluster}.
-\newblock {\em JCAP}, 1207:017, 2012.
+S.~Ando and D.~Nagai, ``{Fermi-LAT constraints on dark matter annihilation
+  cross section from observations of the Fornax cluster},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2012/07/017}{{\em JCAP} {\bf 1207}
+  (2012)  017},
+\href{http://arxiv.org/abs/1201.0753}{{\tt arXiv:1201.0753 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1201.0753;%%.
 
 \bibitem{Ackermann:2013iaq}
-M.~Ackermann et~al.
-\newblock {Search for cosmic-ray induced gamma-ray emission in Galaxy
-  Clusters}.
-\newblock {\em Astrophys. J.}, 787:18, 2014.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Search for
+  cosmic-ray induced gamma-ray emission in Galaxy Clusters},''
+  \href{http://dx.doi.org/10.1088/0004-637X/787/1/18}{{\em Astrophys. J.} {\bf
+  787} (2014)  18},
+\href{http://arxiv.org/abs/1308.5654}{{\tt arXiv:1308.5654 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1308.5654;%%.
 
 \bibitem{Anderson:2015dpc}
 B.~Anderson, S.~Zimmer, J.~Conrad, M.~Gustafsson, M.~S{\'a}nchez-Conde, and
-  R.~Caputo.
-\newblock {Search for Gamma-Ray Lines towards Galaxy Clusters with the
-  Fermi-LAT}.
-\newblock {\em JCAP}, 1602(02):026, 2016.
+  R.~Caputo, ``{Search for Gamma-Ray Lines towards Galaxy Clusters with the
+  Fermi-LAT},'' \href{http://dx.doi.org/10.1088/1475-7516/2016/02/026}{{\em
+  JCAP} {\bf 1602} (2016) no.~02, 026},
+\href{http://arxiv.org/abs/1511.00014}{{\tt arXiv:1511.00014 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1511.00014;%%.
 
 \bibitem{Rephaeli:2015nca}
-M.~Ackermann et~al.
-\newblock {Search for gamma-ray emission from the Coma Cluster with six years
-  of Fermi-LAT data}.
-\newblock {\em Astrophys. J.}, 819(2):149, 2016.
+{\bf Fermi-LAT} Collaboration, M.~Ackermann {\em et al.}, ``{Search for
+  gamma-ray emission from the Coma Cluster with six years of Fermi-LAT data},''
+  \href{http://dx.doi.org/10.3847/0004-637X/819/2/149}{{\em Astrophys. J.} {\bf
+  819} (2016) no.~2, 149},
+\href{http://arxiv.org/abs/1507.08995}{{\tt arXiv:1507.08995 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1507.08995;%%.
 
 \bibitem{2016A&A...589A..33A}
-M.~L. {Ahnen} et~al.
-\newblock {Deep observation of the NGC 1275 region with MAGIC: search of
-  diffuse {$\gamma$}-ray emission from cosmic rays in the Perseus cluster}.
-\newblock {\em {Astron. Astrophys.}}, 589:A33, May 2016.
+M.~L. {Ahnen} {\em et al.},
+  \href{http://dx.doi.org/10.1051/0004-6361/201527846}{``{Deep observation of
+  the NGC 1275 region with MAGIC: search of diffuse {$\gamma$}-ray emission
+  from cosmic rays in the Perseus cluster},''{\em {Astron. Astrophys.}} {\bf
+  589} (May, 2016)  A33}, \href{http://arxiv.org/abs/1602.03099}{{\tt
+  arXiv:1602.03099 [astro-ph.HE]}}.
 
 \bibitem{Liang:2016pvm}
-Yun-Feng Liang, Zhao-Qiang Shen, Xiang Li, Yi-Zhong Fan, Xiaoyuan Huang,
-  Shi-Jun Lei, Lei Feng, En-Wei Liang, and Jin Chang.
-\newblock {Search for a gamma-ray line feature from a group of nearby galaxy
-  clusters with Fermi LAT Pass 8 data}.
-\newblock {\em Phys. Rev.}, D93(10):103525, 2016.
+Y.-F. Liang, Z.-Q. Shen, X.~Li, Y.-Z. Fan, X.~Huang, S.-J. Lei, L.~Feng, E.-W.
+  Liang, and J.~Chang, ``{Search for a gamma-ray line feature from a group of
+  nearby galaxy clusters with Fermi LAT Pass 8 data},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.93.103525}{{\em Phys. Rev.} {\bf
+  D93} (2016) no.~10, 103525},
+\href{http://arxiv.org/abs/1602.06527}{{\tt arXiv:1602.06527 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1602.06527;%%.
 
 \bibitem{Huchra:2011ii}
-John~P. Huchra et~al.
-\newblock {The 2MASS Redshift Survey - Description and Data Release}.
-\newblock {\em Astrophys. J. Suppl.}, 199:26, 2012.
-
-\bibitem{Lu:2016vmu}
-Yi~Lu, Xiaohu Yang, Feng Shi, H.~J. Mo, Dylan Tweed, Huiyuan Wang, Youcai
-  Zhang, Shijie Li, and S.~H. Lim.
-\newblock {Galaxy groups in the 2MASS Redshift Survey}.
-\newblock {\em Astrophys. J.}, 832(1):39, 2016.
+J.~P. Huchra {\em et al.}, ``{The 2MASS Redshift Survey - Description and Data
+  Release},'' \href{http://dx.doi.org/10.1088/0067-0049/199/2/26}{{\em
+  Astrophys. J. Suppl.} {\bf 199} (2012)  26},
+\href{http://arxiv.org/abs/1108.0669}{{\tt arXiv:1108.0669 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1108.0669;%%.
 
 \bibitem{Adams:2016alz}
-Douglas~Quincy Adams, Lars Bergstrom, and Douglas Spolyar.
-\newblock {Improved Constraints on Dark Matter Annihilation to a Line using
-  Fermi-LAT observations of Galaxy Clusters}.
-\newblock 2016.
+D.~Q. Adams, L.~Bergstrom, and D.~Spolyar, ``{Improved Constraints on Dark
+  Matter Annihilation to a Line using Fermi-LAT observations of Galaxy
+  Clusters},''
+\href{http://arxiv.org/abs/1606.09642}{{\tt arXiv:1606.09642 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1606.09642;%%.
 
 \bibitem{Skillman:2014qca}
-Samuel~W. Skillman, Michael~S. Warren, Matthew~J. Turk, Risa~H. Wechsler,
-  Daniel~E. Holz, and P.~M. Sutter.
-\newblock {Dark Sky Simulations: Early Data Release}.
-\newblock 2014.
+S.~W. Skillman, M.~S. Warren, M.~J. Turk, R.~H. Wechsler, D.~E. Holz, and P.~M.
+  Sutter, ``{Dark Sky Simulations: Early Data Release},''
+\href{http://arxiv.org/abs/1407.2600}{{\tt arXiv:1407.2600 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1407.2600;%%.
 
 \bibitem{Lehmann:2015ioa}
-Benjamin~V. Lehmann, Yao-Yuan Mao, Matthew~R. Becker, Samuel~W. Skillman, and
-  Risa~H. Wechsler.
-\newblock {The Concentration Dependence of the Galaxy-Halo Connection: Modeling
-  Assembly Bias with Abundance Matching}.
-\newblock {\em Astrophys. J.}, 834(1):37, 2017.
+B.~V. Lehmann, Y.-Y. Mao, M.~R. Becker, S.~W. Skillman, and R.~H. Wechsler,
+  ``{The Concentration Dependence of the Galaxy-Halo Connection: Modeling
+  Assembly Bias with Abundance Matching},''
+  \href{http://dx.doi.org/10.3847/1538-4357/834/1/37}{{\em Astrophys. J.} {\bf
+  834} (2017) no.~1, 37},
+\href{http://arxiv.org/abs/1510.05651}{{\tt arXiv:1510.05651 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1510.05651;%%.
 
 \bibitem{Bilicki:2013sza}
-Maciej Bilicki, Thomas~H. Jarrett, John~A. Peacock, Michelle~E. Cluver, and
-  Louise Steward.
-\newblock {2MASS Photometric Redshift catalog: a comprehensive
-  three-dimensional census of the whole sky}.
-\newblock {\em Astrophys. J. Suppl.}, 210:9, 2013.
+M.~Bilicki, T.~H. Jarrett, J.~A. Peacock, M.~E. Cluver, and L.~Steward,
+  ``{2MASS Photometric Redshift catalog: a comprehensive three-dimensional
+  census of the whole sky},''
+  \href{http://dx.doi.org/10.1088/0067-0049/210/1/9}{{\em Astrophys. J. Suppl.}
+  {\bf 210} (2013)  9},
+\href{http://arxiv.org/abs/1311.5246}{{\tt arXiv:1311.5246 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1311.5246;%%.
 
 \bibitem{Warren:2013vma}
-Michael~S. Warren.
-\newblock {2HOT: An Improved Parallel Hashed Oct-Tree N-Body Algorithm for
-  Cosmological Simulation}.
+M.~S. Warren, \href{http://dx.doi.org/10.1145/2503210.2503220}{``{2HOT: An
+  Improved Parallel Hashed Oct-Tree N-Body Algorithm for Cosmological
+  Simulation},''}
 \newblock 2013.
+\newblock \href{http://arxiv.org/abs/1310.4502}{{\tt arXiv:1310.4502
+  [astro-ph.IM]}}.
+\newblock
+\url{https://inspirehep.net/record/1261073/files/arXiv:1310.4502.pdf}.
+\newblock
+%%CITATION = ARXIV:1310.4502;%%.
 
 \bibitem{Behroozi:2011ju}
-Peter~S. Behroozi, Risa~H. Wechsler, and Hao-Yi Wu.
-\newblock {The Rockstar Phase-Space Temporal Halo Finder and the Velocity
-  Offsets of Cluster Cores}.
-\newblock {\em Astrophys. J.}, 762:109, 2013.
+P.~S. Behroozi, R.~H. Wechsler, and H.-Y. Wu, ``{The Rockstar Phase-Space
+  Temporal Halo Finder and the Velocity Offsets of Cluster Cores},''
+  \href{http://dx.doi.org/10.1088/0004-637X/762/2/109}{{\em Astrophys. J.} {\bf
+  762} (2013)  109},
+\href{http://arxiv.org/abs/1110.4372}{{\tt arXiv:1110.4372 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1110.4372;%%.
 
 \bibitem{Behroozi:2010rx}
-Peter~S. Behroozi, Charlie Conroy, and Risa~H. Wechsler.
-\newblock {A Comprehensive Analysis of Uncertainties Affecting the Stellar
-  Mass-Halo Mass Relation for 0<z<4}.
-\newblock {\em Astrophys. J.}, 717:379--403, 2010.
+P.~S. Behroozi, C.~Conroy, and R.~H. Wechsler, ``{A Comprehensive Analysis of
+  Uncertainties Affecting the Stellar Mass-Halo Mass Relation for 0<z<4},''
+  \href{http://dx.doi.org/10.1088/0004-637X/717/1/379}{{\em Astrophys. J.} {\bf
+  717} (2010)  379--403},
+\href{http://arxiv.org/abs/1001.0015}{{\tt arXiv:1001.0015 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1001.0015;%%.
 
 \bibitem{Reddick:2012qy}
-Rachel~M. Reddick, Risa~H. Wechsler, Jeremy~L. Tinker, and Peter~S. Behroozi.
-\newblock {The Connection between Galaxies and Dark Matter Structures in the
-  Local Universe}.
-\newblock {\em Astrophys. J.}, 771:30, 2013.
+R.~M. Reddick, R.~H. Wechsler, J.~L. Tinker, and P.~S. Behroozi, ``{The
+  Connection between Galaxies and Dark Matter Structures in the Local
+  Universe},'' \href{http://dx.doi.org/10.1088/0004-637X/771/1/30}{{\em
+  Astrophys. J.} {\bf 771} (2013)  30},
+\href{http://arxiv.org/abs/1207.2160}{{\tt arXiv:1207.2160 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1207.2160;%%.
 
 \bibitem{Navarro:1995iw}
-Julio~F. Navarro, Carlos~S. Frenk, and Simon D.~M. White.
-\newblock {The Structure of Cold Dark Matter Halos}.
-\newblock {\em Astrophys. J.}, 462:563--575, 1996.
+J.~F. Navarro, C.~S. Frenk, and S.~D.~M. White, ``{The Structure of Cold Dark
+  Matter Halos},'' {\em Astrophys. J.} {\bf 462} (1996)  563--575,
+\href{http://arxiv.org/abs/astro-ph/9508025}{{\tt astro-ph/9508025}}.
+%%CITATION = ASTRO-PH/9508025;%%.
 
 \bibitem{Elor:2015tva}
-Gilly Elor, Nicholas~L. Rodd, and Tracy~R. Slatyer.
-\newblock {Multistep cascade annihilations of dark matter and the Galactic
-  Center excess}.
-\newblock {\em Phys. Rev.}, D91:103531, 2015.
+G.~Elor, N.~L. Rodd, and T.~R. Slatyer, ``{Multistep cascade annihilations of
+  dark matter and the Galactic Center excess},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.91.103531}{{\em Phys. Rev.} {\bf
+  D91} (2015)  103531},
+\href{http://arxiv.org/abs/1503.01773}{{\tt arXiv:1503.01773 [hep-ph]}}.
+%%CITATION = ARXIV:1503.01773;%%.
 
 \bibitem{Elor:2015bho}
-Gilly Elor, Nicholas~L. Rodd, Tracy~R. Slatyer, and Wei Xue.
-\newblock {Model-Independent Indirect Detection Constraints on Hidden Sector
-  Dark Matter}.
-\newblock 2015.
-
-\bibitem{Bartels:2015uba}
-Richard Bartels and Shin'ichiro Ando.
-\newblock {Boosting the annihilation boost: Tidal effects on dark matter
-  subhalos and consistent luminosity modeling}.
-\newblock {\em Phys. Rev.}, D92(12):123508, 2015.
+G.~Elor, N.~L. Rodd, T.~R. Slatyer, and W.~Xue, ``{Model-Independent Indirect
+  Detection Constraints on Hidden Sector Dark Matter},''
+\href{http://arxiv.org/abs/1511.08787}{{\tt arXiv:1511.08787 [hep-ph]}}.
+%%CITATION = ARXIV:1511.08787;%%.
 
 \bibitem{Tully:2016ppz}
-R.~Brent Tully, Helene~M. Courtois, and Jenny~G. Sorce.
-\newblock {Cosmicflows-3}.
-\newblock {\em Astron. J.}, 152:50, 2016.
+R.~B. Tully, H.~M. Courtois, and J.~G. Sorce, ``{Cosmicflows-3},''
+  \href{http://dx.doi.org/10.3847/0004-6256/152/2/50}{{\em Astron. J.} {\bf
+  152} (2016)  50},
+\href{http://arxiv.org/abs/1605.01765}{{\tt arXiv:1605.01765 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1605.01765;%%.
 
 \bibitem{Vale:2005mw}
-Antonio Vale and J.~P. Ostriker.
-\newblock {The non-parametric model for linking galaxy luminosity with
-  halo/subhalo mass}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 371:1173--1187, 2006.
+A.~Vale and J.~P. Ostriker, ``{The non-parametric model for linking galaxy
+  luminosity with halo/subhalo mass},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2006.10605.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 371} (2006)  1173--1187},
+\href{http://arxiv.org/abs/astro-ph/0511816}{{\tt arXiv:astro-ph/0511816
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0511816;%%.
 
 \bibitem{Bryan:1997dn}
-G.~L. Bryan and M.~L. Norman.
-\newblock {Statistical properties of x-ray clusters: Analytic and numerical
-  comparisons}.
-\newblock {\em Astrophys. J.}, 495:80, 1998.
-
-\bibitem{Correa:2015dva}
-Camila~A. Correa, J.~Stuart~B. Wyithe, Joop Schaye, and Alan~R. Duffy.
-\newblock {The accretion history of dark matter haloes -- III. A physical model
-  for the concentration--mass relation}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 452(2):1217--1232, 2015.
-
-\bibitem{Diemer:2014gba}
-Benedikt Diemer and Andrey~V. Kravtsov.
-\newblock {A universal model for halo concentrations}.
-\newblock {\em Astrophys. J.}, 799(1):108, 2015.
-
-\bibitem{Prada:2011jf}
-Francisco Prada, Anatoly~A. Klypin, Antonio~J. Cuesta, Juan~E. Betancort-Rijo,
-  and Joel Primack.
-\newblock {Halo concentrations in the standard LCDM cosmology}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 423:3018--3030, 2012.
-
-\bibitem{Moline:2016pbm}
-{\'A}ngeles Molin{\'e}, Miguel~A. S{\'a}nchez-Conde, Sergio Palomares-Ruiz, and
-  Francisco Prada.
-\newblock {Characterization of subhalo structural properties and implications
-  for dark matter annihilation signals}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 466(4):4974--4990, 2017.
-
-\bibitem{Gao:2011rf}
-L.~Gao, C.~S. Frenk, A.~Jenkins, V.~Springel, and S.~D.~M. White.
-\newblock {Where will supersymmetric dark matter first be seen?}
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 419:1721, 2012.
+G.~L. Bryan and M.~L. Norman, ``{Statistical properties of x-ray clusters:
+  Analytic and numerical comparisons},''
+  \href{http://dx.doi.org/10.1086/305262}{{\em Astrophys. J.} {\bf 495} (1998)
+  80},
+\href{http://arxiv.org/abs/astro-ph/9710107}{{\tt arXiv:astro-ph/9710107
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9710107;%%.
 
 \bibitem{Duffy:2008pz}
-Alan~R. Duffy, Joop Schaye, Scott~T. Kay, and Claudio Dalla~Vecchia.
-\newblock {Dark matter halo concentrations in the Wilkinson Microwave
-  Anisotropy Probe year 5 cosmology}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 390:L64, 2008.
-\newblock [Erratum: Mon. Not. Roy. Astron. Soc.415,L85(2011)].
+A.~R. Duffy, J.~Schaye, S.~T. Kay, and C.~Dalla~Vecchia, ``{Dark matter halo
+  concentrations in the Wilkinson Microwave Anisotropy Probe year 5
+  cosmology},'' \href{http://dx.doi.org/10.1111/j.1745-3933.2008.00537.x}{{\em
+  Mon. Not. Roy. Astron. Soc.} {\bf 390} (2008)  L64},
+  \href{http://arxiv.org/abs/0804.2486}{{\tt arXiv:0804.2486 [astro-ph]}}.
+[Erratum: Mon. Not. Roy. Astron. Soc.415,L85(2011)].
+%%CITATION = ARXIV:0804.2486;%%.
 
 \bibitem{Klypin:2014kpa}
-Anatoly Klypin, Gustavo Yepes, Stefan Gottlober, Francisco Prada, and Steffen
-  Hess.
-\newblock {MultiDark simulations: the story of dark matter halo concentrations
-  and density profiles}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 457(4):4340--4359, 2016.
+A.~Klypin, G.~Yepes, S.~Gottlober, F.~Prada, and S.~Hess, ``{MultiDark
+  simulations: the story of dark matter halo concentrations and density
+  profiles},'' \href{http://dx.doi.org/10.1093/mnras/stw248}{{\em Mon. Not.
+  Roy. Astron. Soc.} {\bf 457} (2016) no.~4, 4340--4359},
+\href{http://arxiv.org/abs/1411.4001}{{\tt arXiv:1411.4001 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1411.4001;%%.
 
 \bibitem{Dutton:2014xda}
-Aaron~A. Dutton and Andrea~V. Macci{\`o}.
-\newblock {Cold dark matter haloes in the Planck era: evolution of structural
-  parameters for Einasto and NFW profiles}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 441(4):3359--3374, 2014.
+A.~A. Dutton and A.~V. Macci{\`o}, ``{Cold dark matter haloes in the Planck
+  era: evolution of structural parameters for Einasto and NFW profiles},''
+  \href{http://dx.doi.org/10.1093/mnras/stu742}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 441} (2014) no.~4, 3359--3374},
+\href{http://arxiv.org/abs/1402.7073}{{\tt arXiv:1402.7073 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1402.7073;%%.
 
 \bibitem{Rolke:2004mj}
-Wolfgang~A. Rolke, Angel~M. Lopez, and Jan Conrad.
-\newblock {Limits and confidence intervals in the presence of nuisance
-  parameters}.
-\newblock {\em Nucl. Instrum. Meth.}, A551:493--503, 2005.
+W.~A. Rolke, A.~M. Lopez, and J.~Conrad, ``{Limits and confidence intervals in
+  the presence of nuisance parameters},''
+  \href{http://dx.doi.org/10.1016/j.nima.2005.05.068}{{\em Nucl. Instrum.
+  Meth.} {\bf A551} (2005)  493--503},
+\href{http://arxiv.org/abs/physics/0403059}{{\tt arXiv:physics/0403059
+  [physics]}}.
+%%CITATION = PHYSICS/0403059;%%.
 
 \bibitem{James:1975dr}
-F.~James and M.~Roos.
-\newblock {Minuit: A System for Function Minimization and Analysis of the
-  Parameter Errors and Correlations}.
-\newblock {\em Comput. Phys. Commun.}, 10:343--367, 1975.
-
-\bibitem{Steigman:2012nb}
-Gary Steigman, Basudeb Dasgupta, and John~F. Beacom.
-\newblock {Precise Relic WIMP Abundance and its Impact on Searches for Dark
-  Matter Annihilation}.
-\newblock {\em Phys.Rev.}, D86:023506, 2012.
-
-\bibitem{Reiprich:2001zv}
-Thomas~H. Reiprich and Hans Boehringer.
-\newblock {The Mass function of an X-ray flux-limited sample of galaxy
-  clusters}.
-\newblock {\em Astrophys. J.}, 567:716--740, 2002.
-
-\bibitem{Chen:2007sz}
-Yong Chen, T.~H. Reiprich, H.~Bohringer, Y.~Ikebe, and Y.~Y. Zhang.
-\newblock {Statistics of X-ray observables for the cooling-core and non-cooling
-  core galaxy clusters}.
-\newblock {\em Astron. Astrophys.}, 2007.
-\newblock [Astron. Astrophys.466,805(2007)].
+F.~James and M.~Roos, ``{Minuit: A System for Function Minimization and
+  Analysis of the Parameter Errors and Correlations},''
+\href{http://dx.doi.org/10.1016/0010-4655(75)90039-9}{{\em Comput. Phys.
+  Commun.} {\bf 10} (1975)  343--367}.
+%%CITATION = CPHCB,10,343;%%.
 
 \bibitem{Jarrett:2000me}
 T.~H. Jarrett, T.~Chester, R.~Cutri, S.~Schneider, M.~Skrutskie, and J.~P.
-  Huchra.
-\newblock {2mass extended source catalog: overview and algorithms}.
-\newblock {\em Astron. J.}, 119:2498--2531, 2000.
+  Huchra, ``{2mass extended source catalog: overview and algorithms},''
+  \href{http://dx.doi.org/10.1086/301330}{{\em Astron. J.} {\bf 119} (2000)
+  2498--2531},
+\href{http://arxiv.org/abs/astro-ph/0004318}{{\tt arXiv:astro-ph/0004318
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0004318;%%.
 
 \bibitem{Huang:2011xr}
-Xiaoyuan Huang, Gilles Vertongen, and Christoph Weniger.
-\newblock {Probing Dark Matter Decay and Annihilation with Fermi LAT
-  Observations of Nearby Galaxy Clusters}.
-\newblock {\em JCAP}, 1201:042, 2012.
+X.~Huang, G.~Vertongen, and C.~Weniger, ``{Probing Dark Matter Decay and
+  Annihilation with Fermi LAT Observations of Nearby Galaxy Clusters},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2012/01/042}{{\em JCAP} {\bf 1201}
+  (2012)  042},
+\href{http://arxiv.org/abs/1110.1529}{{\tt arXiv:1110.1529 [hep-ph]}}.
+%%CITATION = ARXIV:1110.1529;%%.
 
 \bibitem{Navarro:1996gj}
-Julio~F. Navarro, Carlos~S. Frenk, and Simon~D.M. White.
-\newblock {A Universal density profile from hierarchical clustering}.
-\newblock {\em Astrophys.J.}, 490:493--508, 1997.
+J.~F. Navarro, C.~S. Frenk, and S.~D. White, ``{A Universal density profile
+  from hierarchical clustering},'' \href{http://dx.doi.org/10.1086/304888}{{\em
+  Astrophys.J.} {\bf 490} (1997)  493--508},
+\href{http://arxiv.org/abs/astro-ph/9611107}{{\tt arXiv:astro-ph/9611107
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9611107;%%.
 
 \bibitem{Anderhalden:2013wd}
-Donnino Anderhalden and Juerg Diemand.
-\newblock {Density Profiles of CDM Microhalos and their Implications for
-  Annihilation Boost Factors}.
-\newblock {\em JCAP}, 1304:009, 2013.
-\newblock [Erratum: JCAP1308,E02(2013)].
+D.~Anderhalden and J.~Diemand, ``{Density Profiles of CDM Microhalos and their
+  Implications for Annihilation Boost Factors},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2013/04/009,
+  10.1088/1475-7516/2013/08/E02}{{\em JCAP} {\bf 1304} (2013)  009},
+  \href{http://arxiv.org/abs/1302.0003}{{\tt arXiv:1302.0003 [astro-ph.CO]}}.
+[Erratum: JCAP1308,E02(2013)].
+%%CITATION = ARXIV:1302.0003;%%.
 
 \bibitem{Ludlow:2013vxa}
-Aaron~D. Ludlow, Julio~F. Navarro, Raul~E. Angulo, Michael Boylan-Kolchin,
-  Volker Springel, Carlos Frenk, and Simon D.~M. White.
-\newblock {The mass--concentration--redshift relation of cold dark matter
-  haloes}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 441(1):378--388, 2014.
+A.~D. Ludlow, J.~F. Navarro, R.~E. Angulo, M.~Boylan-Kolchin, V.~Springel,
+  C.~Frenk, and S.~D.~M. White, ``{The mass--concentration--redshift relation
+  of cold dark matter haloes},''
+  \href{http://dx.doi.org/10.1093/mnras/stu483}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 441} (2014) no.~1, 378--388},
+\href{http://arxiv.org/abs/1312.0945}{{\tt arXiv:1312.0945 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1312.0945;%%.
 
 \bibitem{Crook:2006sw}
-Aidan~C. Crook, John~P. Huchra, Nathalie Martimbeau, Karen~L. Masters, Tom
-  Jarrett, and Lucas~M. Macri.
-\newblock {Groups of Galaxies in the Two Micron All-Sky Redshift Survey}.
-\newblock {\em Astrophys. J.}, 655:790--813, 2007.
+A.~C. Crook, J.~P. Huchra, N.~Martimbeau, K.~L. Masters, T.~Jarrett, and L.~M.
+  Macri, ``{Groups of Galaxies in the Two Micron All-Sky Redshift Survey},''
+  \href{http://dx.doi.org/10.1086/510201}{{\em Astrophys. J.} {\bf 655} (2007)
+  790--813},
+\href{http://arxiv.org/abs/astro-ph/0610732}{{\tt arXiv:astro-ph/0610732
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/0610732;%%.
 
 \bibitem{Jeltema:2008vu}
-Tesla~E. Jeltema, John Kehayias, and Stefano Profumo.
-\newblock {Gamma Rays from Clusters and Groups of Galaxies: Cosmic Rays versus
-  Dark Matter}.
-\newblock {\em Phys. Rev.}, D80:023005, 2009.
+T.~E. Jeltema, J.~Kehayias, and S.~Profumo, ``{Gamma Rays from Clusters and
+  Groups of Galaxies: Cosmic Rays versus Dark Matter},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.80.023005}{{\em Phys. Rev.} {\bf
+  D80} (2009)  023005},
+\href{http://arxiv.org/abs/0812.0597}{{\tt arXiv:0812.0597 [astro-ph]}}.
+%%CITATION = ARXIV:0812.0597;%%.
 
 \bibitem{Huber:2013cia}
 B.~Huber, C.~Tchernin, D.~Eckert, C.~Farnier, A.~Manalaysay, U.~Straumann, and
-  R.~Walter.
-\newblock {Probing the cosmic-ray content of galaxy clusters by stacking
-  Fermi-LAT count maps}.
-\newblock {\em Astron. Astrophys.}, 560:A64, 2013.
+  R.~Walter, ``{Probing the cosmic-ray content of galaxy clusters by stacking
+  Fermi-LAT count maps},''
+  \href{http://dx.doi.org/10.1051/0004-6361/201321947}{{\em Astron. Astrophys.}
+  {\bf 560} (2013)  A64},
+\href{http://arxiv.org/abs/1308.6278}{{\tt arXiv:1308.6278 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1308.6278;%%.
 
 \bibitem{FermiLAT:2017yoi}
-M.~Ajello et~al.
-\newblock {Characterizing the population of pulsars in the Galactic bulge with
-  the $Fermi$ Large Area Telescope}.
-\newblock {\em Submitted to: Astrophys. J.}, 2017.
+{\bf Fermi-LAT} Collaboration, M.~Ajello {\em et al.}, ``{Characterizing the
+  population of pulsars in the Galactic bulge with the $Fermi$ Large Area
+  Telescope},'' {\em Submitted to: Astrophys. J.} (2017)  ,
+\href{http://arxiv.org/abs/1705.00009}{{\tt arXiv:1705.00009 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1705.00009;%%.
 
 \bibitem{Abdo:2010ex}
-A.~A. Abdo et~al.
-\newblock {Observations of Milky Way Dwarf Spheroidal galaxies with the
-  Fermi-LAT detector and constraints on Dark Matter models}.
-\newblock {\em Astrophys. J.}, 712:147--158, 2010.
+{\bf Fermi-LAT} Collaboration, A.~A. Abdo {\em et al.}, ``{Observations of
+  Milky Way Dwarf Spheroidal galaxies with the Fermi-LAT detector and
+  constraints on Dark Matter models},''
+  \href{http://dx.doi.org/10.1088/0004-637X/712/1/147}{{\em Astrophys. J.} {\bf
+  712} (2010)  147--158},
+\href{http://arxiv.org/abs/1001.4531}{{\tt arXiv:1001.4531 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1001.4531;%%.
 
 \bibitem{Charbonnier:2011ft}
-A.~Charbonnier et~al.
-\newblock {Dark matter profiles and annihilation in dwarf spheroidal galaxies:
-  prospectives for present and future gamma-ray observatories - I. The
-  classical dSphs}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 418:1526--1556, 2011.
+A.~Charbonnier {\em et al.}, ``{Dark matter profiles and annihilation in dwarf
+  spheroidal galaxies: prospectives for present and future gamma-ray
+  observatories - I. The classical dSphs},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2011.19387.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 418} (2011)  1526--1556},
+\href{http://arxiv.org/abs/1104.0412}{{\tt arXiv:1104.0412 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1104.0412;%%.
 
 \bibitem{Charbonnier:2012gf}
-A.~Charbonnier, C.~Combet, and D.~Maurin.
-\newblock {CLUMPY: a code for gamma-ray signals from dark matter structures}.
-\newblock {\em Comput. Phys. Commun.}, 183:656--668, 2012.
+A.~Charbonnier, C.~Combet, and D.~Maurin, ``{CLUMPY: a code for gamma-ray
+  signals from dark matter structures},''
+  \href{http://dx.doi.org/10.1016/j.cpc.2011.10.017}{{\em Comput. Phys.
+  Commun.} {\bf 183} (2012)  656--668},
+\href{http://arxiv.org/abs/1201.4728}{{\tt arXiv:1201.4728 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1201.4728;%%.
 
 \bibitem{Evans:2016xwx}
-N.~W. Evans, J.~L. Sanders, and A.~Geringer-Sameth.
-\newblock {Simple J-Factors and D-Factors for Indirect Dark Matter Detection}.
-\newblock {\em Phys. Rev.}, D93(10):103512, 2016.
-
-\bibitem{Burkert:1995yz}
-A.~Burkert.
-\newblock {The Structure of dark matter halos in dwarf galaxies}.
-\newblock {\em IAU Symp.}, 171:175, 1996.
-\newblock [Astrophys. J.447,L25(1995)].
+N.~W. Evans, J.~L. Sanders, and A.~Geringer-Sameth, ``{Simple J-Factors and
+  D-Factors for Indirect Dark Matter Detection},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.93.103512}{{\em Phys. Rev.} {\bf
+  D93} (2016) no.~10, 103512},
+\href{http://arxiv.org/abs/1604.05599}{{\tt arXiv:1604.05599 [astro-ph.GA]}}.
+%%CITATION = ARXIV:1604.05599;%%.
 
 \bibitem{Cirelli:2009dv}
-Marco Cirelli, Paolo Panci, and Pasquale~D. Serpico.
-\newblock {Diffuse gamma ray constraints on annihilating or decaying Dark
-  Matter after Fermi}.
-\newblock {\em Nucl. Phys.}, B840:284--303, 2010.
+M.~Cirelli, P.~Panci, and P.~D. Serpico, ``{Diffuse gamma ray constraints on
+  annihilating or decaying Dark Matter after Fermi},''
+  \href{http://dx.doi.org/10.1016/j.nuclphysb.2010.07.010}{{\em Nucl. Phys.}
+  {\bf B840} (2010)  284--303},
+\href{http://arxiv.org/abs/0912.0663}{{\tt arXiv:0912.0663 [astro-ph.CO]}}.
+%%CITATION = 0912.0663;%%.
 
 \bibitem{Murase:2012xs}
-Kohta Murase and John~F. Beacom.
-\newblock {Constraining Very Heavy Dark Matter Using Diffuse Backgrounds of
-  Neutrinos and Cascaded Gamma Rays}.
-\newblock {\em JCAP}, 1210:043, 2012.
+K.~Murase and J.~F. Beacom, ``{Constraining Very Heavy Dark Matter Using
+  Diffuse Backgrounds of Neutrinos and Cascaded Gamma Rays},''
+  \href{http://dx.doi.org/10.1088/1475-7516/2012/10/043}{{\em JCAP} {\bf 1210}
+  (2012)  043},
+\href{http://arxiv.org/abs/1206.2595}{{\tt arXiv:1206.2595 [hep-ph]}}.
+%%CITATION = ARXIV:1206.2595;%%.
 
 \bibitem{Cowan:2010js}
-Glen Cowan, Kyle Cranmer, Eilam Gross, and Ofer Vitells.
-\newblock {Asymptotic formulae for likelihood-based tests of new physics}.
-\newblock {\em Eur. Phys. J.}, C71:1554, 2011.
-\newblock [Erratum: Eur. Phys. J.C73,2501(2013)].
+G.~Cowan, K.~Cranmer, E.~Gross, and O.~Vitells, ``{Asymptotic formulae for
+  likelihood-based tests of new physics},''
+  \href{http://dx.doi.org/10.1140/epjc/s10052-011-1554-0,
+  10.1140/epjc/s10052-013-2501-z}{{\em Eur. Phys. J.} {\bf C71} (2011)  1554},
+  \href{http://arxiv.org/abs/1007.1727}{{\tt arXiv:1007.1727
+  [physics.data-an]}}.
+[Erratum: Eur. Phys. J.C73,2501(2013)].
+%%CITATION = ARXIV:1007.1727;%%.
 
 \bibitem{Edwards:2017mnf}
-Thomas D.~P. Edwards and Christoph Weniger.
-\newblock {A Fresh Approach to Forecasting in Astroparticle Physics and Dark
-  Matter Searches}.
-\newblock 2017.
-
-\bibitem{Strong:2007nh}
-Andrew~W. Strong, Igor~V. Moskalenko, and Vladimir~S. Ptuskin.
-\newblock {Cosmic-ray propagation and interactions in the Galaxy}.
-\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 57:285--327, 2007.
+T.~D.~P. Edwards and C.~Weniger, ``{A Fresh Approach to Forecasting in
+  Astroparticle Physics and Dark Matter Searches},''
+\href{http://arxiv.org/abs/1704.05458}{{\tt arXiv:1704.05458 [astro-ph.IM]}}.
+%%CITATION = ARXIV:1704.05458;%%.
 
 \bibitem{Acero:2016qlg}
-F.~Acero et~al.
-\newblock {Development of the Model of Galactic Interstellar Emission for
-  Standard Point-Source Analysis of Fermi Large Area Telescope Data}.
-\newblock {\em Astrophys. J. Suppl.}, 223(2):26, 2016.
+{\bf Fermi-LAT} Collaboration, F.~Acero {\em et al.}, ``{Development of the
+  Model of Galactic Interstellar Emission for Standard Point-Source Analysis of
+  Fermi Large Area Telescope Data},''
+  \href{http://dx.doi.org/10.3847/0067-0049/223/2/26}{{\em Astrophys. J.
+  Suppl.} {\bf 223} (2016) no.~2, 26},
+\href{http://arxiv.org/abs/1602.07246}{{\tt arXiv:1602.07246 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1602.07246;%%.
 
 \bibitem{Narayanan:2016nzy}
-Sruthi~A. Narayanan and Tracy~R. Slatyer.
-\newblock {A Latitude-Dependent Analysis of the Leptonic Hypothesis for the
-  Fermi Bubbles}.
-\newblock 2016.
+S.~A. Narayanan and T.~R. Slatyer, ``{A Latitude-Dependent Analysis of the
+  Leptonic Hypothesis for the Fermi Bubbles},''
+\href{http://arxiv.org/abs/1603.06582}{{\tt arXiv:1603.06582 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1603.06582;%%.
 
 \bibitem{Cohen:2016uyg}
-Timothy Cohen, Kohta Murase, Nicholas~L. Rodd, Benjamin~R. Safdi, and Yotam
-  Soreq.
-\newblock {Gamma-ray Constraints on Decaying Dark Matter and Implications for
-  IceCube}.
-\newblock {\em Phys. Rev. Lett.}, 119(2):021102, 2017.
+T.~Cohen, K.~Murase, N.~L. Rodd, B.~R. Safdi, and Y.~Soreq, ``{Gamma-ray
+  Constraints on Decaying Dark Matter and Implications for IceCube},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.119.021102}{{\em Phys. Rev.
+  Lett.} {\bf 119} (2017) no.~2, 021102},
+\href{http://arxiv.org/abs/1612.05638}{{\tt arXiv:1612.05638 [hep-ph]}}.
+%%CITATION = ARXIV:1612.05638;%%.
 
 \bibitem{Schaller:2014uwa}
-Matthieu Schaller, Carlos~S. Frenk, Richard~G. Bower, Tom Theuns, Adrian
-  Jenkins, Joop Schaye, Robert~A. Crain, Michelle Furlong, Claudio~Dalla
-  Vecchia, and I.~G. McCarthy.
-\newblock {Baryon effects on the internal structure of $\Lambda$CDM haloes in
-  the EAGLE simulations}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 451(2):1247--1267, 2015.
+M.~Schaller, C.~S. Frenk, R.~G. Bower, T.~Theuns, A.~Jenkins, J.~Schaye, R.~A.
+  Crain, M.~Furlong, C.~D. Vecchia, and I.~G. McCarthy, ``{Baryon effects on
+  the internal structure of $\Lambda$CDM haloes in the EAGLE simulations},''
+  \href{http://dx.doi.org/10.1093/mnras/stv1067}{{\em Mon. Not. Roy. Astron.
+  Soc.} {\bf 451} (2015) no.~2, 1247--1267},
+\href{http://arxiv.org/abs/1409.8617}{{\tt arXiv:1409.8617 [astro-ph.CO]}}.
+%%CITATION = ARXIV:1409.8617;%%.
 
 \bibitem{Bullock:1999he}
-James~S. Bullock, Tsafrir~S. Kolatt, Yair Sigad, Rachel~S. Somerville,
-  Andrey~V. Kravtsov, Anatoly~A. Klypin, Joel~R. Primack, and Avishai Dekel.
-\newblock {Profiles of dark haloes. Evolution, scatter, and environment}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 321:559--575, 2001.
+J.~S. Bullock, T.~S. Kolatt, Y.~Sigad, R.~S. Somerville, A.~V. Kravtsov, A.~A.
+  Klypin, J.~R. Primack, and A.~Dekel, ``{Profiles of dark haloes. Evolution,
+  scatter, and environment},''
+  \href{http://dx.doi.org/10.1046/j.1365-8711.2001.04068.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 321} (2001)  559--575},
+\href{http://arxiv.org/abs/astro-ph/9908159}{{\tt arXiv:astro-ph/9908159
+  [astro-ph]}}.
+%%CITATION = ASTRO-PH/9908159;%%.
 
 \bibitem{Nezri:2012tu}
-E.~Nezri, R.~White, C.~Combet, D.~Maurin, E.~Pointecouteau, and J.~A. Hinton.
-\newblock {gamma-rays from annihilating dark matter in galaxy clusters:
-  stacking vs single source analysis}.
-\newblock {\em Mon. Not. Roy. Astron. Soc.}, 425:477, 2012.
+E.~Nezri, R.~White, C.~Combet, D.~Maurin, E.~Pointecouteau, and J.~A. Hinton,
+  ``{gamma-rays from annihilating dark matter in galaxy clusters: stacking vs
+  single source analysis},''
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2012.21484.x}{{\em Mon. Not. Roy.
+  Astron. Soc.} {\bf 425} (2012)  477},
+\href{http://arxiv.org/abs/1203.1165}{{\tt arXiv:1203.1165 [astro-ph.HE]}}.
+%%CITATION = ARXIV:1203.1165;%%.
 
 \bibitem{1996AJ....111..794K}
-I.~D. {Karachentsev} and D.~A. {Makarov}.
-\newblock {The Galaxy Motion Relative to Nearby Galaxies and the Local Velocity
-  Field}.
-\newblock {\em AJ}, 111:794, February 1996.
+I.~D. {Karachentsev} and D.~A. {Makarov},
+  \href{http://dx.doi.org/10.1086/117825}{``{The Galaxy Motion Relative to
+  Nearby Galaxies and the Local Velocity Field},''{\em AJ} {\bf 111} (Feb.,
+  1996)  794}.
 
 \bibitem{2014ApJ...782....4K}
 I.~D. {Karachentsev}, R.~B. {Tully}, P.-F. {Wu}, E.~J. {Shaya}, and A.~E.
-  {Dolphin}.
-\newblock {Infall of Nearby Galaxies into the Virgo Cluster as Traced with
-  Hubble Space Telescope}.
-\newblock {\em \apj}, 782:4, February 2014.
+  {Dolphin}, \href{http://dx.doi.org/10.1088/0004-637X/782/1/4}{``{Infall of
+  Nearby Galaxies into the Virgo Cluster as Traced with Hubble Space
+  Telescope},''{\em \apj} {\bf 782} (Feb., 2014)  4},
+  \href{http://arxiv.org/abs/1312.6769}{{\tt arXiv:1312.6769}}.
 
 \bibitem{1993AJ....105.2035D}
-A.~{Diaferio}, M.~{Ramella}, M.~J. {Geller}, and A.~{Ferrari}.
-\newblock {Are groups of galaxies virialized systems?}
-\newblock {\em Astrophys. J.}, 105:2035--2046, June 1993.
+A.~{Diaferio}, M.~{Ramella}, M.~J. {Geller}, and A.~{Ferrari},
+  \href{http://dx.doi.org/10.1086/116581}{``{Are groups of galaxies virialized
+  systems?},''{\em Astrophys. J.} {\bf 105} (June, 1993)  2035--2046}.
 
-\end{thebibliography}
+\end{thebibliography}\endgroup
