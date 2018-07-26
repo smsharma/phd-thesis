@@ -1,1 +1,0 @@
-nptf = NPTF(tag='Untagged',work_dir=None)
