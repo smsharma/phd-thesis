@@ -107,7 +107,7 @@
 %    \vspace{1in}
 %
 
-   \href{http://creativecommons.org/licenses/by-nc-sa/4.0/}{\includegraphics[width=12em]{{by-nc-sa}.eps}}
+   \href{http://creativecommons.org/licenses/by-nc-sa/4.0/}{\includegraphics[width=10em]{{by-nc-sa}.eps}}
 
     This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (\url{http://creativecommons.org/licenses/by-nc-sa/4.0/}).
 
@@ -200,8 +200,8 @@
 \setlength{\oddsidemargin}{.5in}   %{.4375in}
 \setlength{\evensidemargin}{.5in} %{.4375in}
 \setlength{\topmargin}{-.5in}  %{-.5625in}
-\setlength{\footskip}{.4in} % to put page number 3/4" from the bottom of the page (1/4" from bottom of body text)
-\setlength{\textheight}{8.8in}
+\setlength{\footskip}{.5in} % to put page number 3/4" from the bottom of the page (1/4" from bottom of body text)
+\setlength{\textheight}{8.7in}
 \setlength{\textwidth}{6in}
 
 %%% Alter LaTeX defaults to try to eliminate all widows and orphans
