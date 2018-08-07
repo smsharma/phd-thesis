@@ -1,3 +1,4 @@
+# Load and compile files for thesis
 sublime thesis.tex
 sublime ch-intro/introduction.tex
 sublime ch-nptfit/NPTFit.tex
