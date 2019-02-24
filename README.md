@@ -27,8 +27,6 @@ The second part of this thesis poses the question: “what is the best way to lo
 
 - `thesis.tex`: Main LaTeX file. Uncommenting the lines after "Online mode" or "Print mode" at the top of the file enables compiling either the online or print copies, respectively.
 - `arXiv`: Folder containing the arXiv version of the thesis.
-- `formatting`: Folder with documents related to Princeton Ph.D. thesis formatting requirements as of 2018.
-- `misc`: Folder with additional documents related to defense process, including presentation slides in Keynote format and deposit version of thesis. 
 
 ### Contact 
 

@@ -1,3 +1,9 @@
+## Keynote and additional files files
+*.key
+formatting
+misc
+*.zip
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
