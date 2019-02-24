@@ -1,0 +1,316 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%  arXiv mode  %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt,twoside,longbibliography,nofootinbib,preprintnumbers]{puthesis}
+
+ % %%%%%%%%%%%%%%%%%%%%%%%%
+ % %%%%%  Print Mode  %%%%%
+ % %%%%%%%%%%%%%%%%%%%%%%%%
+
+ % \providecommand{\chooselayout}{\documentclass[12pt,twoside,longbibliography,nofootinbib,preprintnumbers,singlespace]{puthesis}}
+ % \providecommand{\modifyoutput}{\newcommand{\printmode}{}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Author & title page info
+
+\title{\LARGE{\lettrine[lines=1]{E}{xtragalactic} Searches} \\ \Large{for} \\ \LARGE{Dark Matter Annihilation}}
+
+\submitted{September 2018}  % degree conferral date (January, April, June, September, or November)
+\copyrightyear{2018}  % year in which the copyright is secured by publication of the dissertation.
+\author{{Siddharth Mishra-Sharma}}
+\adviser{Mariangela Lisanti}  %replace with the full name of your adviser
+%\departmentprefix{Program in}  % defaults to "Department of", but programs need to change this.
+\department{Physics}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Tweak float placements
+
+% From: http://mintaka.sdsu.edu/GF/bibliog/latex/floats.html "Controlling LaTeX Floats"
+% and based on: http://www.tex.ac.uk/cgi-bin/texfaq2html?label=floats
+% LaTeX defaults listed at: http://people.cs.uu.nl/piet/floats/node1.html
+
+% Alter some LaTeX defaults for better treatment of figures:
+    % See p.105 of "TeX Unbound" for suggested values.
+    % See pp. 199-200 of Lamport's "LaTeX" book for details.
+    %   General parameters, for ALL pages:
+    \renewcommand{\topfraction}{0.85}	% max fraction of floats at top
+    \renewcommand{\bottomfraction}{0.6}	% max fraction of floats at bottom
+    %   Parameters for TEXT pages (not float pages):
+    \setcounter{topnumber}{2}
+    \setcounter{bottomnumber}{2}
+    \setcounter{totalnumber}{4}     % 2 may work better
+    \setcounter{dbltopnumber}{2}    % for 2-column pages
+    \renewcommand{\dbltopfraction}{0.66}	% fit big float above 2-col. text
+    \renewcommand{\textfraction}{0.15}	% allow minimal text w. figs
+    %   Parameters for FLOAT pages (not text pages):
+    \renewcommand{\floatpagefraction}{0.66}	% require fuller float pages
+	% N.B.: floatpagefraction MUST be less than topfraction !!
+    \renewcommand{\dblfloatpagefraction}{0.66}	% require fuller float pages
+
+% The documentclass already sets parameters to make a high penalty for widows and orphans.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Use packages
+
+\usepackage{verbatim}
+\usepackage{longtable}
+
+% Set parameters for longtable:
+% default caption width is 4in for longtable, but wider for normal tables
+\setlength{\LTcapwidth}{\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Printed vs. online formatting
+\ifdefined\printmode
+
+% Printed copy
+\usepackage{url}
+
+\else
+
+% Online copy
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{cleveref}
+
+\newcommand\myshade{85}
+\colorlet{mylinkcolor}{violet}
+\colorlet{mycitecolor}{YellowOrange}
+\colorlet{myurlcolor}{Aquamarine}
+
+\hypersetup{colorlinks,bookmarksnumbered,
+  linkcolor  = mylinkcolor!\myshade!black,
+  citecolor  = mycitecolor!\myshade!black,
+  urlcolor   = myurlcolor!\myshade!black,
+}
+
+\fi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Custom imports
+
+%% Lettrine and ornament options
+
+\usepackage{Zallman,lettrine}
+\renewcommand\LettrineFontHook{\Zallmanfamily}
+
+\PassOptionsToPackage{svgnames}{xcolor}
+\usepackage[object=vectorian]{pgfornament}
+\usepackage{lipsum,tikz}
+
+\newcommand{\sectionline}{
+  \noindent
+  \begin{center}
+  {
+    \resizebox{0.5\linewidth}{1ex}
+    {{%
+    {\begin{tikzpicture}
+    \node  (C) at (0,0) {};
+    \node (D) at (9,0) {};
+    \path (C) to [ornament=88] (D);
+    \end{tikzpicture}}}}}%
+    \end{center}
+  }
+
+%% Other imports
+
+\usepackage{ae,aecompl}
+\usepackage{graphicx}   
+\usepackage{amsmath}    
+\usepackage{graphicx}
+\usepackage{dcolumn}
+\usepackage{bm}
+\usepackage{graphics}
+\usepackage{afterpage}
+\usepackage{float}
+\usepackage{subfigure}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{fancyheadings}
+\usepackage{theorem}
+\usepackage{moreverb}
+\usepackage{euscript}
+\usepackage{psfrag}
+\usepackage{slashed}
+\usepackage{mathtools}
+
+%% Listings for code blocks
+
+\usepackage{listings}
+\usepackage{color,xcolor}
+
+\definecolor{deepblue}{rgb}{0,0,0.9}
+\definecolor{deepred}{rgb}{0.85,0,0}
+\definecolor{deepgreen}{rgb}{0,0.95,0}
+\definecolor{mygray}{gray}{0.97}
+
+\lstdefinestyle{python}{
+  belowcaptionskip=1\baselineskip,
+  breaklines=true,
+  frame=L,
+  xleftmargin=\parindent,
+  language=Python,
+  showstringspaces=false,
+  basicstyle=\small\ttfamily,
+  morekeywords={models, lambda, forms,True,False,None},
+  keywordstyle=\bfseries\color{deepgreen!40!black},
+  commentstyle=\itshape\color{gray},
+  identifierstyle=\color{black},
+  stringstyle=\color{deepred},
+  rulecolor=\color{gray},
+  backgroundcolor=\color{mygray},
+}
+
+\lstset{escapechar=@,style=python}
+
+\newcommand{\es}[2] {\begin{equation} \label{#1} \begin{split} #2 \end{split} \end{equation}}
+
+%% Import from IGRB paper
+
+\usepackage{amssymb,amsmath,latexsym,graphics, graphicx,epsfig,epstopdf,multirow,comment,hyperref,appendix,slashed,xcolor,afterpage, makecell} 
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+\newcommand{\grp}[1]{\mathrm{#1}}
+
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\overbar}[1]{\mkern 2mu\overline{\mkern-2mu#1\mkern-2mu}\mkern 2mu}
+
+\newcommand {\be} {\begin {equation}}
+\newcommand {\ee} {\end {equation}} 
+\newcommand {\nn} {\nonumber}
+\newcommand {\bes} {\begin {equation*}}
+\newcommand {\ees} {\end {equation*}}
+\newcommand {\trit} {^3\text{H}}
+
+\usepackage{csvsimple}
+\newcommand{\CP}{\mathbb{CP}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+%\newcommand{\C}{\mathbb{C}}
+
+\newcommand{\Gr}{\mathrm{Gr}}
+
+% define "struts", as suggested by Claudio Beccari in
+%    a piece in TeX and TUG News, Vol. 2, 1993.
+\newcommand\Tstrut{\rule{0pt}{2.6ex}}         % = `top' strut
+\newcommand\Bstrut{\rule[-0.9ex]{0pt}{0pt}}   % = `bottom' strut
+
+\def\CA{{\cal A}}
+\def\CB{{\cal B}}
+\def\CC{{\cal C}}
+\def\CD{{\cal D}}
+\def\CE{{\cal E}}
+\def\CG{{\cal G}}
+\def\CH{{\cal H}}
+\def\CI{{\cal I}}
+\def\CK{{\cal K}}
+\def\CL{{\cal L}}
+\def\CR{{\cal R}}
+\def\CM{{\cal M}}
+\def\CN{{\cal N}}
+\def\CO{{\cal O}}
+\def\CP{{\cal P}}
+\def\CQ{{\cal Q}}
+\def\CW{{\cal W}}
+
+\newcommand{\upstate}{\left|\uparrow \right\rangle}
+\newcommand{\downstate}{\left|\downarrow \right\rangle}
+
+\def\arccosh{\mop{arccosh}}
+
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+
+\newcommand {\kms} {\,\,\text{km}/\text{s}}
+%\newcommand {\fm} {\,\,\text{fm}}
+\newcommand{\V}[1]{{ \bf #1}}
+\newcommand{\obs}{\text{obs}}
+%\newcommand{\sun}{\odot}
+%\newcommand{\earth}{\oplus}
+\newcommand{\Min}{\text{min}}
+\newcommand{\erf}{\text{erf}}
+\newcommand{\esc}{\text{esc}}
+\newcommand{\kevee}{\text{keV}_{\text{ee}}}
+\newcommand{\cpdkg}{\, \, \text{cpd} \,\text{kg}^{-1}}
+\newcommand{\flow}{\text{flow}}
+\newcommand{\kevnr}{\, \, \text{keV}_\text{nr}}
+\newcommand{\CNB}{\text{C}\nu\text{B}}
+
+% Getting error for overflow of counter for footnotes
+\usepackage[perpage]{footmisc}
+
+% Using symbols for footnotes
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+%% Import from cluster papers
+
+\usepackage{booktabs}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\usepackage{inconsolata}
+\usepackage{aas_macros}
+
+%% End custom imports
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Set PDF attributes
+
+\makeatletter
+\hypersetup{pdftitle=Extragalactic Searches for Dark Matter Annihilation,
+        pdfauthor=\@author}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%% Front-matter
+
+% For early drafts, you may want to disable some of the frontmatter. Simply change this to "\ifodd 1" to do so.
+
+\ifodd 0
+
+\renewcommand{\maketitlepage}{}
+\renewcommand*{\makecopyrightpage}{}
+\renewcommand*{\makeabstract}{}
+
+\else
+
+\abstract{\input{abstract.tex}}
+% \acknowledgements{\input{acknowledgements}}
+
+\fi
+
+\begin{document}
+
+\makefrontmatter
+
+\include{ch-intro/introduction}
+\include{ch-nptfit/NPTFit}
+\include{ch-igrb/LMNS_arxiv_v2}
+\include{ch-darksky/fermi_darksky}
+\include{ch-clusters/fermi_data_clusters_arxiv_v2}
+\appendix 
+\include{ch-appendicies/fermi_darksky}
+\include{ch-appendicies/fermi_data_clusters_arxiv_v2}
+
+% Make the bibliography single spaced
+\singlespacing
+\bibliographystyle{utphys}
+
+% add the Bibliography to the Table of Contents
+\cleardoublepage
+\ifdefined\phantomsection
+  \phantomsection  % makes hyperref recognize this section properly for pdf link
+\else
+\fi
+\addcontentsline{toc}{chapter}{Bibliography}
+
+% include .bib file
+\bibliography{ch-nptfit/NPTF,ch-igrb/fermi_igrb,ch-darksky/fermi_darksky,ch-clusters/fermi_clusters,ch-intro/introduction}
+
+\sectionline
+
+\end{document}

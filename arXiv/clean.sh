@@ -1,0 +1,9 @@
+find . -type f -name '*.aux' -exec rm {} +
+find . -type f -name '*.log' -exec rm {} +
+find . -type f -name '*.fls' -exec rm {} +
+find . -type f -name '*.out' -exec rm {} +
+find . -type f -name '*.fdb_latexmk' -exec rm {} +
+find . -type f -name '*.blg' -exec rm {} +
+find . -type f -name '*.synctex.gz' -exec rm {} +
+find . -type f -name '*.DS_Store' -exec rm {} +
+find . -type f -name '*.bib' -exec rm {} +
